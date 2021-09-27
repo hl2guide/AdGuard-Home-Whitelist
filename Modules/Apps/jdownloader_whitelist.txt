@@ -1,0 +1,12 @@
+@@|*.mydns.jdownloader.org^$important
+@@|192-168-1-103.mydns.jdownloader.org^$important
+@@|api.jdownloader.org^$important
+@@|board.jdownloader.org^$important
+@@|c0a80167.mydns.jdownloader.org^$important
+@@|extensions.jdownloader.org^$important
+@@|ipcheck*.jdownloader.org^$important
+@@|jdownloader.org^$important
+@@|my.jdownloader.org^$important
+@@|support.jdownloader.org^$important
+@@|svn.jdownloader.org^$important
+@@|update*.jdownloader.org^$important

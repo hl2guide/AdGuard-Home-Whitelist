@@ -1,0 +1,12 @@
+@@|account.samsung.com.gslb.cdnetworks.net^$important
+@@|account.samsung.com^$important
+@@|api-us1.mpay.samsung.com^$important
+@@|chbusiness.samsung.com^$important
+@@|contactus.samsung.com^$important
+@@|eu.community.samsung.com^$important
+@@|frbusiness.samsung.com^$important
+@@|gear.sca.samsung.com^$important
+@@|image.samsung.com^$important
+@@|images.samsung.com^$important
+@@|music.samsung.com^$important
+@@|www.samsung.com^$important

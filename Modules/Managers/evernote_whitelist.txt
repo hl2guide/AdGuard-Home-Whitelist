@@ -1,0 +1,9 @@
+@@|api.evernote.com^$important
+@@|cdn*.evernote.com^$important
+@@|cec.svc.evernote.com^$important
+@@|evernote.com^$important
+@@|help.evernote.com^$important
+@@|m2.svc.www.evernote.com^$important
+@@|templates.svc.www.evernote.com^$important
+@@|update.evernote.com^$important
+@@|www.evernote.com^$important

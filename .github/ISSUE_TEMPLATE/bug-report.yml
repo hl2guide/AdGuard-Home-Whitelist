@@ -1,0 +1,66 @@
+name: "🐛 Bug report"
+description: "Unexpected behaviour that needs code correction"
+labels: [ "🐛 bug", "👀 evaluation" ]
+body:
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Ensure that our bug report form is appropriate for you.
+      options:
+        - label: This is not a **[duplicate](https://github.com/hl2guide/AdGuard-Home-Whitelist/issues)** of an existing issue.
+          required: true
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Description
+      description: Short explanation of what you were going to do, what did you want to accomplish?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected behaviour
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-behaviour
+    attributes:
+      label: Current behaviour
+      description: What happened instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Everything required for someone to reproduce your bug.
+      placeholder: |
+        Anything that is necessary to reproduce the bug goes in here. You can use markdown formatting to make it more easy to read.
+    validations:
+      required: true
+
+  - type: textarea
+    id: possible-solution
+    attributes:
+      label: Possible reason/solution
+      description: Not mandatory, but you can suggest a fix/reason for the bug, if known to you.
+      placeholder: |
+        If you observed something peculiar about your issue that could help us locate and fix the culprit, this is the right place.
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional information
+      description: Everything else you consider note-worthy that we didn't ask for.
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        #### Thank you for taking the time to fill out this bug report.

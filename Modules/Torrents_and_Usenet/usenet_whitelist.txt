@@ -1,0 +1,5 @@
+# Usenet
+@@|news.hitnews.com^$important
+@@|ssl.hitnews.com^$important
+@@|www.easyusenet.nl^$important
+@@|www.hitnews.com^$important

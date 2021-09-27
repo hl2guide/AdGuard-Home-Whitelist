@@ -1,0 +1,15 @@
+# @@|laptop-updates.brave.com^$important (disabled)
+# @@|variations.brave.com^$important (disabled)
+@@|brave-core-ext.s3.brave.com^$important
+@@|cdn.search.brave.com^$important
+@@|componentupdater.brave.com^$important
+@@|crlsets.brave.com^$important
+@@|go-updater.brave.com^$important
+@@|p3a.brave.com^$important
+@@|redirector.brave.com^$important
+@@|safebrowsing.brave.com^$important
+@@|search.brave.com^$important
+@@|static*.brave.com^$important
+@@|status.brave.com^$important
+@@|updates-cdn.bravesoftware.com^$important
+@@|updates.bravesoftware.com^$important

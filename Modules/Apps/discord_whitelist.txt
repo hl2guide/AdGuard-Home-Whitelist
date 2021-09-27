@@ -1,0 +1,12 @@
+@@|cdn.discordapp.com^$important
+@@|discord.com^$important
+@@|discord.gg^$important
+@@|discordapp.com^$important
+@@|gateway.discord.gg^$important
+@@|images-1.discordapp.net^$important
+@@|images-2.discordapp.net^$important
+@@|images-ext-1.discordapp.net^$important
+@@|images-ext-2.discordapp.net^$important
+@@|images.discordapp.net^$important
+@@|media.discordapp.net^$important
+@@|status.discord.com^$important

@@ -1,0 +1,17 @@
+@@|api-d.dropbox.com^$important
+@@|api.dropbox.com^$important
+@@|cfl.dropboxstatic.com^$important
+@@|client.dropbox.com^$important
+@@|consent.dropbox.com^$important
+@@|d.dropbox.com^$important
+@@|dl-web.dropbox.com^$important
+@@|dl.dropbox.com^$important
+@@|dl.dropboxusercontent.com^$important
+@@|dropbox-api.arkoselabs.com^$important
+@@|dropbox.com^$important
+@@|dropboxcaptcha.com^$important
+@@|dropboxstatic.com^$important
+@@|dropboxusercontent.com^$important
+@@|ns1.dropbox.com^$important
+@@|ns2.dropbox.com^$important
+@@|www.dropbox.com^$important

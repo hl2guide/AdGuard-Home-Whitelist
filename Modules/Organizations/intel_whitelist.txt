@@ -1,0 +1,2 @@
+@@|dsadata.intel.com^$important
+@@|www.intel.com.au^$important

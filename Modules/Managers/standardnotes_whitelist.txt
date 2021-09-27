@@ -1,0 +1,10 @@
+@@|api.standardnotes.com^$important
+@@|app.standardnotes.com^$important
+@@|dictionaries.standardnotes.org^$important
+@@|docs.standardnotes.com^$important
+@@|docs.standardnotes.org^$important
+@@|listed.standardnotes.org^$important
+@@|sockets.standardnotes.com^$important
+@@|standardnotes.com^$important
+@@|standardnotes.org^$important
+@@|sync.standardnotes.org^$important

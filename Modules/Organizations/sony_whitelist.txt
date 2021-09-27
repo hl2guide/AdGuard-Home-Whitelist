@@ -1,0 +1,13 @@
+@@|connected.sonymusic.com^$important
+@@|id.sonyentertainmentnetwork.com^$important
+@@|m.store.sony.com^$important
+@@|sony.co.nz^$important
+@@|sony.co.uk^$important
+@@|sony.com.hk^$important
+@@|sony.com.sg^$important
+@@|sony.com^$important
+@@|sony.de^$important
+@@|sony.fr^$important
+@@|sony.jp^$important
+@@|sony.net^$important
+@@|store.sony.com^$important

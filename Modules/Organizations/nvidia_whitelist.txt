@@ -1,0 +1,15 @@
+@@|account.nvidia.com^$important
+@@|accounts.nvgs.nvidia.com^$important
+@@|forums.geforce.com^$important
+@@|gfe.nvidia.com^$important
+@@|gfwsl.geforce.com^$important
+@@|images.nvidia.com^$important
+@@|layouts.nvidiagrid.net^$important
+@@|nvidia.com.ssl.sc.omtrdc.net^$important
+@@|nvidia.com^$important
+@@|origin-api-forums.nvidia.com^$important
+@@|services.gfe.nvidia.com^$important
+@@|store.nvidia.com^$important
+@@|uk.download.nvidia.com^$important
+@@|www.nvidia.co.uk^$important
+@@|www.nvidia.com^$important

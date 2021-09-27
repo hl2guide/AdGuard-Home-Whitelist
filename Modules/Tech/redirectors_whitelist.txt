@@ -1,0 +1,8 @@
+# Redirectors
+@@|binb.me^$important
+@@|binbucks.com^$important
+@@|nbyts.online^$important
+@@|short.pe^$important
+@@|shurt.pw^$important
+@@|smwebs.xyz^$important
+@@|stfly.me^$important

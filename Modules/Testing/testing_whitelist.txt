@@ -1,4 +1,4 @@
-# Testing Rules - 2022-07-17 08:55:04AM
+# Testing Rules - 2022-07-18 08:30:04PM
 
 # SOFTWARE ====================================
 
@@ -9,5 +9,9 @@
 @@|www.wix.com^$important
 
 # Tech
+@@|api.hcaptcha.com^$important
+@@|community.intel.com^$important
 @@|www.keyxl.com^$important
 
+# Media
+@@|altushost-swe.dl.sourceforge.net^$important

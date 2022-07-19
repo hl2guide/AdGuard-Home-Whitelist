@@ -18,6 +18,7 @@
 @@|anonaddy.com^$important
 @@|api.eset.com^$important
 @@|api.fosshub.com^$important
+@@|api.hcaptcha.com^$important
 @@|ark.intel.com^$important
 @@|artifacts.bitwarden.com^$important
 @@|assets.esetstatic.com^$important
@@ -28,6 +29,7 @@
 @@|cdn1.esetstatic.com^$important
 @@|cdn2.esetstatic.com^$important
 @@|cfcdn.neosmart.net^$important
+@@|community.intel.com^$important
 @@|cookie-cdn.cookiepro.com^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|deluge-torrent.org^$important
@@ -104,6 +106,7 @@
 @@|www.industry.gov.au^$important
 @@|www.intel.com^$important
 @@|www.izarc.org^$important
+@@|www.keyxl.com^$important
 @@|www.makeuseof.com^$important
 @@|www.mapper.ntppool.org^$important
 @@|www.ntp.org^$important

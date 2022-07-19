@@ -3,6 +3,7 @@
 @@|a.thumbs.redditmedia.com^$important
 @@|accounts.scdn.co^$important
 @@|accounts.spotify.com^$important
+@@|altushost-swe.dl.sourceforge.net^$important
 @@|ap.spotify.com^$important
 @@|api-partner.spotify.com^$important
 @@|api-tv.spotify.com^$important
@@ -27,6 +28,7 @@
 @@|chunk-gce-us-east1-production.cfcdn.v.rokfin.com^$important
 @@|code.videolan.org^$important
 @@|comments.odysee.tv^$important
+@@|crc.cyberlink.com^$important
 @@|cse.cyberlink.com^$important
 @@|cyberlink.com^$important
 @@|d*.7-zip.org^$important
@@ -67,6 +69,7 @@
 @@|img.production.rokfin.com^$important
 @@|imgur.com^$important
 @@|irc.libera.chat^$important
+@@|jpcloud01.powercloud.cyberlink.com^$important
 @@|libera.chat^$important
 @@|liveupdate.cyberlink.com^$important
 @@|login5.spotify.com^$important
@@ -83,6 +86,7 @@
 @@|pixel-static.spotify.com^$important
 @@|play.spotify.com^$important
 @@|player.odycdn.com^$important
+@@|powerplayer-api.cyberlink.com^$important
 @@|prod-api-v2.production.rokfin.com^$important
 @@|raindrop.onfastspring.com^$important
 @@|s.imgur.com^$important

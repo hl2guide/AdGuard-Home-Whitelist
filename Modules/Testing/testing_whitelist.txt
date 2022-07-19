@@ -1,17 +1,2 @@
-# Testing Rules - 2022-07-18 08:30:04PM
+# Testing Rules - 2022-07-19 09:09:47PM
 
-# SOFTWARE ====================================
-
-# Kingston SSD Manager
-@@|www.baidu.com^$important
-
-# DeviantArt
-@@|www.wix.com^$important
-
-# Tech
-@@|api.hcaptcha.com^$important
-@@|community.intel.com^$important
-@@|www.keyxl.com^$important
-
-# Media
-@@|altushost-swe.dl.sourceforge.net^$important

@@ -256,6 +256,7 @@
 @@|alt-images.codestream.com^$important
 @@|altap.cz^$important
 @@|alternativeto.net^$important
+@@|altushost-swe.dl.sourceforge.net^$important
 @@|amcdn.msauth.net^$important
 @@|amcdn.msftauth.net^$important
 @@|amd.com^$important
@@ -322,6 +323,7 @@
 @@|api.giphy.com^$important
 @@|api.github.com^$important
 @@|api.gog.com^$important
+@@|api.hcaptcha.com^$important
 @@|api.imgur.com^$important
 @@|api.invidious.io^$important
 @@|api.jdownloader.org^$important
@@ -916,6 +918,7 @@
 @@|community.cloudflare.steamstatic.com^$important
 @@|community.eu.playstation.com^$important
 @@|community.hulu.com^$important
+@@|community.intel.com^$important
 @@|community.jp.playstation.com^$important
 @@|community.kde.org^$important
 @@|community.playstation.com^$important
@@ -989,6 +992,7 @@
 @@|crapblock.theel0ja.info^$important
 @@|crash.steampowered.com^$important
 @@|crates.io^$important
+@@|crc.cyberlink.com^$important
 @@|creativecommons.org^$important
 @@|crl.comodoca.com^$important
 @@|crl.comodoca4.com^$important
@@ -1480,6 +1484,8 @@
 @@|fonts.intercomcdn.com^$important
 @@|fonts.podia.com^$important
 @@|fonts.service.nsw.gov.au^$important
+@@|foodhub.scene7.com^$important
+@@|foodhub.woolworths.com.au^$important
 @@|form.typeform.com^$important
 @@|forms.gle^$important
 @@|forms.office.com^$important
@@ -1954,6 +1960,7 @@
 @@|jp.playstation.com^$important
 @@|jp.pool.ntp.org^$important
 @@|jp.wikipedia.com^$important
+@@|jpcloud01.powercloud.cyberlink.com^$important
 @@|jquery.com^$important
 @@|js-agent.newrelic.com^$important
 @@|js.hcaptcha.com^$important
@@ -2643,6 +2650,7 @@
 @@|portableapps.com^$important
 @@|portablepython.com^$important
 @@|posarprodcssservice.accesscontrol.windows.net^$important
+@@|powerplayer-api.cyberlink.com^$important
 @@|powershell-release-redirect.azurewebsites.net^$important
 @@|powershellgallery.com^$important
 @@|ppa.launchpad.net^$important
@@ -3642,6 +3650,7 @@
 @@|wordpress.com^$important
 @@|wordpress.org^$important
 @@|workspace.google.com^$important
+@@|wowprodmediaaae.blob.core.windows.net^$important
 @@|ws1-n1syd.isp.foxtel.net.au^$important
 @@|ws75.aptoide.com^$important
 @@|wsappcontrol.com^$important
@@ -3781,6 +3790,7 @@
 @@|www.java.com^$important
 @@|www.jbhifi.com.au^$important
 @@|www.kde.org^$important
+@@|www.keyxl.com^$important
 @@|www.killingfloor2.com^$important
 @@|www.kmart.com.au^$important
 @@|www.kogan.com^$important

@@ -46,6 +46,8 @@
 @@|errors.client.optimizely.com^$important
 @@|f1techcomputers.com.au^$important
 @@|fonts.service.nsw.gov.au^$important
+@@|foodhub.scene7.com^$important
+@@|foodhub.woolworths.com.au^$important
 @@|google.com.au^$important
 @@|gumtree.com.au^$important
 @@|harveynorman.com.au^$important
@@ -116,6 +118,7 @@
 @@|woolworths.com.au^$important
 @@|woolworths.scene7.com^$important
 @@|woolworthsgiftcardstore.com.au^$important
+@@|wowprodmediaaae.blob.core.windows.net^$important
 @@|ws1-n1syd.isp.foxtel.net.au^$important
 @@|www.aec.gov.au^$important
 @@|www.aldi.com.au^$important

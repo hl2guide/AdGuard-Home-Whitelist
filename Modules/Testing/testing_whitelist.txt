@@ -1,2 +1,12 @@
-# Testing Rules - 2022-07-19 09:09:47PM
+# Testing Rules - 2022-07-25 06:59:15PM
 
+# Games
+@@|avatars.steamstatic.com^$important
+@@|da2.gos.ea.com^$important
+@@|eadpgs-blapp002.ea.com^$important
+@@|facesofgaming.com^$important
+# Android
+@@|ftp.fau.de^$important
+# Tech
+@@|crl.rootg2.amazontrust.com^$important
+@@|safebrowsing*.brave.com^$important

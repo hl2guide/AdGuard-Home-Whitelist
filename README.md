@@ -1,7 +1,7 @@
 # AdGuard-Home-Whitelist ✅
 
-- Current Version: 1.2.2.08
-- Last Updated (AEST): 2022-07-19 09:09:43PM
+- Current Version: 1.2.2.09
+- Last Updated (AEST): 2022-07-29 07:39:21AM
 
 ## Intro ✍
 

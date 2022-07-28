@@ -1,4 +1,4 @@
-# Testing Rules - 2022-07-25 06:59:15PM
+# Testing Rules - 2022-07-29 07:39:09AM
 
 # Games
 @@|avatars.steamstatic.com^$important
@@ -10,3 +10,6 @@
 # Tech
 @@|crl.rootg2.amazontrust.com^$important
 @@|safebrowsing*.brave.com^$important
+@@|docs.nvidia.com^$important
+# Media
+@@|update-test.videolan.org^$important

@@ -53,6 +53,7 @@ disqus-timeline.disqus.com
 dl.acronis.com
 doubleclick.net
 download.gfe.nvidia.com
+easeusinfo.us-east-1.log.aliyuncs.com
 edge.ads.twitch.tv
 edgedl.me.gvt1.com
 eff.map.fastly.net
@@ -127,6 +128,7 @@ sidecar.gitter.im
 srv.buysellads.com
 ssl.google-analytics.com
 static.doubleclick.net
+static.hotjar.com
 stats.wp.com
 statsy.net
 suggestqueries-clients6.youtube.com

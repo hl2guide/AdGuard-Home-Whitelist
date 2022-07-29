@@ -13,3 +13,15 @@
 @@|docs.nvidia.com^$important
 # Media
 @@|update-test.videolan.org^$important
+# Development
+@@|caniuse.com^$important
+@@|developer.microsoft.com^$important
+@@|www.smashingmagazine.com^$important
+@@|www.whois.com^$important
+@@|yari-demos.prod.mdn.mozit.cloud^$important
+# Private
+@@|*-ph.rdtcdn.com^$important
+@@|*.rdtcdn.com^$important
+@@|www.redtube.com^$important
+# Linux
+@@|www.qubes-os.org^$important

@@ -8,9 +8,12 @@
 # Android
 @@|ftp.fau.de^$important
 # Tech
+@@|clearurls.xyz^$important
 @@|crl.rootg2.amazontrust.com^$important
-@@|safebrowsing*.brave.com^$important
+@@|discord-attachments-uploads-prd.storage.googleapis.com^$important
+@@|docs.clearurls.xyz^$important
 @@|docs.nvidia.com^$important
+@@|safebrowsing*.brave.com^$important
 # Media
 @@|update-test.videolan.org^$important
 # Development

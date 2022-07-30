@@ -39,6 +39,7 @@
 @@|autopatch.juno.ea.com^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.cloudflare.steamstatic.com^$important
+@@|avatars.steamstatic.com^$important
 @@|banprocessor.svc.halowaypoint.com^$important
 @@|battle.net^$important
 @@|bethesda.net^$important
@@ -111,6 +112,7 @@
 @@|coturn.hw-usw01-prod.halowaypoint.com^$important
 @@|counter-strike.net^$important
 @@|crash.steampowered.com^$important
+@@|da2.gos.ea.com^$important
 @@|data*.origin.com^$important
 @@|data.nexusmods.com^$important
 @@|datarouter-prod.ak.epicgames.com^$important
@@ -129,6 +131,7 @@
 @@|download.epicgames.com^$important
 @@|ea.com^$important
 @@|eacommerce.akamaized.net^$important
+@@|eadpgs-blapp002.ea.com^$important
 @@|ecom-cdn.ubi.com^$important
 @@|ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@|economy.svc.halowaypoint.com^$important
@@ -150,6 +153,7 @@
 @@|eus-streaming-video-rt-microsoft-com.akamaized.net^$important
 @@|external-offer-mapping-service.juno.ea.com^$important
 @@|f4se.silverlock.org^$important
+@@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
 @@|fandom.com^$important
 @@|fellowship.services.gearboxsoftware.com^$important

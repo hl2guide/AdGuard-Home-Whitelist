@@ -29,15 +29,20 @@
 @@|cdn1.esetstatic.com^$important
 @@|cdn2.esetstatic.com^$important
 @@|cfcdn.neosmart.net^$important
+@@|clearurls.xyz^$important
 @@|community.intel.com^$important
 @@|cookie-cdn.cookiepro.com^$important
+@@|crl.rootg2.amazontrust.com^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|deluge-torrent.org^$important
 @@|deluge.readthedocs.io^$important
 @@|deploy.windscribe.com^$important
 @@|dev.deluge-torrent.org^$important
+@@|discord-attachments-uploads-prd.storage.googleapis.com^$important
 @@|dl.acronis.com^$important
 @@|dl3.cdn.filezilla-project.org^$important
+@@|docs.clearurls.xyz^$important
+@@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
 @@|download.fosshub.com^$important
 @@|download.onlyoffice.com^$important
@@ -48,6 +53,7 @@
 @@|filezilla-project.org^$important
 @@|forum.palemoon.org^$important
 @@|forums.tomsguide.com^$important
+@@|ftp.fau.de^$important
 @@|gateway.userstyles.org^$important
 @@|help.duckduckgo.com^$important
 @@|images.easeus.com^$important
@@ -69,6 +75,7 @@
 @@|rm-eu.palemoon.org^$important
 @@|rufus.akeo.ie^$important
 @@|rufus.ie^$important
+@@|safebrowsing*.brave.com^$important
 @@|security.cloudflare-dns.com^$important
 @@|sfederation.intel.com^$important
 @@|shell.windows.com^$important

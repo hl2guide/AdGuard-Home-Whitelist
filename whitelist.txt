@@ -12,6 +12,7 @@
 @@|*-glb-bps-loginqueue.p76prod.systems^$important
 @@|*-glb-bps-pushy.p76prod.systems^$important
 @@|*-ibm-r*.teamviewer.com^$important
+@@|*-ph.rdtcdn.com^$important
 @@|*-premium.nexus-cdn.com^$important
 @@|*-prod-prodpc01-glb-bps-bigateway.p76prod.systems^$important
 @@|*-prod-prodpc01-reg-httpping.p76prod.systems^$important
@@ -77,6 +78,7 @@
 @@|*.prod.do.dsp.mp.microsoft.com^$important
 @@|*.proxy.yewtu.be^$important
 @@|*.pwdn.net^$important
+@@|*.rdtcdn.com^$important
 @@|*.services.gearboxsoftware.com^$important
 @@|*.settings.live.net^$important
 @@|*.smartscreen-prod.microsoft.com^$important
@@ -504,6 +506,7 @@
 @@|avatars.cloudflare.steamstatic.com^$important
 @@|avatars.discourse-cdn.com^$important
 @@|avatars.githubusercontent.com^$important
+@@|avatars.steamstatic.com^$important
 @@|avatars0.githubusercontent.com^$important
 @@|avatars1.githubusercontent.com^$important
 @@|avatars2.githubusercontent.com^$important
@@ -678,6 +681,7 @@
 @@|calendar.protonmail.com^$important
 @@|calendars.fe.apple-dns.net^$important
 @@|camo.githubusercontent.com^$important
+@@|caniuse.com^$important
 @@|canonical-bos01.cdn.snapcraftcontent.com^$important
 @@|canvas-cdn-prod.azureedge.net^$important
 @@|captcha.website^$important
@@ -696,6 +700,7 @@
 @@|cdimage.debian.org^$important
 @@|cdimage.deepin.com^$important
 @@|cdn*-pic.xvideos-cdn.com^$important
+@@|cdn*-vid-mp4.xvideos-cdn.com^$important
 @@|cdn*-vid.xvideos-cdn.com^$important
 @@|cdn*.appwork.org^$important
 @@|cdn*.aptoide.com^$important
@@ -858,6 +863,7 @@
 @@|cinnamon-spices.linuxmint.com^$important
 @@|ciscobinary.openh264.org^$important
 @@|clearlinux.org^$important
+@@|clearurls.xyz^$important
 @@|cli.speedtest.net^$important
 @@|client-api.arkoselabs.com^$important
 @@|client-download.steampowered.com^$important
@@ -1002,6 +1008,7 @@
 @@|crl.identrust.com^$important
 @@|crl.microsoft.com^$important
 @@|crl.pki.goog^$important
+@@|crl.rootg2.amazontrust.com^$important
 @@|crl.sca1b.amazontrust.com^$important
 @@|crl.starfieldtech.com^$important
 @@|crl.thawte.com^$important
@@ -1042,6 +1049,7 @@
 @@|d2nvs31859zcd8.cloudfront.net^$important
 @@|d3aqoihi2n8ty8.cloudfront.net^$important
 @@|da.xboxservices.com^$important
+@@|da2.gos.ea.com^$important
 @@|daftsex.com^$important
 @@|daisy.ubuntu.com^$important
 @@|dash.cloudflare.com^$important
@@ -1107,6 +1115,7 @@
 @@|devblogs.microsoft.com^$important
 @@|developer.apple.com^$important
 @@|developer.github.com^$important
+@@|developer.microsoft.com^$important
 @@|developer.mozilla.org^$important
 @@|developer.nvidia.com^$important
 @@|developer.soundcloud.com^$important
@@ -1131,6 +1140,7 @@
 @@|directory.soundcloud.com^$important
 @@|directory.vimeo.com^$important
 @@|dirtybits.api.origin.com^$important
+@@|discord-attachments-uploads-prd.storage.googleapis.com^$important
 @@|discord.com^$important
 @@|discord.gg^$important
 @@|discordapp.com^$important
@@ -1182,6 +1192,7 @@
 @@|doc.opensuse.org^$important
 @@|doclone.nongnu.org^$important
 @@|docs.chocolatey.org^$important
+@@|docs.clearurls.xyz^$important
 @@|docs.dbhub.io^$important
 @@|docs.fedoraproject.org^$important
 @@|docs.freebsd.org^$important
@@ -1192,6 +1203,7 @@
 @@|docs.live.net^$important
 @@|docs.microsoft.com^$important
 @@|docs.npmjs.com^$important
+@@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
 @@|docs.picotorrent.org^$important
 @@|docs.playstation.com^$important
@@ -1286,6 +1298,7 @@
 @@|ea.com^$important
 @@|eaassets-a.akamaihd.net^$important
 @@|eacommerce.akamaized.net^$important
+@@|eadpgs-blapp002.ea.com^$important
 @@|earth-pa.clients6.google.com^$important
 @@|earth.google.com^$important
 @@|easyanticheat.net^$important
@@ -1319,6 +1332,7 @@
 @@|elections.nsw.gov.au^$important
 @@|electronjs.org^$important
 @@|elementary.io^$important
+@@|elixir-lang.org^$important
 @@|elm-lang.org^$important
 @@|email-assets.soundcloud.com^$important
 @@|email2.gog.com^$important
@@ -1414,6 +1428,7 @@
 @@|f.hubspotusercontent40.net^$important
 @@|f.vimeocdn.com^$important
 @@|f1techcomputers.com.au^$important
+@@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
 @@|fan.twitch.tv^$important
 @@|fanboy.co.nz^$important
@@ -1572,6 +1587,7 @@
 @@|ftp.cdnrobot.xyz^$important
 @@|ftp.chocolatey.org^$important
 @@|ftp.de.debian.org^$important
+@@|ftp.fau.de^$important
 @@|ftp.halifax.rwth-aachen.de^$important
 @@|ftp.heanet.ie^$important
 @@|ftp.iinet.net.au^$important
@@ -1752,6 +1768,7 @@
 @@|hitnews.com^$important
 @@|hk.mirrors.thegigabit.com^$important
 @@|hk.pool.ntp.org^$important
+@@|hls*.xvideos-cdn.com^$important
 @@|hls-hw.xvideos-cdn.com^$important
 @@|hls1-l3.xvideos-cdn.com^$important
 @@|hnd.stats.paypal.com^$important
@@ -1966,6 +1983,7 @@
 @@|js.hcaptcha.com^$important
 @@|js.live.net^$important
 @@|js.stripe.com^$important
+@@|julialang.org^$important
 @@|juno-error-reporter-prod-junoerrorreporters*.s3.amazonaws.com^$important
 @@|k-ring.msedge.net^$important
 @@|k2s.cc^$important
@@ -2764,6 +2782,8 @@
 @@|rdl.ink^$important
 @@|reader.usenet.agency^$important
 @@|readthedocs.org^$important
+@@|reblock.vercel.app^$important
+@@|reblock.vercel.app^$important
 @@|recaptcha.net^$important
 @@|reco-public.rec.mp.microsoft.com^$important
 @@|redcross.org^$important
@@ -2851,6 +2871,7 @@
 @@|s7ap1.scene7.com^$important
 @@|s82i.app.link^$important
 @@|sabnzbd.org^$important
+@@|safebrowsing*.brave.com^$important
 @@|safebrowsing.brave.com^$important
 @@|safebrowsing.googleapis.com^$important
 @@|salesforce.com^$important
@@ -3465,6 +3486,8 @@
 @@|upchk.api.playstation.com^$important
 @@|update*.jdownloader.org^$important
 @@|update*.oo-software.com^$important
+@@|update-test.videolan.org^$important
+@@|update-test.videolan.org^$important
 @@|update.appwork.org^$important
 @@|update.bitsum.com^$important
 @@|update.code.visualstudio.com^$important
@@ -3872,6 +3895,7 @@
 @@|www.qemu.org^$important
 @@|www.qt.io^$important
 @@|www.quad9.net^$important
+@@|www.qubes-os.org^$important
 @@|www.qwant.com^$important
 @@|www.rapidee.com^$important
 @@|www.rarbgmirror.org^$important
@@ -3879,6 +3903,7 @@
 @@|www.recaptcha.net^$important
 @@|www.reddit.com^$important
 @@|www.redditstatic.com^$important
+@@|www.redtube.com^$important
 @@|www.rokfin.com^$important
 @@|www.ruby-lang.org^$important
 @@|www.rust-lang.org^$important
@@ -3887,6 +3912,7 @@
 @@|www.scdn.co^$important
 @@|www.scorptec.com.au^$important
 @@|www.service.nsw.gov.au^$important
+@@|www.smashingmagazine.com^$important
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important
 @@|www.speedtest.net^$important
@@ -3927,6 +3953,7 @@
 @@|www.warframe.com^$important
 @@|www.westfield.com.au^$important
 @@|www.wheniscriticalrole.com^$important
+@@|www.whois.com^$important
 @@|www.wikihow.com^$important
 @@|www.wilderssecurity.com^$important
 @@|www.windowscentral.com^$important
@@ -3977,6 +4004,7 @@
 @@|xvideos.com^$important
 @@|xxx-image.com^$important
 @@|yahoo.com^$important
+@@|yari-demos.prod.mdn.mozit.cloud^$important
 @@|yelp.com^$important
 @@|yewtu.be^$important
 @@|yimg.com^$important

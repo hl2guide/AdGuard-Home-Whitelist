@@ -316,6 +316,7 @@
 @@|www.opensuse.org^$important
 @@|www.partimage.org^$important
 @@|www.qemu.org^$important
+@@|www.qubes-os.org^$important
 @@|www.ubuntupit.com^$important
 @@|www.virtualbox.org^$important
 @@|zorin.com^$important

@@ -18,6 +18,7 @@
 @@|avatars3.githubusercontent.com^$important
 @@|bugs.python.org^$important
 @@|camo.githubusercontent.com^$important
+@@|caniuse.com^$important
 @@|cdn.auth0.com^$important
 @@|cdn.eu.auth0.com^$important
 @@|cdn.rawgit.com^$important
@@ -39,6 +40,7 @@
 @@|desktop.githubusercontent.com^$important
 @@|dev.java^$important
 @@|developer.github.com^$important
+@@|developer.microsoft.com^$important
 @@|developer.nvidia.com^$important
 @@|docs.dbhub.io^$important
 @@|docs.github.com^$important
@@ -50,6 +52,7 @@
 @@|downloads.apache.org^$important
 @@|education.github.com^$important
 @@|electronjs.org^$important
+@@|elixir-lang.org^$important
 @@|events-feed.github.com^$important
 @@|fdroid.gitlab.io^$important
 @@|filtersadguard.b-cdn.net^$important
@@ -93,6 +96,7 @@
 @@|java.com^$important
 @@|javadl-esd-secure.oracle.com^$important
 @@|javadl.oracle.com^$important
+@@|julialang.org^$important
 @@|knowledgebase.macrium.com^$important
 @@|librewolf-community.gitlab.io^$important
 @@|linustechtips.com^$important
@@ -180,6 +184,9 @@
 @@|www.qt.io^$important
 @@|www.ruby-lang.org^$important
 @@|www.rust-lang.org^$important
+@@|www.smashingmagazine.com^$important
 @@|www.sqlite.org^$important
+@@|www.whois.com^$important
 @@|www.wilderssecurity.com^$important
 @@|xamarinstorage.blob.core.windows.net^$important
+@@|yari-demos.prod.mdn.mozit.cloud^$important

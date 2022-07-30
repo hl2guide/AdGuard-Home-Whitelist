@@ -89,6 +89,7 @@
 @@|powerplayer-api.cyberlink.com^$important
 @@|prod-api-v2.production.rokfin.com^$important
 @@|raindrop.onfastspring.com^$important
+@@|reblock.vercel.app^$important
 @@|s.imgur.com^$important
 @@|script.wikia.nocookie.net^$important
 @@|secure.rokfin.com^$important
@@ -104,6 +105,7 @@
 @@|th.wallhaven.cc^$important
 @@|thumbnails.odycdn.com^$important
 @@|tv.youtube.com^$important
+@@|update-test.videolan.org^$important
 @@|update.cyberlink.com^$important
 @@|vlc-bluray.whoknowsmy.name^$important
 @@|w.wallhaven.cc^$important

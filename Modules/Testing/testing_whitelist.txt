@@ -1,30 +1,3 @@
-# Testing Rules - 2022-07-29 07:39:09AM
+# Testing Rules - 2022-07-31 06:56:21AM
 
-# Games
-@@|avatars.steamstatic.com^$important
-@@|da2.gos.ea.com^$important
-@@|eadpgs-blapp002.ea.com^$important
-@@|facesofgaming.com^$important
-# Android
-@@|ftp.fau.de^$important
-# Tech
-@@|clearurls.xyz^$important
-@@|crl.rootg2.amazontrust.com^$important
-@@|discord-attachments-uploads-prd.storage.googleapis.com^$important
-@@|docs.clearurls.xyz^$important
-@@|docs.nvidia.com^$important
-@@|safebrowsing*.brave.com^$important
-# Media
-@@|update-test.videolan.org^$important
-# Development
-@@|caniuse.com^$important
-@@|developer.microsoft.com^$important
-@@|www.smashingmagazine.com^$important
-@@|www.whois.com^$important
-@@|yari-demos.prod.mdn.mozit.cloud^$important
-# Private
-@@|*-ph.rdtcdn.com^$important
-@@|*.rdtcdn.com^$important
-@@|www.redtube.com^$important
-# Linux
-@@|www.qubes-os.org^$important
+# Merged Recent

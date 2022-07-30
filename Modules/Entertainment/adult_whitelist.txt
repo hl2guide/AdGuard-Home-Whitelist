@@ -1,6 +1,8 @@
 @@|*-cdn.eporner.com^$important
+@@|*-ph.rdtcdn.com^$important
 @@|*.cdntrex.com^$important
 @@|*.phncdn.com^$important
+@@|*.rdtcdn.com^$important
 @@|0xxx.ws^$important
 @@|adult.com^$important
 @@|albums1.cdntrex.com^$important
@@ -10,6 +12,7 @@
 @@|babesource.com^$important
 @@|bella.porntrex.com^$important
 @@|cdn*-pic.xvideos-cdn.com^$important
+@@|cdn*-vid-mp4.xvideos-cdn.com^$important
 @@|cdn*-vid.xvideos-cdn.com^$important
 @@|cdn-*.pornone.com^$important
 @@|cdn-pics.pornhd.com^$important
@@ -29,6 +32,7 @@
 @@|freeones.com^$important
 @@|freeones.xxx^$important
 @@|gold.xhamsterpremium.com^$important
+@@|hls*.xvideos-cdn.com^$important
 @@|hls-hw.xvideos-cdn.com^$important
 @@|hls1-l3.xvideos-cdn.com^$important
 @@|hotpornfile.disqus.com^$important
@@ -81,6 +85,7 @@
 @@|www.hotpornfile.org^$important
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
+@@|www.redtube.com^$important
 @@|www.sxyprn.net^$important
 @@|www.xvideos.com^$important
 @@|xhamster.com^$important

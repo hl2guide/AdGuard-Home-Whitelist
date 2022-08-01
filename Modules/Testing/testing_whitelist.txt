@@ -1,3 +1,17 @@
-# Testing Rules - 2022-07-31 06:56:21AM
+# Testing Rules - 2022-08-02 09:09:26AM
 
-# Merged Recent
+# Tech
+@@|api.westerndigital.com^$important
+@@|static.sandisk.com^$important
+@@|support-en.wd.com^$important
+@@|support.wdc.com^$important
+@@|toshiba.semicon-storage.com^$important
+@@|www.seagate.com^$important
+@@|www.toshiba-storage.com^$important
+@@|www.toshiba.com^$important
+@@|www.westerndigital.com^$important
+# Development
+@@|jsfiddle.net^$important
+@@|ohmyposh.dev^$important
+@@|www.nerdfonts.com^$important
+@@|www.programmingfonts.org^$important

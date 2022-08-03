@@ -23,10 +23,7 @@ They are also now "incorporated in Switzerland to guarantee privacy for global D
 I use:
 
 ```
-tls://dns.quad9.net
 https://dns.quad9.net/dns-query
-tls://security.cloudflare-dns.com
-https://security.cloudflare-dns.com/dns-query
 ```
 
 ### Bootstrap DNS servers 🥾

@@ -1,4 +1,4 @@
-# Testing Rules - 2022-08-02 09:09:26AM
+# Testing Rules - 2022-08-04 01:51:31AM
 
 # Tech
 @@|api.westerndigital.com^$important
@@ -15,3 +15,10 @@
 @@|ohmyposh.dev^$important
 @@|www.nerdfonts.com^$important
 @@|www.programmingfonts.org^$important
+# Tech
+@@|au.pcpartpicker.com^$important
+@@|cdna.pcpartpicker.com^$important
+@@|dl*.cdn.filezilla-project.org^$important
+# Video
+@@|global.poe.live-video.net^$important
+@@|panels.twitch.tv^$important

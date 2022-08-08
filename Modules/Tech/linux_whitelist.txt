@@ -163,6 +163,7 @@
 @@|ipapi.co^$important
 @@|kazooie.canonical.com^$important
 @@|kr-mirror.chaotic.cx^$important
+@@|launchpad.net^$important
 @@|linuxconfig.org^$important
 @@|linuxhint.com^$important
 @@|linuxmint-installation-guide.readthedocs.io^$important
@@ -174,6 +175,7 @@
 @@|manjaro.mirrors.theom.nz^$important
 @@|manjaro.org^$important
 @@|manpages.debian.org^$important
+@@|manpages.ubuntu.com^$important
 @@|metadata.ftp-master.debian.org^$important
 @@|mirror-hk.koddos.net^$important
 @@|mirror.1000mbps.com^$important

@@ -62,6 +62,7 @@
 @@|sara.cdntrex.com^$important
 @@|sofia.cdntrex.com^$important
 @@|spankbang.com^$important
+@@|srv*.zload.cc^$important
 @@|static-*-cdn.eporner.com^$important
 @@|static-*.xvideos-cdn.com^$important
 @@|static-lvlt.xhcdn.com^$important
@@ -77,6 +78,7 @@
 @@|video.xhcdn.com^$important
 @@|vipergirls.to^$important
 @@|vporn.com^$important
+@@|watchporn.to^$important
 @@|whstatics.cdntrex.com^$important
 @@|www.camwhoresbay.com^$important
 @@|www.eporner.com^$important

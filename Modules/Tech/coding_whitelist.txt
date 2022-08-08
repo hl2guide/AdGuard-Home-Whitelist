@@ -96,6 +96,7 @@
 @@|java.com^$important
 @@|javadl-esd-secure.oracle.com^$important
 @@|javadl.oracle.com^$important
+@@|jsfiddle.net^$important
 @@|julialang.org^$important
 @@|knowledgebase.macrium.com^$important
 @@|librewolf-community.gitlab.io^$important
@@ -117,6 +118,7 @@
 @@|oauth.accounts.firefox.com^$important
 @@|objects-origin.githubusercontent.com^$important
 @@|objects.githubusercontent.com^$important
+@@|ohmyposh.dev^$important
 @@|oppen.digital^$important
 @@|packaging.python.org^$important
 @@|pages.github.com^$important
@@ -176,9 +178,11 @@
 @@|www.github.developerdan.com^$important
 @@|www.heidisql.com^$important
 @@|www.java.com^$important
+@@|www.nerdfonts.com^$important
 @@|www.npmjs.com^$important
 @@|www.php.net^$important
 @@|www.pling.com^$important
+@@|www.programmingfonts.org^$important
 @@|www.python.org^$important
 @@|www.pythonanywhere.com^$important
 @@|www.qt.io^$important

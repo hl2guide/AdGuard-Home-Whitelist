@@ -173,6 +173,7 @@
 @@|account-public-service-prod03.ol.epicgames.com^$important
 @@|account.acronis.com^$important
 @@|account.adguard.com^$important
+@@|account.cdn.ubisoft.com^$important
 @@|account.live.com^$important
 @@|account.microsoft.com^$important
 @@|account.np.ac.playstation.net.edgekey.net^$important
@@ -277,9 +278,10 @@
 @@|aoe-api.reliclink.com^$important
 @@|aoe.ms^$important
 @@|aomeitech.com^$important
-@@|ap.edge.kernel.org^$important
+@@|ap-southeast-2-storm.ubi.com^$important
 @@|ap.edge.kernel.org^$important
 @@|ap.spotify.com^$important
+@@|apac-storm.ubi.com^$important
 @@|apache.org^$important
 @@|api*.origin.com^$important
 @@|api-auth.soundcloud.com^$important
@@ -349,6 +351,7 @@
 @@|api.odysee.com^$important
 @@|api.odysee.live^$important
 @@|api.onedrive.com^$important
+@@|api.opencritic.com^$important
 @@|api.opensubtitles.org^$important
 @@|api.paypal.com^$important
 @@|api.picotorrent.org^$important
@@ -372,6 +375,7 @@
 @@|api.vimeo.com^$important
 @@|api.warframe.com^$important
 @@|api.weather.com^$important
+@@|api.westerndigital.com^$important
 @@|api.windscribe.com^$important
 @@|api.winstall.app^$important
 @@|api.xda-developers.com^$important
@@ -472,6 +476,7 @@
 @@|au-syd-anx-r*.teamviewer.com^$important
 @@|au.archive.ubuntu.com^$important
 @@|au.download.windowsupdate.com^$important
+@@|au.pcpartpicker.com^$important
 @@|au.playstation.com^$important
 @@|au.pool.ntp.org^$important
 @@|au.v4.download.windowsupdate.com^$important
@@ -654,6 +659,7 @@
 @@|c.degoo.info^$important
 @@|c.degoo.io^$important
 @@|c.degoo.media^$important
+@@|c.opencritic.com^$important
 @@|c.oracleinfinity.io^$important
 @@|c.paypal.com^$important
 @@|c.ptgncdn.com^$important
@@ -797,6 +803,7 @@
 @@|cdn57.androidauthority.net^$important
 @@|cdn7.appwork.org^$important
 @@|cdn77-vid.xvideos-cdn.com^$important
+@@|cdna.pcpartpicker.com^$important
 @@|cdne.gearsofwar.xbox.com^$important
 @@|cdnjs.cloudflare.com^$important
 @@|cdnp*.stackassets.com^$important
@@ -818,6 +825,7 @@
 @@|cfos-blog.de^$important
 @@|cfos.de^$important
 @@|cha1.speedtest.telstra.net^$important
+@@|challenges.cdn.ubisoft.com^$important
 @@|change.org^$important
 @@|changelog.m7g.twitch.tv^$important
 @@|changelogs.ubuntu.com^$important
@@ -826,6 +834,7 @@
 @@|chart.googleapis.com^$important
 @@|chat-1-client-s1-prod.services.gearboxsoftware.com^$important
 @@|chat-dl.google.com^$important
+@@|chat.cdn.ubisoft.com^$important
 @@|chat.google.com^$important
 @@|chat.pop-os.org^$important
 @@|chat.xboxlive.com^$important
@@ -870,6 +879,7 @@
 @@|client-api.arkoselabs.com^$important
 @@|client-download.steampowered.com^$important
 @@|client-event-reporter.twitch.tv^$important
+@@|client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|client-s.gateway.messenger.live.com^$important
 @@|client-strings.xboxlive.com^$important
 @@|client.dropbox.com^$important
@@ -899,6 +909,7 @@
 @@|clubhub.xboxlive.com^$important
 @@|cluster.awmdelivery.com^$important
 @@|cm*.cm.steampowered.com^$important
+@@|cms-cache.ubisoft.com^$important
 @@|cnstrc.com^$important
 @@|code.cdn.mozilla.net^$important
 @@|code.getmdl.io^$important
@@ -1167,6 +1178,7 @@
 @@|distribute.kde.org^$important
 @@|distrochooser.de^$important
 @@|distrowatch.com^$important
+@@|dl*.cdn.filezilla-project.org^$important
 @@|dl*.oo-software.com^$important
 @@|dl-asset.cyberlink.com^$important
 @@|dl-file.cyberlink.com^$important
@@ -1351,6 +1363,7 @@
 @@|embed.spotify.com^$important
 @@|embed.twitch.tv^$important
 @@|emdl.ws.microsoft.com^$important
+@@|emea-storm.ubi.com^$important
 @@|emea01.safelinks.protection.outlook.com^$important
 @@|emerald.xboxservices.com^$important
 @@|ems-delivery.api.playstation.com^$important
@@ -1386,6 +1399,7 @@
 @@|epix.xbox.com^$important
 @@|epl.paypal-communication.com^$important
 @@|eplists.xboxlive.com^$important
+@@|er.dm.origin.com^$important
 @@|error-reporter.juno.ea.com^$important
 @@|errors.client.optimizely.com^$important
 @@|es-mx.twitch.tv^$important
@@ -1456,23 +1470,18 @@
 @@|fedora-secondary.mirror.liquidtelecom.com^$important
 @@|fedora.c3sl.ufpr.br^$important
 @@|fedora.cu.be^$important
-@@|fedora.cu.be^$important
-@@|fedora.ip-connect.info^$important
 @@|fedora.ip-connect.info^$important
 @@|fedora.ipacct.com^$important
 @@|fedora.is^$important
 @@|fedora.mirror.angkasa.id^$important
 @@|fedora.mirror.constant.com^$important
-@@|fedora.mirror.constant.com^$important
 @@|fedora.mirror.crucial.com.au^$important
-@@|fedora.mirror.digitalpacific.com.au^$important
 @@|fedora.mirror.digitalpacific.com.au^$important
 @@|fedora.mirror.gtcomm.net^$important
 @@|fedora.mirror.iweb.com^$important
 @@|fedora.mirror.liquidtelecom.com^$important
 @@|fedora.mirror.root.lu^$important
 @@|fedora.mirror.wearetriple.com^$important
-@@|fedora.mirrorservice.org^$important
 @@|fedora.mirrorservice.org^$important
 @@|fedora.tu-chemnitz.de^$important
 @@|fedoraproject.org^$important
@@ -1601,12 +1610,12 @@
 @@|free.hitnews.com^$important
 @@|free.kaspersky.com^$important
 @@|free.nchc.org.tw^$important
-@@|free.nchc.org.tw^$important
 @@|freeones.com^$important
 @@|freeones.xxx^$important
 @@|freetime.mikeconnelly.com^
 @@|freetubeapp.io^$important
 @@|friend-list-view.us.np.communication.playstation.net^$important
+@@|friends-list.cdn.ubisoft.com^$important
 @@|friends-public-service-prod.ak.epicgames.com^$important
 @@|friends-public-service-prod06.ol.epicgames.com^$important
 @@|friends.gs.ea.com^$important
@@ -1621,12 +1630,9 @@
 @@|ftp-nyc.osuosl.org^$important
 @@|ftp-osl.osuosl.org^$important
 @@|ftp-stud.hs-esslingen.de^$important
-@@|ftp-stud.hs-esslingen.de^$important
-@@|ftp.acc.umu.se^$important
 @@|ftp.acc.umu.se^$important
 @@|ftp.belnet.be^$important
 @@|ftp.byfly.by^$important
-@@|ftp.cc.uoc.gr^$important
 @@|ftp.cc.uoc.gr^$important
 @@|ftp.cdnrobot.xyz^$important
 @@|ftp.chocolatey.org^$important
@@ -1636,22 +1642,14 @@
 @@|ftp.de.debian.org^$important
 @@|ftp.dei.uc.pt^$important
 @@|ftp.fau.de^$important
-@@|ftp.fau.de^$important
-@@|ftp.fau.de^$important
 @@|ftp.fi.muni.cz^$important
 @@|ftp.fsn.hu^$important
 @@|ftp.funet.fi^$important
 @@|ftp.halifax.rwth-aachen.de^$important
-@@|ftp.halifax.rwth-aachen.de^$important
-@@|ftp.halifax.rwth-aachen.de^$important
 @@|ftp.harukasan.org^$important
-@@|ftp.heanet.ie^$important
 @@|ftp.heanet.ie^$important
 @@|ftp.icm.edu.pl^$important
 @@|ftp.iij.ad.jp^$important
-@@|ftp.iij.ad.jp^$important
-@@|ftp.iinet.net.au^$important
-@@|ftp.iinet.net.au^$important
 @@|ftp.iinet.net.au^$important
 @@|ftp.jaist.ac.jp^$important
 @@|ftp.kaist.ac.kr^$important
@@ -1666,10 +1664,8 @@
 @@|ftp.otenet.gr^$important
 @@|ftp.plusline.net^$important
 @@|ftp.riken.jp^$important
-@@|ftp.riken.jp^$important
 @@|ftp.sh.cvut.cz^$important
 @@|ftp.snt.utwente.nl^$important
-@@|ftp.swin.edu.au^$important
 @@|ftp.swin.edu.au^$important
 @@|ftp.tudelft.nl^$important
 @@|ftp.u-picardie.fr^$important
@@ -1677,7 +1673,6 @@
 @@|ftp.udl.es^$important
 @@|ftp.uma.es^$important
 @@|ftp.uni-bayreuth.de^$important
-@@|ftp.uni-kl.de^$important
 @@|ftp.uni-kl.de^$important
 @@|ftp.uni-stuttgart.de^$important
 @@|ftp.upjs.sk^$important
@@ -1693,9 +1688,12 @@
 @@|gae2-dealer.spotify.com^$important
 @@|gae2-spclient.spotify.com^$important
 @@|galleryn*.awemdia.com^$important
+@@|game-page.cdn.ubisoft.com^$important
 @@|gameclipscontent-*.xboxlive.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
+@@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
+@@|gamer-profile.cdn.ubisoft.com^$important
 @@|gamercard.xbox.com^$important
 @@|gameserverds.xboxlive.com^$important
 @@|gaminglppc.azurefd.net^$important
@@ -1759,6 +1757,7 @@
 @@|gitlab.gnome.org^$important
 @@|glass.twitch.tv^$important
 @@|glb.paypal.com^$important
+@@|global.poe.live-video.net^$important
 @@|globalupload.io^$important
 @@|gmail.com^$important
 @@|gmail.google.com^$important
@@ -1831,6 +1830,7 @@
 @@|heartbeat.dm.origin.com^$important
 @@|help-assets.soundcloud.com^$important
 @@|help.bitwarden.com^$important
+@@|help.cdn.ubisoft.com^$important
 @@|help.codesector.com^$important
 @@|help.cyberlink.com^$important
 @@|help.duckduckgo.com^$important
@@ -1854,7 +1854,6 @@
 @@|hidefile.ml^$important
 @@|history.paypal.com^$important
 @@|hitnews.com^$important
-@@|hk.mirrors.thegigabit.com^$important
 @@|hk.mirrors.thegigabit.com^$important
 @@|hk.pool.ntp.org^$important
 @@|hkg.mirror.rackspace.com^$important
@@ -2000,8 +1999,10 @@
 @@|inbox.google.com^$important
 @@|index.kaspersky.com^$important
 @@|inferno.demonoid.is^$important
+@@|info.social.ea.com^$important
 @@|ing.com.au^$important
 @@|ingame-news.ubi.com^$important
+@@|ingame-store.cdn.ubisoft.com^$important
 @@|ingest.twitch.tv^$important
 @@|inoreader.com^$important
 @@|input.mozilla.org^$important
@@ -2076,6 +2077,7 @@
 @@|js.hcaptcha.com^$important
 @@|js.live.net^$important
 @@|js.stripe.com^$important
+@@|jsfiddle.net^$important
 @@|julialang.org^$important
 @@|juno-error-reporter-prod-junoerrorreporters*.s3.amazonaws.com^$important
 @@|k-ring.msedge.net^$important
@@ -2092,6 +2094,7 @@
 @@|kde.org^$important
 @@|kdeconnect.kde.org^$important
 @@|keep.google.com^$important
+@@|key-activation.cdn.ubisoft.com^$important
 @@|keystone.mwbsys.com^$important
 @@|kh.google.com^$important
 @@|kiboke-studio.hr^$important
@@ -2114,6 +2117,7 @@
 @@|lastpass.com^$important
 @@|launcher-public-service-prod*.ol.epicgames.com^$important
 @@|launcher.store.epicgames.com^$important
+@@|launchpad.net^$important
 @@|layouts.nvidiagrid.net^$important
 @@|lea.cdntrex.com^$important
 @@|leaderboards.xboxlive.com^$important
@@ -2156,7 +2160,6 @@
 @@|linus.iyte.edu.tr^$important
 @@|linustechtips.com^$important
 @@|linux.yz.yamagata-u.ac.jp^$important
-@@|linux.yz.yamagata-u.ac.jp^$important
 @@|linuxconfig.org^$important
 @@|linuxhint.com^$important
 @@|linuxmint-installation-guide.readthedocs.io^$important
@@ -2172,6 +2175,7 @@
 @@|live-arn.twitch.tv^$important
 @@|live-cdg.twitch.tv^$important
 @@|live-dfw.twitch.tv^$important
+@@|live-feed.cdn.ubisoft.com^$important
 @@|live-fra.twitch.tv^$important
 @@|live-gru.twitch.tv^$important
 @@|live-hel.twitch.tv^$important
@@ -2215,6 +2219,7 @@
 @@|lu.api.mega.co.nz^$important
 @@|lutris.net^$important
 @@|lv.wikipedia.com^$important
+@@|lvlt.cdn.ea.com^$important
 @@|m.alibaba.com^$important
 @@|m.aliexpress.com^$important
 @@|m.audible.com^$important
@@ -2261,6 +2266,7 @@
 @@|manjaro.mirrors.theom.nz^$important
 @@|manjaro.org^$important
 @@|manpages.debian.org^$important
+@@|manpages.ubuntu.com^$important
 @@|mapbox.com^$important
 @@|maps.google.com.au^$important
 @@|maps.google.com^$important
@@ -2338,13 +2344,9 @@
 @@|mirror.0x.sg^$important
 @@|mirror.1000mbps.com^$important
 @@|mirror.2degrees.nz^$important
-@@|mirror.2degrees.nz^$important
-@@|mirror.aarnet.edu.au^$important
-@@|mirror.aarnet.edu.au^$important
 @@|mirror.aarnet.edu.au^$important
 @@|mirror.alwyzon.net^$important
 @@|mirror.ancl.hawaii.edu^$important
-@@|mirror.arizona.edu^$important
 @@|mirror.arizona.edu^$important
 @@|mirror.asergo.com^$important
 @@|mirror.cedia.org.ec^$important
@@ -2352,13 +2354,11 @@
 @@|mirror.crucial.com.au^$important
 @@|mirror.cs.pitt.edu^$important
 @@|mirror.csclub.uwaterloo.ca^$important
-@@|mirror.csclub.uwaterloo.ca^$important
 @@|mirror.cyberbits.eu^$important
 @@|mirror.datacenter.by^$important
 @@|mirror.datamossa.io^$important
 @@|mirror.datto.com^$important
 @@|mirror.de.leaseweb.net^$important
-@@|mirror.dogado.de^$important
 @@|mirror.dogado.de^$important
 @@|mirror.dst.ca^$important
 @@|mirror.easyname.at^$important
@@ -2370,21 +2370,15 @@
 @@|mirror.faraso.org^$important
 @@|mirror.fcix.net^$important
 @@|mirror.fsmg.org.nz^$important
-@@|mirror.fsmg.org.nz^$important
 @@|mirror.genesisadaptive.com^$important
 @@|mirror.greennet.gl^$important
-@@|mirror.ihost.md^$important
 @@|mirror.ihost.md^$important
 @@|mirror.im.jku.at^$important
 @@|mirror.in2p3.fr^$important
 @@|mirror.informatik.tu-freiberg.de^$important
 @@|mirror.init7.net^$important
-@@|mirror.init7.net^$important
-@@|mirror.intergrid.com.au^$important
 @@|mirror.intergrid.com.au^$important
 @@|mirror.internet.asn.au^$important
-@@|mirror.internet.asn.au^$important
-@@|mirror.internode.on.net^$important
 @@|mirror.internode.on.net^$important
 @@|mirror.it.ubc.ca^$important
 @@|mirror.it4i.cz^$important
@@ -2392,31 +2386,23 @@
 @@|mirror.karneval.cz^$important
 @@|mirror.library.ucy.ac.cy^$important
 @@|mirror.linux-ia64.org^$important
-@@|mirror.linux-ia64.org^$important
-@@|mirror.linux-ia64.org^$important
 @@|mirror.liteserver.nl^$important
 @@|mirror.lstn.net^$important
 @@|mirror.luzea.de^$important
-@@|mirror.math.princeton.edu^$important
 @@|mirror.math.princeton.edu^$important
 @@|mirror.metrocast.net^$important
 @@|mirror.netsite.dk^$important
 @@|mirror.netspace.net.au^$important
 @@|mirror.netzwerge.de^$important
-@@|mirror.netzwerge.de^$important
 @@|mirror.nforce.com^$important
 @@|mirror.nl.datapacket.com^$important
-@@|mirror.nl.leaseweb.net^$important
-@@|mirror.nl.leaseweb.net^$important
 @@|mirror.nl.leaseweb.net^$important
 @@|mirror.nonstop.co.il^$important
 @@|mirror.optus.net^$important
 @@|mirror.overthewire.com.au^$important
-@@|mirror.overthewire.com.au^$important
 @@|mirror.ps.kz^$important
 @@|mirror.pseudoform.org^$important
 @@|mirror.pulsant.com^$important
-@@|mirror.realcompute.io^$important
 @@|mirror.realcompute.io^$important
 @@|mirror.rnet.missouri.edu^$important
 @@|mirror.serverion.com^$important
@@ -2427,7 +2413,6 @@
 @@|mirror.solnet.ch^$important
 @@|mirror.soonkeat.sg^$important
 @@|mirror.steadfastnet.com^$important
-@@|mirror.telepoint.bg^$important
 @@|mirror.telepoint.bg^$important
 @@|mirror.theash.xyz^$important
 @@|mirror.theory7.net^$important
@@ -2453,7 +2438,6 @@
 @@|mirror.xtom.com.hk^$important
 @@|mirror.yandex.ru^$important
 @@|mirror.zetup.net^$important
-@@|mirror.zetup.net^$important
 @@|mirror2.totbb.net^$important
 @@|mirrorcache.opensuse.org^$important
 @@|mirrorfedora.math.princeton.edu^$important
@@ -2476,7 +2460,6 @@
 @@|mirrors.manjaro.org^$important
 @@|mirrors.melbourne.co.uk^$important
 @@|mirrors.mit.edu^$important
-@@|mirrors.mit.edu^$important
 @@|mirrors.n-ix.net^$important
 @@|mirrors.nav.ro^$important
 @@|mirrors.netix.net^$important
@@ -2485,10 +2468,7 @@
 @@|mirrors.ocf.berkeley.edu^$important
 @@|mirrors.oit.uci.edu^$important
 @@|mirrors.opensource.is^$important
-@@|mirrors.opensource.is^$important
 @@|mirrors.ptisp.pt^$important
-@@|mirrors.ptisp.pt^$important
-@@|mirrors.rit.edu^$important
 @@|mirrors.rit.edu^$important
 @@|mirrors.rockylinux.org^$important
 @@|mirrors.sonic.net^$important
@@ -2497,13 +2477,11 @@
 @@|mirrors.tscak.com^$important
 @@|mirrors.ubuntu.com^$important
 @@|mirrors.ukfast.co.uk^$important
-@@|mirrors.ukfast.co.uk^$important
 @@|mirrors.up.pt^$important
 @@|mirrors.us.kernel.org^$important
 @@|mirrors.usinternet.com^$important
 @@|mirrors.wikimedia.org^$important
 @@|mirrors.xmission.com^$important
-@@|mirrors.xtom.de^$important
 @@|mirrors.xtom.de^$important
 @@|mirrors.xtom.nl^$important
 @@|mirrorsecondary.math.princeton.edu^$important
@@ -2538,6 +2516,7 @@
 @@|msftconnecttest.com^$important
 @@|msftncsi.com^$important
 @@|msn.com^$important
+@@|msr-public-ubiservices.ubi.com^$important
 @@|msrc-blog.microsoft.com^$important
 @@|mucp.api.account.microsoft.com^$important
 @@|multimedia.email2.gog.com^$important
@@ -2549,7 +2528,6 @@
 @@|music.youtube.com^$important
 @@|musicart.xboxlive.com^$important
 @@|mute.bradconte.com^$important
-@@|muug.ca^$important
 @@|muug.ca^$important
 @@|mvp.xbox.com^$important
 @@|mw1.google.com^$important
@@ -2572,6 +2550,7 @@
 @@|nav.smartscreen.microsoft.com^$important
 @@|navbar.blizzard.com^$important
 @@|nchc.dl.sourceforge.net^$important
+@@|ncsa-storm.ubi.com^$important
 @@|neosmart.net^$important
 @@|netdna.bootstrapcdn.com^$important
 @@|netflix.com^$important
@@ -2611,6 +2590,7 @@
 @@|notificationinbox.xboxlive.com^$important
 @@|notifications-pusher.gog.com^$important
 @@|notifications.bitwarden.com^$important
+@@|notifications.cdn.ubisoft.com^$important
 @@|notifications.gog.com^$important
 @@|notifications.google.com^$important
 @@|notify.xboxlive.com^$important
@@ -2681,6 +2661,7 @@
 @@|ogs.google.com.au^$important
 @@|ogs.google.com^$important
 @@|ohioix.mm.fcix.net^$important
+@@|ohmyposh.dev^$important
 @@|old-releases.ubuntu.com^$important
 @@|one.google.com^$important
 @@|oneclient.sfx.ms^$important
@@ -2706,6 +2687,7 @@
 @@|open.spotifycdn.com^$important
 @@|open.stealth.si^$important
 @@|open.tracker.ink^$important
+@@|opencritic.com^$important
 @@|openphish.com^$important
 @@|opensubtitles.org^$important
 @@|opensuse.c3sl.ufpr.br^$important
@@ -2741,6 +2723,7 @@
 @@|outlook.office.com^$important
 @@|outlook.office365.com^$important
 @@|outlookmobile-office365-tas.msedge.net^$important
+@@|overlay.cdn.ubisoft.com^$important
 @@|overlay.ubisoft.com^$important
 @@|ow1.res.office365.com^$important
 @@|ow2.res.office365.com^$important
@@ -2771,6 +2754,7 @@
 @@|pages.status.xbox.com^$important
 @@|panel.seedbox.io^$important
 @@|panels-images.twitch.tv^$important
+@@|panels.twitch.tv^$important
 @@|part.xbox.com^$important
 @@|partclone.org^$important
 @@|partimage.org^$important
@@ -2896,6 +2880,7 @@
 @@|pr-*.data.ea.com^$important
 @@|premium-*.nexus-cdn.com^$important
 @@|premium.soundcloud.com^$important
+@@|presence-api.live.public-ws.prod.tetra.fleet.ubi.com^$important
 @@|presence-heartbeat.xboxlive.com^$important
 @@|presence.teams.live.com^$important
 @@|press.soundcloud.com^$important
@@ -3008,7 +2993,6 @@
 @@|reader.usenet.agency^$important
 @@|readthedocs.org^$important
 @@|reblock.vercel.app^$important
-@@|reblock.vercel.app^$important
 @@|recaptcha.net^$important
 @@|reco-public.rec.mp.microsoft.com^$important
 @@|redcross.org^$important
@@ -3034,6 +3018,7 @@
 @@|repo1.maven.org^$important
 @@|report-uri.cloudflare.com^$important
 @@|reports.adguard.com^$important
+@@|reports.tools.gos.ea.com^$important
 @@|repository-images.githubusercontent.com^$important
 @@|res-1.cdn.office.net^$important
 @@|res.cdn.office.net^$important
@@ -3050,6 +3035,7 @@
 @@|returnandearn.org.au^$important
 @@|reviews.gog.com^$important
 @@|reviews.kaspersky.com^$important
+@@|rewards.cdn.ubisoft.com^$important
 @@|rewards.xbox.com^$important
 @@|rg3.github.io^$important
 @@|ridgewireless.mm.fcix.net^$important
@@ -3161,9 +3147,11 @@
 @@|services.prod.mozaws.net^$important
 @@|services.unifiedremote.com^$important
 @@|sessiondirectory.xboxlive.com^$important
+@@|sessions-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|settings-ssl.xboxlive.com^$important
 @@|settings-win.data.microsoft.com*^$important
 @@|settings-win.data.microsoft.com^$important
+@@|settings.cdn.ubisoft.com^$important
 @@|settings.data.microsoft.com*^$important
 @@|settings.data.microsoft.com^$important
 @@|settings.live.net^$important
@@ -3173,6 +3161,7 @@
 @@|sft.if.usp.br^$important
 @@|sfx.thelazy.net^$important
 @@|sgp1.dl.elementary.io^$important
+@@|share-play.cdn.ubisoft.com^$important
 @@|share.dmca.gripe^$important
 @@|shared-static-prod.epicgames.com^$important
 @@|shavar.prod.mozaws.net^$important
@@ -3187,6 +3176,7 @@
 @@|shops1.stackassets.com^$important
 @@|shots.codepen.io^$important
 @@|siftrss.com^$important
+@@|sigma.ubi.com^$important
 @@|sign-in.soundcloud.com^$important
 @@|signal.org^$important
 @@|signaler-pa.clients*.google.com^$important
@@ -3294,6 +3284,7 @@
 @@|sqlite.org^$important
 @@|sqlitebrowser.org^$important
 @@|squidblacklist.org^$important
+@@|srv*.zload.cc^$important
 @@|srv.au.ebayrtm.com^$important
 @@|srv01.codefusion.technology^$important
 @@|srv02.codefusion.technology^$important
@@ -3372,6 +3363,7 @@
 @@|static.parastorage.com^$important
 @@|static.pcgamingwiki.com^$important
 @@|static.rust-lang.org^$important
+@@|static.sandisk.com^$important
 @@|static.seedr.cc^$important
 @@|static.soundcloud.com^$important
 @@|static.teamviewer.com^$important
@@ -3402,6 +3394,7 @@
 @@|staticview.msn.com^$important
 @@|stats-prod.svc.gearsofwar.net^$important
 @@|stats.appwork.org^$important
+@@|stats.cdn.ubisoft.com^$important
 @@|stats.windscribe.com^$important
 @@|status.brave.com^$important
 @@|status.discord.com^$important
@@ -3479,6 +3472,7 @@
 @@|superuser.com^$important
 @@|supervisor.ext-twitch.tv^$important
 @@|suporte.br.playstation.com^$important
+@@|support-en.wd.com^$important
 @@|support.adaware.com^$important
 @@|support.ageofempires.com^$important
 @@|support.anydesk.com^$important
@@ -3500,6 +3494,7 @@
 @@|support.spro.xbox.com^$important
 @@|support.system76.com^$important
 @@|support.us.playstation.com^$important
+@@|support.wdc.com^$important
 @@|support.xbox.com^$important
 @@|support2.kaspersky.com^$important
 @@|support2.xbox.com^$important
@@ -3511,7 +3506,6 @@
 @@|swiftkey-sync-production.touchtype-fluency.com^$important
 @@|sxyprn.com^$important
 @@|syd-speed.overthewire.com.au^$important
-@@|syd.mirror.rackspace.com^$important
 @@|syd.mirror.rackspace.com^$important
 @@|syd1.speedtest.telstra.net^$important
 @@|sydneywater.com.au^$important
@@ -3605,6 +3599,7 @@
 @@|torren.eu^$important
 @@|torrentclub.space^$important
 @@|tos.ea.com^$important
+@@|toshiba.semicon-storage.com^$important
 @@|tpucdn.com^$important
 @@|tr.twitch.tv^$important
 @@|tr.wikipedia.com^$important
@@ -3676,6 +3671,7 @@
 @@|ubiservices.cdn.ubi.com^$important
 @@|ubisoft-avatars.akamaized.net^$important
 @@|ubisoft-orbit-savegames.s3.amazonaws.com^$important
+@@|ubisoft-uplay-savegames.s3.amazonaws.com^$important
 @@|ubisoftconnect.com^$important
 @@|ubistatic*-a.akamaihd.net^$important
 @@|ublockorigin.pages.dev^$important
@@ -3688,15 +3684,12 @@
 @@|ubuntu.hysing.is^$important
 @@|ubuntu.mirror.constant.com^$important
 @@|ubuntu.mirror.digitalpacific.com.au^$important
-@@|ubuntu.mirror.digitalpacific.com.au^$important
 @@|ubuntu.mirror.frontiernet.net^$important
 @@|ubuntu.mirror.globo.tech^$important
 @@|ubuntu.mirror.iweb.ca^$important
 @@|ubuntu.mirror.rafal.ca^$important
-@@|ubuntu.mirror.rafal.ca^$important
 @@|ubuntu.mirror.rain.co.za^$important
 @@|ubuntu.mirror.root.lu^$important
-@@|ubuntu.mirror.serversaustralia.com.au^$important
 @@|ubuntu.mirror.serversaustralia.com.au^$important
 @@|ubuntu.mirror.shastacoe.net^$important
 @@|ubuntu.mirror.tudos.de^$important
@@ -3735,7 +3728,6 @@
 @@|upchk.api.playstation.com^$important
 @@|update*.jdownloader.org^$important
 @@|update*.oo-software.com^$important
-@@|update-test.videolan.org^$important
 @@|update-test.videolan.org^$important
 @@|update.appwork.org^$important
 @@|update.bitsum.com^$important
@@ -3873,11 +3865,13 @@
 @@|wallhaven.cc^$important
 @@|watchdog.gallery.vsassets.io^$important
 @@|watchdog.gallerycdn.vsassets.io^$important
+@@|watchporn.to^$important
 @@|wave.sndcdn.com^$important
 @@|wcpstatic.microsoft.com^$important
 @@|wcsprdstg.cmltd.net.au^$important
 @@|wdcp.microsoft.com^$important
 @@|wdcpalt.microsoft.com^$important
+@@|web-browser.cdn.ubisoft.com^$important
 @@|web.poecdn.com^$important
 @@|web.vortex.data.microsoft.com^$important
 @@|web.vortex.data.trafficmanager.net^$important
@@ -4061,6 +4055,7 @@
 @@|www.izarc.org^$important
 @@|www.java.com^$important
 @@|www.jbhifi.com.au^$important
+@@|www.justpushstart.com^$important
 @@|www.kde.org^$important
 @@|www.keyxl.com^$important
 @@|www.killingfloor2.com^$important
@@ -4094,6 +4089,7 @@
 @@|www.myshopping.com.au^$important
 @@|www.mysql.com^$important
 @@|www.nbnco.com.au^$important
+@@|www.nerdfonts.com^$important
 @@|www.newshosting.com^$important
 @@|www.nexusmods.com^$important
 @@|www.nirsoft.net^$important
@@ -4137,6 +4133,7 @@
 @@|www.porntrex.com^$important
 @@|www.powershellgallery.com^$important
 @@|www.privacytools.io^$important
+@@|www.programmingfonts.org^$important
 @@|www.protondb.com^$important
 @@|www.proxyscan.io^$important
 @@|www.python.org^$important
@@ -4161,6 +4158,7 @@
 @@|www.samsung.com^$important
 @@|www.scdn.co^$important
 @@|www.scorptec.com.au^$important
+@@|www.seagate.com^$important
 @@|www.service.nsw.gov.au^$important
 @@|www.smashingmagazine.com^$important
 @@|www.snappy-driver-installer.org^$important
@@ -4186,9 +4184,12 @@
 @@|www.thewindowsclub.com^$important
 @@|www.tm.a.prd.aadg.akadns.net^$important
 @@|www.tomsguide.com^$important
+@@|www.toshiba-storage.com^$important
+@@|www.toshiba.com^$important
 @@|www.tp-link.com^$important
 @@|www.trueachievements.com^$important
 @@|www.twitch.tv^$important
+@@|www.ubisoft.com^$important
 @@|www.ubuntupit.com^$important
 @@|www.unifiedremote.com^$important
 @@|www.unrealengine.com^$important
@@ -4201,6 +4202,7 @@
 @@|www.wagnardsoft.com^$important
 @@|www.wallpaperengine.io^$important
 @@|www.warframe.com^$important
+@@|www.westerndigital.com^$important
 @@|www.westfield.com.au^$important
 @@|www.wheniscriticalrole.com^$important
 @@|www.whois.com^$important

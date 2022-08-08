@@ -58,6 +58,7 @@
 @@|fan.twitch.tv^$important
 @@|fr.blog.twitch.tv^$important
 @@|glass.twitch.tv^$important
+@@|global.poe.live-video.net^$important
 @@|go.twitch.tv^$important
 @@|gql.twitch.tv^$important
 @@|handbrake.fr^$important
@@ -111,6 +112,7 @@
 @@|oca-api.netflix.com^$important
 @@|p.twitchcdn.net^$important
 @@|panels-images.twitch.tv^$important
+@@|panels.twitch.tv^$important
 @@|passport.twitch.tv^$important
 @@|play.hulu.com^$important
 @@|player.hulu.com^$important

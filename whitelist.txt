@@ -246,6 +246,7 @@
 @@|akamaized.net^$important
 @@|albert.apple.com^$important
 @@|albums1.cdntrex.com^$important
+@@|alchemysage.azurefd.net^$important
 @@|aldi.com.au^$important
 @@|aldicatalogue.blob.core.windows.net^$important
 @@|aldimobile.com.au^$important
@@ -954,6 +955,8 @@
 @@|compass.xbox.com^$important
 @@|componentupdater.brave.com^$important
 @@|computers.scorptec.com.au^$important
+@@|concierge.live.com^$important
+@@|conciergelive.azureedge.net^$important
 @@|config.edge.skype.com^$important
 @@|config.hulu.com^$important
 @@|config.teams.microsoft.com^$important
@@ -2110,6 +2113,7 @@
 @@|kr.api.blizzard.com^$important
 @@|kv601.prod.do.dsp.mp.microsoft.com^$important
 @@|l-ring.msedge.net^$important
+@@|l.clarity.ms^$important
 @@|la.wikipedia.com^$important
 @@|labs.mysql.com^$important
 @@|lancache.steamcontent.com^$important
@@ -3275,6 +3279,7 @@
 @@|split-evaluator-prod.eax.ea.com^$important
 @@|spo-ring.msedge.net^$important
 @@|sponsor.ajay.app^$important
+@@|spoppe-b.azureedge.net^$important
 @@|spoprod-a.akamaihd.net^$important
 @@|spotify.com^$important
 @@|spotlights-feed.github.com^$important
@@ -3964,6 +3969,7 @@
 @@|www.chemistwarehouse.com.au^$important
 @@|www.christitus.com^$important
 @@|www.chromium.org^$important
+@@|www.clarity.ms^$important
 @@|www.cleverbridge.com^$important
 @@|www.cloudflare.com^$important
 @@|www.codecademy.com^$important

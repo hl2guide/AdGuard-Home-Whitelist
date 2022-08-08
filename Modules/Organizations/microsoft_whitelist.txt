@@ -56,6 +56,7 @@
 @@|adl.windows.com^$important
 @@|ak.spatial.virtualearth.net^$important
 @@|aka.ms^$important
+@@|alchemysage.azurefd.net^$important
 @@|aldicatalogue.blob.core.windows.net^$important
 @@|amcdn.msauth.net^$important
 @@|amcdn.msftauth.net^$important
@@ -149,6 +150,8 @@
 @@|compass-ssl.microsoft.com^$important
 @@|compass-ssl.xbox.com^$important
 @@|compass.xbox.com^$important
+@@|concierge.live.com^$important
+@@|conciergelive.azureedge.net^$important
 @@|config.teams.microsoft.com^$important
 @@|content.assist.gameservices.xboxlive.com^$important
 @@|content.lifecycle.office.net^$important
@@ -262,6 +265,7 @@
 @@|k-ring.msedge.net^$important
 @@|kv601.prod.do.dsp.mp.microsoft.com^$important
 @@|l-ring.msedge.net^$important
+@@|l.clarity.ms^$important
 @@|leaderboards.xboxlive.com^$important
 @@|lfghub-anonymous.xboxlive.com^$important
 @@|licensing.mp.microsoft.com^$important
@@ -408,6 +412,7 @@
 @@|spaces.live.com^$important
 @@|speech.platform.bing.com^$important
 @@|spo-ring.msedge.net^$important
+@@|spoppe-b.azureedge.net^$important
 @@|spsprodeau1.vssps.visualstudio.com^$important
 @@|statics-*.onestore.ms^$important
 @@|statics-xbc-eas.xbox.com^$important
@@ -487,6 +492,7 @@
 @@|wus-www.sway-cdn.com^$important
 @@|wus2.gssv-play-prodxhome.xboxlive.com^$important
 @@|www.bing.com^$important
+@@|www.clarity.ms^$important
 @@|www.microsoft.com^$important
 @@|www.msftconnecttest.com*^$important
 @@|www.msn.com^$important

@@ -62,11 +62,13 @@ example.org
 extract.services.disqus.com
 facebook.com
 fastfile.cc
+fcm.googleapis.com
 firebase-settings.crashlytics.com
 firebaseinstallations.googleapis.com
 firefox.settings.services.mozilla.com
 flatanalytics.com
 footprintdns.com
+g.tenor.com
 gcdn.2mdn.net
 geolocation.onetrust.com
 global.appnext.com
@@ -84,6 +86,8 @@ hosted-by.lelux.site
 hostname.bind
 i.t.net.ar
 id.server
+img-hm.vodadult.com
+inputsuggestions.msdxcdn.microsoft.com
 insights-collector.gog.com
 jenson.api.swiftkey.com
 jnn-pa.googleapis.com
@@ -118,6 +122,7 @@ reports.crashlytics.com
 rum14.perf.linkedin.com
 s.amazon-adsystem.com
 s.ss2.us
+s.w.org
 s7.addthis.com
 sb.scorecardresearch.com
 sdk.hockeyapp.net
@@ -127,10 +132,12 @@ sessions.bugsnag.com
 sidecar.gitter.im
 srv.buysellads.com
 ssl.google-analytics.com
+static-ecst.licdn.com
 static.doubleclick.net
 static.hotjar.com
 stats.wp.com
 statsy.net
+stun.wtfismyip.com
 suggestqueries-clients6.youtube.com
 telemetry.acronis.com
 telemetry.api.swiftkey.com

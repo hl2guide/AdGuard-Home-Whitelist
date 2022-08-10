@@ -1,14 +1,2 @@
-# Testing Rules - 2022-08-10 08:37:11AM
-
-# Games
-@@|wallpaperaccess.com^$important
-# Speed Test
-@@|vic.speedtest.leaptel.com.au.prod.hosts.ooklaserver.net^$important
-@@|speedtest-ndm1.tasmanet.com.au^$important
-@@|speedtest-melb.launtel.net.au.prod.hosts.ooklaserver.net^$important
-@@|ws1-n1mel.isp.foxtel.net.au^$important
-# Microsoft
-@@|assets*.msn.com^$important
-# Tech
-@@|www.speedguide.net^$important
+# Testing Rules - 2022-08-10 11:18:24AM
 

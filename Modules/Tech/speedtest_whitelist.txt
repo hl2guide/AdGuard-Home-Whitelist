@@ -23,6 +23,8 @@
 @@|speedtest-mel.cdn.on.net^$important
 @@|speedtest-mel.optusnet.com.au^$important
 @@|speedtest-mel.vocus.net.prod.hosts.ooklaserver.net^$important
+@@|speedtest-melb.launtel.net.au.prod.hosts.ooklaserver.net^$important
+@@|speedtest-ndm1.tasmanet.com.au^$important
 @@|speedtest.dcsi.net.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest.dcsi.net.au^$important
 @@|speedtest.mel.m2core.net.au^$important
@@ -34,6 +36,8 @@
 @@|vic-crlt-speedtest.aarnet.net.au.prod.hosts.ooklaserver.net^$important
 @@|vic-crlt-speedtest.aarnet.net.au^$important
 @@|vic.speedtest.exetel.com.au^$important
+@@|vic.speedtest.leaptel.com.au.prod.hosts.ooklaserver.net^$important
+@@|ws1-n1mel.isp.foxtel.net.au^$important
 @@|www.nbnco.com.au^$important
 @@|www.speedguide.net^$important
 @@|zd.map.fastly.net^$important

@@ -85,6 +85,7 @@
 @@|*.smartscreen.microsoft.com^$important
 @@|*.sonicbit.net^$important
 @@|*.speedtest.pathofexile.com^$important
+@@|*.steamcontent.com^$important
 @@|*.storage.live.com^$important
 @@|*.storage.msn.com^$important
 @@|*.tapecontent.net^$important
@@ -444,6 +445,7 @@
 @@|aspmx.l.google.com^$important
 @@|aspmx2.googlemail.com^$important
 @@|aspmx3.googlemail.com^$important
+@@|assets*.msn.com^$important
 @@|assets*.xboxlive.com^$important
 @@|assets-cdn.github.com^$important
 @@|assets-www.xbox.com^$important
@@ -3257,6 +3259,8 @@
 @@|speedtest-mel.cdn.on.net^$important
 @@|speedtest-mel.optusnet.com.au^$important
 @@|speedtest-mel.vocus.net.prod.hosts.ooklaserver.net^$important
+@@|speedtest-melb.launtel.net.au.prod.hosts.ooklaserver.net^$important
+@@|speedtest-ndm1.tasmanet.com.au^$important
 @@|speedtest-syd.apac-tools.ovh.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.launtel.net.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.launtel.net.au^$important
@@ -3415,6 +3419,7 @@
 @@|steam-chat.com^$important
 @@|steambroadcast.akamaized.net^$important
 @@|steamcdn-a.akamaihd.net^$important
+@@|steamcloud-*.amazonaws.com^$important
 @@|steamcloud-sydney.storage.googleapis.com^$important
 @@|steamcloud-ugc.storage.googleapis.com^$important
 @@|steamcloudlrsuswest.blob.core.windows.net^$important
@@ -3817,6 +3822,7 @@
 @@|vic-crlt-speedtest.aarnet.net.au.prod.hosts.ooklaserver.net^$important
 @@|vic-crlt-speedtest.aarnet.net.au^$important
 @@|vic.speedtest.exetel.com.au^$important
+@@|vic.speedtest.leaptel.com.au.prod.hosts.ooklaserver.net^$important
 @@|vidcoder.net^$important
 @@|video-edge-855073.pdx01.abs.hls.ttvnw.net^$important
 @@|video-edge-ea0fad.pdx01.abs.hls.ttvnw.net^$important
@@ -3868,6 +3874,7 @@
 @@|waldorf5.distrochooser.de^$important
 @@|wallet.ecom.ubi.com^$important
 @@|wallhaven.cc^$important
+@@|wallpaperaccess.com^$important
 @@|watchdog.gallery.vsassets.io^$important
 @@|watchdog.gallerycdn.vsassets.io^$important
 @@|watchporn.to^$important
@@ -3922,6 +3929,7 @@
 @@|wordpress.org^$important
 @@|workspace.google.com^$important
 @@|wowprodmediaaae.blob.core.windows.net^$important
+@@|ws1-n1mel.isp.foxtel.net.au^$important
 @@|ws1-n1syd.isp.foxtel.net.au^$important
 @@|ws75.aptoide.com^$important
 @@|wsappcontrol.com^$important
@@ -4169,6 +4177,7 @@
 @@|www.smashingmagazine.com^$important
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important
+@@|www.speedguide.net^$important
 @@|www.speedtest.net^$important
 @@|www.spintel.net.au^$important
 @@|www.spotify.com^$important

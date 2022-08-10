@@ -5,6 +5,7 @@
 @@|*.g2.akamai.net^$important
 @@|*.services.gearboxsoftware.com^$important
 @@|*.speedtest.pathofexile.com^$important
+@@|*.steamcontent.com^$important
 @@|*.xboxlive.com
 @@|account-public-service-prod.ak.epicgames.com^$important
 @@|account-public-service-prod03.ol.epicgames.com^$important
@@ -408,6 +409,7 @@
 @@|steam-chat.com^$important
 @@|steambroadcast.akamaized.net^$important
 @@|steamcdn-a.akamaihd.net^$important
+@@|steamcloud-*.amazonaws.com^$important
 @@|steamcloud-sydney.storage.googleapis.com^$important
 @@|steamcloud-ugc.storage.googleapis.com^$important
 @@|steamcloudlrsuswest.blob.core.windows.net^$important
@@ -483,6 +485,7 @@
 @@|vsa-prod.services.microsoft.com^$important
 @@|vsa.services.microsoft.com^$important
 @@|wallet.ecom.ubi.com^$important
+@@|wallpaperaccess.com^$important
 @@|wallpaperaccess.com^$important
 @@|web-browser.cdn.ubisoft.com^$important
 @@|web.poecdn.com^$important

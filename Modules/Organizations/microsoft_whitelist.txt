@@ -76,6 +76,7 @@
 @@|apps.microsoft.com^$important
 @@|appsforoffice.microsoft.com^$important
 @@|arc.msn.com*^$important
+@@|assets*.msn.com^$important
 @@|assets*.xboxlive.com^$important
 @@|assets-www.xbox.com^$important
 @@|assets.msn.com^$important

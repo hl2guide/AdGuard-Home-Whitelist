@@ -1,4 +1,4 @@
-# Testing Rules - 2022-08-17 05:02:33PM
+# Testing Rules - 2022-08-19 02:07:44PM
 
 # Microsoft
 @@|dotnetcli.azureedge.net^$important
@@ -6,8 +6,10 @@
 @@|vlscppe.microsoft.com^$important
 
 # Games
+@@|app.swaggerhub.com^$important
 @@|f4se.silverlock.org^$important
 @@|nexus-collections-temp.s3.*.backblazeb2.com^$important
+@@|nexus-media*.backblazeb2.com^$important
 @@|upload.nexusmods.com^$important
 @@|www.afkmods.com^$important
 

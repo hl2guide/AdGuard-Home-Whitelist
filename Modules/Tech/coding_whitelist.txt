@@ -42,6 +42,7 @@
 @@|developer.github.com^$important
 @@|developer.microsoft.com^$important
 @@|developer.nvidia.com^$important
+@@|developercommunity.visualstudio.com^$important
 @@|docs.dbhub.io^$important
 @@|docs.github.com^$important
 @@|docs.npmjs.com^$important
@@ -180,6 +181,7 @@
 @@|www.java.com^$important
 @@|www.nerdfonts.com^$important
 @@|www.npmjs.com^$important
+@@|www.nuget.org^$important
 @@|www.php.net^$important
 @@|www.pling.com^$important
 @@|www.programmingfonts.org^$important

@@ -370,6 +370,7 @@
 @@|api.stackcommerce.net^$important
 @@|api.standardnotes.com^$important
 @@|api.steampowered.com^$important
+@@|api.target.com.au^$important
 @@|api.teams.skype.com^$important
 @@|api.tiles.mapbox.com^$important
 @@|api.twitch.tv^$important
@@ -397,6 +398,7 @@
 @@|app.plus.google.com^$important
 @@|app.raindrop.io^$important
 @@|app.standardnotes.com^$important
+@@|app.swaggerhub.com^$important
 @@|app.twitch.tv^$important
 @@|app.vsaex.visualstudio.com^$important
 @@|app.vssps.visualstudio.com^$important
@@ -1144,6 +1146,7 @@
 @@|developer.soundcloud.com^$important
 @@|developer.spotify.com^$important
 @@|developer.vimeo.com^$important
+@@|developercommunity.visualstudio.com^$important
 @@|developers.cloudflare.com^$important
 @@|developers.google.com^$important
 @@|developers.soundcloud.com^$important
@@ -1241,6 +1244,7 @@
 @@|docs.unrealengine.com^$important
 @@|docs.uptobox.com^$important
 @@|dotnet.microsoft.com^$important
+@@|dotnetcli.azureedge.net^$important
 @@|down.easeus.com^$important
 @@|downdetector.com.au^$important
 @@|downdetector.com^$important
@@ -1460,6 +1464,7 @@
 @@|f.hubspotusercontent40.net^$important
 @@|f.vimeocdn.com^$important
 @@|f1techcomputers.com.au^$important
+@@|f4se.silverlock.org^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
 @@|fan.twitch.tv^$important
@@ -2570,7 +2575,9 @@
 @@|news.xbox.com^$important
 @@|newvirus.kaspersky.com^$important
 @@|next.nexusmods.com^$important
+@@|nexus-collections-temp.s3.*.backblazeb2.com^$important
 @@|nexus-files.b-cdn.net^$important
+@@|nexus-media*.backblazeb2.com^$important
 @@|nexusmods.com^$important
 @@|nginx.org^$important
 @@|nightlies.videolan.org^$important
@@ -2729,6 +2736,7 @@
 @@|outlook.office.com^$important
 @@|outlook.office365.com^$important
 @@|outlookmobile-office365-tas.msedge.net^$important
+@@|ov-df.microsoft.com^$important
 @@|overlay.cdn.ubisoft.com^$important
 @@|overlay.ubisoft.com^$important
 @@|ow1.res.office365.com^$important
@@ -3765,6 +3773,7 @@
 @@|upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
 @@|uplaypc-s-ubisoft.cdn.ubi.com^$important
 @@|upload.filefactory.com^$important
+@@|upload.nexusmods.com^$important
 @@|upload.vimeo.com^$important
 @@|upload.wikimedia.org^$important
 @@|uploaded.net^$important
@@ -3847,6 +3856,7 @@
 @@|visualstudio.microsoft.com^$important
 @@|vivaldi.com^$important
 @@|vlc-bluray.whoknowsmy.name^$important
+@@|vlscppe.microsoft.com^$important
 @@|vo2.qrlsx.com^$important
 @@|vod-secure.twitch.tv^$important
 @@|voidtools.com^$important
@@ -3949,6 +3959,7 @@
 @@|www.adaware.com^$important
 @@|www.addictivetips.com^$important
 @@|www.aec.gov.au^$important
+@@|www.afkmods.com^$important
 @@|www.ageofempires.com^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
@@ -4114,6 +4125,7 @@
 @@|www.nsw.gov.au^$important
 @@|www.ntp.org^$important
 @@|www.ntppool.org^$important
+@@|www.nuget.org^$important
 @@|www.nvidia.co.uk^$important
 @@|www.nvidia.com^$important
 @@|www.nvidia.eu^$important

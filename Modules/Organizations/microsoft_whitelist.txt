@@ -181,6 +181,7 @@
 @@|docs.live.net^$important
 @@|docs.microsoft.com^$important
 @@|dotnet.microsoft.com^$important
+@@|dotnetcli.azureedge.net^$important
 @@|download-ssl.xbox.com^$important
 @@|download.microsoft.com^$important
 @@|download.visualstudio.microsoft.com^$important
@@ -333,6 +334,7 @@
 @@|outlook.office.com^$important
 @@|outlook.office365.com^$important
 @@|outlookmobile-office365-tas.msedge.net^$important
+@@|ov-df.microsoft.com^$important
 @@|ow1.res.office365.com^$important
 @@|ow2.res.office365.com^$important
 @@|packages.dmd.metaservices.microsoft.com^$important
@@ -475,6 +477,7 @@
 @@|visualstudio-devdiv-c2s.msedge.net^$important
 @@|visualstudio.com^$important
 @@|visualstudio.microsoft.com^$important
+@@|vlscppe.microsoft.com^$important
 @@|vortex.data.microsoft.com^$important
 @@|vscjava.gallery.vsassets.io^$important
 @@|vscjava.gallerycdn.vsassets.io^$important

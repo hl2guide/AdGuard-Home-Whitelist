@@ -34,6 +34,7 @@
 @@|api.steampowered.com^$important
 @@|api.warframe.com^$important
 @@|apollo.dl.playstation.net^$important
+@@|app.swaggerhub.com^$important
 @@|arbiter.warframe.com^$important
 @@|asia.playstation.com^$important
 @@|asm.np.community.playstation.net^$important
@@ -165,6 +166,7 @@
 @@|eus-streaming-video-rt-microsoft-com.akamaized.net^$important
 @@|external-offer-mapping-service.juno.ea.com^$important
 @@|f4se.silverlock.org^$important
+@@|f4se.silverlock.org^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
 @@|fandom.com^$important
@@ -285,6 +287,8 @@
 @@|ncsa-storm.ubi.com^$important
 @@|news-page-themes-api.a.upc.ubisoft.com^$important
 @@|next.nexusmods.com^$important
+@@|nexus-collections-temp.s3.*.backblazeb2.com^$important
+@@|nexus-media*.backblazeb2.com^$important
 @@|nexusmods.com^$important
 @@|nintendo.com^$important
 @@|nintendo.net^$important
@@ -472,6 +476,7 @@
 @@|unrealengine.com^$important
 @@|upchk.api.playstation.com^$important
 @@|uplaypc-s-ubisoft.cdn.ubi.com^$important
+@@|upload.nexusmods.com^$important
 @@|us-as.gr-cdn.com^$important
 @@|us-s2-depot.classic.blizzard.com^$important
 @@|us.api.blizzard.com^$important
@@ -493,6 +498,7 @@
 @@|webinstallers.gog-statics.com^$important
 @@|wiki.nexusmods.com^$important
 @@|winter15.gosredirector.ea.com^$important
+@@|www.afkmods.com^$important
 @@|www.ageofempires.com^$important
 @@|www.bethesda.net^$important
 @@|www.blizzard.com^$important

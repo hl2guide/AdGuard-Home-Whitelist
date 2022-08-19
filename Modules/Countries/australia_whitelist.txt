@@ -10,6 +10,7 @@
 @@|api.g.service.nsw.gov.au^$important
 @@|api.kmart.com.au^$important
 @@|api.prod.bunnings.com.au^$important
+@@|api.target.com.au^$important
 @@|apigw.coles.com.au^$important
 @@|app.nexuspublications.com.au^$important
 @@|apply.service.nsw.gov.au^$important

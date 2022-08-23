@@ -1,2 +1,13 @@
-# Testing Rules - 2022-08-19 02:21:27PM
+# Testing Rules - 2022-08-23 07:27:45PM
 
+# Cloud Storage
+@@|degoo-production-large-file-*.degoo.info^$important
+# Speed Test
+@@|sy5.test.gslnetworks.com.au.prod.hosts.ooklaserver.net^$important
+# Tech
+@@|cdn.adtidy.org^$important
+@@|download.mipony.net^$important
+@@|link.adtidy.org^$important
+@@|www.candisoft.com^$important
+@@|www.filescan.io^$important
+@@|www.mipony.net^$important

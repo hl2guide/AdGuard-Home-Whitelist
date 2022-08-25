@@ -1,4 +1,4 @@
-# Testing Rules - 2022-08-23 07:27:45PM
+# Testing Rules - 2022-08-26 12:00:23AM
 
 # Cloud Storage
 @@|degoo-production-large-file-*.degoo.info^$important
@@ -11,3 +11,10 @@
 @@|www.candisoft.com^$important
 @@|www.filescan.io^$important
 @@|www.mipony.net^$important
+
+# Games
+@@|nelly-service-prod-akamai.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-cloudflare.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-cloudfront.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-fastly.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod.ecbc.live.use1a.on.epicgames.com^$important

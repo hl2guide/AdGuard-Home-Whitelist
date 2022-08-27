@@ -22,6 +22,7 @@
 @@|brand.twitch.tv^$important
 @@|cast.netflix.com^$important
 @@|cdn.dbdtwitch.com^$important
+@@|cdn.streamelements.com^$important
 @@|cdn.twitchalerts.com^$important
 @@|changelog.m7g.twitch.tv^$important
 @@|chatdepot.twitch.tv^$important
@@ -53,6 +54,7 @@
 @@|es.blog.twitch.tv^$important
 @@|es.twitch.tv^$important
 @@|extension-files.twitch.tv^$important
+@@|extension.streamelements.com^$important
 @@|extensions-discovery-images.twitch.tv^$important
 @@|f.vimeocdn.com^$important
 @@|fan.twitch.tv^$important
@@ -154,6 +156,7 @@
 @@|vimeo.com^$important
 @@|vod-secure.twitch.tv^$important
 @@|www.twitch.tv^$important
+@@|xt.streamlabs.com^$important
 @@|yewtu.be^$important
 @@|youtube-dl.org^$important
 @@|youtube-nocookie.com^$important

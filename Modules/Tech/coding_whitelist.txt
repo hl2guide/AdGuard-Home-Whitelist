@@ -126,6 +126,7 @@
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@|phoenixnap.dl.sourceforge.net^$important
 @@|php.net^$important
+@@|pipe.how^$important
 @@|pop-iso.sfo2.cdn.digitaloceanspaces.com^$important
 @@|portablepython.com^$important
 @@|powershell-release-redirect.azurewebsites.net^$important

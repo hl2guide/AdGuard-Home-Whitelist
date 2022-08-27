@@ -31,6 +31,7 @@
 @@|speedtest.mirror.hostopia.com.au^$important
 @@|speedtest.mirror.serversaustralia.com.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest.syd.m2core.net.au^$important
+@@|sy5.test.gslnetworks.com.au.prod.hosts.ooklaserver.net^$important
 @@|tiles.search.brave.com^$important
 @@|v-tiles.downdetector.com^$important
 @@|vic-crlt-speedtest.aarnet.net.au.prod.hosts.ooklaserver.net^$important

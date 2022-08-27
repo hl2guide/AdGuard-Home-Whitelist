@@ -476,6 +476,7 @@
 @@|assets.xboxservices.com^$important
 @@|assets.zorincdn.com^$important
 @@|async-px.dynamicyield.com^$important
+@@|atlas.eff.org^$important
 @@|ato.gov.au^$important
 @@|attestation.xboxlive.com^$important
 @@|au-syd-anx-r*.teamviewer.com^$important
@@ -729,6 +730,7 @@
 @@|cdn-pics.pornhdprime.com^$important
 @@|cdn-static-cf.pornhd.com^$important
 @@|cdn.adguard.com^$important
+@@|cdn.adtidy.org^$important
 @@|cdn.ageofempires.com^$important
 @@|cdn.akamai.steamstatic.com^$important
 @@|cdn.appdynamics.com^$important
@@ -785,6 +787,7 @@
 @@|cdn.sstatic.net^$important
 @@|cdn.staticaly.com^$important
 @@|cdn.statuspage.io^$important
+@@|cdn.streamelements.com^$important
 @@|cdn.streamlabs.com^$important
 @@|cdn.superantispyware.com^$important
 @@|cdn.twitchalerts.com^$important
@@ -1119,6 +1122,7 @@
 @@|definitionsbd.adaware.com^$important
 @@|definitionupdates.microsoft.com^$important
 @@|defkey.com^$important
+@@|degoo-production-large-file-*.degoo.info^$important
 @@|degoo.com^$important
 @@|deliver.ptgncdn.com^$important
 @@|dell.com^$important
@@ -1275,6 +1279,7 @@
 @@|download.macrium.com^$important
 @@|download.manjaro.org^$important
 @@|download.microsoft.com^$important
+@@|download.mipony.net^$important
 @@|download.mozilla.org^$important
 @@|download.msi.com^$important
 @@|download.notable.app^$important
@@ -1447,6 +1452,7 @@
 @@|exodus.desync.com^$important
 @@|exp.wg.spotify.com^$important
 @@|extension-files.twitch.tv^$important
+@@|extension.streamelements.com^$important
 @@|extensions-discovery-images.twitch.tv^$important
 @@|extensions-loader.azurewebsites.net^$important
 @@|extensions.gnome.org^$important
@@ -2160,6 +2166,7 @@
 @@|lily.cdntrex.com^$important
 @@|limetorrents.info^$important
 @@|lineup-images.scdn.co^$important
+@@|link.adtidy.org^$important
 @@|link.email.stackcommerce.com^$important
 @@|link.twitch.tv^$important
 @@|links.announcements.soundcloud.com^$important
@@ -2562,6 +2569,11 @@
 @@|navbar.blizzard.com^$important
 @@|nchc.dl.sourceforge.net^$important
 @@|ncsa-storm.ubi.com^$important
+@@|nelly-service-prod-akamai.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-cloudflare.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-cloudfront.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-fastly.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod.ecbc.live.use1a.on.epicgames.com^$important
 @@|neosmart.net^$important
 @@|netdna.bootstrapcdn.com^$important
 @@|netflix.com^$important
@@ -2838,6 +2850,7 @@
 @@|pinata.cloud^$important
 @@|ping.archlinux.org^$important
 @@|ping.manjaro.org^$important
+@@|pipe.how^$important
 @@|piwik.pcgamingwiki.com^$important
 @@|pixel-static.spotify.com^$important
 @@|pixhost.to^$important
@@ -3523,6 +3536,7 @@
 @@|svn.jdownloader.org^$important
 @@|swiftkey-sync-production.touchtype-fluency.com^$important
 @@|sxyprn.com^$important
+@@|sy5.test.gslnetworks.com.au.prod.hosts.ooklaserver.net^$important
 @@|syd-speed.overthewire.com.au^$important
 @@|syd.mirror.rackspace.com^$important
 @@|syd1.speedtest.telstra.net^$important
@@ -3983,6 +3997,7 @@
 @@|www.bunnings.com.au^$important
 @@|www.burnaware.com^$important
 @@|www.camwhoresbay.com^$important
+@@|www.candisoft.com^$important
 @@|www.cfos.de^$important
 @@|www.cfosspeed.de^$important
 @@|www.chemistwarehouse.com.au^$important
@@ -4030,6 +4045,7 @@
 @@|www.f1techcomputers.com.au^$important
 @@|www.feyrer.de^$important
 @@|www.filefactory.com^$important
+@@|www.filescan.io^$important
 @@|www.firefox.com^$important
 @@|www.fose.silverlock.org^$important
 @@|www.fosshub.com^$important
@@ -4104,6 +4120,7 @@
 @@|www.merriam-webster.com^$important
 @@|www.microsoft.com^$important
 @@|www.minidisc.com.au^$important
+@@|www.mipony.net^$important
 @@|www.mirrorservice.org^$important
 @@|www.moddb.com^$important
 @@|www.mozilla.org.cdn.cloudflare.net^$important
@@ -4279,6 +4296,7 @@
 @@|xnotify.xboxlive.com^$important
 @@|xpui.app.spotify.com^$important
 @@|xsts.auth.xboxlive.com^$important
+@@|xt.streamlabs.com^$important
 @@|xvideos-cdn.com^$important
 @@|xvideos.com^$important
 @@|xxx-image.com^$important

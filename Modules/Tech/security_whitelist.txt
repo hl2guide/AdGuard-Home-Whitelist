@@ -23,9 +23,11 @@
 @@|ark.intel.com^$important
 @@|artifacts.bitwarden.com^$important
 @@|assets.esetstatic.com^$important
+@@|atlas.eff.org^$important
 @@|au.pcpartpicker.com^$important
 @@|blog.chocolatey.org^$important
 @@|calendar.protonmail.com^$important
+@@|cdn.adtidy.org^$important
 @@|cdn.mos.cms.futurecdn.net^$important
 @@|cdn.statuspage.io^$important
 @@|cdn1.esetstatic.com^$important
@@ -49,6 +51,7 @@
 @@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
 @@|download.fosshub.com^$important
+@@|download.mipony.net^$important
 @@|download.onlyoffice.com^$important
 @@|e1.o.lencr.org^$important
 @@|eset.com^$important
@@ -64,6 +67,7 @@
 @@|imgs.search.brave.com^$important
 @@|int.form.eset.com^$important
 @@|learn.offcloud.com^$important
+@@|link.adtidy.org^$important
 @@|mail.proton.me^$important
 @@|manage.ntppool.org^$important
 @@|p3a-json.brave.com^$important
@@ -112,10 +116,12 @@
 @@|www-eset-com.api.cspconsole.com^$important
 @@|www.acronis.com^$important
 @@|www.asus.com^$important
+@@|www.candisoft.com^$important
 @@|www.cookiepro.com^$important
 @@|www.deluge-torrent.org^$important
 @@|www.emsisoft.com^$important
 @@|www.eset.com^$important
+@@|www.filescan.io^$important
 @@|www.glenn.delahoy.com^$important
 @@|www.grc.com^$important
 @@|www.industry.gov.au^$important
@@ -124,6 +130,7 @@
 @@|www.keyxl.com^$important
 @@|www.makeuseof.com^$important
 @@|www.mapper.ntppool.org^$important
+@@|www.mipony.net^$important
 @@|www.ntp.org^$important
 @@|www.ntppool.org^$important
 @@|www.nvidia.eu^$important

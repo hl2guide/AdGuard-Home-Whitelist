@@ -285,6 +285,11 @@
 @@|n9e5v4d8.ssl.hwcdn.net^$important
 @@|navbar.blizzard.com^$important
 @@|ncsa-storm.ubi.com^$important
+@@|nelly-service-prod-akamai.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-cloudflare.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-cloudfront.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod-fastly.ecosec.on.epicgames.com^$important
+@@|nelly-service-prod.ecbc.live.use1a.on.epicgames.com^$important
 @@|news-page-themes-api.a.upc.ubisoft.com^$important
 @@|next.nexusmods.com^$important
 @@|nexus-collections-temp.s3.*.backblazeb2.com^$important

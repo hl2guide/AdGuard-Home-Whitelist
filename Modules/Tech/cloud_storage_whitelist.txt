@@ -22,6 +22,7 @@
 @@|codesector.nyc3.cdn.digitaloceanspaces.com^$important
 @@|cyberdrop.me^$important
 @@|dashboard.blomp.com^$important
+@@|degoo-production-large-file-*.degoo.info^$important
 @@|degoo.com^$important
 @@|docs.uptobox.com^$important
 @@|down.easeus.com^$important

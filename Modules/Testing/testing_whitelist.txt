@@ -1,4 +1,4 @@
-# Testing Rules - 2022-08-29 07:11:01PM
+# Testing Rules - 2022-08-29 08:34:43PM
 
 # Tech
 @@|screentogif-releases.azurewebsites.net^$important
@@ -8,3 +8,15 @@
 
 # Cloud Storage
 @@|reqstat.api.mega.co.nz^$important
+
+# Google
+@@|khms0.googleapis.com^$important
+@@|khms1.googleapis.com^$important
+@@|mt.googleapis.com^$important
+
+# Linux
+@@|_http._tcp.mxrepo.com^$important
+@@|mirror.datamossa.io^$important
+@@|mxlinux.org^$important
+@@|mxrepo.com^$important
+@@|www.fosslinux.com^$important

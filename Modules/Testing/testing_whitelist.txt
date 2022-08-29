@@ -1,6 +1,10 @@
-# Testing Rules - 2022-08-29 03:28:21PM
+# Testing Rules - 2022-08-29 07:11:01PM
 
+# Tech
 @@|screentogif-releases.azurewebsites.net^$important
 @@|unicons.iconscout.com^$important
 @@|winget.run^$important
 @@|www.screentogif.com^$important
+
+# Cloud Storage
+@@|reqstat.api.mega.co.nz^$important

@@ -1,4 +1,4 @@
-# Testing Rules - 2022-08-29 08:34:43PM
+# Testing Rules - 2022-08-30 03:01:03PM
 
 # Tech
 @@|screentogif-releases.azurewebsites.net^$important
@@ -20,3 +20,13 @@
 @@|mxlinux.org^$important
 @@|mxrepo.com^$important
 @@|www.fosslinux.com^$important
+
+# Games
+@@|*.steamserver.net^$important
+
+# Linux
+@@|_http._tcp.mirror.datamossa.io^$important
+
+# Tech
+@@|brave-browser-rpm-release.s3.brave.com^$important
+@@|repo.vivaldi.com^$important

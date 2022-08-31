@@ -1,4 +1,4 @@
-# Testing Rules - 2022-08-30 03:01:03PM
+# Testing Rules - 2022-08-31 05:09:14PM
 
 # Tech
 @@|screentogif-releases.azurewebsites.net^$important
@@ -30,3 +30,13 @@
 # Tech
 @@|brave-browser-rpm-release.s3.brave.com^$important
 @@|repo.vivaldi.com^$important
+
+# Microsoft
+@@|afdxtest.z01.azurefd.net^$important
+
+# Tech
+@@|blog.ipfs.tech^$important
+@@|countly.ipfs.io^$important
+@@|docs.ipfs.tech^$important
+@@|img.chocolatey.org^$important
+@@|ipfs.tech^$important

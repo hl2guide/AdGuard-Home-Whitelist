@@ -1,10 +1,4 @@
-# Testing Rules - 2022-08-31 05:09:14PM
-
-# Tech
-@@|screentogif-releases.azurewebsites.net^$important
-@@|unicons.iconscout.com^$important
-@@|winget.run^$important
-@@|www.screentogif.com^$important
+# Testing Rules - 2022-09-01 06:10:44PM
 
 # Cloud Storage
 @@|reqstat.api.mega.co.nz^$important
@@ -15,28 +9,35 @@
 @@|mt.googleapis.com^$important
 
 # Linux
+@@|_http._tcp.mirror.datamossa.io^$important
 @@|_http._tcp.mxrepo.com^$important
 @@|mirror.datamossa.io^$important
 @@|mxlinux.org^$important
 @@|mxrepo.com^$important
+@@|retrace.fedoraproject.org^$important
 @@|www.fosslinux.com^$important
 
 # Games
 @@|*.steamserver.net^$important
 
-# Linux
-@@|_http._tcp.mirror.datamossa.io^$important
-
 # Tech
+@@|blog.ipfs.tech^$important
 @@|brave-browser-rpm-release.s3.brave.com^$important
+@@|countly.ipfs.io^$important
+@@|docs.ipfs.tech^$important
+@@|download.cpuid.com^$important
+@@|img.chocolatey.org^$important
+@@|ipfs.tech^$important
 @@|repo.vivaldi.com^$important
+@@|screentogif-releases.azurewebsites.net^$important
+@@|unicons.iconscout.com^$important
+@@|winget.run^$important
+@@|www.screentogif.com^$important
 
 # Microsoft
 @@|afdxtest.z01.azurefd.net^$important
 
-# Tech
-@@|blog.ipfs.tech^$important
-@@|countly.ipfs.io^$important
-@@|docs.ipfs.tech^$important
-@@|img.chocolatey.org^$important
-@@|ipfs.tech^$important
+# IPFS
+@@|ipfs-swarm.fxhash2.xyz^$important
+@@|checkpoint-*.ipns.network^$important
+@@|ipfs.scalable.io^$important

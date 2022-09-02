@@ -6,6 +6,7 @@
 @@|*.services.gearboxsoftware.com^$important
 @@|*.speedtest.pathofexile.com^$important
 @@|*.steamcontent.com^$important
+@@|*.steamserver.net^$important
 @@|*.xboxlive.com
 @@|account-public-service-prod.ak.epicgames.com^$important
 @@|account-public-service-prod03.ol.epicgames.com^$important

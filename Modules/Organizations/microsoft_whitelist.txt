@@ -54,6 +54,7 @@
 @@|achievements.xboxlive.com^$important
 @@|activity.windows.com^$important
 @@|adl.windows.com^$important
+@@|afdxtest.z01.azurefd.net^$important
 @@|ak.spatial.virtualearth.net^$important
 @@|aka.ms^$important
 @@|alchemysage.azurefd.net^$important

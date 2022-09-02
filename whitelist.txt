@@ -86,6 +86,7 @@
 @@|*.sonicbit.net^$important
 @@|*.speedtest.pathofexile.com^$important
 @@|*.steamcontent.com^$important
+@@|*.steamserver.net^$important
 @@|*.storage.live.com^$important
 @@|*.storage.msn.com^$important
 @@|*.tapecontent.net^$important
@@ -139,7 +140,9 @@
 @@|_http._tcp.deb.debian.org^$important
 @@|_http._tcp.debian.mirror.digitalpacific.com.au^$important
 @@|_http._tcp.mirror.aarnet.edu.au^$important
+@@|_http._tcp.mirror.datamossa.io^$important
 @@|_http._tcp.mirrors.ubuntu.com^$important
+@@|_http._tcp.mxrepo.com^$important
 @@|_http._tcp.packages.linuxmint.com^$important
 @@|_http._tcp.packages.microsoft.com^$important
 @@|_http._tcp.ppa.launchpad.net^$important
@@ -229,6 +232,7 @@
 @@|admin.fedoraproject.org^$important
 @@|adult.com^$important
 @@|aex.dev.azure.com^$important
+@@|afdxtest.z01.azurefd.net^$important
 @@|affiliate.twitch.tv^$important
 @@|agrd.io^$important
 @@|ahadns.com^$important
@@ -610,6 +614,7 @@
 @@|blog.gravatar.com^$important
 @@|blog.hulu.com^$important
 @@|blog.ipfs.io^$important
+@@|blog.ipfs.tech^$important
 @@|blog.it.playstation.com^$important
 @@|blog.manjaro.org^$important
 @@|blog.mozilla.org^$important
@@ -639,6 +644,7 @@
 @@|box.com^$important
 @@|brand-images.jbhifi.com.au^$important
 @@|brand.twitch.tv^$important
+@@|brave-browser-rpm-release.s3.brave.com^$important
 @@|brave-core-ext.s3.brave.com^$important
 @@|brave.com^$important
 @@|brazil.kaspersky.com^$important
@@ -859,6 +865,7 @@
 @@|checkout.soundcloud.com^$important
 @@|checkout.stripe.com^$important
 @@|checkout.vimeo.com^$important
+@@|checkpoint-*.ipns.network^$important
 @@|chemistdirect.com.au^$important
 @@|chocolatey.disqus.com^$important
 @@|chocolatey.org^$important
@@ -1014,6 +1021,7 @@
 @@|coturn.hw-usw01-prod.halowaypoint.com^$important
 @@|counter-strike.net^$important
 @@|countess.twitch.tv^$important
+@@|countly.ipfs.io^$important
 @@|coupon.aliexpress.com^$important
 @@|covid-check-in-self-form-prod.apps.pcf-ext.service.nsw.gov.au^$important
 @@|covid19-data.health.gov.au^$important
@@ -1233,6 +1241,7 @@
 @@|docs.google.com^$important
 @@|docs.invidious.io^$important
 @@|docs.ipfs.io^$important
+@@|docs.ipfs.tech^$important
 @@|docs.live.net^$important
 @@|docs.microsoft.com^$important
 @@|docs.npmjs.com^$important
@@ -1266,6 +1275,7 @@
 @@|download.acronis.com^$important
 @@|download.adguard.com^$important
 @@|download.anydesk.com^$important
+@@|download.cpuid.com^$important
 @@|download.db-ip.com^$important
 @@|download.dm.origin.com^$important
 @@|download.documentfoundation.org^$important
@@ -1991,6 +2001,7 @@
 @@|img.1fichier.com^$important
 @@|img.alibaba.com^$important
 @@|img.askleomedia.com^$important
+@@|img.chocolatey.org^$important
 @@|img.freeones.com^$important
 @@|img.hulu.com^$important
 @@|img.itch.zone^$important
@@ -2041,10 +2052,13 @@
 @@|ipapi.co^$important
 @@|ipcheck*.jdownloader.org^$important
 @@|ipfs-swarm-ws.hellomouse.net^$important
+@@|ipfs-swarm.fxhash2.xyz^$important
 @@|ipfs.io^$important
 @@|ipfs.kilt.io^$important
 @@|ipfs.local.lubar.me^$important
 @@|ipfs.lubar.me^$important
+@@|ipfs.scalable.io^$important
+@@|ipfs.tech^$important
 @@|iplists.firehol.org^$important
 @@|ipv4.imgur.map.fastly.net^$important
 @@|ipv4.tracker.harry.lu^$important
@@ -2113,6 +2127,8 @@
 @@|key-activation.cdn.ubisoft.com^$important
 @@|keystone.mwbsys.com^$important
 @@|kh.google.com^$important
+@@|khms0.googleapis.com^$important
+@@|khms1.googleapis.com^$important
 @@|kiboke-studio.hr^$important
 @@|kickasstorrents.to^$important
 @@|kit.fontawesome.com^$important
@@ -2375,6 +2391,7 @@
 @@|mirror.cyberbits.eu^$important
 @@|mirror.datacenter.by^$important
 @@|mirror.datamossa.io^$important
+@@|mirror.datamossa.io^$important
 @@|mirror.datto.com^$important
 @@|mirror.de.leaseweb.net^$important
 @@|mirror.dogado.de^$important
@@ -2536,6 +2553,7 @@
 @@|msn.com^$important
 @@|msr-public-ubiservices.ubi.com^$important
 @@|msrc-blog.microsoft.com^$important
+@@|mt.googleapis.com^$important
 @@|mucp.api.account.microsoft.com^$important
 @@|multimedia.email2.gog.com^$important
 @@|multiplayeractivity.xboxlive.com^$important
@@ -2550,6 +2568,8 @@
 @@|mvp.xbox.com^$important
 @@|mw1.google.com^$important
 @@|mwf-service.akamaized.net^$important
+@@|mxlinux.org^$important
+@@|mxrepo.com^$important
 @@|my.anydesk.com^$important
 @@|my.gov.au^$important
 @@|my.jdownloader.org^$important
@@ -3042,11 +3062,13 @@
 @@|remnants.hitmanpro.com^$important
 @@|repo.fedora.md^$important
 @@|repo.manjaro.org^$important
+@@|repo.vivaldi.com^$important
 @@|repo1.maven.org^$important
 @@|report-uri.cloudflare.com^$important
 @@|reports.adguard.com^$important
 @@|reports.tools.gos.ea.com^$important
 @@|repository-images.githubusercontent.com^$important
+@@|reqstat.api.mega.co.nz^$important
 @@|res-1.cdn.office.net^$important
 @@|res.cdn.office.net^$important
 @@|res.cloudinary.com^$important
@@ -3056,6 +3078,7 @@
 @@|rest-api.degoo.com^$important
 @@|rest.iad-03.braze.com^$important
 @@|results.speedtest.net^$important
+@@|retrace.fedoraproject.org^$important
 @@|retracker.ip.ncnet.ru^$important
 @@|retracker.lanta-net.ru^$important
 @@|retracker.local^$important
@@ -3127,6 +3150,7 @@
 @@|scoop.sh^$important
 @@|scorptec.resultspage.com^$important
 @@|screenshotscontent-*.xboxlive.com^$important
+@@|screentogif-releases.azurewebsites.net^$important
 @@|script.google.com^$important
 @@|script.wikia.nocookie.net^$important
 @@|scrootca2.ocsp.secomtrust.net^$important
@@ -3750,6 +3774,7 @@
 @@|ul.mediafireuserupload.com^$important
 @@|ul.to^$important
 @@|unchecky.com^$important
+@@|unicons.iconscout.com^$important
 @@|universalstore.streaming.mediaservices.windows.net^$important
 @@|unix.stackexchange.com^$important
 @@|unrealengine.com^$important
@@ -3942,6 +3967,7 @@
 @@|windowsterminalthemes.dev^$important
 @@|windscribe.com^$important
 @@|winget.azureedge.net^$important
+@@|winget.run^$important
 @@|winscp.net^$important
 @@|winstall.app^$important
 @@|winter15.gosredirector.ea.com^$important
@@ -4049,6 +4075,7 @@
 @@|www.firefox.com^$important
 @@|www.fose.silverlock.org^$important
 @@|www.fosshub.com^$important
+@@|www.fosslinux.com^$important
 @@|www.fossmint.com^$important
 @@|www.freebsd.org^$important
 @@|www.freeones.com^$important
@@ -4201,6 +4228,7 @@
 @@|www.samsung.com^$important
 @@|www.scdn.co^$important
 @@|www.scorptec.com.au^$important
+@@|www.screentogif.com^$important
 @@|www.seagate.com^$important
 @@|www.service.nsw.gov.au^$important
 @@|www.smashingmagazine.com^$important

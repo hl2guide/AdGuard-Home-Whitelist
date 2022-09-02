@@ -14,7 +14,9 @@
 @@|_http._tcp.deb.debian.org^$important
 @@|_http._tcp.debian.mirror.digitalpacific.com.au^$important
 @@|_http._tcp.mirror.aarnet.edu.au^$important
+@@|_http._tcp.mirror.datamossa.io^$important
 @@|_http._tcp.mirrors.ubuntu.com^$important
+@@|_http._tcp.mxrepo.com^$important
 @@|_http._tcp.packages.linuxmint.com^$important
 @@|_http._tcp.ppa.launchpad.net^$important
 @@|_http._tcp.security.debian.org^$important
@@ -184,6 +186,7 @@
 @@|mirror.crucial.com.au^$important
 @@|mirror.cs.pitt.edu^$important
 @@|mirror.cyberbits.eu^$important
+@@|mirror.datamossa.io^$important
 @@|mirror.dogado.de^$important
 @@|mirror.ehost.vn^$important
 @@|mirror.erickochen.nl^$important
@@ -237,6 +240,8 @@
 @@|mirrors.xtom.de^$important
 @@|mirrors.xtom.nl^$important
 @@|multipass.run^$important
+@@|mxlinux.org^$important
+@@|mxrepo.com^$important
 @@|news.opensuse.org^$important
 @@|ntp.ubuntu.com^$important
 @@|nxos.org^$important
@@ -263,6 +268,7 @@
 @@|registry.fedoraproject.org^$important
 @@|releases.ubuntu.com^$important
 @@|repo.manjaro.org^$important
+@@|retrace.fedoraproject.org^$important
 @@|rockylinux.org^$important
 @@|router-default.apps.openshift4.gnome.org^$important
 @@|rsync.opensuse.org^$important
@@ -309,6 +315,7 @@
 @@|www.deepin.org^$important
 @@|www.devuan.org^$important
 @@|www.feyrer.de^$important
+@@|www.fosslinux.com^$important
 @@|www.freebsd.org^$important
 @@|www.fsarchiver.org^$important
 @@|www.gentoo.org^$important

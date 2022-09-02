@@ -63,6 +63,7 @@
 @@|prod.disqus.map.fastlylb.net^$important
 @@|production-appsync.degoo.com^$important
 @@|reddit.map.fastly.net^$important
+@@|reqstat.api.mega.co.nz^$important
 @@|rest-api.degoo.com^$important
 @@|ru-*.1fichier.com^$important
 @@|s*.filefactory.com^$important

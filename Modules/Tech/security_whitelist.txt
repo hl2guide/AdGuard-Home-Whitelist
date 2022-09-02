@@ -26,6 +26,8 @@
 @@|atlas.eff.org^$important
 @@|au.pcpartpicker.com^$important
 @@|blog.chocolatey.org^$important
+@@|blog.ipfs.tech^$important
+@@|brave-browser-rpm-release.s3.brave.com^$important
 @@|calendar.protonmail.com^$important
 @@|cdn.adtidy.org^$important
 @@|cdn.mos.cms.futurecdn.net^$important
@@ -37,6 +39,7 @@
 @@|clearurls.xyz^$important
 @@|community.intel.com^$important
 @@|cookie-cdn.cookiepro.com^$important
+@@|countly.ipfs.io^$important
 @@|crl.rootg2.amazontrust.com^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|deluge-torrent.org^$important
@@ -48,8 +51,10 @@
 @@|dl.acronis.com^$important
 @@|dl3.cdn.filezilla-project.org^$important
 @@|docs.clearurls.xyz^$important
+@@|docs.ipfs.tech^$important
 @@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
+@@|download.cpuid.com^$important
 @@|download.fosshub.com^$important
 @@|download.mipony.net^$important
 @@|download.onlyoffice.com^$important
@@ -64,8 +69,10 @@
 @@|gateway.userstyles.org^$important
 @@|help.duckduckgo.com^$important
 @@|images.easeus.com^$important
+@@|img.chocolatey.org^$important
 @@|imgs.search.brave.com^$important
 @@|int.form.eset.com^$important
+@@|ipfs.tech^$important
 @@|learn.offcloud.com^$important
 @@|link.adtidy.org^$important
 @@|mail.proton.me^$important
@@ -80,10 +87,12 @@
 @@|proton.me^$important
 @@|readthedocs.org^$important
 @@|relay.firefox.com^$important
+@@|repo.vivaldi.com^$important
 @@|rm-eu.palemoon.org^$important
 @@|rufus.akeo.ie^$important
 @@|rufus.ie^$important
 @@|safebrowsing*.brave.com^$important
+@@|screentogif-releases.azurewebsites.net^$important
 @@|security.cloudflare-dns.com^$important
 @@|sfederation.intel.com^$important
 @@|shell.windows.com^$important
@@ -107,12 +116,14 @@
 @@|ts.eset.com^$important
 @@|ublockorigin.pages.dev^$important
 @@|unchecky.com^$important
+@@|unicons.iconscout.com^$important
 @@|use.fontawesome.com.cdn.cloudflare.net^$important
 @@|user-media-prod-cdn.itsre-sumo.mozilla.net^$important
 @@|uso.kkx.one^$important
 @@|vanilla.futurecdn.net^$important
 @@|websiteapi.acronis.com^$important
 @@|windowsreport.com^$important
+@@|winget.run^$important
 @@|www-eset-com.api.cspconsole.com^$important
 @@|www.acronis.com^$important
 @@|www.asus.com^$important
@@ -141,6 +152,7 @@
 @@|www.qbittorrent.org^$important
 @@|www.rizonesoft.com^$important
 @@|www.safedns.com^$important
+@@|www.screentogif.com^$important
 @@|www.seagate.com^$important
 @@|www.sysinternals.com^$important
 @@|www.techradar.com^$important

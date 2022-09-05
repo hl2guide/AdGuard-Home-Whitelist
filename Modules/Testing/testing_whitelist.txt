@@ -1,2 +1,15 @@
-# Testing Rules - 2022-09-02 02:14:28PM
+# Testing Rules - 2022-09-05 11:03:49PM
 
+# Shopping
+@@|cdn.honey.io^$important
+# Linux
+@@|fedora.mirror.liteserver.nl^$important
+@@|www.linuxcompatible.org^$important
+# Tech
+@@|assets.zendesk.com^$important
+@@|evernotesupport.zendesk.com^$important
+@@|p19.zdassets.com^$important
+# Australia
+@@|lifeblood.com.au^$important
+@@|my-opa.donateblood.com.au^$important
+@@|www.lifeblood.com.au^$important

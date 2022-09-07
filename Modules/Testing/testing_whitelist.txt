@@ -1,4 +1,4 @@
-# Testing Rules - 2022-09-05 11:03:49PM
+# Testing Rules - 2022-09-07 03:26:13PM
 
 # Shopping
 @@|cdn.honey.io^$important
@@ -13,3 +13,5 @@
 @@|lifeblood.com.au^$important
 @@|my-opa.donateblood.com.au^$important
 @@|www.lifeblood.com.au^$important
+# Games
+@@|api.blizzard.com^$important

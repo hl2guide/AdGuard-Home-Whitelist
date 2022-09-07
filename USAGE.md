@@ -6,7 +6,7 @@ Please assess what is best for you.
 
 # Usage for AdGuard Home 🛡
 
-Check that you are using __AdGuard Home v0.107.11__ or later before continuing.
+Check that you are using __AdGuard Home v0.107.12__ or later before continuing.
 
 ## DNS Settings within AdGuard 🥅
 

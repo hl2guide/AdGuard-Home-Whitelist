@@ -123,6 +123,7 @@
 @@|fedora.ip-connect.info^$important
 @@|fedora.mirror.constant.com^$important
 @@|fedora.mirror.digitalpacific.com.au^$important
+@@|fedora.mirror.liteserver.nl^$important
 @@|fedora.mirrorservice.org^$important
 @@|fedoraproject.org^$important
 @@|flathub.org^$important
@@ -320,6 +321,7 @@
 @@|www.fsarchiver.org^$important
 @@|www.gentoo.org^$important
 @@|www.hirensbootcd.org^$important
+@@|www.linuxcompatible.org^$important
 @@|www.linuxmint.com^$important
 @@|www.omgubuntu.co.uk^$important
 @@|www.opensuse.org^$important

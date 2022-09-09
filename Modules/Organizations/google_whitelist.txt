@@ -86,6 +86,7 @@
 @@|kh.google.com^$important
 @@|khms0.googleapis.com^$important
 @@|khms1.googleapis.com^$important
+@@|kstatic.googleusercontent.com^$important
 @@|lh*.googleusercontent.com^$important
 @@|lh3.ggpht.com^$important
 @@|lh3.google.com^$important

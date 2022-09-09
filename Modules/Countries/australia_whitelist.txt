@@ -65,12 +65,14 @@
 @@|k535caawve-dsn.algolia.net^$important
 @@|kmart.com.au^$important
 @@|kmartau.mo.cloudinary.net^$important
+@@|lifeblood.com.au^$important
 @@|logx.optimizely.com^$important
 @@|lowes.com.au^$important
 @@|mcusercontent.com^$important
 @@|media.binglee.com.au^$important
 @@|media.prod.bunnings.com.au^$important
 @@|media.richrelevance.com^$important
+@@|my-opa.donateblood.com.au^$important
 @@|my.gov.au^$important
 @@|my.service.nsw.gov.au^$important
 @@|myer.com.au^$important
@@ -145,6 +147,7 @@
 @@|www.intel.com.au^$important
 @@|www.jbhifi.com.au^$important
 @@|www.kmart.com.au^$important
+@@|www.lifeblood.com.au^$important
 @@|www.minidisc.com.au^$important
 @@|www.myshopping.com.au^$important
 @@|www.nongshim.com.au^$important

@@ -71,6 +71,7 @@ Module | Description
 
 Module | Description
 --------- | -----
+[Android](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Tech/android_whitelist.txt) | Android websites |
 [Cloud Storage](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Tech/cloud_storage_whitelist.txt) | Cloud Storage websites |
 [Coding](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Tech/coding_whitelist.txt) | Git and programming websites |
 [IPFS](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Tech/ipfs_whitelist.txt) | IPFS websites |

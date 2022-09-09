@@ -322,6 +322,7 @@
 @@|api.bing.com^$important
 @@|api.bit.ly^$important
 @@|api.bitwarden.com^$important
+@@|api.blizzard.com^$important
 @@|api.braintreegateway.com^$important
 @@|api.dbdtwitch.com^$important
 @@|api.doorman.fsapi.com^$important
@@ -478,6 +479,7 @@
 @@|assets.www.cloudflare.com^$important
 @@|assets.xbox.com^$important
 @@|assets.xboxservices.com^$important
+@@|assets.zendesk.com^$important
 @@|assets.zorincdn.com^$important
 @@|async-px.dynamicyield.com^$important
 @@|atlas.eff.org^$important
@@ -559,6 +561,7 @@
 @@|bbs.archlinux.org^$important
 @@|bc.vc^$important
 @@|bcvc.live^$important
+@@|bdwm.be^$important
 @@|beeftext.org^$important
 @@|behindthevoiceactors.com^$important
 @@|beige.xboxservices.com^$important
@@ -766,6 +769,7 @@
 @@|cdn.gog.com^$important
 @@|cdn.gpsoft.com.au^$important
 @@|cdn.guru99.com^$important
+@@|cdn.honey.io^$important
 @@|cdn.houseofmega.com^$important
 @@|cdn.imagecurl.com^$important
 @@|cdn.iubenda.com^$important
@@ -913,6 +917,7 @@
 @@|clients6.google.com^$important
 @@|clips-media-assets2.twitch.tv^$important
 @@|clips.twitch.tv^$important
+@@|clipsync.bdwm.be^$important
 @@|clonezilla.org^$important
 @@|cloud.addictivetips.com^$important
 @@|cloud.degoo.com^$important
@@ -1456,6 +1461,7 @@
 @@|events-feed.github.com^$important
 @@|events.mapbox.com^$important
 @@|evernote.com^$important
+@@|evernotesupport.zendesk.com^$important
 @@|evoke-windowsservices-tas.msedge.net^$important
 @@|example-publisher.gallery.vsassets.io^$important
 @@|example-publisher.gallerycdn.vsassets.io^$important
@@ -1506,6 +1512,7 @@
 @@|fedora.mirror.gtcomm.net^$important
 @@|fedora.mirror.iweb.com^$important
 @@|fedora.mirror.liquidtelecom.com^$important
+@@|fedora.mirror.liteserver.nl^$important
 @@|fedora.mirror.root.lu^$important
 @@|fedora.mirror.wearetriple.com^$important
 @@|fedora.mirrorservice.org^$important
@@ -2140,6 +2147,7 @@
 @@|koofr.eu^$important
 @@|kr-mirror.chaotic.cx^$important
 @@|kr.api.blizzard.com^$important
+@@|kstatic.googleusercontent.com^$important
 @@|kv601.prod.do.dsp.mp.microsoft.com^$important
 @@|l-ring.msedge.net^$important
 @@|l.clarity.ms^$important
@@ -2177,6 +2185,7 @@
 @@|license.hulu.com^$important
 @@|licensing.mp.microsoft.com^$important
 @@|licensing.xboxlive.com^$important
+@@|lifeblood.com.au^$important
 @@|lightswitch-public-service-prod.ak.epicgames.com^$important
 @@|lightswitch-public-service-prod06.ol.epicgames.com^$important
 @@|lily.cdntrex.com^$important
@@ -2391,7 +2400,6 @@
 @@|mirror.cyberbits.eu^$important
 @@|mirror.datacenter.by^$important
 @@|mirror.datamossa.io^$important
-@@|mirror.datamossa.io^$important
 @@|mirror.datto.com^$important
 @@|mirror.de.leaseweb.net^$important
 @@|mirror.dogado.de^$important
@@ -2570,6 +2578,7 @@
 @@|mwf-service.akamaized.net^$important
 @@|mxlinux.org^$important
 @@|mxrepo.com^$important
+@@|my-opa.donateblood.com.au^$important
 @@|my.anydesk.com^$important
 @@|my.gov.au^$important
 @@|my.jdownloader.org^$important
@@ -2778,6 +2787,7 @@
 @@|p.twitchcdn.net^$important
 @@|p.typekit.net^$important
 @@|p15.zdassets.com^$important
+@@|p19.zdassets.com^$important
 @@|p20.zdassets.com^$important
 @@|p3a-json.brave.com^$important
 @@|p3a.brave.com^$important
@@ -4132,8 +4142,10 @@
 @@|www.kudoboard.com^$important
 @@|www.lastpass.com^$important
 @@|www.libreoffice.org^$important
+@@|www.lifeblood.com.au^$important
 @@|www.lifewire.com^$important
 @@|www.lightboxcdn.com^$important
+@@|www.linuxcompatible.org^$important
 @@|www.linuxmint.com^$important
 @@|www.localcdn.org^$important
 @@|www.macrium.com^$important
@@ -4231,6 +4243,7 @@
 @@|www.screentogif.com^$important
 @@|www.seagate.com^$important
 @@|www.service.nsw.gov.au^$important
+@@|www.simplemobiletools.com^$important
 @@|www.smashingmagazine.com^$important
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important

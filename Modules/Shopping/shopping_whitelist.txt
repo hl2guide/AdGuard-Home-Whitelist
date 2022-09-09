@@ -8,6 +8,7 @@
 @@|assets.resultspage.com^$important
 @@|async-px.dynamicyield.com^$important
 @@|cdn.dynamicyield.com^$important
+@@|cdn.honey.io^$important
 @@|cdnp*.stackassets.com^$important
 @@|cdp.aliexpress.com^$important
 @@|client.stackcommerce.io^$important

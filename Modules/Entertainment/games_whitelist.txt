@@ -27,6 +27,7 @@
 @@|api*.origin.com^$important
 @@|api.ageofempires.com^$important
 @@|api.bethesda.net^$important
+@@|api.blizzard.com^$important
 @@|api.epicgames.dev^$important
 @@|api.gog.com^$important
 @@|api.locize.app^$important

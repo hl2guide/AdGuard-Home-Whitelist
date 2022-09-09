@@ -1,7 +1,7 @@
 # AdGuard-Home-Whitelist ✅
 
-- Current Version: 1.2.2.17
-- Last Updated (AEST): 2022-09-02 02:14:41PM
+- Current Version: 1.2.2.20
+- Last Updated (AEST): 2022-09-09 04:55:27PM
 
 ## Intro ✍
 
@@ -17,7 +17,10 @@ _AdGuard-Home-Whitelist © 2022 - hl2guide_
 
 ## Recent News 📰
 
-- Added more Fedora and Ubuntu mirrors
+| Date and Time | Note |
+|---------------|------|
+| 2022-09-09 04:52:33PM | Added an Android module |
+| August, 2022 | Added more Fedora and Ubuntu mirrors |
 
 ## Aspects ⏺
 

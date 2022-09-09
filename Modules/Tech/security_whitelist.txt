@@ -23,6 +23,7 @@
 @@|ark.intel.com^$important
 @@|artifacts.bitwarden.com^$important
 @@|assets.esetstatic.com^$important
+@@|assets.zendesk.com^$important
 @@|atlas.eff.org^$important
 @@|au.pcpartpicker.com^$important
 @@|blog.chocolatey.org^$important
@@ -60,6 +61,7 @@
 @@|download.onlyoffice.com^$important
 @@|e1.o.lencr.org^$important
 @@|eset.com^$important
+@@|evernotesupport.zendesk.com^$important
 @@|extensionworkshop.com^$important
 @@|feedback.eset.com^$important
 @@|filezilla-project.org^$important
@@ -77,6 +79,7 @@
 @@|link.adtidy.org^$important
 @@|mail.proton.me^$important
 @@|manage.ntppool.org^$important
+@@|p19.zdassets.com^$important
 @@|p3a-json.brave.com^$important
 @@|pcdn.brave.com^$important
 @@|platform.cloud.coveo.com^$important

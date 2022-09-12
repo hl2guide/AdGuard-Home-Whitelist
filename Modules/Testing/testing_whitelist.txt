@@ -1,3 +1,7 @@
-# Testing Rules - 2022-09-09 04:50:09PM
+# Testing Rules - 2022-09-12 09:42:25PM
 
-# MERGED
+# Videos
+@@|invidious.rhyshl.live^$important
+@@|invidious.namazso.eu^$important
+# Australia
+@@|www.jaycar.com.au^$important

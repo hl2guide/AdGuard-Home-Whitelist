@@ -1,7 +1,17 @@
-# Testing Rules - 2022-09-12 09:42:25PM
+# Testing Rules - 2022-09-13 02:36:18AM
 
 # Videos
 @@|invidious.rhyshl.live^$important
 @@|invidious.namazso.eu^$important
 # Australia
 @@|www.jaycar.com.au^$important
+
+# Games
+@@|cdn.dragonagekeep.com^$important
+@@|dragonagekeep.com^$important
+@@|emapi.prm.data.ea.com^$important
+@@|fast.fonts.net^$important
+@@|friends.dm.origin.com^$important
+@@|prd.orbit.bos.ea.com^$important
+@@|qos-prod-bio-syd-common-common.gos.ea.com^$important
+@@|social.bioware.com^$important

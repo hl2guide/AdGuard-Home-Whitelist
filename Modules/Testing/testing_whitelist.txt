@@ -1,4 +1,4 @@
-# Testing Rules - 2022-09-13 02:36:18AM
+# Testing Rules - 2022-09-15 02:42:20PM
 
 # Videos
 @@|invidious.rhyshl.live^$important
@@ -15,3 +15,12 @@
 @@|prd.orbit.bos.ea.com^$important
 @@|qos-prod-bio-syd-common-common.gos.ea.com^$important
 @@|social.bioware.com^$important
+
+# Games
+@@|lvlt.bioware.cdn.ea.com^$important
+# Google
+@@|payments.google.com^$important
+@@|tokenized.play.google.com^$important
+# Development
+@@|caddyserver.com^$important
+@@|nodejs.org^$important

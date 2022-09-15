@@ -1,8 +1,9 @@
-# Testing Rules - 2022-09-15 02:42:20PM
+# Testing Rules - 2022-09-16 05:32:46AM
 
 # Videos
 @@|invidious.rhyshl.live^$important
 @@|invidious.namazso.eu^$important
+
 # Australia
 @@|www.jaycar.com.au^$important
 
@@ -18,9 +19,22 @@
 
 # Games
 @@|lvlt.bioware.cdn.ea.com^$important
+
 # Google
 @@|payments.google.com^$important
 @@|tokenized.play.google.com^$important
+
 # Development
 @@|caddyserver.com^$important
 @@|nodejs.org^$important
+
+# Tech
+@@|acronis.com^$important
+@@|dl.acronis.com^$important
+@@|go.acronis.com^$important
+
+# Speed Test
+@@|win1.speedtest.telstra.net^$important
+
+# Tech
+@@|r3.i.lencr.org^$important

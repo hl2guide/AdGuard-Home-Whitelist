@@ -270,6 +270,7 @@
 @@|l-ring.msedge.net^$important
 @@|l.clarity.ms^$important
 @@|leaderboards.xboxlive.com^$important
+@@|learn.microsoft.com^$important
 @@|lfghub-anonymous.xboxlive.com^$important
 @@|licensing.mp.microsoft.com^$important
 @@|licensing.xboxlive.com^$important

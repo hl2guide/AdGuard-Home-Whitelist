@@ -214,6 +214,7 @@
 @@|acer.com^$important
 @@|achievements.gameservices.ea.com^$important
 @@|achievements.xboxlive.com^$important
+@@|acronis.com^$important
 @@|activity.windows.com^$important
 @@|adawareupdateservice.lavasoft.com^$important
 @@|adaway.org^$important
@@ -325,6 +326,7 @@
 @@|api.blizzard.com^$important
 @@|api.braintreegateway.com^$important
 @@|api.dbdtwitch.com^$important
+@@|api.deezer.com^$important
 @@|api.doorman.fsapi.com^$important
 @@|api.dropbox.com^$important
 @@|api.epicgames.dev^$important
@@ -697,6 +699,7 @@
 @@|cache1-per-edgx.steamcontent.com^$important
 @@|cache2-mel-edgx.steamcontent.com^$important
 @@|cache2-per-edgx.steamcontent.com^$important
+@@|caddyserver.com^$important
 @@|caldav.fe.apple-dns.net^$important
 @@|caldav.icloud.com^$important
 @@|calendar-pa.clients*.google.com^$important
@@ -759,6 +762,7 @@
 @@|cdn.discordapp.com^$important
 @@|cdn.downdetector.com^$important
 @@|cdn.download.clearlinux.org^$important
+@@|cdn.dragonagekeep.com^$important
 @@|cdn.dynamicyield.com^$important
 @@|cdn.eu.auth0.com^$important
 @@|cdn.flowplayer.com^$important
@@ -832,6 +836,7 @@
 @@|cdpn.io^$important
 @@|cec.svc.evernote.com^$important
 @@|cem.services.microsoft.com^$important
+@@|central.github.com^$important
 @@|central.github.com^$important
 @@|cerberus-front.easyanticheat.net^$important
 @@|cert.mgt.xboxlive.com^$important
@@ -1209,6 +1214,7 @@
 @@|dl-file.cyberlink.com^$important
 @@|dl-web.dropbox.com^$important
 @@|dl.acronis.com^$important
+@@|dl.acronis.com^$important
 @@|dl.bitsum.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dl.dropbox.com^$important
@@ -1328,6 +1334,7 @@
 @@|downloads.wisecleaner.com^$important
 @@|downloads3.fxsound.com^$important
 @@|dpgsrv.redmond.corp.microsoft.com^$important
+@@|dragonagekeep.com^$important
 @@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.google.com^$important
 @@|driveroff.net^$important
@@ -1344,6 +1351,7 @@
 @@|duckduckgo.com^$important
 @@|dyncdn.me^$important
 @@|dyncdn2.com^$important
+@@|e-cdn-images.dzcdn.net^$important
 @@|e.deviantart.net^$important
 @@|e1.o.lencr.org^$important
 @@|e7641.b.akamaiedge.net^$important
@@ -1389,6 +1397,7 @@
 @@|elm-lang.org^$important
 @@|email-assets.soundcloud.com^$important
 @@|email2.gog.com^$important
+@@|emapi.prm.data.ea.com^$important
 @@|embed.spotify.com^$important
 @@|embed.twitch.tv^$important
 @@|emdl.ws.microsoft.com^$important
@@ -1428,6 +1437,7 @@
 @@|epix.xbox.com^$important
 @@|epl.paypal-communication.com^$important
 @@|eplists.xboxlive.com^$important
+@@|er-prod.s3.amazonaws.com^$important
 @@|er.dm.origin.com^$important
 @@|error-reporter.juno.ea.com^$important
 @@|errors.client.optimizely.com^$important
@@ -1492,6 +1502,7 @@
 @@|fan.twitch.tv^$important
 @@|fanboy.co.nz^$important
 @@|fandom.com^$important
+@@|fast.fonts.net^$important
 @@|fastcopy.jp^$important
 @@|favorites.live.com^$important
 @@|fdroid.gitlab.io^$important
@@ -1651,6 +1662,7 @@
 @@|friends-list.cdn.ubisoft.com^$important
 @@|friends-public-service-prod.ak.epicgames.com^$important
 @@|friends-public-service-prod06.ol.epicgames.com^$important
+@@|friends.dm.origin.com^$important
 @@|friends.gs.ea.com^$important
 @@|frog.wix.com^$important
 @@|fs*.fastfile.cc^$important
@@ -1795,10 +1807,12 @@
 @@|gmail.com^$important
 @@|gmail.google.com^$important
 @@|go-updater.brave.com^$important
+@@|go.acronis.com^$important
 @@|go.dev^$important
 @@|go.eset.com^$important
 @@|go.eset.eu^$important
 @@|go.microsoft.com^$important
+@@|go.oo-software.com^$important
 @@|go.trouter.teams.microsoft.com^$important
 @@|go.twitch.tv^$important
 @@|godofwar.playstation.com^$important
@@ -2049,6 +2063,8 @@
 @@|interactive-examples.mdn.mozilla.net^$important
 @@|invent.kde.org^$important
 @@|invidious.io^$important
+@@|invidious.namazso.eu^$important
+@@|invidious.rhyshl.live^$important
 @@|invite.twitch.tv^$important
 @@|io.playstation.com^$important
 @@|ios.nccp.netflix.com^$important
@@ -2118,6 +2134,7 @@
 @@|julialang.org^$important
 @@|juno-error-reporter-prod-junoerrorreporters*.s3.amazonaws.com^$important
 @@|k-ring.msedge.net^$important
+@@|k.twitchcdn.net^$important
 @@|k2s.cc^$important
 @@|k535caawve-1.algolianet.com^$important
 @@|k535caawve-2.algolianet.com^$important
@@ -2162,6 +2179,7 @@
 @@|layouts.nvidiagrid.net^$important
 @@|lea.cdntrex.com^$important
 @@|leaderboards.xboxlive.com^$important
+@@|learn.microsoft.com^$important
 @@|learn.offcloud.com^$important
 @@|letsencrypt.org^$important
 @@|letsupload.io^$important
@@ -2262,6 +2280,7 @@
 @@|lu.api.mega.co.nz^$important
 @@|lutris.net^$important
 @@|lv.wikipedia.com^$important
+@@|lvlt.bioware.cdn.ea.com^$important
 @@|lvlt.cdn.ea.com^$important
 @@|m.alibaba.com^$important
 @@|m.aliexpress.com^$important
@@ -2633,6 +2652,7 @@
 @@|nn.speedtest.vodafone.com.au^$important
 @@|nnenix.mm.fcix.net^$important
 @@|no.mirrors.blix.com^$important
+@@|nodejs.org^$important
 @@|normandy.cdn.mozilla.net^$important
 @@|notable.app^$important
 @@|notable.md^$important
@@ -2828,6 +2848,7 @@
 @@|paymentinstruments.mp.microsoft.com^$important
 @@|payments.appwork.org^$important
 @@|payments.braintree-api.com^$important
+@@|payments.google.com^$important
 @@|payments.help.soundcloud.com^$important
 @@|payments.openalerts.com^$important
 @@|payments.soundcloud.com^$important
@@ -2935,6 +2956,7 @@
 @@|powershellgallery.com^$important
 @@|ppa.launchpad.net^$important
 @@|pr-*.data.ea.com^$important
+@@|prd.orbit.bos.ea.com^$important
 @@|premium-*.nexus-cdn.com^$important
 @@|premium.soundcloud.com^$important
 @@|presence-api.live.public-ws.prod.tetra.fleet.ubi.com^$important
@@ -3017,12 +3039,15 @@
 @@|qemu.weilnetz.de^$important
 @@|qos*.ol.epicgames.com^$important
 @@|qos-prod-bio-dub-common-common.gos.ea.com^$important
+@@|qos-prod-bio-syd-common-common.gos.ea.com^$important
+@@|qos-prod-m3d-nrt-common-common.gos.ea.com^$important
 @@|qos1.ol.epicgames.com^$important
 @@|quad9.net^$important
 @@|quantum-mirror.hu^$important
 @@|query.prod.cms.rt.microsoft.com^$important
 @@|qwant.com^$important
 @@|r.msftstatic.com^$important
+@@|r3.i.lencr.org^$important
 @@|r3.o.lencr.org^$important
 @@|r4---sn-npoe7n7y.googlevideo.com^$important
 @@|r4.res.office365.com^$important
@@ -3265,6 +3290,7 @@
 @@|snapi.live.net^$important
 @@|snexpansion.unknownworlds.com^$important
 @@|social-overlay-launchdarkly-api-prod.ol.epicgames.com^$important
+@@|social.bioware.com^$important
 @@|social.msdn.microsoft.com^$important
 @@|social.playstation.com^$important
 @@|social.technet.microsoft.com^$important
@@ -3659,6 +3685,7 @@
 @@|to-do.microsoft.com^$important
 @@|todosupport.microsoft.com^$important
 @@|token.cp.microsoft.com/^$important
+@@|tokenized.play.google.com^$important
 @@|tokens-auth.touchtype-fluency.com^$important
 @@|tokensit.cp.microsoft-tst.com/^$important
 @@|torlock.com^$important
@@ -3967,6 +3994,7 @@
 @@|wikipedia.com^$important
 @@|wikipedia.org^$important
 @@|wildcard.fedoraproject.org^$important
+@@|win1.speedtest.telstra.net^$important
 @@|win10.ipv6.microsoft.com^$important
 @@|winaero.com^$important
 @@|windows.com^$important
@@ -3989,6 +4017,7 @@
 @@|wordpress.org^$important
 @@|workspace.google.com^$important
 @@|wowprodmediaaae.blob.core.windows.net^$important
+@@|ws.audioscrobbler.com^$important
 @@|ws1-n1mel.isp.foxtel.net.au^$important
 @@|ws1-n1syd.isp.foxtel.net.au^$important
 @@|ws75.aptoide.com^$important
@@ -4132,9 +4161,11 @@
 @@|www.iperiusbackup.net^$important
 @@|www.izarc.org^$important
 @@|www.java.com^$important
+@@|www.jaycar.com.au^$important
 @@|www.jbhifi.com.au^$important
 @@|www.justpushstart.com^$important
 @@|www.kde.org^$important
+@@|www.kensington.com^$important
 @@|www.keyxl.com^$important
 @@|www.killingfloor2.com^$important
 @@|www.kmart.com.au^$important

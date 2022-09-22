@@ -17,6 +17,7 @@
 @@|avatars2.githubusercontent.com^$important
 @@|avatars3.githubusercontent.com^$important
 @@|bugs.python.org^$important
+@@|caddyserver.com^$important
 @@|camo.githubusercontent.com^$important
 @@|caniuse.com^$important
 @@|cdn.auth0.com^$important
@@ -24,6 +25,7 @@
 @@|cdn.rawgit.com^$important
 @@|cdn.skypack.dev^$important
 @@|cdpn.io^$important
+@@|central.github.com^$important
 @@|central.github.com^$important
 @@|cloud.githubusercontent.com^$important
 @@|codeload.github.com^$important
@@ -111,6 +113,7 @@
 @@|msdn.microsoft.com^$important
 @@|netdna.bootstrapcdn.com^$important
 @@|nginx.org^$important
+@@|nodejs.org^$important
 @@|notable.app^$important
 @@|notable.md^$important
 @@|npmjs.com^$important

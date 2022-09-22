@@ -115,6 +115,7 @@
 @@|ogs.google.com^$important
 @@|one.google.com^$important
 @@|pay.google.com^$important
+@@|payments.google.com^$important
 @@|people-pa.clients*.google.com^$important
 @@|photo.plus.google.com^$important
 @@|photos-ugc.l.googleusercontent.com^$important
@@ -146,6 +147,7 @@
 @@|takeout.google.com^$important
 @@|talk.google.com^$important
 @@|talk.l.google.com^$important
+@@|tokenized.play.google.com^$important
 @@|translate.google.com.au^$important
 @@|update.googleapis.com^$important
 @@|versionhistory.googleapis.com^$important

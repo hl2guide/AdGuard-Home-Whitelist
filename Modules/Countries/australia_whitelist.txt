@@ -145,6 +145,7 @@
 @@|www.health.nsw.gov.au^$important
 @@|www.images-home.com^$important
 @@|www.intel.com.au^$important
+@@|www.jaycar.com.au^$important
 @@|www.jbhifi.com.au^$important
 @@|www.kmart.com.au^$important
 @@|www.lifeblood.com.au^$important

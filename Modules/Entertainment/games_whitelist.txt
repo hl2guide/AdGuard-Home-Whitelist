@@ -84,6 +84,7 @@
 @@|cdn.akamai.steamstatic.com^$important
 @@|cdn.bethesda.net^$important
 @@|cdn.cloudflare.steamstatic.com^$important
+@@|cdn.dragonagekeep.com^$important
 @@|cdn.gog.com^$important
 @@|cdn.iubenda.com^$important
 @@|cdn.services.gearboxsoftware.com^$important
@@ -142,6 +143,7 @@
 @@|download*.epicgames.com^$important
 @@|download.dm.origin.com^$important
 @@|download.epicgames.com^$important
+@@|dragonagekeep.com^$important
 @@|ea.com^$important
 @@|eacommerce.akamaized.net^$important
 @@|eadpgs-blapp002.ea.com^$important
@@ -150,6 +152,7 @@
 @@|economy.svc.halowaypoint.com^$important
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
 @@|email2.gog.com^$important
+@@|emapi.prm.data.ea.com^$important
 @@|emea-storm.ubi.com^$important
 @@|ems-delivery.api.playstation.com^$important
 @@|entitlement-public-service-prod.ak.epicgames.com^$important
@@ -159,6 +162,7 @@
 @@|epic-social-social-modules-prod.ol.epicgames.com^$important
 @@|epicgames-download1.akamaized.net^$important
 @@|epicgames.com^$important
+@@|er-prod.s3.amazonaws.com^$important
 @@|er.dm.origin.com^$important
 @@|error-reporter.juno.ea.com^$important
 @@|eu.cdn.blizzard.com^$important
@@ -172,6 +176,7 @@
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
 @@|fandom.com^$important
+@@|fast.fonts.net^$important
 @@|fellowship.services.gearboxsoftware.com^$important
 @@|file-metadata.nexusmods.com^$important
 @@|files.cdn.ubisoft.com^$important
@@ -190,6 +195,7 @@
 @@|friends-list.cdn.ubisoft.com^$important
 @@|friends-public-service-prod.ak.epicgames.com^$important
 @@|friends-public-service-prod06.ol.epicgames.com^$important
+@@|friends.dm.origin.com^$important
 @@|friends.gs.ea.com^$important
 @@|fsa01.ps4.update.playstation.net^$important
 @@|game-page.cdn.ubisoft.com^$important
@@ -257,6 +263,7 @@
 @@|lobby-hi.svc.halowaypoint.com^$important
 @@|login.gog.com^$important
 @@|lp.gog.com^$important
+@@|lvlt.bioware.cdn.ea.com^$important
 @@|lvlt.cdn.ea.com^$important
 @@|m.codemasters.com^$important
 @@|m.playstation.com^$important
@@ -352,6 +359,7 @@
 @@|playstation.net^$important
 @@|pls.dyinglightgame.com^$important
 @@|pr-*.data.ea.com^$important
+@@|prd.orbit.bos.ea.com^$important
 @@|presence-api.live.public-ws.prod.tetra.fleet.ubi.com^$important
 @@|presscenter.playstation.com^$important
 @@|priceengine-public-service-ecomprod01.ol.epicgames.com^$important
@@ -368,6 +376,8 @@
 @@|pw.nexusmods.com^$important
 @@|qos*.ol.epicgames.com^$important
 @@|qos-prod-bio-dub-common-common.gos.ea.com^$important
+@@|qos-prod-bio-syd-common-common.gos.ea.com^$important
+@@|qos-prod-m3d-nrt-common-common.gos.ea.com^$important
 @@|qos1.ol.epicgames.com^$important
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
@@ -394,6 +404,7 @@
 @@|skill.svc.halowaypoint.com^$important
 @@|snexpansion.unknownworlds.com^$important
 @@|social-overlay-launchdarkly-api-prod.ol.epicgames.com^$important
+@@|social.bioware.com^$important
 @@|social.playstation.com^$important
 @@|spartanstats.svc.halowaypoint.com^$important
 @@|split-evaluator-prod.eax.ea.com^$important

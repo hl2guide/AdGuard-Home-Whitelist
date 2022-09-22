@@ -7,6 +7,7 @@
 @@|ap.spotify.com^$important
 @@|api-partner.spotify.com^$important
 @@|api-tv.spotify.com^$important
+@@|api.deezer.com^$important
 @@|api.imgur.com^$important
 @@|api.na-backend.odysee.com^$important
 @@|api.odysee.com^$important
@@ -41,6 +42,7 @@
 @@|downloader.cyberlink.com^$important
 @@|downloads*.fxsound.com^$important
 @@|downloads3.fxsound.com^$important
+@@|e-cdn-images.dzcdn.net^$important
 @@|e.deviantart.net^$important
 @@|embed.spotify.com^$important
 @@|encore.scdn.co^$important
@@ -112,6 +114,7 @@
 @@|wallhaven.cc^$important
 @@|wiki.videolan.org^$important
 @@|wixmp-ed30a86b8c4ca887773594c2.wixmp.com^$important
+@@|ws.audioscrobbler.com^$important
 @@|www-growth.scdn.co^$important
 @@|www.burnaware.com^$important
 @@|www.cyberlink.com^$important

@@ -79,6 +79,8 @@
 @@|inspector.twitch.tv^$important
 @@|instances.invidious.io^$important
 @@|invidious.io^$important
+@@|invidious.namazso.eu^$important
+@@|invidious.rhyshl.live^$important
 @@|invite.twitch.tv^$important
 @@|ios.nccp.netflix.com^$important
 @@|irc-ws.chat.twitch.tv^$important
@@ -86,6 +88,7 @@
 @@|irc.twitch.tv^$important
 @@|join.vimeo.com^$important
 @@|jp.blog.twitch.tv^$important
+@@|k.twitchcdn.net^$important
 @@|license.hulu.com^$important
 @@|link.twitch.tv^$important
 @@|live-ams.twitch.tv^$important

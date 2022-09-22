@@ -38,6 +38,7 @@
 @@|vic-crlt-speedtest.aarnet.net.au^$important
 @@|vic.speedtest.exetel.com.au^$important
 @@|vic.speedtest.leaptel.com.au.prod.hosts.ooklaserver.net^$important
+@@|win1.speedtest.telstra.net^$important
 @@|ws1-n1mel.isp.foxtel.net.au^$important
 @@|www.nbnco.com.au^$important
 @@|www.speedguide.net^$important

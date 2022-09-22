@@ -1,4 +1,4 @@
-# Testing Rules - 2022-09-16 05:32:46AM
+# Testing Rules - 2022-09-22 11:21:50AM
 
 # Videos
 @@|invidious.rhyshl.live^$important
@@ -38,3 +38,13 @@
 
 # Tech
 @@|r3.i.lencr.org^$important
+
+# Games
+@@|er-prod.s3.amazonaws.com^$important
+@@|qos-prod-m3d-nrt-common-common.gos.ea.com^$important
+# Microsoft
+@@|learn.microsoft.com^$important
+# Music
+@@|ws.audioscrobbler.com^$important
+@@|api.deezer.com^$important
+@@|e-cdn-images.dzcdn.net^$important

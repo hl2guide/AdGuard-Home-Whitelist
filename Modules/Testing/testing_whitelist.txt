@@ -1,2 +1,9 @@
-# Testing Rules -
+# Testing Rules - 2022-09-25 07:25:32AM
 
+# Linux
+@@|www.linux.org^$important
+@@|www.if-not-true-then-false.com^$important
+@@|www.tecmint.com^$important
+
+# Development
+@@|tabler-icons.io^$important

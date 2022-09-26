@@ -1,4 +1,4 @@
-# Testing Rules - 2022-09-25 07:25:32AM
+# Testing Rules - 2022-09-26 10:43:52PM
 
 # Linux
 @@|www.if-not-true-then-false.com^$important
@@ -19,3 +19,20 @@
 @@|www.comparebroadband.com.au^$important
 @@|www.dodo.com^$important
 @@|www.whistleout.com.au^$important
+
+# Tech
+@@|www.wisecleaner.com^$important
+
+# Australia
+@@|computers.mwave.com.au^$important
+@@|www.staticice.com.au^$important
+@@|cdn.mwave.com.au^$important
+@@|content.mwave.com.au^$important
+@@|mwave.resultspage.com^$important
+@@|www.mwave.com.au^$important
+
+# Speed Test
+@@|vic-speedtest.spirit.com.au^$important
+
+# Media
+@@|cdn*.bunkr.is^$important

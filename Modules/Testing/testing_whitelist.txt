@@ -1,9 +1,21 @@
 # Testing Rules - 2022-09-25 07:25:32AM
 
 # Linux
-@@|www.linux.org^$important
 @@|www.if-not-true-then-false.com^$important
+@@|www.linux.org^$important
 @@|www.tecmint.com^$important
 
 # Development
 @@|tabler-icons.io^$important
+
+# Australia
+@@|cdn.canstar.com.au^$important
+@@|cdn.canstarblue.com.au^$important
+@@|dodo.com.au^$important
+@@|r3.whistleout.com.au^$important
+@@|static.comparebroadband.com.au^$important
+@@|tags.kmart.com.au^$important
+@@|www.canstarblue.com.au^$important
+@@|www.comparebroadband.com.au^$important
+@@|www.dodo.com^$important
+@@|www.whistleout.com.au^$important

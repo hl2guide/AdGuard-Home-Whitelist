@@ -1,4 +1,4 @@
-# Testing Rules - 2022-09-26 10:43:52PM
+# Testing Rules - 2022-09-28 05:30:04AM
 
 # Linux
 @@|www.if-not-true-then-false.com^$important
@@ -36,3 +36,26 @@
 
 # Media
 @@|cdn*.bunkr.is^$important
+
+# Tech
+@@|www.dell.com^$important
+@@|www.dellcdn.com^$important
+@@|downloads.dell.com^$important
+@@|dl.dell.com^$important
+
+# Games
+@@|frostytoolsuite.com^$important
+# Tech
+@@|drive.protonmail.com^$important
+# NVIDIA
+@@|accounts.nvgs.nvidia.cn^$important
+@@|events.gfe.nvidia.com^$important
+@@|geo-location-api.gx.nvidia.com^$important
+@@|img.nvidiagrid.net^$important
+@@|login.nvgs.nvidia.com^$important
+@@|ls.dtrace.nvidia.com^$important
+@@|ota.nvidia.com^$important
+@@|static.nvidiagrid.net^$important
+@@|telemetry.gfe.nvidia.com^$important
+@@|use.fortawesome.com^$important
+@@|www.geforce.com^$important

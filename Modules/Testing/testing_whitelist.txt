@@ -1,4 +1,4 @@
-# Testing Rules - 2022-09-28 05:30:04AM
+# Testing Rules - 2022-09-29 06:25:04AM
 
 # Linux
 @@|www.if-not-true-then-false.com^$important
@@ -59,3 +59,9 @@
 @@|telemetry.gfe.nvidia.com^$important
 @@|use.fortawesome.com^$important
 @@|www.geforce.com^$important
+
+# Security
+@@|links.account.evernote.com^$important
+
+# Tech
+@@|drive.proton.me^$important

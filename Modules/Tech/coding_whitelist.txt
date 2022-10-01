@@ -155,6 +155,7 @@
 @@|static.ocecdn.oraclecloud.com^$important
 @@|static.rust-lang.org^$important
 @@|status.github.com^$important
+@@|tabler-icons.io^$important
 @@|techcommunity.microsoft.com^$important
 @@|technet.microsoft.com^$important
 @@|tutorial.notable.app^$important

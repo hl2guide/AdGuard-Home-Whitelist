@@ -1,7 +1,7 @@
 # AdGuard-Home-Whitelist ✅
 
-- Current Version: 1.2.2.21
-- Last Updated (AEST): 2022-09-23 01:32:27AM
+- Current Version: 1.2.3.1
+- Last Updated (AEST): 2022-10-01 05:42:10PM
 
 ## Intro ✍
 
@@ -19,6 +19,7 @@ _AdGuard-Home-Whitelist © 2022 - hl2guide_
 
 | Date and Time | Note |
 |---------------|------|
+| 2022-10-01 05:42:10PM | Added many new rules |
 | 2022-09-09 04:52:33PM | Added an Android module |
 | August, 2022 | Added more Fedora and Ubuntu mirrors |
 
@@ -55,7 +56,7 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 ### Details 🧾
 
 * __Expected AdGuard Home Average RAM Usage:__ around 18MB
-* __Number of Rules:__ over 4200
+* __Number of Rules:__ over 4400
 
 ## Updates 👩‍💻
 

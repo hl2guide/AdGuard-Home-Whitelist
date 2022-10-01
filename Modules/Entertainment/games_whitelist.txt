@@ -17,6 +17,7 @@
 @@|accounts.api.playstation.com^$important
 @@|accounts.ea.com^$important
 @@|accounts.epicgames.com^$important
+@@|accounts.nvgs.nvidia.cn^$important
 @@|achievements.gameservices.ea.com^$important
 @@|amp.azure.net^$important
 @@|analytics.tripwireinteractive.com^$important
@@ -25,6 +26,7 @@
 @@|ap-southeast-2-storm.ubi.com^$important
 @@|apac-storm.ubi.com^$important
 @@|api*.origin.com^$important
+@@|api-chat.chatbotize.com^$important
 @@|api.ageofempires.com^$important
 @@|api.bethesda.net^$important
 @@|api.blizzard.com^$important
@@ -67,6 +69,8 @@
 @@|bnetcmsus-a.akamaihd.net^$important
 @@|bnetus-a.akamaihd.net^$important
 @@|boardsus.playstation.com^$important
+@@|braintree-api.com^$important
+@@|braintreegateway.com^$important
 @@|button.moddb.com^$important
 @@|c.opencritic.com^$important
 @@|cache*-syd1.steamcontent.com^$important
@@ -96,6 +100,7 @@
 @@|chat-1-client-s1-prod.services.gearboxsoftware.com^$important
 @@|chat.cdn.ubisoft.com^$important
 @@|checkout.ea.com^$important
+@@|checkoutshopper-live.adyen.com^$important
 @@|client-download.steampowered.com^$important
 @@|client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|clientconfig.akamai.steamstatic.com^$important
@@ -122,6 +127,7 @@
 @@|content.halocdn.com^$important
 @@|content.warframe.com^$important
 @@|contentful-proxy.juno.ea.com^$important
+@@|core-chat.chatbotize.com^$important
 @@|coturn.hw-usw-prod.halowaypoint.com^$important
 @@|coturn.hw-usw01-prod.halowaypoint.com^$important
 @@|counter-strike.net^$important
@@ -153,6 +159,7 @@
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
 @@|email2.gog.com^$important
 @@|emapi.prm.data.ea.com^$important
+@@|embedded-chat.chatbotize.com^$important
 @@|emea-storm.ubi.com^$important
 @@|ems-delivery.api.playstation.com^$important
 @@|entitlement-public-service-prod.ak.epicgames.com^$important
@@ -170,8 +177,8 @@
 @@|eulatracking-public-service-prod.ak.epicgames.com^$important
 @@|eulatracking-public-service-prod06.ol.epicgames.com^$important
 @@|eus-streaming-video-rt-microsoft-com.akamaized.net^$important
+@@|events.gfe.nvidia.com^$important
 @@|external-offer-mapping-service.juno.ea.com^$important
-@@|f4se.silverlock.org^$important
 @@|f4se.silverlock.org^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
@@ -197,6 +204,7 @@
 @@|friends-public-service-prod06.ol.epicgames.com^$important
 @@|friends.dm.origin.com^$important
 @@|friends.gs.ea.com^$important
+@@|frostytoolsuite.com^$important
 @@|fsa01.ps4.update.playstation.net^$important
 @@|game-page.cdn.ubisoft.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
@@ -207,12 +215,14 @@
 @@|gateway.ea.com^$important
 @@|gear.playstation.com^$important
 @@|gen4.reports.tools.gos.ea.com^$important
+@@|geo-location-api.gx.nvidia.com^$important
 @@|get.net.playstation.net^$important
 @@|getprof.sg.np.community.playstation.net^$important
 @@|godofwar.playstation.com^$important
 @@|gog-statics.com^$important
 @@|gog.com^$important
 @@|gogalaxy.gog-statics.com^$important
+@@|gogsupport.zendesk.com^$important
 @@|google.cdn.steampipe.steamcontent.com^$important
 @@|google2.cdn.steampipe.steamcontent.com^$important
 @@|gosca.ea.com^$important
@@ -227,6 +237,7 @@
 @@|help.ea.com^$important
 @@|help.steampowered.com^$important
 @@|hermes-b.services.gearboxsoftware.com^$important
+@@|herochat-plugin.chatbotize.com^$important
 @@|home.playstation.com^$important
 @@|homer.dl.playstation.net^$important
 @@|howlongtobeat.com^$important
@@ -238,6 +249,7 @@
 @@|images.gog.com^$important
 @@|images.nexusmods.com^$important
 @@|images.pcgamingwiki.com^$important
+@@|img.nvidiagrid.net^$important
 @@|info.social.ea.com^$important
 @@|ingame-store.cdn.ubisoft.com^$important
 @@|io.playstation.com^$important
@@ -259,10 +271,13 @@
 @@|lightswitch-public-service-prod.ak.epicgames.com^$important
 @@|lightswitch-public-service-prod06.ol.epicgames.com^$important
 @@|live-feed.cdn.ubisoft.com^$important
+@@|live.adyen.com^$important
 @@|live.playstation.com^$important
 @@|lobby-hi.svc.halowaypoint.com^$important
 @@|login.gog.com^$important
+@@|login.nvgs.nvidia.com^$important
 @@|lp.gog.com^$important
+@@|ls.dtrace.nvidia.com^$important
 @@|lvlt.bioware.cdn.ea.com^$important
 @@|lvlt.cdn.ea.com^$important
 @@|m.codemasters.com^$important
@@ -324,8 +339,10 @@
 @@|origin-a.akamaihd.net^$important
 @@|origin.warframe.com^$important
 @@|originassets.akamaized.net^$important
+@@|ota.nvidia.com^$important
 @@|overlay.cdn.ubisoft.com^$important
 @@|overlay.ubisoft.com^$important
+@@|p29.zdassets.com^$important
 @@|packs.svc.halowaypoint.com^$important
 @@|partners.playstation.com^$important
 @@|payment-website-pci.ol.epicgames.com^$important
@@ -422,6 +439,7 @@
 @@|static.ageofempires.com^$important
 @@|static.blog.playstation.com^$important
 @@|static.cdprojektred.com^$important
+@@|static.nvidiagrid.net^$important
 @@|static.pcgamingwiki.com^$important
 @@|staticdelivery.nexusmods.com^$important
 @@|staticstats.nexusmods.com^$important
@@ -459,6 +477,7 @@
 @@|suporte.br.playstation.com^$important
 @@|support.ageofempires.com^$important
 @@|support.asia.playstation.com^$important
+@@|support.gog.com^$important
 @@|support.halowaypoint.com^$important
 @@|support.jp.playstation.com^$important
 @@|support.us.playstation.com^$important
@@ -471,6 +490,7 @@
 @@|talon-website-prod.ecosec.on.epicgames.com^$important
 @@|tccmsms.azureedge.net^$important
 @@|telemetry-clients.svc.halowaypoint.com^$important
+@@|telemetry.gfe.nvidia.com^$important
 @@|telemetry.svc.halowaypoint.com^$important
 @@|test.steampowered.com^$important
 @@|text.svc.halowaypoint.com^$important
@@ -500,6 +520,7 @@
 @@|us.api.blizzard.com^$important
 @@|us.cdn.blizzard.com^$important
 @@|us.playstation.com^$important
+@@|use.fortawesome.com^$important
 @@|useast1-public.aws-ubiservices.ubi.com^$important
 @@|users.nexusmods.com^$important
 @@|video.api.playstation.com^$important
@@ -508,7 +529,6 @@
 @@|vsa-prod.services.microsoft.com^$important
 @@|vsa.services.microsoft.com^$important
 @@|wallet.ecom.ubi.com^$important
-@@|wallpaperaccess.com^$important
 @@|wallpaperaccess.com^$important
 @@|web-browser.cdn.ubisoft.com^$important
 @@|web.poecdn.com^$important
@@ -525,6 +545,7 @@
 @@|www.ea.com^$important
 @@|www.epicgames.com^$important
 @@|www.fose.silverlock.org^$important
+@@|www.geforce.com^$important
 @@|www.gog.com^$important
 @@|www.gogalaxy.com^$important
 @@|www.justpushstart.com^$important

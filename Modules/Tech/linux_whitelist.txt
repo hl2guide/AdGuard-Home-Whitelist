@@ -321,6 +321,8 @@
 @@|www.fsarchiver.org^$important
 @@|www.gentoo.org^$important
 @@|www.hirensbootcd.org^$important
+@@|www.if-not-true-then-false.com^$important
+@@|www.linux.org^$important
 @@|www.linuxcompatible.org^$important
 @@|www.linuxmint.com^$important
 @@|www.omgubuntu.co.uk^$important
@@ -328,6 +330,7 @@
 @@|www.partimage.org^$important
 @@|www.qemu.org^$important
 @@|www.qubes-os.org^$important
+@@|www.tecmint.com^$important
 @@|www.ubuntupit.com^$important
 @@|www.virtualbox.org^$important
 @@|zorin.com^$important

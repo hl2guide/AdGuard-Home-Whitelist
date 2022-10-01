@@ -36,6 +36,7 @@
 @@|v-tiles.downdetector.com^$important
 @@|vic-crlt-speedtest.aarnet.net.au.prod.hosts.ooklaserver.net^$important
 @@|vic-crlt-speedtest.aarnet.net.au^$important
+@@|vic-speedtest.spirit.com.au^$important
 @@|vic.speedtest.exetel.com.au^$important
 @@|vic.speedtest.leaptel.com.au.prod.hosts.ooklaserver.net^$important
 @@|win1.speedtest.telstra.net^$important

@@ -147,6 +147,7 @@
 @@|takeout.google.com^$important
 @@|talk.google.com^$important
 @@|talk.l.google.com^$important
+@@|taskassist-pa.clients6.google.com^$important
 @@|tokenized.play.google.com^$important
 @@|translate.google.com.au^$important
 @@|update.googleapis.com^$important

@@ -23,6 +23,7 @@
 @@|audio-sp.spotify.com^$important
 @@|blog.getpaint.net^$important
 @@|bunkr.is^$important
+@@|cdn*.bunkr.is^$important
 @@|cdn.jwplayer.com^$important
 @@|cdn.plyr.io^$important
 @@|cdn.windowsreport.com^$important

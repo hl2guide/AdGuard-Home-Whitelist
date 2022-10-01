@@ -52,6 +52,7 @@
 @@|dl*.cdn.filezilla-project.org^$important
 @@|dl.acronis.com^$important
 @@|dl.acronis.com^$important
+@@|dl.dell.com^$important
 @@|dl3.cdn.filezilla-project.org^$important
 @@|docs.clearurls.xyz^$important
 @@|docs.ipfs.tech^$important
@@ -61,6 +62,9 @@
 @@|download.fosshub.com^$important
 @@|download.mipony.net^$important
 @@|download.onlyoffice.com^$important
+@@|downloads.dell.com^$important
+@@|drive.proton.me^$important
+@@|drive.protonmail.com^$important
 @@|e1.o.lencr.org^$important
 @@|eset.com^$important
 @@|evernotesupport.zendesk.com^$important
@@ -81,6 +85,7 @@
 @@|ipfs.tech^$important
 @@|learn.offcloud.com^$important
 @@|link.adtidy.org^$important
+@@|links.account.evernote.com^$important
 @@|mail.proton.me^$important
 @@|manage.ntppool.org^$important
 @@|p19.zdassets.com^$important
@@ -137,6 +142,8 @@
 @@|www.asus.com^$important
 @@|www.candisoft.com^$important
 @@|www.cookiepro.com^$important
+@@|www.dell.com^$important
+@@|www.dellcdn.com^$important
 @@|www.deluge-torrent.org^$important
 @@|www.emsisoft.com^$important
 @@|www.eset.com^$important
@@ -171,5 +178,6 @@
 @@|www.tp-link.com^$important
 @@|www.virustotal.com^$important
 @@|www.westerndigital.com^$important
+@@|www.wisecleaner.com^$important
 @@|www91.intel.com^$important
 @@|x2.c.lencr.org^$important

@@ -1,4 +1,4 @@
-# Testing Rules - 2022-10-29 07:08:12PM
+# Testing Rules -2022-11-01 01:50:26AM
 
 # Tech
 @@|avatars.slant.co^$important
@@ -16,9 +16,28 @@
 
 # Games
 @@|blogs.nvidia.com^$important
+@@|us.download.nvidia.com^$important
 
 # Google
 @@|passwords.google.com^$important
 
 # Australia
 @@|www.epa.nsw.gov.au^$important
+
+# Media
+@@|docs.freetubeapp.io^$important
+# Development
+@@|pipelines.actions.githubusercontent.com^$important
+
+# Australia
+@@|api.my.gov.au^$important
+@@|auth.ato.gov.au^$important
+@@|login.my.gov.au^$important
+@@|onlineservices.ato.gov.au^$important
+@@|poro.ato.gov.au^$important
+@@|www.ato.gov.au^$important
+@@|www.pclan.com.au^$important
+
+# Security
+@@|community.logmein.com^$important
+@@|support.lastpass.com^$important

@@ -9,6 +9,7 @@
 @@|api.bigw.com.au^$important
 @@|api.g.service.nsw.gov.au^$important
 @@|api.kmart.com.au^$important
+@@|api.my.gov.au^$important
 @@|api.prod.bunnings.com.au^$important
 @@|api.target.com.au^$important
 @@|apigw.coles.com.au^$important
@@ -17,6 +18,7 @@
 @@|arc.com.au^$important
 @@|ato.gov.au^$important
 @@|auspost.com.au^$important
+@@|auth.ato.gov.au^$important
 @@|auth.kmart.com.au^$important
 @@|authorisation.api.bunnings.com.au^$important
 @@|azcd.harveynorman.com.au^$important
@@ -72,6 +74,7 @@
 @@|kmart.com.au^$important
 @@|kmartau.mo.cloudinary.net^$important
 @@|lifeblood.com.au^$important
+@@|login.my.gov.au^$important
 @@|logx.optimizely.com^$important
 @@|lowes.com.au^$important
 @@|mcusercontent.com^$important
@@ -92,9 +95,11 @@
 @@|nswdac-covid-19-postcode-heatmap.azurewebsites.net^$important
 @@|oapi.opalsystems.com.au^$important
 @@|onegov.nsw.gov.au^$important
+@@|onlineservices.ato.gov.au^$important
 @@|opal.com.au^$important
 @@|opva.elections.nsw.gov.au^$important
 @@|point.digital.nsw.gov.au^$important
+@@|poro.ato.gov.au^$important
 @@|publish-p16597-e60686.adobeaemcloud.com^$important
 @@|r3.whistleout.com.au^$important
 @@|remoteassistance.support.services.microsoft.com^$important
@@ -136,6 +141,7 @@
 @@|www.aec.gov.au^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
+@@|www.ato.gov.au^$important
 @@|www.bigw.com.au^$important
 @@|www.binglee.com.au^$important
 @@|www.bunnings.com.au^$important
@@ -151,6 +157,7 @@
 @@|www.elections.nsw.gov.au^$important
 @@|www.energyaustralia.com.au^$important
 @@|www.environment.nsw.gov.au^$important
+@@|www.epa.nsw.gov.au^$important
 @@|www.f1techcomputers.com.au^$important
 @@|www.fbigaming.com.au^$important
 @@|www.google.com.au^$important

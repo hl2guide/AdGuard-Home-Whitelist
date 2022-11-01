@@ -47,6 +47,7 @@
 @@|developer.nvidia.com^$important
 @@|developercommunity.visualstudio.com^$important
 @@|docs.dbhub.io^$important
+@@|docs.docker.com^$important
 @@|docs.github.com^$important
 @@|docs.npmjs.com^$important
 @@|docs.python.org^$important
@@ -93,6 +94,7 @@
 @@|guides.github.com^$important
 @@|hash.github.com^$important
 @@|httpd.apache.org^$important
+@@|hub.docker.com^$important
 @@|images.pling.com^$important
 @@|images.sourceforge.net^$important
 @@|interactive-examples.mdn.mozilla.net^$important
@@ -115,6 +117,7 @@
 @@|msdn.microsoft.com^$important
 @@|netdna.bootstrapcdn.com^$important
 @@|nginx.org^$important
+@@|nodejs.dev^$important
 @@|nodejs.org^$important
 @@|notable.app^$important
 @@|notable.md^$important
@@ -133,6 +136,7 @@
 @@|phoenixnap.dl.sourceforge.net^$important
 @@|php.net^$important
 @@|pipe.how^$important
+@@|pipelines.actions.githubusercontent.com^$important
 @@|pop-iso.sfo2.cdn.digitaloceanspaces.com^$important
 @@|portablepython.com^$important
 @@|powershell-release-redirect.azurewebsites.net^$important
@@ -184,6 +188,7 @@
 @@|whotracks.me^$important
 @@|windows.php.net^$important
 @@|www.codecademy.com^$important
+@@|www.docker.com^$important
 @@|www.electronjs.org^$important
 @@|www.github.com^$important
 @@|www.github.developerdan.com^$important

@@ -197,6 +197,7 @@
 @@|edge.microsoft.com^$important
 @@|edgeassetdelivery.blob.core.windows.net^$important
 @@|edgefrecdn.azureedge.net^$important
+@@|edgeservices.bing.com^$important
 @@|edgestoreweb.azureedge.net^$important
 @@|edgetips.azureedge.net^$important
 @@|editorial.xboxlive.com^$important

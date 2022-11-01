@@ -65,6 +65,7 @@
 @@|blog.it.playstation.com^$important
 @@|blog.ru.playstation.com^$important
 @@|blog.us.playstation.com^$important
+@@|blogs.nvidia.com^$important
 @@|blz-contentstack-assets.akamaized.net^$important
 @@|blz-contentstack-images.akamaized.net^$important
 @@|blzddist1-a.akamaihd.net^$important
@@ -161,6 +162,7 @@
 @@|download*.epicgames.com^$important
 @@|download.dm.origin.com^$important
 @@|download.epicgames.com^$important
+@@|download.gfe.nvidia.com^$important
 @@|dragonagekeep.com^$important
 @@|ea.com^$important
 @@|eacommerce.akamaized.net^$important
@@ -398,6 +400,7 @@
 @@|pr-*.data.ea.com^$important
 @@|prd.orbit.bos.ea.com^$important
 @@|presence-api.live.public-ws.prod.tetra.fleet.ubi.com^$important
+@@|presence.gog.com^$important
 @@|presscenter.playstation.com^$important
 @@|priceengine-public-service-ecomprod01.ol.epicgames.com^$important
 @@|priceengine-public-service-prod.ak.epicgames.com^$important
@@ -423,6 +426,7 @@
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
 @@|ratt.juno.ea.com^$important
+@@|redeem.gog.com^$important
 @@|reports.tools.gos.ea.com^$important
 @@|reviews.gog.com^$important
 @@|rewards*-prod.svc.gearsofwar.net^$important
@@ -451,6 +455,7 @@
 @@|snexpansion.unknownworlds.com^$important
 @@|social-overlay-launchdarkly-api-prod.ol.epicgames.com^$important
 @@|social.bioware.com^$important
+@@|social.gog.com^$important
 @@|social.playstation.com^$important
 @@|spartanstats.svc.halowaypoint.com^$important
 @@|spartaprofile-prod.svc.gearsofwar.net^$important
@@ -553,9 +558,11 @@
 @@|us-s2-depot.classic.blizzard.com^$important
 @@|us.api.blizzard.com^$important
 @@|us.cdn.blizzard.com^$important
+@@|us.download.nvidia.com^$important
 @@|us.playstation.com^$important
 @@|use.fortawesome.com^$important
 @@|useast1-public.aws-ubiservices.ubi.com^$important
+@@|users.gog.com^$important
 @@|users.nexusmods.com^$important
 @@|video.api.playstation.com^$important
 @@|video.dl.playstation.net^$important

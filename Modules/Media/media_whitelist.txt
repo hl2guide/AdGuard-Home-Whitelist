@@ -40,6 +40,7 @@
 @@|dl-asset.cyberlink.com^$important
 @@|dl-file.cyberlink.com^$important
 @@|dna.cyberlink.com^$important
+@@|docs.freetubeapp.io^$important
 @@|download.dolby.com^$important
 @@|downloader.cyberlink.com^$important
 @@|downloads*.fxsound.com^$important

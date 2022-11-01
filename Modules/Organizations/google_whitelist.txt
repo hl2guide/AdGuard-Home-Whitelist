@@ -121,6 +121,7 @@
 @@|ogs.google.com.au^$important
 @@|ogs.google.com^$important
 @@|one.google.com^$important
+@@|passwords.google.com^$important
 @@|pay.google.com^$important
 @@|payments.google.com^$important
 @@|people-pa.clients*.google.com^$important

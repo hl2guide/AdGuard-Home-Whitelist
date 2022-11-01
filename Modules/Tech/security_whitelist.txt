@@ -27,6 +27,7 @@
 @@|assets.zendesk.com^$important
 @@|atlas.eff.org^$important
 @@|au.pcpartpicker.com^$important
+@@|avatars.slant.co^$important
 @@|blog.chocolatey.org^$important
 @@|blog.ipfs.tech^$important
 @@|brave-browser-rpm-release.s3.brave.com^$important
@@ -34,6 +35,7 @@
 @@|calendar.protonmail.com^$important
 @@|cdn.adtidy.org^$important
 @@|cdn.mos.cms.futurecdn.net^$important
+@@|cdn.slant.co^$important
 @@|cdn.statuspage.io^$important
 @@|cdn1.esetstatic.com^$important
 @@|cdn2.esetstatic.com^$important
@@ -41,6 +43,7 @@
 @@|cfcdn.neosmart.net^$important
 @@|clearurls.xyz^$important
 @@|community.intel.com^$important
+@@|community.logmein.com^$important
 @@|connect.mozilla.org^$important
 @@|cookie-cdn.cookiepro.com^$important
 @@|countly.ipfs.io^$important
@@ -137,14 +140,18 @@
 @@|staticfiles.acronis.com^$important
 @@|support-en.wd.com^$important
 @@|support.brave.com^$important
+@@|support.lastpass.com^$important
 @@|support.signal.org^$important
 @@|support.uptobox.com^$important
 @@|support.wdc.com^$important
 @@|tampermonkey.freetls.fastly.net^$important
+@@|teamviewer.com^$important
 @@|tms-global.intel.com^$important
 @@|toshiba.semicon-storage.com^$important
 @@|ts.eset.com^$important
 @@|ublockorigin.pages.dev^$important
+@@|ucarecdn.com^$important
+@@|ueli.app^$important
 @@|unchecky.com^$important
 @@|unicons.iconscout.com^$important
 @@|use.fontawesome.com.cdn.cloudflare.net^$important
@@ -190,6 +197,7 @@
 @@|www.safedns.com^$important
 @@|www.screentogif.com^$important
 @@|www.seagate.com^$important
+@@|www.slant.co^$important
 @@|www.sysinternals.com^$important
 @@|www.techradar.com^$important
 @@|www.tomsguide.com^$important

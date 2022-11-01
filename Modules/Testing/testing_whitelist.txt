@@ -1,4 +1,12 @@
-# Testing Rules -2022-11-01 01:50:26AM
+# Testing Rules - 2022-11-01 08:44:18PM
+
+# Games
+@@|download.gfe.nvidia.com^$important
+# MS
+@@|edgeservices.bing.com^$important
+# HP
+@@|sudf-resources.hpcloud.hp.com^$important
+@@|mastiff.ext.hp.com^$important
 
 # Tech
 @@|avatars.slant.co^$important

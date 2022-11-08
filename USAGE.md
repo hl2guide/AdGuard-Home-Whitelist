@@ -16,6 +16,8 @@ Quad9 tops the speed and reliability tests for my location; they offer Malware B
 
 They are also now "incorporated in Switzerland to guarantee privacy for global DNS users" (quad9).
 
+Cloudflare's offering is also great.
+
 * _(optional)_ To test it at your location run the tool: [GRC Domain Name Speed Benchmark for Windows/Linux](https://www.grc.com/dns/benchmark.htm)
 
 ### Upstream DNS servers 🔼
@@ -24,6 +26,7 @@ I use:
 
 ```
 https://dns.quad9.net/dns-query
+https://dns.cloudflare.com/dns-query
 ```
 
 ### Bootstrap DNS servers 🥾

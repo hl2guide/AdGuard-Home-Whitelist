@@ -1,4 +1,32 @@
-# Testing Rules - 2022-11-02 01:34:38AM
+# Testing Rules - 2022-11-08 06:38:12PM
 
-@@|sudf-resources.hpcloud.hp.com^$important
 @@|mastiff.ext.hp.com^$important
+@@|sudf-resources.hpcloud.hp.com^$important
+@@|cookiewatch.org^$important
+# Media
+@@|gpodder.net^$important
+# Games
+@@|galaxy-client-reports.gog.com^$important
+@@|gog-cdn-lumen.secure2.footprint.net^$important
+@@|remote-config.gog.com^$important
+# File Downloader
+@@|i1524.usercdn.com^$important
+# Tech
+@@|www.ubackup.com^$important
+# MS
+@@|dotnetcli.blob.core.windows.net^$important
+@@|ussus2eastprod.blob.core.windows.net^$important
+# Australia
+@@|terrywhitechemmart.cdn.prismic.io^$important
+@@|terrywhitechemmart.com.au^$important
+@@|www.eway.com.au^$important
+@@|www.pharmacy4less.com.au^$important
+# Tech
+@@|dl.acronis.com^$important
+@@|download.filepuma.com^$important
+@@|forums.urbackup.org^$important
+@@|hndl.urbackup.org^$important
+@@|www.filepuma.com^$important
+@@|www.urbackup.org^$important
+# Development
+@@|m3.material.io^$important

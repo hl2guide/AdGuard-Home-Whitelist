@@ -59,3 +59,26 @@
 @@|urbackup.atlassian.net^$important
 @@|www.sublimehq.com^$important
 @@|www.sublimetext.com^$important
+
+# Development
+@@|*.github.dev^$important
+@@|vsls-prod-ins-asse-private-relay.servicebus.windows.net^$important
+@@|*.vscode-cdn.net^$important
+# Tech
+@@|ventoy.net^$important
+# Google
+@@|notifications-pa.googleapis.com^$important
+@@|android.apis.google.com^$important
+@@|cryptauthvault.googleapis.com^$important
+@@|securitydomain-pa.googleapis.com^$important
+@@|reminders-pa.googleapis.com^$important
+# Development
+@@|avaloniaui.net^$important
+@@|fluentsearch.net^$important
+@@|cloud.icons8.com^$important
+@@|maxst.icons8.com^$important
+@@|docs.icons8.com^$important
+@@|cdn-eu.icons8.com^$important
+@@|lcdn-eu.icons8.com^$important
+# Microsoft
+@@|t-ring-fdv2.msedge.net^$important

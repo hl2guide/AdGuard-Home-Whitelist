@@ -9,8 +9,10 @@ ad.doubleclick.net
 ade.googlesyndication.com
 adservice.google.com
 aefd.nelreports.net
+alt6-mtalk.google.com
 analytics-collector-*.amazonaws.com
 analytics-static.ugc.bazaarvoice.com
+android.apis.google.com
 api.amplitude.com
 api.appnxt.net
 api.edgeoffer.microsoft.com
@@ -18,6 +20,7 @@ api.playanext.com
 api.spreaker.com
 api.userleap.com
 apis.appnxt.net
+app-measurement.com
 arc.msn.com
 assets.adobedtm.com
 autopush.prod.mozaws.net
@@ -70,11 +73,13 @@ firebaseinstallations.googleapis.com
 firefox.settings.services.mozilla.com
 flatanalytics.com
 footprintdns.com
+footprints-pa.googleapis.com
 g.tenor.com
 gcdn.2mdn.net
 geoip.gianlu.xyz
 geolocation.onetrust.com
 global.appnext.com
+gmscompliance-pa.googleapis.com
 go.xxxiijmp.com
 google-analytics.com
 googleads.g.doubleclick.net
@@ -90,9 +95,11 @@ hostname.bind
 i.postimg.cc
 i.t.net.ar
 id.server
+image*.hotmovies.com
 img-hm.vodadult.com
 inputsuggestions.msdxcdn.microsoft.com
 insights-collector.gog.com
+instantmessaging-pa.googleapis.com
 jenson.api.swiftkey.com
 jnn-pa.googleapis.com
 js.braintreegateway.com
@@ -107,6 +114,9 @@ mail-ads.google.com
 majorgeekscom.disqus.com
 metrics.ubuntu.com
 mobile.events.data.microsoft.com
+mtalk.google.com
+myphonenumbers-pa.googleapis.com
+notifications-pa.googleapis.com
 notify.bugsnag.com
 o.ss2.us
 o23210.ingest.sentry.io
@@ -118,6 +128,7 @@ pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pay.sandbox.google.com
 pbs.twimg.com
+people-pa.googleapis.com
 pinpoint.us-east-1.amazonaws.com
 pki-goog.l.google.com
 player.hotpornfile.org

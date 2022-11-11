@@ -126,6 +126,8 @@
 @@|sydneywater.com.au^$important
 @@|tags.kmart.com.au^$important
 @@|target.com.au^$important
+@@|terrywhitechemmart.cdn.prismic.io^$important
+@@|terrywhitechemmart.com.au^$important
 @@|thegoodguys.sirv.com^$important
 @@|transportnsw.info^$important
 @@|vfr0.gpsoft.com.au^$important
@@ -158,6 +160,7 @@
 @@|www.energyaustralia.com.au^$important
 @@|www.environment.nsw.gov.au^$important
 @@|www.epa.nsw.gov.au^$important
+@@|www.eway.com.au^$important
 @@|www.f1techcomputers.com.au^$important
 @@|www.fbigaming.com.au^$important
 @@|www.google.com.au^$important
@@ -178,6 +181,7 @@
 @@|www.nsw.gov.au^$important
 @@|www.officeworks.com.au^$important
 @@|www.opal.com.au^$important
+@@|www.pharmacy4less.com.au^$important
 @@|www.police.nsw.gov.au^$important
 @@|www.service.nsw.gov.au^$important
 @@|www.spintel.net.au^$important

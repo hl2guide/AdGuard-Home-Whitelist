@@ -46,6 +46,7 @@
 @@|community.logmein.com^$important
 @@|connect.mozilla.org^$important
 @@|cookie-cdn.cookiepro.com^$important
+@@|cookiewatch.org^$important
 @@|countly.ipfs.io^$important
 @@|crl.rootg2.amazontrust.com^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
@@ -57,6 +58,7 @@
 @@|dl*.cdn.filezilla-project.org^$important
 @@|dl.acronis.com^$important
 @@|dl.acronis.com^$important
+@@|dl.acronis.com^$important
 @@|dl.dell.com^$important
 @@|dl3.cdn.filezilla-project.org^$important
 @@|docs.clearurls.xyz^$important
@@ -64,6 +66,7 @@
 @@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
 @@|download.cpuid.com^$important
+@@|download.filepuma.com^$important
 @@|download.fosshub.com^$important
 @@|download.glarysoft.com^$important
 @@|download.glarysoft.com^$important
@@ -81,6 +84,7 @@
 @@|filezilla-project.org^$important
 @@|forum.palemoon.org^$important
 @@|forums.tomsguide.com^$important
+@@|forums.urbackup.org^$important
 @@|ftp.fau.de^$important
 @@|gateway.userstyles.org^$important
 @@|go.acronis.com^$important
@@ -90,6 +94,7 @@
 @@|gu.glarysoft.com^$important
 @@|gu.glarysoft.com^$important
 @@|help.duckduckgo.com^$important
+@@|hndl.urbackup.org^$important
 @@|ideas.mozilla.org^$important
 @@|images.easeus.com^$important
 @@|img.chocolatey.org^$important
@@ -101,6 +106,7 @@
 @@|links.account.evernote.com^$important
 @@|mail.proton.me^$important
 @@|manage.ntppool.org^$important
+@@|mastiff.ext.hp.com^$important
 @@|org.downloadcenter.samsung.com^$important
 @@|p19.zdassets.com^$important
 @@|p3a-json.brave.com^$important
@@ -138,6 +144,7 @@
 @@|static.sandisk.com^$important
 @@|static.tp-link.com^$important
 @@|staticfiles.acronis.com^$important
+@@|sudf-resources.hpcloud.hp.com^$important
 @@|support-en.wd.com^$important
 @@|support.brave.com^$important
 @@|support.lastpass.com^$important
@@ -158,6 +165,7 @@
 @@|user-media-prod-cdn.itsre-sumo.mozilla.net^$important
 @@|uso.kkx.one^$important
 @@|vanilla.futurecdn.net^$important
+@@|ventoy.net^$important
 @@|websiteapi.acronis.com^$important
 @@|windowsreport.com^$important
 @@|winget.run^$important
@@ -172,6 +180,7 @@
 @@|www.deluge-torrent.org^$important
 @@|www.emsisoft.com^$important
 @@|www.eset.com^$important
+@@|www.filepuma.com^$important
 @@|www.filescan.io^$important
 @@|www.glarysoft.com^$important
 @@|www.glarysoft.com^$important
@@ -204,6 +213,8 @@
 @@|www.toshiba-storage.com^$important
 @@|www.toshiba.com^$important
 @@|www.tp-link.com^$important
+@@|www.ubackup.com^$important
+@@|www.urbackup.org^$important
 @@|www.virustotal.com^$important
 @@|www.westerndigital.com^$important
 @@|www.wisecleaner.com^$important

@@ -9,6 +9,7 @@
 @@|addons-pa.clients*.google.com^$important
 @@|adssettings.google.com^$important
 @@|ajax.googleapis.com^$important
+@@|android.apis.google.com^$important
 @@|android.clients.google.com^$important
 @@|android.googleapis.com^$important
 @@|androidplatformbackuprestore-pa.googleapis.com^$important
@@ -52,6 +53,7 @@
 @@|connectivitycheck.gstatic.com^$important
 @@|contacts.google.com^$important
 @@|content.googleapis.com^$important
+@@|cryptauthvault.googleapis.com^$important
 @@|csd-apt-sea-d-3.southeastasia.cloudapp.azure.com^$important
 @@|developers.google.com^$important
 @@|dl.google.com^$important
@@ -117,6 +119,7 @@
 @@|myactivity.google.com^$important
 @@|news.google.com^$important
 @@|notes-pa.clients6.google.com^$important
+@@|notifications-pa.googleapis.com^$important
 @@|notifications.google.com^$important
 @@|ogs.google.com.au^$important
 @@|ogs.google.com^$important
@@ -137,11 +140,13 @@
 @@|r4---sn-npoe7n7y.googlevideo.com^$important
 @@|redirector.googlevideo.com^$important
 @@|reminders-pa.clients*.google.com^$important
+@@|reminders-pa.googleapis.com^$important
 @@|s.youtube.com^$important
 @@|s.ytimg.com^$important
 @@|s2.youtube.com^$important
 @@|safebrowsing.googleapis.com^$important
 @@|script.google.com^$important
+@@|securitydomain-pa.googleapis.com^$important
 @@|signaler-pa.clients*.google.com^$important
 @@|spreadsheets.google.com^$important
 @@|ssl.gstatic.com^$important

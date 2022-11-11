@@ -64,6 +64,7 @@
 @@|games.dolby.com^$important
 @@|get.videolan.org^$important
 @@|global-uploads.webflow.com^$important
+@@|gpodder.net^$important
 @@|help.cyberlink.com^$important
 @@|hub.deviantart.net^$important
 @@|image.v.rokfin.com^$important

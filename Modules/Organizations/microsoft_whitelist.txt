@@ -184,6 +184,7 @@
 @@|docs.microsoft.com^$important
 @@|dotnet.microsoft.com^$important
 @@|dotnetcli.azureedge.net^$important
+@@|dotnetcli.blob.core.windows.net^$important
 @@|download-ssl.xbox.com^$important
 @@|download.microsoft.com^$important
 @@|download.visualstudio.microsoft.com^$important
@@ -447,6 +448,7 @@
 @@|swiftkey-sync-production.touchtype-fluency.com^$important
 @@|t-ring-fallbacks1.msedge.net^$important
 @@|t-ring-fallbacks2.msedge.net^$important
+@@|t-ring-fdv2.msedge.net^$important
 @@|t.ssl.ak.dynamic.tiles.virtualearth.net^$important
 @@|teams.events.data.microsoft.com^$important
 @@|teams.live.com^$important
@@ -479,6 +481,7 @@
 @@|user.auth.xboxlive.com^$important
 @@|userpresence.xboxlive.com^$important
 @@|userstats.xboxlive.com^$important
+@@|ussus2eastprod.blob.core.windows.net^$important
 @@|v20.events.data.microsoft.com^$important
 @@|videoplayercdn.osi.office.net^$important
 @@|view.engage.xbox.com^$important

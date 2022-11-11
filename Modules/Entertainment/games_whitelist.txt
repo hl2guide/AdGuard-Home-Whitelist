@@ -30,6 +30,7 @@
 @@|api*.origin.com^$important
 @@|api-chat.chatbotize.com^$important
 @@|api-dev.ageofempires.com^$important
+@@|api-prod.nvidia.com^$important
 @@|api.ageofempires.com^$important
 @@|api.bethesda.net^$important
 @@|api.blizzard.com^$important
@@ -116,6 +117,7 @@
 @@|client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|client-update.akamai.steamstatic.com^$important
 @@|clientconfig.akamai.steamstatic.com^$important
+@@|cloud.gg^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
 @@|club.ubisoft.com^$important
 @@|cm*.cm.steampowered.com^$important
@@ -222,6 +224,7 @@
 @@|friends.gs.ea.com^$important
 @@|frostytoolsuite.com^$important
 @@|fsa01.ps4.update.playstation.net^$important
+@@|galaxy-client-reports.gog.com^$important
 @@|game-page.cdn.ubisoft.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
@@ -234,7 +237,9 @@
 @@|geo-location-api.gx.nvidia.com^$important
 @@|get.net.playstation.net^$important
 @@|getprof.sg.np.community.playstation.net^$important
+@@|gfn.pentanet.gg^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-lumen.secure2.footprint.net^$important
 @@|gog-statics.com^$important
 @@|gog.com^$important
 @@|gogalaxy.gog-statics.com^$important
@@ -270,6 +275,7 @@
 @@|img.nvidiagrid.net^$important
 @@|info.social.ea.com^$important
 @@|ingame-store.cdn.ubisoft.com^$important
+@@|international-gfe.download.nvidia.com^$important
 @@|io.playstation.com^$important
 @@|ipv6check-http.steamcontent.com^$important
 @@|ipv6check-udp.steamcontent.com^$important
@@ -297,6 +303,7 @@
 @@|lobby2-prod.svc.gearsofwar.net^$important
 @@|login.gog.com^$important
 @@|login.nvgs.nvidia.com^$important
+@@|login.nvidia.com^$important
 @@|lp.gog.com^$important
 @@|ls.dtrace.nvidia.com^$important
 @@|lvlt.bioware.cdn.ea.com^$important
@@ -304,6 +311,7 @@
 @@|m.codemasters.com^$important
 @@|m.playstation.com^$important
 @@|marketplace-website-node-launcher-prod.ol.epicgames.com^$important
+@@|me3tweaks.com^$important
 @@|me4prodfeapp0002.ea.com^$important
 @@|mea-public.biowareonline.net^$important
 @@|media-cdn.epicgames.com^$important
@@ -370,6 +378,7 @@
 @@|pc-assets.ea.com^$important
 @@|pc-promo.ubisoft.com^$important
 @@|pc.ea.com^$important
+@@|pcs.geforcenow.com^$important
 @@|perf.store.on.epicgames.com^$important
 @@|pfmsqos.australiaeast.cloudapp.azure.com^$important
 @@|pfmsqos.australiasoutheast.cloudapp.azure.com^$important
@@ -427,6 +436,7 @@
 @@|r5-pc.s3.amazonaws.com^$important
 @@|ratt.juno.ea.com^$important
 @@|redeem.gog.com^$important
+@@|remote-config.gog.com^$important
 @@|reports.tools.gos.ea.com^$important
 @@|reviews.gog.com^$important
 @@|rewards*-prod.svc.gearsofwar.net^$important

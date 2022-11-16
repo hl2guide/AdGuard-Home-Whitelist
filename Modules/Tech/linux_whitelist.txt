@@ -5,6 +5,7 @@
 @@|*-prod-prodpc01-reg-httpping.p76prod.systems^$important
 @@|*-reg-bps-gatewayreg.p76prod.systems^$important
 @@|*.cdn.snapcraft.io^$important
+@@|*.time.system76.com^$important
 @@|15.2.0.10.in-addr.arpa^$important
 @@|204.pop-os.org^$important
 @@|_http._tcp.apt.pop-os.org^$important
@@ -84,8 +85,10 @@
 @@|contracts.canonical.com^$important
 @@|crates.io^$important
 @@|csd-apt-sea-d-1.southeastasia.cloudapp.azure.com^$important
+@@|customerconnect.vmware.com^$important
 @@|cutefishos.com^$important
 @@|daisy.ubuntu.com^$important
+@@|dashboard.snapcraft.io.localdomain^$important
 @@|dashboard.snapcraft.io^$important
 @@|de-*-mirror.chaotic.cx^$important
 @@|de-mirror.chaotic.cx^$important
@@ -107,6 +110,7 @@
 @@|docs.fedoraproject.org^$important
 @@|docs.freebsd.org^$important
 @@|docs.rockylinux.org^$important
+@@|download*.vmware.com^$important
 @@|download.fedoraproject.org^$important
 @@|download.freebsd.org^$important
 @@|download.kde.org^$important
@@ -166,6 +170,8 @@
 @@|ifconfig.co^$important
 @@|img.rockylinux.org^$important
 @@|ipapi.co^$important
+@@|ipinfo.io^$important
+@@|iso.pop-os.org^$important
 @@|kazooie.canonical.com^$important
 @@|kr-mirror.chaotic.cx^$important
 @@|launchpad.net^$important
@@ -182,6 +188,7 @@
 @@|manpages.debian.org^$important
 @@|manpages.ubuntu.com^$important
 @@|metadata.ftp-master.debian.org^$important
+@@|metrics.ubuntu.com.localdomain^$important
 @@|mirror-hk.koddos.net^$important
 @@|mirror.1000mbps.com^$important
 @@|mirror.2degrees.nz^$important
@@ -262,12 +269,14 @@
 @@|pacman.archlinux.org^$important
 @@|partclone.org^$important
 @@|partimage.org^$important
+@@|people.canonical.com^$important
 @@|people.gnome.org^$important
 @@|ping.archlinux.org^$important
 @@|ping.manjaro.org^$important
 @@|pop-os.org^$important
 @@|pop.system76.com^$important
 @@|ppa.launchpad.net^$important
+@@|prod-commercial-systems.kubernetes-ingress.canonical.com^$important
 @@|qemu.weilnetz.de^$important
 @@|registry.fedoraproject.org^$important
 @@|releases.ubuntu.com^$important
@@ -282,6 +291,7 @@
 @@|sgp1.dl.elementary.io^$important
 @@|snapcraft.io^$important
 @@|software.opensuse.org^$important
+@@|softwareupdate.vmware.com^$important
 @@|start.ubuntu.com^$important
 @@|static-cdn.osdn.net^$important
 @@|static.osdn.net^$important
@@ -339,6 +349,7 @@
 @@|www.ubuntu.com^$important
 @@|www.ubuntupit.com^$important
 @@|www.virtualbox.org^$important
+@@|www.vmware.com^$important
 @@|zorin.com^$important
 @@|zorinos.com^$important
 @@|zrn.co^$important

@@ -202,6 +202,7 @@
 @@|fallout.bethesda.net^$important
 @@|fandom.com^$important
 @@|fast.fonts.net^$important
+@@|feedback.nexusmods.com^$important
 @@|fellowship.services.gearboxsoftware.com^$important
 @@|file-metadata.nexusmods.com^$important
 @@|files.cdn.ubisoft.com^$important

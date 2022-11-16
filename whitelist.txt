@@ -93,6 +93,7 @@
 @@|*.storage.live.com^$important
 @@|*.storage.msn.com^$important
 @@|*.tapecontent.net^$important
+@@|*.time.system76.com^$important
 @@|*.update.microsoft.com^$important
 @@|*.userstorage.mega.co.nz^$important
 @@|*.vo.msecnd.net^$important
@@ -1068,6 +1069,7 @@
 @@|contentful-proxy.juno.ea.com^$important
 @@|contile.services.mozilla.com^$important
 @@|continuum.dds.microsoft.com^$important
+@@|contracts.canonical.com^$important
 @@|controllers.xbox.com^$important
 @@|controlpanel.newshosting.com^$important
 @@|controls.platform.account.www.microsoft.com^$important
@@ -1127,6 +1129,7 @@
 @@|ctldl.windowsupdate.com^$important
 @@|curben.gitlab.io^$important
 @@|customer.energyaustralia.com.au^$important
+@@|customerconnect.vmware.com^$important
 @@|cutefishos.com^$important
 @@|cv.phncdn.com^$important
 @@|cvp.twitch.tv^$important
@@ -1154,6 +1157,7 @@
 @@|dash.sonicbit.net^$important
 @@|dashboard.blomp.com^$important
 @@|dashboard.plex.tv^$important
+@@|dashboard.snapcraft.io.localdomain^$important
 @@|dashboard.snapcraft.io^$important
 @@|dashboard.twitch.tv^$important
 @@|dashbox.soundcloud.com^$important
@@ -1269,7 +1273,6 @@
 @@|dl-file.cyberlink.com^$important
 @@|dl-web.dropbox.com^$important
 @@|dl.acronis.com^$important
-@@|dl.acronis.com^$important
 @@|dl.bitsum.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dl.dell.com^$important
@@ -1338,6 +1341,7 @@
 @@|download*.epicgames.com^$important
 @@|download*.mediafire.com^$important
 @@|download*.portableapps.com^$important
+@@|download*.vmware.com^$important
 @@|download-alt.easyanticheat.net^$important
 @@|download-cc-rdu01.fedoraproject.org^$important
 @@|download-chromium.appspot.com^$important
@@ -1614,6 +1618,7 @@
 @@|feedback.aliexpress.com^$important
 @@|feedback.eset.com^$important
 @@|feedback.googleusercontent.com^$important
+@@|feedback.nexusmods.com^$important
 @@|feedback.xbox.com^$important
 @@|feedback.xda-developers.com^$important
 @@|feedbackservice.teamviewer.com^$important
@@ -2187,6 +2192,7 @@
 @@|ipfs.lubar.me^$important
 @@|ipfs.scalable.io^$important
 @@|ipfs.tech^$important
+@@|ipinfo.io^$important
 @@|iplists.firehol.org^$important
 @@|ipv4.imgur.map.fastly.net^$important
 @@|ipv4.tracker.harry.lu^$important
@@ -2204,6 +2210,7 @@
 @@|is2-ssl.mzstatic.com^$important
 @@|is5-ssl.mzstatic.com^$important
 @@|isitdown.me^$important
+@@|iso.pop-os.org^$important
 @@|it.playstation.com^$important
 @@|it.wikipedia.com^$important
 @@|it1.mirror.vhosting-it.com^$important
@@ -2516,6 +2523,7 @@
 @@|metadata.ftp-master.debian.org^$important
 @@|metal.prod.atl-paas.net^$important
 @@|metrics.ol.epicgames.com^$important
+@@|metrics.ubuntu.com.localdomain^$important
 @@|microsoft.com^$important
 @@|microsoftedge.microsoft.com^$important
 @@|microsoftedgetips.microsoft.com^$important
@@ -2997,6 +3005,7 @@
 @@|pcs.geforcenow.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
+@@|people.canonical.com^$important
 @@|people.gnome.org^$important
 @@|peoplehub.xboxlive.com^$important
 @@|perf.store.on.epicgames.com^$important
@@ -3121,6 +3130,7 @@
 @@|prod-api-v2.production.rokfin.com^$important
 @@|prod-assets.wire.com^$important
 @@|prod-cleo.malwarebytes.com^$important
+@@|prod-commercial-systems.kubernetes-ingress.canonical.com^$important
 @@|prod-nginz-https.wire.com^$important
 @@|prod-nginz-ssl.wire.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
@@ -3465,6 +3475,7 @@
 @@|software.download.prss.microsoft.com^$important
 @@|software.manjaro.org^$important
 @@|software.opensuse.org^$important
+@@|softwareupdate.vmware.com^$important
 @@|songbird.cardinalcommerce.com^$important
 @@|sonicbit.net^$important
 @@|sonicseedbox.com^$important
@@ -4549,6 +4560,7 @@
 @@|www.videolan.org^$important
 @@|www.virtualbox.org^$important
 @@|www.virustotal.com^$important
+@@|www.vmware.com^$important
 @@|www.voidtools.com^$important
 @@|www.wagnardsoft.com^$important
 @@|www.wallpaperengine.io^$important

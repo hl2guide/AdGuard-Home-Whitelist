@@ -1,8 +1,2 @@
 # Testing Rules - 2022-11-13 09:15:13AM
 
-@@|customerconnect.vmware.com^$important
-@@|dashboard.snapcraft.io.localdomain^$important
-@@|download3.vmware.com^$important
-@@|ipinfo.io^$important
-@@|softwareupdate.vmware.com^$important
-@@|www.vmware.com^$important

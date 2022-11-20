@@ -887,6 +887,7 @@
 @@|cf-files.nexusmods.com^$important
 @@|cf-hls-media.sndcdn.com^$important
 @@|cfcdn.neosmart.net^$important
+@@|cfg.gog.com^$important
 @@|cfl.dropboxstatic.com^$important
 @@|cfos-blog.de^$important
 @@|cfos.de^$important
@@ -901,6 +902,7 @@
 @@|chat-1-client-s1-prod.services.gearboxsoftware.com^$important
 @@|chat-dl.google.com^$important
 @@|chat.cdn.ubisoft.com^$important
+@@|chat.gog.com^$important
 @@|chat.google.com^$important
 @@|chat.pop-os.org^$important
 @@|chat.xboxlive.com^$important
@@ -1474,6 +1476,7 @@
 @@|email-assets.soundcloud.com^$important
 @@|email2.gog.com^$important
 @@|emapi.prm.data.ea.com^$important
+@@|embed.gog.com^$important
 @@|embed.spotify.com^$important
 @@|embed.twitch.tv^$important
 @@|embedded-chat.chatbotize.com^$important
@@ -1566,9 +1569,11 @@
 @@|extensions.libreoffice.org^$important
 @@|extensionupdater.brave.com^$important
 @@|extensionworkshop.com^$important
+@@|external-accounts.gog.com^$important
 @@|external-content.duckduckgo.com^$important
 @@|external-offer-mapping-service.juno.ea.com^$important
 @@|external-preview.redd.it^$important
+@@|external-users.gog.com^$important
 @@|extract.services.disqus.com^$important
 @@|eztv.re^$important
 @@|f-droid.org^$important
@@ -1594,6 +1599,7 @@
 @@|fe.dealclub.de^$important
 @@|fe2cr.update.microsoft.com^$important
 @@|fe3cr.delivery.mp.microsoft.com^$important
+@@|feathericons.com^$important
 @@|fedora-secondary.mirror.liquidtelecom.com^$important
 @@|fedora.c3sl.ufpr.br^$important
 @@|fedora.cu.be^$important
@@ -1821,15 +1827,20 @@
 @@|gae2-dealer.spotify.com^$important
 @@|gae2-spclient.spotify.com^$important
 @@|galaxy-client-reports.gog.com^$important
+@@|galaxy-library.gog.com^$important
+@@|galaxy-log.gog.com^$important
+@@|galaxy-promos.gog.com^$important
 @@|galleryn*.awemdia.com^$important
 @@|game-page.cdn.ubisoft.com^$important
 @@|gameclipscontent-*.xboxlive.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
+@@|gameplay.gog.com^$important
 @@|gamer-profile.cdn.ubisoft.com^$important
 @@|gamercard.xbox.com^$important
 @@|games.dolby.com^$important
+@@|gamesdb.gog.com^$important
 @@|gameserverds.xboxlive.com^$important
 @@|gaminglppc.azurefd.net^$important
 @@|garry.windscribe.com^$important
@@ -2000,6 +2011,7 @@
 @@|hemera.pwdn.net^$important
 @@|hermes-b.services.gearboxsoftware.com^$important
 @@|herochat-plugin.chatbotize.com^$important
+@@|heroicons.com^$important
 @@|hidefile.ml^$important
 @@|history.paypal.com^$important
 @@|hitnews.com^$important
@@ -3235,6 +3247,7 @@
 @@|reblock.vercel.app^$important
 @@|recaptcha.net^$important
 @@|reco-public.rec.mp.microsoft.com^$important
+@@|recommendations-api.gog.com^$important
 @@|redcross.org^$important
 @@|reddit.map.fastly.net^$important
 @@|redditstatic.com^$important
@@ -4246,6 +4259,7 @@
 @@|www*.uptobox.com^$important
 @@|www-eset-com.api.cspconsole.com^$important
 @@|www-growth.scdn.co^$important
+@@|www.30secondsofcode.org^$important
 @@|www.7-zip.org^$important
 @@|www.acq-inc.com^$important
 @@|www.acronis.com^$important

@@ -107,10 +107,12 @@
 @@|cdn.us.playstation.com^$important
 @@|cdn01.bethesda.net^$important
 @@|cf-files.nexusmods.com^$important
+@@|cfg.gog.com^$important
 @@|challenges.cdn.ubisoft.com^$important
 @@|channel-service.upc.ubi.com^$important
 @@|chat-1-client-s1-prod.services.gearboxsoftware.com^$important
 @@|chat.cdn.ubisoft.com^$important
+@@|chat.gog.com^$important
 @@|checkout.ea.com^$important
 @@|checkoutshopper-live.adyen.com^$important
 @@|client-download.steampowered.com^$important
@@ -175,6 +177,7 @@
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
 @@|email2.gog.com^$important
 @@|emapi.prm.data.ea.com^$important
+@@|embed.gog.com^$important
 @@|embedded-chat.chatbotize.com^$important
 @@|emea-storm.ubi.com^$important
 @@|ems-delivery.api.playstation.com^$important
@@ -196,7 +199,9 @@
 @@|eus-streaming-video-rt-microsoft-com.akamaized.net^$important
 @@|events.gfe.nvidia.com^$important
 @@|events.split.io^$important
+@@|external-accounts.gog.com^$important
 @@|external-offer-mapping-service.juno.ea.com^$important
+@@|external-users.gog.com^$important
 @@|f4se.silverlock.org^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
@@ -226,11 +231,16 @@
 @@|frostytoolsuite.com^$important
 @@|fsa01.ps4.update.playstation.net^$important
 @@|galaxy-client-reports.gog.com^$important
+@@|galaxy-library.gog.com^$important
+@@|galaxy-log.gog.com^$important
+@@|galaxy-promos.gog.com^$important
 @@|game-page.cdn.ubisoft.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
+@@|gameplay.gog.com^$important
 @@|gamer-profile.cdn.ubisoft.com^$important
+@@|gamesdb.gog.com^$important
 @@|gaminglppc.azurefd.net^$important
 @@|gateway.ea.com^$important
 @@|gear.playstation.com^$important
@@ -436,6 +446,7 @@
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
 @@|ratt.juno.ea.com^$important
+@@|recommendations-api.gog.com^$important
 @@|redeem.gog.com^$important
 @@|remote-config.gog.com^$important
 @@|reports.tools.gos.ea.com^$important

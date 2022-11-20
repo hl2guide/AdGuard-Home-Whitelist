@@ -74,6 +74,7 @@
 @@|fd-assets.prod.atl-paas.net^$important
 @@|fd-config.us-east-1.prod.public.atl-paas.net^$important
 @@|fdroid.gitlab.io^$important
+@@|feathericons.com^$important
 @@|filtersadguard.b-cdn.net^$important
 @@|fluentsearch.net^$important
 @@|flutter.dev^$important
@@ -107,6 +108,7 @@
 @@|guardianproject.gitlab.io^$important
 @@|guides.github.com^$important
 @@|hash.github.com^$important
+@@|heroicons.com^$important
 @@|httpd.apache.org^$important
 @@|hub.docker.com^$important
 @@|id-common-frontend.prod.atl-paas.net^$important
@@ -215,6 +217,7 @@
 @@|webpifeed.blob.core.windows.net^$important
 @@|whotracks.me^$important
 @@|windows.php.net^$important
+@@|www.30secondsofcode.org^$important
 @@|www.codecademy.com^$important
 @@|www.docker.com^$important
 @@|www.electronjs.org^$important

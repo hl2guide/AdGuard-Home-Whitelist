@@ -95,6 +95,7 @@
 @@|cconfig.svc.gearsofwar.net^$important
 @@|cdn*.epicgames.com^$important
 @@|cdn-hw.gog.com^$important
+@@|cdn-s-thewitcher.cdprojektred.com^$important
 @@|cdn.ageofempires.com^$important
 @@|cdn.akamai.steamstatic.com^$important
 @@|cdn.bethesda.net^$important
@@ -623,6 +624,7 @@
 @@|www.origin.com^$important
 @@|www.pcgamingwiki.com^$important
 @@|www.steampowered.com^$important
+@@|www.thewitcher.com^$important
 @@|www.tm.a.prd.aadg.akadns.net^$important
 @@|www.ubisoft.com^$important
 @@|www.valvesoftware.com^$important

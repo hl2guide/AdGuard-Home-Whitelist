@@ -777,6 +777,7 @@
 @@|cdn-mirror.chaotic.cx^$important
 @@|cdn-pics.pornhd.com^$important
 @@|cdn-pics.pornhdprime.com^$important
+@@|cdn-s-thewitcher.cdprojektred.com^$important
 @@|cdn-static-cf.pornhd.com^$important
 @@|cdn.adguard.com^$important
 @@|cdn.adtidy.org^$important
@@ -4559,6 +4560,7 @@
 @@|www.tenforums.com^$important
 @@|www.thegoodguys.com.au^$important
 @@|www.thewindowsclub.com^$important
+@@|www.thewitcher.com^$important
 @@|www.tm.a.prd.aadg.akadns.net^$important
 @@|www.tomsguide.com^$important
 @@|www.toshiba-storage.com^$important

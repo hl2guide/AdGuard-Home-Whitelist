@@ -94,6 +94,7 @@
 @@|cconfig.azureedge.net^$important
 @@|cconfig.svc.gearsofwar.net^$important
 @@|cdn*.epicgames.com^$important
+@@|cdn-hw.gog.com^$important
 @@|cdn.ageofempires.com^$important
 @@|cdn.akamai.steamstatic.com^$important
 @@|cdn.bethesda.net^$important
@@ -120,6 +121,7 @@
 @@|client-update.akamai.steamstatic.com^$important
 @@|clientconfig.akamai.steamstatic.com^$important
 @@|cloud.gg^$important
+@@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
 @@|club.ubisoft.com^$important
 @@|cm*.cm.steampowered.com^$important
@@ -231,6 +233,7 @@
 @@|frostytoolsuite.com^$important
 @@|fsa01.ps4.update.playstation.net^$important
 @@|galaxy-client-reports.gog.com^$important
+@@|galaxy-game-news.gog.com^$important
 @@|galaxy-library.gog.com^$important
 @@|galaxy-log.gog.com^$important
 @@|galaxy-promos.gog.com^$important
@@ -424,6 +427,7 @@
 @@|presscenter.playstation.com^$important
 @@|priceengine-public-service-ecomprod01.ol.epicgames.com^$important
 @@|priceengine-public-service-prod.ak.epicgames.com^$important
+@@|pricing.gog.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
 @@|prod-syd-cf.zionprod.systems^$important
 @@|prod-video-cms-rt-microsoft-com.akamaized.net^$important

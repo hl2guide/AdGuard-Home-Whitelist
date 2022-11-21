@@ -772,6 +772,7 @@
 @@|cdn-dynmedia-1.microsoft.com^$important
 @@|cdn-edge.azureedge.net^$important
 @@|cdn-eu.icons8.com^$important
+@@|cdn-hw.gog.com^$important
 @@|cdn-images.xda-developers.com^$important
 @@|cdn-mirror.chaotic.cx^$important
 @@|cdn-pics.pornhd.com^$important
@@ -978,6 +979,7 @@
 @@|cloud.hitmanpro.com^$important
 @@|cloud.icons8.com^$important
 @@|cloudflare.com^$important
+@@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
 @@|club.ubisoft.com^$important
 @@|clubhub.xboxlive.com^$important
@@ -1827,6 +1829,7 @@
 @@|gae2-dealer.spotify.com^$important
 @@|gae2-spclient.spotify.com^$important
 @@|galaxy-client-reports.gog.com^$important
+@@|galaxy-game-news.gog.com^$important
 @@|galaxy-library.gog.com^$important
 @@|galaxy-log.gog.com^$important
 @@|galaxy-promos.gog.com^$important
@@ -3133,6 +3136,7 @@
 @@|preview.xbox.com^$important
 @@|priceengine-public-service-ecomprod01.ol.epicgames.com^$important
 @@|priceengine-public-service-prod.ak.epicgames.com^$important
+@@|pricing.gog.com^$important
 @@|privacy.microsoft.com^$important
 @@|privacy.sexy^$important
 @@|privacy.xboxlive.com^$important

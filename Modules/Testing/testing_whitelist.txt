@@ -1,2 +1,12 @@
-# Testing Rules - 2022-11-13 09:15:13AM
+# Testing Rules - 2022-11-25 09:17:42PM
 
+# Tech
+@@|ask.libreoffice.org^$important
+@@|filefactory.us6.list-manage.com^$important
+@@|static.airtable.com^$important
+# Games
+@@|forum.nexusmods.com^$important
+# Coding
+@@|blog.jetbrains.com^$important
+@@|resources.jetbrains.com^$important
+@@|www.jetbrains.com^$important

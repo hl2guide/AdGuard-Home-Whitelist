@@ -1,5 +1,11 @@
 # AdGuard-Home-Whitelist ✅
 
+![Files](https://img.shields.io/github/directory-file-count/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
+![Files](https://img.shields.io/tokei/lines/github/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
+![Files](https://img.shields.io/github/repo-size/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
+![Files](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
+![Files](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
+
 - Current Version: 1.2.4.4
 - Last Updated (AEST): 2022-11-21 10:35:21AM
 

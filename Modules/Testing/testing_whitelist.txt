@@ -1,4 +1,4 @@
-# Testing Rules - 2022-11-25 09:17:42PM
+# Testing Rules - 2022-11-28 12:45:52AM
 
 # Tech
 @@|ask.libreoffice.org^$important
@@ -10,3 +10,19 @@
 @@|blog.jetbrains.com^$important
 @@|resources.jetbrains.com^$important
 @@|www.jetbrains.com^$important
+
+# Development
+@@|css-tricks.com^$important
+@@|forthebadge.com^$important
+# Tech
+@@|www.realtek.com^$important
+@@|rescuezilla.com^$important
+# Games
+@@|socialclub.rockstargames.com^$important
+@@|signin.rockstargames.com^$important
+@@|s.rsg.sc^$important
+@@|rockstargames.com^$important
+@@|media-rockstargames-com.akamaized.net^$important
+@@|videos-rockstargames-com.akamaized.net^$important
+@@|gamedownloads-rockstargames-com.akamaized.net^$important
+@@|rockstar-api.arkoselabs.com^$important

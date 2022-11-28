@@ -25,6 +25,7 @@
 @@|avatars1.githubusercontent.com^$important
 @@|avatars2.githubusercontent.com^$important
 @@|avatars3.githubusercontent.com^$important
+@@|blog.jetbrains.com^$important
 @@|bugs.python.org^$important
 @@|caddyserver.com^$important
 @@|camo.githubusercontent.com^$important
@@ -43,6 +44,7 @@
 @@|collector.githubapp.com^$important
 @@|console.python.org^$important
 @@|cpwebassets.codepen.io^$important
+@@|css-tricks.com^$important
 @@|curben.gitlab.io^$important
 @@|dbeaver.io^$important
 @@|dbhub.eu.auth0.com^$important
@@ -78,6 +80,7 @@
 @@|filtersadguard.b-cdn.net^$important
 @@|fluentsearch.net^$important
 @@|flutter.dev^$important
+@@|forthebadge.com^$important
 @@|forum.techhut.tv^$important
 @@|forums.unrealengine.com^$important
 @@|forums.ventoy.net^$important
@@ -174,6 +177,7 @@
 @@|raw.githubusercontent.com^$important
 @@|rawcdn.githack.com^$important
 @@|repository-images.githubusercontent.com^$important
+@@|resources.jetbrains.com^$important
 @@|rg3.github.io^$important
 @@|sciter.com^$important
 @@|sdlc-esd.oracle.com^$important
@@ -225,6 +229,7 @@
 @@|www.github.developerdan.com^$important
 @@|www.heidisql.com^$important
 @@|www.java.com^$important
+@@|www.jetbrains.com^$important
 @@|www.nerdfonts.com^$important
 @@|www.npmjs.com^$important
 @@|www.nuget.org^$important

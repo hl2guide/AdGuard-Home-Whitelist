@@ -134,6 +134,7 @@
 @@|3.au.download.windowsupdate.com^$important
 @@|3.pool.ntp.org^$important
 @@|4shared.com^$important
+@@|5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
 @@|9.rarbg.me^$important
 @@|9.rarbg.to^$important
 @@|_dnsaddr.bootstrap.libp2p.io^$important
@@ -165,6 +166,7 @@
 @@|a.fsdn.com^$important
 @@|a.idio.co^$important
 @@|a.nel.cloudflare.com^$important
+@@|a.rsg.sc^$important
 @@|a.thumbs.redditmedia.com^$important
 @@|a.tiles.mapbox.com^$important
 @@|a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
@@ -319,6 +321,7 @@
 @@|api-mobile.soundcloud.com^$important
 @@|api-mobileweb.soundcloud.com^$important
 @@|api-nyc.soundcloud.com^$important
+@@|api-p1.phoenix.razer.com^$important
 @@|api-partner.spotify.com^$important
 @@|api-partners.soundcloud.com^$important
 @@|api-prod.nvidia.com^$important
@@ -466,6 +469,7 @@
 @@|asia.mirror.pkgbuild.com^$important
 @@|asia.playstation.com^$important
 @@|ask.fedoraproject.org^$important
+@@|ask.libreoffice.org^$important
 @@|askleo.askleomedia.com^$important
 @@|askleo.com^$important
 @@|askubuntu.com^$important
@@ -491,6 +495,7 @@
 @@|assets.msn.com^$important
 @@|assets.onestore.ms^$important
 @@|assets.pippa.io^$important
+@@|assets.razerzone.com^$important
 @@|assets.resultspage.com^$important
 @@|assets.sb-cd.com^$important
 @@|assets.system76.com^$important
@@ -502,6 +507,7 @@
 @@|assets.xboxservices.com^$important
 @@|assets.zendesk.com^$important
 @@|assets.zorincdn.com^$important
+@@|assets2.razerzone.com^$important
 @@|async-px.dynamicyield.com^$important
 @@|atlas.eff.org^$important
 @@|atlassian.com^$important
@@ -527,6 +533,7 @@
 @@|auspost.com.au^$important
 @@|australiaeast0-mediap.svc.ms^$important
 @@|ausyd1-edge1.cdn.i3d.net^$important
+@@|auth-rgl-prod.ros.rockstargames.com^$important
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.assist.gameservices.xboxlive.com^$important
 @@|auth.ato.gov.au^$important
@@ -645,6 +652,7 @@
 @@|blog.ipfs.io^$important
 @@|blog.ipfs.tech^$important
 @@|blog.it.playstation.com^$important
+@@|blog.jetbrains.com^$important
 @@|blog.manjaro.org^$important
 @@|blog.mozilla.org^$important
 @@|blog.netflix.com^$important
@@ -836,6 +844,7 @@
 @@|cdn.podia.com^$important
 @@|cdn.polyfill.io^$important
 @@|cdn.rawgit.com^$important
+@@|cdn.razersynapse.com^$important
 @@|cdn.registry.fedoraproject.org^$important
 @@|cdn.samsung.com^$important
 @@|cdn.search.brave.com^$important
@@ -1131,6 +1140,7 @@
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|csd-apt-sea-d-3.southeastasia.cloudapp.azure.com^$important
 @@|cse.cyberlink.com^$important
+@@|css-tricks.com^$important
 @@|ctldl.windowsupdate.com^$important
 @@|curben.gitlab.io^$important
 @@|customer.energyaustralia.com.au^$important
@@ -1259,6 +1269,7 @@
 @@|discourse.ubuntu.com^$important
 @@|discover.hulu.com^$important
 @@|discovery-infiniteugc.svc.halowaypoint.com^$important
+@@|discovery.razerapi.com^$important
 @@|discovery.services.gearboxsoftware.com^$important
 @@|discuss.dev.twitch.tv^$important
 @@|discuss.getsol.us^$important
@@ -1289,6 +1300,8 @@
 @@|dl.google.com^$important
 @@|dl.humble.com^$important
 @@|dl.opensubtitles.org^$important
+@@|dl.razer.com^$important
+@@|dl.razerzone.com^$important
 @@|dl.teamviewer.com^$important
 @@|dl3.cdn.filezilla-project.org^$important
 @@|dlassets-ssl.xboxlive.com^$important
@@ -1447,6 +1460,7 @@
 @@|ebay.com.au^$important
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
+@@|ec.razer.com^$important
 @@|ecom-cdn.ubi.com^$important
 @@|ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@|economy.svc.halowaypoint.com^$important
@@ -1644,6 +1658,7 @@
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
 @@|filefactory.com^$important
+@@|filefactory.us6.list-manage.com^$important
 @@|filejoker.net^$important
 @@|filen.io^$important
 @@|files*.majorgeeks.com^$important
@@ -1683,12 +1698,14 @@
 @@|form.typeform.com^$important
 @@|forms.gle^$important
 @@|forms.office.com^$important
+@@|forthebadge.com^$important
 @@|forum.doom9.org^$important
 @@|forum.fr.playstation.com^$important
 @@|forum.garudalinux.org^$important
 @@|forum.kaspersky.com^$important
 @@|forum.makemkv.com^$important
 @@|forum.manjaro.org^$important
+@@|forum.nexusmods.com^$important
 @@|forum.palemoon.org^$important
 @@|forum.snahp.it^$important
 @@|forum.techhut.tv^$important
@@ -1839,6 +1856,8 @@
 @@|gameclipscontent-*.xboxlive.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
+@@|gamedownloads-rockstargames-com.akamaized.net^$important
+@@|gamedownloads.rockstargames.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gameplay.gog.com^$important
 @@|gamer-profile.cdn.ubisoft.com^$important
@@ -1951,6 +1970,7 @@
 @@|gql.reddit.com^$important
 @@|gql.twitch.tv^$important
 @@|graph.microsoft.com^$important
+@@|graph.rockstargames.com^$important
 @@|graphql.accounts.firefox.com^$important
 @@|graphql.epicgames.com^$important
 @@|gravatar.com^$important
@@ -2082,6 +2102,7 @@
 @@|id.google.com.au^$important
 @@|id.google.com^$important
 @@|id.m.wikipedia.com^$important
+@@|id.razer.com^$important
 @@|id.sonyentertainmentnetwork.com^$important
 @@|id.twitch.tv^$important
 @@|id.wikipedia.com^$important
@@ -2466,6 +2487,7 @@
 @@|manage.devcenter.microsoft.com^$important
 @@|manage.ntppool.org^$important
 @@|manifest-gce-us-east1-production.cfcdn.v.rokfin.com^$important
+@@|manifest.razerapi.com^$important
 @@|manjaro.mirrors.theom.nz^$important
 @@|manjaro.org^$important
 @@|manpages.debian.org^$important
@@ -2502,6 +2524,7 @@
 @@|media*.giphy.com^$important
 @@|media-cdn.epicgames.com^$important
 @@|media-cdn.twitch.tv^$important
+@@|media-rockstargames-com.akamaized.net^$important
 @@|media.amazon.map.fastly.net^$important
 @@|media.babesource.com^$important
 @@|media.binglee.com.au^$important
@@ -2536,6 +2559,7 @@
 @@|mercury.services.gearboxsoftware.com^$important
 @@|merriam-webster.com^$important
 @@|messages.google.com^$important
+@@|messdistr1-rdr2-prod.ros.rockstargames.com^$important
 @@|metadata.ftp-master.debian.org^$important
 @@|metal.prod.atl-paas.net^$important
 @@|metrics.ol.epicgames.com^$important
@@ -2851,6 +2875,7 @@
 @@|oapi.opalsystems.com.au^$important
 @@|oauth.accounts.firefox.com^$important
 @@|oauth.live.com^$important
+@@|oauth2.razer.com^$important
 @@|objects-origin.githubusercontent.com^$important
 @@|objects.githubusercontent.com^$important
 @@|objectstorage.ap-sydney-1.oraclecloud.com^$important
@@ -3198,7 +3223,9 @@
 @@|pubmirror1.math.uh.edu^$important
 @@|pubmirror2.math.uh.edu^$important
 @@|pubmirror3.math.uh.edu^$important
+@@|pubsub-api.razerapi.com^$important
 @@|pubsub-edge.twitch.tv^$important
+@@|pubsub.razersynapse.com^$important
 @@|purchase.mp.microsoft.com^$important
 @@|push.chocolatey.org^$important
 @@|push.services.mozilla.com^$important
@@ -3220,6 +3247,7 @@
 @@|query.prod.cms.rt.microsoft.com^$important
 @@|qwant.com^$important
 @@|r.msftstatic.com^$important
+@@|r.razer.com^$important
 @@|r2.community.samsung.com^$important
 @@|r3.i.lencr.org^$important
 @@|r3.o.lencr.org^$important
@@ -3243,6 +3271,9 @@
 @@|raw.github.com^$important
 @@|raw.githubusercontent.com^$important
 @@|rawcdn.githack.com^$important
+@@|razer-assets2.s3.amazonaws.com^$important
+@@|razerid-assets.razerzone.com^$important
+@@|razerid.razer.com^$important
 @@|rcom.dynamicyield.com^$important
 @@|rd-icons-icons8.gumlet.com^$important
 @@|rd-icons-icons8.gumlet.io^$important
@@ -3287,8 +3318,10 @@
 @@|res.cdn.office.net^$important
 @@|res.cloudinary.com^$important
 @@|res.windscribe.com^$important
+@@|rescuezilla.com^$important
 @@|reshade.me^$important
 @@|resource.dopus.com^$important
+@@|resources.jetbrains.com^$important
 @@|rest-api.degoo.com^$important
 @@|rest.iad-03.braze.com^$important
 @@|results.speedtest.net^$important
@@ -3303,11 +3336,15 @@
 @@|rewards.cdn.ubisoft.com^$important
 @@|rewards.xbox.com^$important
 @@|rg3.github.io^$important
+@@|rgl-prod.ros.rockstargames.com^$important
+@@|rgl.rockstargames.com^$important
 @@|ridgewireless.mm.fcix.net^$important
 @@|ris.api.iris.microsoft.com^$important
 @@|river.data.ea.com^$important
 @@|rl0aoelivemk2blob.blob.core.windows.net^$important
 @@|rm-eu.palemoon.org^$important
+@@|rockstar-api.arkoselabs.com^$important
+@@|rockstargames.com^$important
 @@|rockylinux.org^$important
 @@|roosterteeth.com^$important
 @@|router*.teamviewer.com^$important
@@ -3330,6 +3367,7 @@
 @@|rules2.clearurls.xyz^$important
 @@|rumble.com^$important
 @@|run.publictracker.xyz^$important
+@@|rzr.to^$important
 @@|s*.filefactory.com^$important
 @@|s*.pornone.com^$important
 @@|s*.rapidgator.net^$important
@@ -3338,6 +3376,7 @@
 @@|s*.trafficdeposit.com^$important
 @@|s.go-mpulse.net^$important
 @@|s.imgur.com^$important
+@@|s.rsg.sc^$important
 @@|s.youtube.com^$important
 @@|s.ytimg.com^$important
 @@|s2.youtube.com^$important
@@ -3363,6 +3402,7 @@
 @@|sb.ltn.fi^$important
 @@|scan.hitmanpro.com^$important
 @@|scan.kaspersky.com^$important
+@@|scapi.rockstargames.com^$important
 @@|sciter.com^$important
 @@|scone-pa.clients6.google.com^$important
 @@|scoop.sh^$important
@@ -3457,6 +3497,7 @@
 @@|signaler-pa.clients*.google.com^$important
 @@|signin.ea.com^$important
 @@|signin.intel.com^$important
+@@|signin.rockstargames.com^$important
 @@|signinupcdn.blob.core.windows.net^$important
 @@|signup.hulu.com^$important
 @@|signup.live.com^$important
@@ -3485,6 +3526,7 @@
 @@|social.playstation.com^$important
 @@|social.technet.microsoft.com^$important
 @@|social.xboxlive.com^$important
+@@|socialclub.rockstargames.com^$important
 @@|sockets.betterttv.net^$important
 @@|sockets.standardnotes.com^$important
 @@|sofia.cdntrex.com^$important
@@ -3582,6 +3624,7 @@
 @@|ssl.gstatic.com^$important
 @@|ssl.p.jwpcdn.com^$important
 @@|ssl.reddit.com^$important
+@@|sso-static.razer.com^$important
 @@|sso.nexusmods.com^$important
 @@|st*.debrid.link^$important
 @@|st-syd-02.gcomm.com.au.prod.hosts.ooklaserver.net^$important
@@ -3621,6 +3664,7 @@
 @@|static.a.upc.ubisoft.com^$important
 @@|static.adguard.com^$important
 @@|static.ageofempires.com^$important
+@@|static.airtable.com^$important
 @@|static.alphacoders.com^$important
 @@|static.bada.com^$important
 @@|static.binglee.com.au^$important
@@ -3740,6 +3784,7 @@
 @@|store.mozilla.org^$important
 @@|store.nvidia.com^$important
 @@|store.playstation.com^$important
+@@|store.rockstargames.com^$important
 @@|store.sony.com^$important
 @@|store.steampowered.com^$important
 @@|store.ubi.com^$important
@@ -3784,6 +3829,7 @@
 @@|support.microsoft.com^$important
 @@|support.mozilla.org^$important
 @@|support.office.live.com^$important
+@@|support.rockstargames.com^$important
 @@|support.signal.org^$important
 @@|support.spro.xbox.com^$important
 @@|support.system76.com^$important
@@ -3806,6 +3852,7 @@
 @@|syd.mirror.rackspace.com^$important
 @@|syd1.speedtest.telstra.net^$important
 @@|sydneywater.com.au^$important
+@@|synapse-3-webservice.razerzone.com^$important
 @@|sync.standardnotes.org^$important
 @@|system76.cdn.prismic.io^$important
 @@|system76.com^$important
@@ -4148,6 +4195,7 @@
 @@|video.playstation.com^$important
 @@|video.xhcdn.com^$important
 @@|videoplayercdn.osi.office.net^$important
+@@|videos-rockstargames-com.akamaized.net^$important
 @@|view.engage.xbox.com^$important
 @@|view.status.xbox.com^$important
 @@|viewscreen.githubusercontent.com^$important
@@ -4415,6 +4463,7 @@
 @@|www.java.com^$important
 @@|www.jaycar.com.au^$important
 @@|www.jbhifi.com.au^$important
+@@|www.jetbrains.com^$important
 @@|www.justpushstart.com^$important
 @@|www.kde.org^$important
 @@|www.kensington.com^$important
@@ -4516,11 +4565,14 @@
 @@|www.rapidee.com^$important
 @@|www.rarbgmirror.org^$important
 @@|www.rarlab.com^$important
+@@|www.razer.com^$important
+@@|www.realtek.com^$important
 @@|www.recaptcha.net^$important
 @@|www.reddit.com^$important
 @@|www.redditmedia.com^$important
 @@|www.redditstatic.com^$important
 @@|www.redtube.com^$important
+@@|www.rockstargames.com^$important
 @@|www.rokfin.com^$important
 @@|www.ruby-lang.org^$important
 @@|www.rust-lang.org^$important

@@ -10,6 +10,8 @@
 @@|*.steamcontent.com^$important
 @@|*.steamserver.net^$important
 @@|*.xboxlive.com
+@@|5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
+@@|a.rsg.sc^$important
 @@|account-public-service-prod.ak.epicgames.com^$important
 @@|account-public-service-prod03.ol.epicgames.com^$important
 @@|account.cdn.ubisoft.com^$important
@@ -30,6 +32,7 @@
 @@|api*.origin.com^$important
 @@|api-chat.chatbotize.com^$important
 @@|api-dev.ageofempires.com^$important
+@@|api-p1.phoenix.razer.com^$important
 @@|api-prod.nvidia.com^$important
 @@|api.ageofempires.com^$important
 @@|api.bethesda.net^$important
@@ -48,7 +51,10 @@
 @@|asia.playstation.com^$important
 @@|asm.np.community.playstation.net^$important
 @@|assets.ctfassets.net^$important
+@@|assets.razerzone.com^$important
+@@|assets2.razerzone.com^$important
 @@|au.playstation.com^$important
+@@|auth-rgl-prod.ros.rockstargames.com^$important
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.gog.com^$important
 @@|autopatch.juno.ea.com^$important
@@ -105,6 +111,7 @@
 @@|cdn.humblebundle.com^$important
 @@|cdn.iubenda.com^$important
 @@|cdn.mcr.ea.com^$important
+@@|cdn.razersynapse.com^$important
 @@|cdn.services.gearboxsoftware.com^$important
 @@|cdn.us.playstation.com^$important
 @@|cdn01.bethesda.net^$important
@@ -163,7 +170,10 @@
 @@|directline.botframework.com^$important
 @@|dirtybits.api.origin.com^$important
 @@|discovery-infiniteugc.svc.halowaypoint.com^$important
+@@|discovery.razerapi.com^$important
 @@|discovery.services.gearboxsoftware.com^$important
+@@|dl.razer.com^$important
+@@|dl.razerzone.com^$important
 @@|dmx.upc.ubisoft.com^$important
 @@|docs.playstation.com^$important
 @@|download*.epicgames.com^$important
@@ -174,6 +184,7 @@
 @@|ea.com^$important
 @@|eacommerce.akamaized.net^$important
 @@|eadpgs-blapp002.ea.com^$important
+@@|ec.razer.com^$important
 @@|ecom-cdn.ubi.com^$important
 @@|ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@|economy.svc.halowaypoint.com^$important
@@ -217,6 +228,7 @@
 @@|filestore.community.support.microsoft.com^$important
 @@|fonts.ea.com^$important
 @@|forum.fr.playstation.com^$important
+@@|forum.nexusmods.com^$important
 @@|forumadsales.software.eu.playstation.com^$important
 @@|forums.nexusmods.com^$important
 @@|forums.tripwireinteractive.com^$important
@@ -241,6 +253,8 @@
 @@|game-page.cdn.ubisoft.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
+@@|gamedownloads-rockstargames-com.akamaized.net^$important
+@@|gamedownloads.rockstargames.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gameplay.gog.com^$important
 @@|gamer-profile.cdn.ubisoft.com^$important
@@ -263,6 +277,7 @@
 @@|google2.cdn.steampipe.steamcontent.com^$important
 @@|gosca.ea.com^$important
 @@|gosredirector.ea.com^$important
+@@|graph.rockstargames.com^$important
 @@|graphql.epicgames.com^$important
 @@|groups.gameservices.ea.com^$important
 @@|gsprodblapp-*.ea.com^$important
@@ -281,6 +296,7 @@
 @@|howlongtobeat.com^$important
 @@|icdn.digitaltrends.com^$important
 @@|id-lookup.api.playstation.com^$important
+@@|id.razer.com^$important
 @@|iir.blizzard.com^$important
 @@|images-*.gog-statics.com^$important
 @@|images.gog-statics.com^$important
@@ -325,11 +341,13 @@
 @@|lvlt.cdn.ea.com^$important
 @@|m.codemasters.com^$important
 @@|m.playstation.com^$important
+@@|manifest.razerapi.com^$important
 @@|marketplace-website-node-launcher-prod.ol.epicgames.com^$important
 @@|me3tweaks.com^$important
 @@|me4prodfeapp0002.ea.com^$important
 @@|mea-public.biowareonline.net^$important
 @@|media-cdn.epicgames.com^$important
+@@|media-rockstargames-com.akamaized.net^$important
 @@|media.contentapi.ea.com^$important
 @@|media.moddb.com^$important
 @@|media.nexusmods.com^$important
@@ -342,6 +360,7 @@
 @@|menu.gog.com^$important
 @@|merchantpool1.epicgames.com^$important
 @@|mercury.services.gearboxsoftware.com^$important
+@@|messdistr1-rdr2-prod.ros.rockstargames.com^$important
 @@|metrics.ol.epicgames.com^$important
 @@|modding.wiki^$important
 @@|mods-images.bethesda.net^$important
@@ -371,6 +390,7 @@
 @@|notifications.gog.com^$important
 @@|nukacrypt.com^$important
 @@|oak-public-service-prod.ol.epicgames.com^$important
+@@|oauth2.razer.com^$important
 @@|objectstorage.ap-sydney-1.oraclecloud.com^$important
 @@|odyssey.services.gearboxsoftware.com^$important
 @@|onedscolprd*azure.com^$important
@@ -441,6 +461,8 @@
 @@|proxy.novafusion.ea.com^$important
 @@|public-ubiservices.ubi.com^$important
 @@|public-ws-ubiservices.ubi.com^$important
+@@|pubsub-api.razerapi.com^$important
+@@|pubsub.razersynapse.com^$important
 @@|pw.nexusmods.com^$important
 @@|qos*.ol.epicgames.com^$important
 @@|qos-prod-bio-dub-common-common.gos.ea.com^$important
@@ -448,9 +470,13 @@
 @@|qos-prod-m3d-brz-common-common.gos.ea.com^$important
 @@|qos-prod-m3d-nrt-common-common.gos.ea.com^$important
 @@|qos1.ol.epicgames.com^$important
+@@|r.razer.com^$important
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
 @@|ratt.juno.ea.com^$important
+@@|razer-assets2.s3.amazonaws.com^$important
+@@|razerid-assets.razerzone.com^$important
+@@|razerid.razer.com^$important
 @@|recommendations-api.gog.com^$important
 @@|redeem.gog.com^$important
 @@|remote-config.gog.com^$important
@@ -458,10 +484,17 @@
 @@|reviews.gog.com^$important
 @@|rewards*-prod.svc.gearsofwar.net^$important
 @@|rewards.cdn.ubisoft.com^$important
+@@|rgl-prod.ros.rockstargames.com^$important
+@@|rgl.rockstargames.com^$important
 @@|river.data.ea.com^$important
+@@|rockstar-api.arkoselabs.com^$important
+@@|rockstargames.com^$important
 @@|rtm.tnt-ea.com^$important
+@@|rzr.to^$important
 @@|s.go-mpulse.net^$important
+@@|s.rsg.sc^$important
 @@|s3.us-west-002.backblazeb2.com^$important
+@@|scapi.rockstargames.com^$important
 @@|sdk.split.io^$important
 @@|sea-displaycatalogrp.frontdoor.bigcatalog.commerce.microsoft.com^$important
 @@|search.nexusmods.com^$important
@@ -477,6 +510,7 @@
 @@|shared-static-prod.epicgames.com^$important
 @@|sigma.ubi.com^$important
 @@|signin.ea.com^$important
+@@|signin.rockstargames.com^$important
 @@|sjc*.dl.dbolical.com^$important
 @@|skill.svc.halowaypoint.com^$important
 @@|snexpansion.unknownworlds.com^$important
@@ -484,6 +518,7 @@
 @@|social.bioware.com^$important
 @@|social.gog.com^$important
 @@|social.playstation.com^$important
+@@|socialclub.rockstargames.com^$important
 @@|spartanstats.svc.halowaypoint.com^$important
 @@|spartaprofile-prod.svc.gearsofwar.net^$important
 @@|spartaprofile2-prod.svc.gearsofwar.net^$important
@@ -491,6 +526,7 @@
 @@|split-evaluator.juno.ea.com^$important
 @@|spring14.gosredirector.ea.com^$important
 @@|ssl-lvlt.cdn.ea.com^$important
+@@|sso-static.razer.com^$important
 @@|sso.nexusmods.com^$important
 @@|stage.secure.download.dm.origin.com^$important
 @@|starcraft2.com^$important
@@ -537,6 +573,7 @@
 @@|store.cloudflare.steamstatic.com^$important
 @@|store.epicgames.com^$important
 @@|store.playstation.com^$important
+@@|store.rockstargames.com^$important
 @@|store.steampowered.com^$important
 @@|store.ubi.com^$important
 @@|suporte.br.playstation.com^$important
@@ -545,7 +582,9 @@
 @@|support.gog.com^$important
 @@|support.halowaypoint.com^$important
 @@|support.jp.playstation.com^$important
+@@|support.rockstargames.com^$important
 @@|support.us.playstation.com^$important
+@@|synapse-3-webservice.razerzone.com^$important
 @@|tage.playstation.com^$important
 @@|taleoftwowastelands.com^$important
 @@|talon-service-prod.ak.epicgames.com^$important
@@ -594,6 +633,7 @@
 @@|video.api.playstation.com^$important
 @@|video.dl.playstation.net^$important
 @@|video.playstation.com^$important
+@@|videos-rockstargames-com.akamaized.net^$important
 @@|vsa-prod.services.microsoft.com^$important
 @@|vsa.services.microsoft.com^$important
 @@|wallet.ecom.ubi.com^$important
@@ -623,6 +663,8 @@
 @@|www.nexusmods.com^$important
 @@|www.origin.com^$important
 @@|www.pcgamingwiki.com^$important
+@@|www.razer.com^$important
+@@|www.rockstargames.com^$important
 @@|www.steampowered.com^$important
 @@|www.thewitcher.com^$important
 @@|www.tm.a.prd.aadg.akadns.net^$important

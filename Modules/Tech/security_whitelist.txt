@@ -23,6 +23,7 @@
 @@|api.westerndigital.com^$important
 @@|ark.intel.com^$important
 @@|artifacts.bitwarden.com^$important
+@@|ask.libreoffice.org^$important
 @@|assets.esetstatic.com^$important
 @@|assets.zendesk.com^$important
 @@|atlas.eff.org^$important
@@ -81,6 +82,7 @@
 @@|evernotesupport.zendesk.com^$important
 @@|extensionworkshop.com^$important
 @@|feedback.eset.com^$important
+@@|filefactory.us6.list-manage.com^$important
 @@|filezilla-project.org^$important
 @@|forum.palemoon.org^$important
 @@|forums.tomsguide.com^$important
@@ -123,6 +125,7 @@
 @@|readthedocs.org^$important
 @@|relay.firefox.com^$important
 @@|repo.vivaldi.com^$important
+@@|rescuezilla.com^$important
 @@|rm-eu.palemoon.org^$important
 @@|rufus.akeo.ie^$important
 @@|rufus.ie^$important
@@ -139,6 +142,7 @@
 @@|st.ntppool.org^$important
 @@|stackpath.bootstrapcdn.com^$important
 @@|static-www.onlyoffice.com^$important
+@@|static.airtable.com^$important
 @@|static.bada.com^$important
 @@|static.cloud.coveo.com^$important
 @@|static.sandisk.com^$important
@@ -202,6 +206,7 @@
 @@|www.pool.ntp.org^$important
 @@|www.privacytools.io^$important
 @@|www.qbittorrent.org^$important
+@@|www.realtek.com^$important
 @@|www.rizonesoft.com^$important
 @@|www.safedns.com^$important
 @@|www.screentogif.com^$important

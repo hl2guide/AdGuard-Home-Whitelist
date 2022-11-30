@@ -1,7 +1,6 @@
 # AdGuard-Home-Whitelist ✅
 
 ![Files](https://img.shields.io/github/directory-file-count/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
-![Lines](https://img.shields.io/tokei/lines/github/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Size](https://img.shields.io/github/repo-size/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)

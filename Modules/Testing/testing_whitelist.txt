@@ -1,16 +1,3 @@
-# Testing Rules - 2022-12-01 09:03:00AM
+# Testing Rules - 2022-12-05 12:29:11PM
 
-# Tech
-@@|onboardcloud.dl.sourceforge.net^$important
-@@|privacyaustralia.net^$important
-@@|scoopsearch.search.windows.net^$important
-# Shopping
-@@|databridge.tdbtrk.com^$important
-@@|static.queue-it.net^$important
-# Security
-@@|coveryourtracks.eff.org^$important
-@@|do-not-tracker.org^$important
-@@|eviltracker.net^$important
-@@|firstpartysimulator.net^$important
-@@|firstpartysimulator.org^$important
-@@|trackersimulator.org^$important
+# MERGED

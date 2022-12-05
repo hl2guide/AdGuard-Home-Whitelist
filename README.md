@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.4.5
-- Last Updated (AEST): 2022-11-28 09:54:25PM
+- Current Version: 1.2.4.6
+- Last Updated (AEST): 2022-12-05 12:29:32PM
 
 ## Intro ✍
 
@@ -22,8 +22,9 @@ _AdGuard-Home-Whitelist © 2022 - hl2guide_
 
 ## Recent News 📰
 
-| Date and Time | Note |
+| Date and Time 📅 | Note 📓 |
 |---------------|------|
+| 2022-12-05 12:30:10PM | Added more security rules |
 | 2022-10-11 06:05:36PM | Fixed EA App |
 | 2022-10-01 05:42:10PM | Added many new rules |
 | 2022-09-09 04:52:33PM | Added an Android module |
@@ -62,7 +63,7 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 ### Details 🧾
 
 * __Expected AdGuard Home Average RAM Usage:__ around 18MB
-* __Number of Rules:__ over 4600
+* __Number of Rules:__ over 4700
 
 ## Updates 👩‍💻
 

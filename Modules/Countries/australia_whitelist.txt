@@ -46,12 +46,14 @@
 @@|customer.energyaustralia.com.au^$important
 @@|cweb.myshopping.com.au^$important
 @@|data.nsw.gov.au^$important
+@@|dfat.gov.au^$important
 @@|dodo.com.au^$important
 @@|ebay.com.au^$important
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
 @@|elections.nsw.gov.au^$important
 @@|energyaustralia.com.au^$important
+@@|enquiries.passports.gov.au^$important
 @@|errors.client.optimizely.com^$important
 @@|f1techcomputers.com.au^$important
 @@|fonts.service.nsw.gov.au^$important
@@ -100,6 +102,7 @@
 @@|opva.elections.nsw.gov.au^$important
 @@|point.digital.nsw.gov.au^$important
 @@|poro.ato.gov.au^$important
+@@|privacyaustralia.net^$important
 @@|publish-p16597-e60686.adobeaemcloud.com^$important
 @@|r3.whistleout.com.au^$important
 @@|remoteassistance.support.services.microsoft.com^$important
@@ -181,6 +184,7 @@
 @@|www.nsw.gov.au^$important
 @@|www.officeworks.com.au^$important
 @@|www.opal.com.au^$important
+@@|www.passports.gov.au^$important
 @@|www.pharmacy4less.com.au^$important
 @@|www.police.nsw.gov.au^$important
 @@|www.service.nsw.gov.au^$important

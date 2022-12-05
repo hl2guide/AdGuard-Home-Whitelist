@@ -110,6 +110,7 @@
 @@|cdn.gog.com^$important
 @@|cdn.humblebundle.com^$important
 @@|cdn.iubenda.com^$important
+@@|cdn.mapgenie.io^$important
 @@|cdn.mcr.ea.com^$important
 @@|cdn.razersynapse.com^$important
 @@|cdn.services.gearboxsoftware.com^$important
@@ -477,6 +478,7 @@
 @@|razer-assets2.s3.amazonaws.com^$important
 @@|razerid-assets.razerzone.com^$important
 @@|razerid.razer.com^$important
+@@|rdr2map.com^$important
 @@|recommendations-api.gog.com^$important
 @@|redeem.gog.com^$important
 @@|remote-config.gog.com^$important
@@ -599,6 +601,7 @@
 @@|test.steampowered.com^$important
 @@|text.svc.halowaypoint.com^$important
 @@|thumbnails.pcgamingwiki.com^$important
+@@|tiles.mapgenie.io^$important
 @@|titlestorage.bethesda.net^$important
 @@|tos.ea.com^$important
 @@|tracking.epicgames.com^$important

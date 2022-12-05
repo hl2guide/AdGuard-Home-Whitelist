@@ -16,6 +16,7 @@
 @@|computers.scorptec.com.au^$important
 @@|coupon.aliexpress.com^$important
 @@|cwsmgmt.corsair.com^$important
+@@|databridge.tdbtrk.com^$important
 @@|de.aliexpress.com^$important
 @@|deals.ghacks.net^$important
 @@|es.aliexpress.com^$important
@@ -37,6 +38,7 @@
 @@|seal-sanjose.bbb.org^$important
 @@|shops1.stackassets.com^$important
 @@|st.dynamicyield.com^$important
+@@|static.queue-it.net^$important
 @@|www.corsair.com^$important
 @@|www.lightboxcdn.com^$important
 @@|www.scorptec.com.au^$important

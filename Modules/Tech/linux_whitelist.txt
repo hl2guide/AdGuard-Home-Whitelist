@@ -201,6 +201,7 @@
 @@|mirror.ehost.vn^$important
 @@|mirror.erickochen.nl^$important
 @@|mirror.faraso.org^$important
+@@|mirror.firstyear.id.au^$important
 @@|mirror.hostopia.com.au^$important
 @@|mirror.ihost.md^$important
 @@|mirror.informatik.tu-freiberg.de^$important
@@ -225,6 +226,7 @@
 @@|mirror.us-sc.kamatera.com^$important
 @@|mirror.wiru.co.za^$important
 @@|mirror.zetup.net^$important
+@@|mirrorcache-au.opensuse.org^$important
 @@|mirrorcache.opensuse.org^$important
 @@|mirrors.accretive-networks.net^$important
 @@|mirrors.almalinux.org^$important
@@ -260,6 +262,7 @@
 @@|odrs.gnome.org^$important
 @@|old-releases.ubuntu.com^$important
 @@|openshift.gnome.org^$important
+@@|opensuse-mirror-gce-ap.susecloud.net^$important
 @@|opensuse.c3sl.ufpr.br^$important
 @@|opensuse.ipacct.com^$important
 @@|opensuse.mirrors.theom.nz^$important

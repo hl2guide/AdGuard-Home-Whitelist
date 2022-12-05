@@ -389,6 +389,7 @@
 @@|rl0aoelivemk2blob.blob.core.windows.net^$important
 @@|rta.xboxlive.com^$important
 @@|s3cmscontentassets.blob.core.windows.net^$important
+@@|scoopsearch.search.windows.net^$important
 @@|screenshotscontent-*.xboxlive.com^$important
 @@|sdx.microsoft.com^$important
 @@|secure.aadcdn.microsoftonline-p.com^$important

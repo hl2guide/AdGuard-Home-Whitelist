@@ -72,6 +72,7 @@
 @@|electron.atom.io^$important
 @@|electronjs.org^$important
 @@|elixir-lang.org^$important
+@@|eslint.org^$important
 @@|events-feed.github.com^$important
 @@|fd-assets.prod.atl-paas.net^$important
 @@|fd-config.us-east-1.prod.public.atl-paas.net^$important
@@ -176,6 +177,7 @@
 @@|raw.github.com^$important
 @@|raw.githubusercontent.com^$important
 @@|rawcdn.githack.com^$important
+@@|registry.npmjs.org^$important
 @@|repository-images.githubusercontent.com^$important
 @@|resources.jetbrains.com^$important
 @@|rg3.github.io^$important

@@ -831,6 +831,7 @@
 @@|cdn.jsdelivr.net^$important
 @@|cdn.jwplayer.com^$important
 @@|cdn.kde.org^$important
+@@|cdn.mapgenie.io^$important
 @@|cdn.mcr.ea.com^$important
 @@|cdn.mega-debrid.eu^$important
 @@|cdn.mos.cms.futurecdn.net^$important
@@ -894,6 +895,7 @@
 @@|central.github.com^$important
 @@|cerberus-front.easyanticheat.net^$important
 @@|cert.mgt.xboxlive.com^$important
+@@|certbot.eff.org^$important
 @@|cf-builds.garudalinux.org^$important
 @@|cf-files.nexusmods.com^$important
 @@|cf-hls-media.sndcdn.com^$important
@@ -1020,6 +1022,7 @@
 @@|commons.wikipedia.com^$important
 @@|communities.vmware.com^$important
 @@|community.akamai.steamstatic.com^$important
+@@|community.brave.com^$important
 @@|community.chocolatey.org^$important
 @@|community.cloudflare.steamstatic.com^$important
 @@|community.eu.playstation.com^$important
@@ -1102,6 +1105,7 @@
 @@|countess.twitch.tv^$important
 @@|countly.ipfs.io^$important
 @@|coupon.aliexpress.com^$important
+@@|coveryourtracks.eff.org^$important
 @@|covid-check-in-self-form-prod.apps.pcf-ext.service.nsw.gov.au^$important
 @@|covid19-data.health.gov.au^$important
 @@|cp601.prod.do.dsp.mp.microsoft.com^$important
@@ -1182,6 +1186,7 @@
 @@|data.nexusmods.com^$important
 @@|data.nsw.gov.au^$important
 @@|data.product.lastpass.com^$important
+@@|databridge.tdbtrk.com^$important
 @@|datarouter-prod.ak.epicgames.com^$important
 @@|datarouter.ol.epicgames.com^$important
 @@|datasert.gallery.vsassets.io^$important
@@ -1251,6 +1256,7 @@
 @@|device.maxmind.com^$important
 @@|devices.netflix.com^$important
 @@|devuan.org^$important
+@@|dfat.gov.au^$important
 @@|dfiles.eu^$important
 @@|dfw.mirror.rackspace.com^$important
 @@|dht.aelitis.com^$important
@@ -1316,6 +1322,7 @@
 @@|dns.cloudflare.com^$important
 @@|dns.msftncsi.com^$important
 @@|dns.quad9.net^$important
+@@|do-not-tracker.org^$important
 @@|doc-*-docs.googleusercontent.com^$important
 @@|doc-*-drive-data-export.googleusercontent.com^$important
 @@|doc.opensuse.org^$important
@@ -1521,6 +1528,7 @@
 @@|engageub.pythonanywhere.com^$important
 @@|engineering.twitch.tv^$important
 @@|enpass.io^$important
+@@|enquiries.passports.gov.au^$important
 @@|entitlement-public-service-prod.ak.epicgames.com^$important
 @@|entitlement-public-service-prod08.ol.epicgames.com^$important
 @@|entitlements.svc.halowaypoint.com^$important
@@ -1544,6 +1552,7 @@
 @@|es.twitch.tv^$important
 @@|es.wikipedia.com^$important
 @@|eset.com^$important
+@@|eslint.org^$important
 @@|esupport.gigabyte.com^$important
 @@|eu-central-1-gateway.zionprod.systems^$important
 @@|eu.cdn.blizzard.com^$important
@@ -1572,6 +1581,7 @@
 @@|events.split.io^$important
 @@|evernote.com^$important
 @@|evernotesupport.zendesk.com^$important
+@@|eviltracker.net^$important
 @@|evoke-windowsservices-tas.msedge.net^$important
 @@|example-publisher.gallery.vsassets.io^$important
 @@|example-publisher.gallerycdn.vsassets.io^$important
@@ -1675,6 +1685,8 @@
 @@|fiona.cdntrex.com^$important
 @@|firefox-settings-attachments.cdn.mozilla.net^$important
 @@|firefox.com^$important
+@@|firstpartysimulator.net^$important
+@@|firstpartysimulator.org^$important
 @@|fishcodelib.com^$important
 @@|fitgirl-repacks.site^$important
 @@|flathub.org^$important
@@ -1928,6 +1940,7 @@
 @@|gitlab.gnome.org^$important
 @@|glass.twitch.tv^$important
 @@|glb.paypal.com^$important
+@@|global.discourse-cdn.com^$important
 @@|global.poe.live-video.net^$important
 @@|globalupload.io^$important
 @@|gmail.com^$important
@@ -2601,6 +2614,7 @@
 @@|mirror.etf.bg.ac.rs^$important
 @@|mirror.faraso.org^$important
 @@|mirror.fcix.net^$important
+@@|mirror.firstyear.id.au^$important
 @@|mirror.fsmg.org.nz^$important
 @@|mirror.genesisadaptive.com^$important
 @@|mirror.greennet.gl^$important
@@ -2672,6 +2686,7 @@
 @@|mirror.yandex.ru^$important
 @@|mirror.zetup.net^$important
 @@|mirror2.totbb.net^$important
+@@|mirrorcache-au.opensuse.org^$important
 @@|mirrorcache.opensuse.org^$important
 @@|mirrorfedora.math.princeton.edu^$important
 @@|mirrors.163.com^$important
@@ -2914,6 +2929,7 @@
 @@|ohioix.mm.fcix.net^$important
 @@|ohmyposh.dev^$important
 @@|old-releases.ubuntu.com^$important
+@@|onboardcloud.dl.sourceforge.net^$important
 @@|one.google.com^$important
 @@|oneclient.sfx.ms^$important
 @@|onedrive.com^$important
@@ -2942,6 +2958,7 @@
 @@|opencritic.com^$important
 @@|openphish.com^$important
 @@|opensubtitles.org^$important
+@@|opensuse-mirror-gce-ap.susecloud.net^$important
 @@|opensuse.c3sl.ufpr.br^$important
 @@|opensuse.ipacct.com^$important
 @@|opensuse.mirrors.theom.nz^$important
@@ -3166,6 +3183,7 @@
 @@|privacy.microsoft.com^$important
 @@|privacy.sexy^$important
 @@|privacy.xboxlive.com^$important
+@@|privacyaustralia.net^$important
 @@|privacybadger.org^$important
 @@|privacytests.org^$important
 @@|privacytools.io^$important
@@ -3278,6 +3296,7 @@
 @@|rd-icons-icons8.gumlet.com^$important
 @@|rd-icons-icons8.gumlet.io^$important
 @@|rdl.ink^$important
+@@|rdr2map.com^$important
 @@|reader.usenet.agency^$important
 @@|readthedocs.org^$important
 @@|reblock.vercel.app^$important
@@ -3297,6 +3316,7 @@
 @@|refer.wordpress.com^$important
 @@|referrals.brave.com^$important
 @@|registry.fedoraproject.org^$important
+@@|registry.npmjs.org^$important
 @@|relay-*.net.anydesk.com^$important
 @@|relay.firefox.com^$important
 @@|release.twitch.tv^$important
@@ -3406,6 +3426,7 @@
 @@|sciter.com^$important
 @@|scone-pa.clients6.google.com^$important
 @@|scoop.sh^$important
+@@|scoopsearch.search.windows.net^$important
 @@|scorptec.resultspage.com^$important
 @@|screenshotscontent-*.xboxlive.com^$important
 @@|screentogif-releases.azurewebsites.net^$important
@@ -3620,6 +3641,7 @@
 @@|ss64.com^$important
 @@|ssbv2dlsv13.sonicseedbox.com^$important
 @@|ssbv2dlsv20.sonicseedbox.com^$important
+@@|ssd.eff.org^$important
 @@|ssl-lvlt.cdn.ea.com^$important
 @@|ssl.gstatic.com^$important
 @@|ssl.p.jwpcdn.com^$important
@@ -3695,6 +3717,7 @@
 @@|static.osdn.net^$important
 @@|static.parastorage.com^$important
 @@|static.pcgamingwiki.com^$important
+@@|static.queue-it.net^$important
 @@|static.rust-lang.org^$important
 @@|static.sandisk.com^$important
 @@|static.seedr.cc^$important
@@ -3928,6 +3951,7 @@
 @@|thumbs.gfycat.com^$important
 @@|thumbs1.ebaystatic.com^$important
 @@|tile-service.weather.microsoft.com^$important
+@@|tiles.mapgenie.io^$important
 @@|tiles.search.brave.com^$important
 @@|tiles.services.mozilla.com^$important
 @@|tiles.xbox.com^$important
@@ -3999,6 +4023,7 @@
 @@|tracker2.itzmx.com^$important
 @@|tracker4.itzmx.com^$important
 @@|trackerfix.com^$important
+@@|trackersimulator.org^$important
 @@|tracking-protection.cdn.mozilla.net^$important
 @@|tracking.epicgames.com^$important
 @@|translate.google.com.au^$important
@@ -4528,6 +4553,7 @@
 @@|www.onlyoffice.com^$important
 @@|www.oo-software.com^$important
 @@|www.opal.com.au^$important
+@@|www.openssl.org^$important
 @@|www.opensubtitles.com^$important
 @@|www.opensuse.org^$important
 @@|www.oracle.com^$important
@@ -4535,6 +4561,7 @@
 @@|www.outlook.com^$important
 @@|www.palemoon.org^$important
 @@|www.partimage.org^$important
+@@|www.passports.gov.au^$important
 @@|www.patreon.com^$important
 @@|www.paypal.com^$important
 @@|www.paypalobjects.com^$important

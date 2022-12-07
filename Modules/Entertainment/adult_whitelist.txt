@@ -27,6 +27,7 @@
 @@|cs.phncdn.com^$important
 @@|cv.phncdn.com^$important
 @@|di.phncdn.com^$important
+@@|di.phprcdn.com^$important
 @@|eve.cdntrex.com^$important
 @@|fiona.cdntrex.com^$important
 @@|freeones.com^$important

@@ -417,6 +417,7 @@
 @@|apis.live.net^$important
 @@|apollo.dl.playstation.net^$important
 @@|app-assets.ea.com^$important
+@@|app-rgl-prod.ros.rockstargames.com^$important
 @@|app.alipay.com^$important
 @@|app.degoo.com^$important
 @@|app.hulu.com^$important
@@ -1116,6 +1117,7 @@
 @@|crates.io^$important
 @@|crc.cyberlink.com^$important
 @@|creativecommons.org^$important
+@@|crews-gta5-prod.ros.rockstargames.com^$important
 @@|crl.comodoca.com^$important
 @@|crl.comodoca4.com^$important
 @@|crl.entrust.net^$important
@@ -1135,6 +1137,7 @@
 @@|crlsets.brave.com^$important
 @@|crm.lightningbroadband.com.au^$important
 @@|cryptauthvault.googleapis.com^$important
+@@|cs-rgl-prod.ros.rockstargames.com^$important
 @@|cs.dds.microsoft.com^$important
 @@|cs.phncdn.com^$important
 @@|cs.twitch.tv^$important
@@ -1263,6 +1266,7 @@
 @@|dht.libtorrent.org^$important
 @@|dht.transmissionbt.com^$important
 @@|di.phncdn.com^$important
+@@|di.phprcdn.com^$important
 @@|dictionaries.standardnotes.org^$important
 @@|directline.botframework.com^$important
 @@|directory.soundcloud.com^$important
@@ -2201,6 +2205,7 @@
 @@|improving.duckduckgo.com^$important
 @@|imx.to^$important
 @@|in.appcenter.ms^$important
+@@|inbox-gta5-prod.ros.rockstargames.com^$important
 @@|inbox.assist.gameservices.xboxlive.com^$important
 @@|inbox.google.com^$important
 @@|index.kaspersky.com^$important
@@ -2737,6 +2742,7 @@
 @@|mktplassets-ssl.xbox.com^$important
 @@|mktplassets.xbox.com^$important
 @@|ml.wikipedia.com^$important
+@@|mm-gta5-prod.ros.rockstargames.com^$important
 @@|mobi.aliexpress.com^$important
 @@|mobi.soundcloud.com^$important
 @@|mobile-ap.spotify.com^$important
@@ -3191,6 +3197,7 @@
 @@|prod-assets.wire.com^$important
 @@|prod-cleo.malwarebytes.com^$important
 @@|prod-commercial-systems.kubernetes-ingress.canonical.com^$important
+@@|prod-locator-cloud.rockstargames.com^$important
 @@|prod-nginz-https.wire.com^$important
 @@|prod-nginz-ssl.wire.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
@@ -3202,6 +3209,7 @@
 @@|prod.disqus.map.fastlylb.net^$important
 @@|prod.intellicode.vsengsaas.visualstudio.com^$important
 @@|prod.rewardsplatform.microsoft.com^$important
+@@|prod.ros.rockstargames.com^$important
 @@|prod.scorptec.com.au^$important
 @@|productcard.gog-statics.com^$important
 @@|production-appsync.degoo.com^$important
@@ -3227,6 +3235,9 @@
 @@|proxy.assist.gameservices.xboxlive.com^$important
 @@|proxy.novafusion.ea.com^$important
 @@|proxy.plex.tv^$important
+@@|prs-gta5-prod.ros.rockstargames.com^$important
+@@|prs-rgl-prod.ros.rockstargames.com^$important
+@@|prs55-prod.ros.rockstargames.com^$important
 @@|ps1prdapp01-canary.netmon.azure.com^$important
 @@|psg-prod-eastus.azureedge.net^$important
 @@|pshelpprod.blob.core.windows.net^$important
@@ -3433,6 +3444,7 @@
 @@|script.google.com^$important
 @@|script.wikia.nocookie.net^$important
 @@|scrootca2.ocsp.secomtrust.net^$important
+@@|scui.rockstargames.com^$important
 @@|sdk.split.io^$important
 @@|sdl.adaware.com^$important
 @@|sdlc-esd.oracle.com^$important
@@ -3844,6 +3856,7 @@
 @@|support.gog.com^$important
 @@|support.google.com^$important
 @@|support.halowaypoint.com^$important
+@@|support.hp.com^$important
 @@|support.jbhifi.com.au^$important
 @@|support.jdownloader.org^$important
 @@|support.jp.playstation.com^$important
@@ -3967,6 +3980,7 @@
 @@|titlestorage.xboxlive.com^$important
 @@|titlestorageeus*.blob.core.windows.net^$important
 @@|titlestoragencus0102.blob.core.windows.net^$important
+@@|tm-rgl-prod.ros.rockstargames.com^$important
 @@|tms-global.intel.com^$important
 @@|to-do-cdn.microsoft.com^$important
 @@|to-do.live.com^$important
@@ -4183,6 +4197,7 @@
 @@|userstyles.world^$important
 @@|usher.ttvnw.net^$important
 @@|uso.kkx.one^$important
+@@|ussus1westprod.blob.core.windows.net^$important
 @@|ussus2eastprod.blob.core.windows.net^$important
 @@|v-tiles.downdetector.com^$important
 @@|v.firebog.net^$important

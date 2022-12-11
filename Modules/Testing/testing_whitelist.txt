@@ -1,2 +1,11 @@
-# Testing Rules - 2022-12-07 11:24:05AM
+# Testing Rules - 2022-12-11 08:14:20PM
 
+# Microsoft
+@@|ussus3eastprod.blob.core.windows.net^$important
+# Google
+@@|fi.google.com^$important
+# Security
+@@|updates-cdn2.bravesoftware.com^$important
+# Development
+@@|brackets.io^$important
+@@|opensource.com^$important

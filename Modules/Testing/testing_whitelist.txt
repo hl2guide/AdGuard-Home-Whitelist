@@ -1,4 +1,4 @@
-# Testing Rules - 2022-12-11 08:14:20PM
+# Testing Rules - 2022-12-13 08:04:11PM
 
 # Microsoft
 @@|ussus3eastprod.blob.core.windows.net^$important
@@ -9,3 +9,5 @@
 # Development
 @@|brackets.io^$important
 @@|opensource.com^$important
+# Games
+@@|www.dev-c.com^$important

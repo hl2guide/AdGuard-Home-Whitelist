@@ -162,6 +162,7 @@
 @@|counter-strike.net^$important
 @@|crash.steampowered.com^$important
 @@|crews-gta5-prod.ros.rockstargames.com^$important
+@@|crl.certum.pl^$important
 @@|cs-rgl-prod.ros.rockstargames.com^$important
 @@|da2.gos.ea.com^$important
 @@|data*.origin.com^$important
@@ -185,6 +186,7 @@
 @@|download.epicgames.com^$important
 @@|download.gfe.nvidia.com^$important
 @@|dragonagekeep.com^$important
+@@|dvcasha2.ocsp-certum.com^$important
 @@|ea.com^$important
 @@|eacommerce.akamaized.net^$important
 @@|eadpgs-blapp002.ea.com^$important
@@ -255,6 +257,7 @@
 @@|galaxy-log.gog.com^$important
 @@|galaxy-promos.gog.com^$important
 @@|game-page.cdn.ubisoft.com^$important
+@@|game-saves.live.cdpred.services^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|gamedownloads-rockstargames-com.akamaized.net^$important
@@ -375,6 +378,7 @@
 @@|msr-public-ubiservices.ubi.com^$important
 @@|multimedia.email2.gog.com^$important
 @@|my.playstation.com^$important
+@@|myaccount.ea.com^$important
 @@|n9e5v4d8.ssl.hwcdn.net^$important
 @@|navbar.blizzard.com^$important
 @@|ncsa-storm.ubi.com^$important
@@ -496,6 +500,7 @@
 @@|reviews.gog.com^$important
 @@|rewards*-prod.svc.gearsofwar.net^$important
 @@|rewards.cdn.ubisoft.com^$important
+@@|rewards.live.cdpred.services^$important
 @@|rgl-prod.ros.rockstargames.com^$important
 @@|rgl.rockstargames.com^$important
 @@|river.data.ea.com^$important
@@ -589,6 +594,7 @@
 @@|store.rockstargames.com^$important
 @@|store.steampowered.com^$important
 @@|store.ubi.com^$important
+@@|subca.ocsp-certum.com^$important
 @@|suporte.br.playstation.com^$important
 @@|support.ageofempires.com^$important
 @@|support.asia.playstation.com^$important
@@ -663,6 +669,7 @@
 @@|www.ageofempires.com^$important
 @@|www.bethesda.net^$important
 @@|www.blizzard.com^$important
+@@|www.dev-c.com^$important
 @@|www.digitaltrends.com^$important
 @@|www.dm.origin.com^$important
 @@|www.ea.com^$important

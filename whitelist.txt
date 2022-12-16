@@ -681,6 +681,7 @@
 @@|boot.net.anydesk.com^$important
 @@|boston.maelstrom.gameservices.xboxlive.com^$important
 @@|box.com^$important
+@@|brackets.io^$important
 @@|braintree-api.com^$important
 @@|braintreegateway.com^$important
 @@|brand-images.jbhifi.com.au^$important
@@ -1118,6 +1119,7 @@
 @@|crc.cyberlink.com^$important
 @@|creativecommons.org^$important
 @@|crews-gta5-prod.ros.rockstargames.com^$important
+@@|crl.certum.pl^$important
 @@|crl.comodoca.com^$important
 @@|crl.comodoca4.com^$important
 @@|crl.entrust.net^$important
@@ -1452,6 +1454,7 @@
 @@|dual-a-*.a-msedge.net^$important
 @@|dualstack.reddit.map.fastly.net^$important
 @@|duckduckgo.com^$important
+@@|dvcasha2.ocsp-certum.com^$important
 @@|dyncdn.me^$important
 @@|dyncdn2.com^$important
 @@|e-cdn-images.dzcdn.net^$important
@@ -1668,6 +1671,7 @@
 @@|ffmpeg.org^$important
 @@|ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com^$important
 @@|ffprofile.com^$important
+@@|fi.google.com^$important
 @@|fi.m.wikipedia.com^$important
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
@@ -1869,6 +1873,7 @@
 @@|galaxy-promos.gog.com^$important
 @@|galleryn*.awemdia.com^$important
 @@|game-page.cdn.ubisoft.com^$important
+@@|game-saves.live.cdpred.services^$important
 @@|gameclipscontent-*.xboxlive.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
@@ -2800,6 +2805,7 @@
 @@|my.service.nsw.gov.au^$important
 @@|my1.speedtest.vodafone.com.au.prod.hosts.ooklaserver.net^$important
 @@|my1.speedtest.vodafone.com.au^$important
+@@|myaccount.ea.com^$important
 @@|myaccount.google.com^$important
 @@|myactivity.google.com^$important
 @@|myer.com.au^$important
@@ -2963,6 +2969,7 @@
 @@|open.tracker.ink^$important
 @@|opencritic.com^$important
 @@|openphish.com^$important
+@@|opensource.com^$important
 @@|opensubtitles.org^$important
 @@|opensuse-mirror-gce-ap.susecloud.net^$important
 @@|opensuse.c3sl.ufpr.br^$important
@@ -3212,6 +3219,7 @@
 @@|prod.ros.rockstargames.com^$important
 @@|prod.scorptec.com.au^$important
 @@|productcard.gog-statics.com^$important
+@@|productimages.coles.com.au^$important
 @@|production-appsync.degoo.com^$important
 @@|production.assets.clips.twitchcdn.net^$important
 @@|products.office.com^$important
@@ -3365,6 +3373,7 @@
 @@|reviews.kaspersky.com^$important
 @@|rewards*-prod.svc.gearsofwar.net^$important
 @@|rewards.cdn.ubisoft.com^$important
+@@|rewards.live.cdpred.services^$important
 @@|rewards.xbox.com^$important
 @@|rg3.github.io^$important
 @@|rgl-prod.ros.rockstargames.com^$important
@@ -3839,6 +3848,7 @@
 @@|stripecdn.map.fastly.net^$important
 @@|style.sndcdn.com^$important
 @@|styles.redditmedia.com^$important
+@@|subca.ocsp-certum.com^$important
 @@|substrate.office.com^$important
 @@|sudf-resources.hpcloud.hp.com^$important
 @@|superuser.com^$important
@@ -4147,6 +4157,7 @@
 @@|update.vivaldi.com^$important
 @@|updatepc.xboxlive.com^$important
 @@|updates-cdn.bravesoftware.com^$important
+@@|updates-cdn2.bravesoftware.com^$important
 @@|updates.bravesoftware.com^$important
 @@|updates.dziemborowicz.com^$important
 @@|updates.macrium.com^$important
@@ -4199,6 +4210,7 @@
 @@|uso.kkx.one^$important
 @@|ussus1westprod.blob.core.windows.net^$important
 @@|ussus2eastprod.blob.core.windows.net^$important
+@@|ussus3eastprod.blob.core.windows.net^$important
 @@|v-tiles.downdetector.com^$important
 @@|v.firebog.net^$important
 @@|v.tampermonkey.net^$important
@@ -4410,6 +4422,7 @@
 @@|www.dell.com^$important
 @@|www.dellcdn.com^$important
 @@|www.deluge-torrent.org^$important
+@@|www.dev-c.com^$important
 @@|www.devuan.org^$important
 @@|www.dicksmith.com.au^$important
 @@|www.dictionary.com^$important

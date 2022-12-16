@@ -26,6 +26,7 @@
 @@|avatars2.githubusercontent.com^$important
 @@|avatars3.githubusercontent.com^$important
 @@|blog.jetbrains.com^$important
+@@|brackets.io^$important
 @@|bugs.python.org^$important
 @@|caddyserver.com^$important
 @@|camo.githubusercontent.com^$important
@@ -156,6 +157,7 @@
 @@|objects-origin.githubusercontent.com^$important
 @@|objects.githubusercontent.com^$important
 @@|ohmyposh.dev^$important
+@@|opensource.com^$important
 @@|oppen.digital^$important
 @@|packaging.python.org^$important
 @@|pages.github.com^$important

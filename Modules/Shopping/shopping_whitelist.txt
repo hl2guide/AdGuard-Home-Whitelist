@@ -32,6 +32,7 @@
 @@|nzxt.com^$important
 @@|passport.alipay.com^$important
 @@|prod.scorptec.com.au^$important
+@@|productimages.coles.com.au^$important
 @@|promotion.aliexpress.com^$important
 @@|rcom.dynamicyield.com^$important
 @@|scorptec.resultspage.com^$important

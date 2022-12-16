@@ -171,6 +171,7 @@
 @@|ueli.app^$important
 @@|unchecky.com^$important
 @@|unicons.iconscout.com^$important
+@@|updates-cdn2.bravesoftware.com^$important
 @@|use.fontawesome.com.cdn.cloudflare.net^$important
 @@|user-media-prod-cdn.itsre-sumo.mozilla.net^$important
 @@|uso.kkx.one^$important

@@ -484,6 +484,7 @@
 @@|userstats.xboxlive.com^$important
 @@|ussus1westprod.blob.core.windows.net^$important
 @@|ussus2eastprod.blob.core.windows.net^$important
+@@|ussus3eastprod.blob.core.windows.net^$important
 @@|v20.events.data.microsoft.com^$important
 @@|videoplayercdn.osi.office.net^$important
 @@|view.engage.xbox.com^$important

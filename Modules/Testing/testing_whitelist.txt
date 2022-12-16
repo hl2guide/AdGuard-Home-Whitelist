@@ -1,19 +1,2 @@
-# Testing Rules - 2022-12-14 09:23:31PM
+# Testing Rules - 2022-12-16 12:47:56PM
 
-# Microsoft
-@@|ussus3eastprod.blob.core.windows.net^$important
-# Google
-@@|fi.google.com^$important
-# Security
-@@|updates-cdn2.bravesoftware.com^$important
-# Development
-@@|brackets.io^$important
-@@|opensource.com^$important
-# Games
-@@|crl.certum.pl^$important
-@@|dvcasha2.ocsp-certum.com^$important
-@@|game-saves.live.cdpred.services^$important
-@@|myaccount.ea.com^$important
-@@|rewards.live.cdpred.services^$important
-@@|subca.ocsp-certum.com^$important
-@@|www.dev-c.com^$important

@@ -71,6 +71,7 @@
 @@|encrypted-vtbn0.gstatic.com^$important
 @@|feedback-pa.clients6.google.com^$important
 @@|feedback.googleusercontent.com^$important
+@@|fi.google.com^$important
 @@|fonts.googleapis.com^$important
 @@|fonts.gstatic.com^$important
 @@|geo*.ggpht.com^$important

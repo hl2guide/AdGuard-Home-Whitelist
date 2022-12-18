@@ -1,2 +1,6 @@
-# Testing Rules - 2022-12-16 12:47:56PM
+# Testing Rules - 2022-12-18 04:11:22PM
 
+# Tech
+@@|darkreader.org^$important
+# Shopping
+@@|assets.target.com.au^$important

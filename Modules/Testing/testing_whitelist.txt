@@ -1,17 +1,26 @@
-# Testing Rules - 2022-12-21 04:48:07PM
+# Testing Rules - 2022-12-21 05:46:33PM
 
 # Tech
 @@|darkreader.org^$important
+
 # Shopping
 @@|assets.target.com.au^$important
 
-# Security
-@@|laptop-updates.brave.com^
-@@|7-zip.org^$important
 # Google
 @@|yt3.googleusercontent.com^$important
+
 # EBay
 @@|cart.ebay.com.au^$important
+@@|order.ebay.com.au^$important
 @@|pay.ebay.com.au^$important
 @@|vod.ebay.com.au^$important
-@@|order.ebay.com.au^$important
+
+# Security
+@@|7-zip.org^$important
+@@|buy-download.norton.com^$important
+@@|laptop-updates.brave.com^$important
+@@|login.norton.com^$important
+@@|now.symassets.com^$important
+@@|support.norton.com^$important
+@@|vss.norton.com^$important
+@@|www.norton.com^$important

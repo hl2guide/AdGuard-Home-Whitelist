@@ -1,4 +1,4 @@
-# Testing Rules - 2022-12-21 05:46:33PM
+# Testing Rules - 2022-12-27 12:35:45AM
 
 # Tech
 @@|darkreader.org^$important
@@ -24,3 +24,9 @@
 @@|support.norton.com^$important
 @@|vss.norton.com^$important
 @@|www.norton.com^$important
+
+# Media
+@@|jeremylee.sh^$important
+@@|mkvtoolnix.download^$important
+# Tech
+@@|searchapi.samsung.com^$important

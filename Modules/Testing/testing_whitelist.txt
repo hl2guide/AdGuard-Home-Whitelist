@@ -1,4 +1,4 @@
-# Testing Rules - 2022-12-27 12:35:45AM
+# Testing Rules - 2022-12-27 11:58:10PM
 
 # Tech
 @@|darkreader.org^$important
@@ -30,3 +30,22 @@
 @@|mkvtoolnix.download^$important
 # Tech
 @@|searchapi.samsung.com^$important
+
+# Linux
+@@|packages.ubuntu.com^$important
+@@|screenshots.debian.net^$important
+# Development
+@@|material-theme.site^$important
+# Google
+@@|myadcenter.google.com^$important
+# Games
+@@|cortex.razer.com^$important
+@@|deals-assets-cdn.razerzone.com^$important
+@@|deals-images-cdn.razerzone.com^$important
+@@|deals.razer.com^$important
+@@|kinesis.us-east-1.amazonaws.com^$important
+@@|maxine.s3.amazonaws.com^$important
+@@|maxineapi.razersynapse.com^$important
+# Tech
+@@|forum.vivaldi.net^$important
+@@|login.vivaldi.net^$important

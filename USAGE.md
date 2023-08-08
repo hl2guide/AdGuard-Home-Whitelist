@@ -6,7 +6,7 @@ Please assess what is best for you.
 
 # Usage for AdGuard Home 🛡
 
-Check that you are using __AdGuard Home v0.107.19__ or later before continuing.
+Check that you are using __AdGuard Home v0.107.36__ or later before continuing.
 
 ## DNS Settings within AdGuard 🥅
 
@@ -16,7 +16,7 @@ Quad9 tops the speed and reliability tests for my location; they offer Malware B
 
 They are also now "incorporated in Switzerland to guarantee privacy for global DNS users" (quad9).
 
-Cloudflare's offering is also great.
+Cloudflare's offering is also great, I currently use them in 2023.
 
 * _(optional)_ To test it at your location run the tool: [GRC Domain Name Speed Benchmark for Windows/Linux](https://www.grc.com/dns/benchmark.htm)
 
@@ -25,9 +25,11 @@ Cloudflare's offering is also great.
 I use:
 
 ```
-https://dns.quad9.net/dns-query
-https://dns.cloudflare.com/dns-query
+https://security.cloudflare-dns.com/dns-query
+tls://security.cloudflare-dns.com
 ```
+
+for malware protection I use 1.1.1.1 for Families (Malware Blocking Only).
 
 ### Bootstrap DNS servers 🥾
 

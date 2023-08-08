@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.4.7
-- Last Updated (AEST): 2022-12-16 12:48:07PM
+- Current Version: 1.2.4.8
+- Last Updated (AEST): 2023-08-08 09:15:22PM
 
 ## Intro ✍
 
@@ -18,12 +18,13 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
-_AdGuard-Home-Whitelist © 2022 - hl2guide_
+_AdGuard-Home-Whitelist © 2023 - hl2guide_
 
 ## Recent News 📰
 
 | Date and Time 📅 | Note 📓 |
 |---------------|------|
+| 2023-08-08 09:04:22PM | Back from hiatus, added a rule and updated USAGE.md info |
 | 2022-12-05 12:30:10PM | Added more security rules |
 | 2022-10-11 06:05:36PM | Fixed EA App |
 | 2022-10-01 05:42:10PM | Added many new rules |

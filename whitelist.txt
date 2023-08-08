@@ -3932,6 +3932,7 @@
 @@|targetednotifications-tm.trafficmanager.net^$important
 @@|taskassist-pa.clients6.google.com^$important
 @@|tccmsms.azureedge.net^$important
+@@|teams-ring.msedge.net^$important
 @@|teams.events.data.microsoft.com^$important
 @@|teams.live.com^$important
 @@|teams.microsoft.com^$important

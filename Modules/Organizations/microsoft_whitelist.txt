@@ -451,6 +451,7 @@
 @@|t-ring-fallbacks2.msedge.net^$important
 @@|t-ring-fdv2.msedge.net^$important
 @@|t.ssl.ak.dynamic.tiles.virtualearth.net^$important
+@@|teams-ring.msedge.net^$important
 @@|teams.events.data.microsoft.com^$important
 @@|teams.live.com^$important
 @@|teams.microsoft.com^$important

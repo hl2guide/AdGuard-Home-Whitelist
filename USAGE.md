@@ -95,10 +95,6 @@ It's useful to set blocked services within AdGuard Home.
 2. Click the "Block all" button and then toggle off the services you actually use or will use
 3. Click the green "Save" button at the bottom of the page
 
-e.g: my blocked services as of 2022
-
-![Example Image for Blocked Services](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Images/blocked_services.jpg "Example Image for Blocked Services")
-
 # Browsers 🌏
 
 A mix of Internet Browser Addons/Extensions can improve your security and privacy further.

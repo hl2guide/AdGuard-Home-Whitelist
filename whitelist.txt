@@ -124,6 +124,7 @@
 @@|149366088.v2.pressablecdn.com^$important
 @@|15.2.0.10.in-addr.arpa^$important
 @@|192-168-1-103.mydns.jdownloader.org^$important
+@@|1dot1dot1dot1.cloudflare-dns.com^$important
 @@|1drv.ms^$important
 @@|1fichier.com^$important
 @@|1storecatalogrevocation.storequality.microsoft.com^$important
@@ -286,6 +287,7 @@
 @@|analytics.tripwireinteractive.com^$important
 @@|andauth.co^$important
 @@|android.apis.google.com^$important
+@@|android.clients.google.com^$important
 @@|android.clients.google.com^$important
 @@|android.googleapis.com^$important
 @@|androidplatformbackuprestore-pa.googleapis.com^$important
@@ -995,6 +997,7 @@
 @@|cloudflare.com^$important
 @@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
+@@|cloudsync-prod.s3.amazonaws.com^$important
 @@|club.ubisoft.com^$important
 @@|clubhub.xboxlive.com^$important
 @@|cluster.awmdelivery.com^$important
@@ -1119,6 +1122,7 @@
 @@|crc.cyberlink.com^$important
 @@|creativecommons.org^$important
 @@|crews-gta5-prod.ros.rockstargames.com^$important
+@@|crl.*.amazontrust.com^$important
 @@|crl.certum.pl^$important
 @@|crl.comodoca.com^$important
 @@|crl.comodoca4.com^$important
@@ -1475,6 +1479,7 @@
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
 @@|ec.razer.com^$important
+@@|ecn.dev.virtualearth.net^$important
 @@|ecom-cdn.ubi.com^$important
 @@|ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@|economy.svc.halowaypoint.com^$important
@@ -2761,6 +2766,7 @@
 @@|modules-cdn.eac-prod.on.epicgames.com^$important
 @@|movies.netflix.com^$important
 @@|movies.zsw.ca^$important
+@@|mozilla.cloudflare-dns.com^$important
 @@|mozilla.com^$important
 @@|mozilla.net^$important
 @@|mozilla.org^$important
@@ -2771,6 +2777,7 @@
 @@|mpv.srsfckn.biz^$important
 @@|ms-vscode.vscode-unpkg.net^$important
 @@|msdn.microsoft.com^$important
+@@|msedge.api.cdp.microsoft.com^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msedgewelcome.azureedge.net^$important
 @@|msftconnecttest.com^$important
@@ -2910,6 +2917,7 @@
 @@|oc.speedtest.i3d.net.prod.hosts.ooklaserver.net^$important
 @@|oca-api.netflix.com^$important
 @@|ocsp*.globalsign.com^$important
+@@|ocsp.*.amazontrust.com^$important
 @@|ocsp.comodoca.com.cdn.cloudflare.net^$important
 @@|ocsp.comodoca.com^$important
 @@|ocsp.comodoca4.com^$important
@@ -4050,6 +4058,8 @@
 @@|trackerfix.com^$important
 @@|trackersimulator.org^$important
 @@|tracking-protection.cdn.mozilla.net^$important
+@@|tracking-protection.cdn.mozilla.net^$important
+@@|tracking.epicgames.com^$important
 @@|tracking.epicgames.com^$important
 @@|translate.google.com.au^$important
 @@|transportnsw.info^$important

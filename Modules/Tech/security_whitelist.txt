@@ -6,6 +6,7 @@
 @@|*.nimbus.bitdefender.net^$important
 @@|0.pool.ntp.org^$important
 @@|1.pool.ntp.org^$important
+@@|1dot1dot1dot1.cloudflare-dns.com^$important
 @@|2.pool.ntp.org^$important
 @@|3.pool.ntp.org^$important
 @@|account-api.proton.me^$important
@@ -44,6 +45,7 @@
 @@|certbot.eff.org^$important
 @@|cfcdn.neosmart.net^$important
 @@|clearurls.xyz^$important
+@@|cloudsync-prod.s3.amazonaws.com^$important
 @@|community.brave.com^$important
 @@|community.intel.com^$important
 @@|community.logmein.com^$important
@@ -52,6 +54,7 @@
 @@|cookiewatch.org^$important
 @@|countly.ipfs.io^$important
 @@|coveryourtracks.eff.org^$important
+@@|crl.*.amazontrust.com^$important
 @@|crl.rootg2.amazontrust.com^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|deluge-torrent.org^$important
@@ -112,6 +115,8 @@
 @@|mail.proton.me^$important
 @@|manage.ntppool.org^$important
 @@|mastiff.ext.hp.com^$important
+@@|mozilla.cloudflare-dns.com^$important
+@@|ocsp.*.amazontrust.com^$important
 @@|onboardcloud.dl.sourceforge.net^$important
 @@|org.downloadcenter.samsung.com^$important
 @@|p19.zdassets.com^$important
@@ -165,6 +170,7 @@
 @@|tms-global.intel.com^$important
 @@|toshiba.semicon-storage.com^$important
 @@|trackersimulator.org^$important
+@@|tracking-protection.cdn.mozilla.net^$important
 @@|ts.eset.com^$important
 @@|ublockorigin.pages.dev^$important
 @@|ucarecdn.com^$important

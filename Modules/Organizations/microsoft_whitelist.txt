@@ -193,6 +193,7 @@
 @@|dpgsrv.redmond.corp.microsoft.com^$important
 @@|ds.download.windowsupdate.com^$important
 @@|dual-a-*.a-msedge.net^$important
+@@|ecn.dev.virtualearth.net^$important
 @@|edge.activity.windows.com ^$important
 @@|edge.activity.windows.com^$important
 @@|edge.microsoft.com^$important
@@ -304,6 +305,7 @@
 @@|mktplassets.xbox.com^$important
 @@|modernb.akamai.odsp.cdn.office.net^$important
 @@|modernb.verizon.odsp.cdn.office.net^$important
+@@|msedge.api.cdp.microsoft.com^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msedgewelcome.azureedge.net^$important
 @@|msftconnecttest.com^$important

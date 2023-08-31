@@ -11,6 +11,7 @@
 @@|ajax.googleapis.com^$important
 @@|android.apis.google.com^$important
 @@|android.clients.google.com^$important
+@@|android.clients.google.com^$important
 @@|android.googleapis.com^$important
 @@|androidplatformbackuprestore-pa.googleapis.com^$important
 @@|apis.google.com^$important

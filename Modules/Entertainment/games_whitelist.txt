@@ -274,6 +274,7 @@
 @@|get.net.playstation.net^$important
 @@|getprof.sg.np.community.playstation.net^$important
 @@|gfn.pentanet.gg^$important
+@@|gfwsl.geforce.com^$important
 @@|godofwar.playstation.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
 @@|gog-statics.com^$important
@@ -622,6 +623,7 @@
 @@|titlestorage.bethesda.net^$important
 @@|tm-rgl-prod.ros.rockstargames.com^$important
 @@|tos.ea.com^$important
+@@|tracking.epicgames.com^$important
 @@|tracking.epicgames.com^$important
 @@|tras.os.eidos.com^$important
 @@|tripwireinteractive.com^$important

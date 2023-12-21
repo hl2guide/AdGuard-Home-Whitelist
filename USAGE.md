@@ -84,7 +84,7 @@ Set "Filters update interval" to 12 hours _(recommended)_ and click the green "S
 _(Optional but recommended to avoid query log spam)_
 
 * copy and paste [disallowed domains](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/dns_disallowed_domains.txt)
-into AdGuard's "Disallowed domains" section at the bottom of "DNS settings"
+into AdGuard's "General settings" -> "Ignored domains" at the "Logs configuration" section
 * Click the "Save" button to keep a much clearer query log
 
 ## Blocked Services 🚨

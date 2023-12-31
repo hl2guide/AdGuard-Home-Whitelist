@@ -62,6 +62,7 @@
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.cloudflare.steamstatic.com^$important
 @@|avatars.steamstatic.com^$important
+@@|b-agora-hydra-file-storage-kraken.s3.amazonaws.com^$important
 @@|banprocessor.svc.halowaypoint.com^$important
 @@|battle.net^$important
 @@|bethesda.net^$important
@@ -115,6 +116,7 @@
 @@|cdn.mcr.ea.com^$important
 @@|cdn.razersynapse.com^$important
 @@|cdn.services.gearboxsoftware.com^$important
+@@|cdn.steamstatic.com^$important
 @@|cdn.us.playstation.com^$important
 @@|cdn01.bethesda.net^$important
 @@|cf-files.nexusmods.com^$important
@@ -418,6 +420,7 @@
 @@|overlay.cdn.ubisoft.com^$important
 @@|overlay.ubisoft.com^$important
 @@|p29.zdassets.com^$important
+@@|pachinko-api.wbagora.com^$important
 @@|packs.svc.halowaypoint.com^$important
 @@|partners.playstation.com^$important
 @@|payment-website-pci.ol.epicgames.com^$important
@@ -452,6 +455,7 @@
 @@|playstation.com^$important
 @@|playstation.net^$important
 @@|pls.dyinglightgame.com^$important
+@@|pport.gearstactics.com^$important
 @@|pr-*.data.ea.com^$important
 @@|prd.orbit.bos.ea.com^$important
 @@|presence-api.live.public-ws.prod.tetra.fleet.ubi.com^$important
@@ -462,6 +466,7 @@
 @@|pricing.gog.com^$important
 @@|prod-locator-cloud.rockstargames.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
+@@|prod-pa.api.wbinsights.com^$important
 @@|prod-syd-cf.zionprod.systems^$important
 @@|prod-video-cms-rt-microsoft-com.akamaized.net^$important
 @@|prod.cloud.rockstargames.com^$important
@@ -511,6 +516,7 @@
 @@|rzr.to^$important
 @@|s.go-mpulse.net^$important
 @@|s.rsg.sc^$important
+@@|s3-ap-southeast-2.amazonaws.com^$important
 @@|s3.us-west-002.backblazeb2.com^$important
 @@|scapi.rockstargames.com^$important
 @@|scui.rockstargames.com^$important
@@ -603,6 +609,7 @@
 @@|support.halowaypoint.com^$important
 @@|support.jp.playstation.com^$important
 @@|support.rockstargames.com^$important
+@@|support.ubi.com^$important
 @@|support.us.playstation.com^$important
 @@|synapse-3-webservice.razerzone.com^$important
 @@|tage.playstation.com^$important
@@ -624,7 +631,6 @@
 @@|tm-rgl-prod.ros.rockstargames.com^$important
 @@|tos.ea.com^$important
 @@|tracking.epicgames.com^$important
-@@|tracking.epicgames.com^$important
 @@|tras.os.eidos.com^$important
 @@|tripwireinteractive.com^$important
 @@|uat-ubiservices.cdn.ubi.com^$important
@@ -643,6 +649,7 @@
 @@|uplaypc-s-ubisoft.cdn.ubi.com^$important
 @@|upload.nexusmods.com^$important
 @@|us-as.gr-cdn.com^$important
+@@|us-east-1-pachinko-realtime-2.wbagora.com^$important
 @@|us-east-2-gateway.zionprod.systems^$important
 @@|us-s2-depot.classic.blizzard.com^$important
 @@|us.api.blizzard.com^$important
@@ -661,6 +668,7 @@
 @@|vsa.services.microsoft.com^$important
 @@|wallet.ecom.ubi.com^$important
 @@|wallpaperaccess.com^$important
+@@|wb-agora-hydra-file-storage-mk11.s3.amazonaws.com^$important
 @@|web-browser.cdn.ubisoft.com^$important
 @@|web.poecdn.com^$important
 @@|web.vortex.data.trafficmanager.net^$important

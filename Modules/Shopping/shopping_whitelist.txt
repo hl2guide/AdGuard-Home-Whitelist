@@ -40,6 +40,7 @@
 @@|shops1.stackassets.com^$important
 @@|st.dynamicyield.com^$important
 @@|static.queue-it.net^$important
+@@|vi.vipr.ebaydesc.com^$important
 @@|www.corsair.com^$important
 @@|www.lightboxcdn.com^$important
 @@|www.scorptec.com.au^$important

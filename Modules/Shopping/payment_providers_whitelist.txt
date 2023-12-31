@@ -1,5 +1,6 @@
 @@|api-m.paypal.com^$important
 @@|api.paypal.com^$important
+@@|api.stripe.com^$important
 @@|b.stats.paypal.com^$important
 @@|c.paypal.com^$important
 @@|c6.paypal.com^$important

@@ -5,6 +5,7 @@
 @@|gfwsl.geforce.com^$important
 @@|images.nvidia.com^$important
 @@|layouts.nvidiagrid.net^$important
+@@|ngx.download.nvidia.com^$important
 @@|nvidia.com.ssl.sc.omtrdc.net^$important
 @@|nvidia.com^$important
 @@|origin-api-forums.nvidia.com^$important

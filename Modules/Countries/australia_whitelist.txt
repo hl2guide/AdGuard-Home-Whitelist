@@ -2,9 +2,11 @@
 @@|*.azureedge.us^$important
 @@|ac.cnstrc.com^$important
 @@|account.service.nsw.gov.au^$important
+@@|acs.woolworths.com.au^$important
 @@|aldi.com.au^$important
 @@|aldimobile.com.au^$important
 @@|api-cdn.yotpo.com^$important
+@@|api.addressify.com.au^$important
 @@|api.aec.gov.au^$important
 @@|api.bigw.com.au^$important
 @@|api.g.service.nsw.gov.au^$important
@@ -22,6 +24,7 @@
 @@|auth.kmart.com.au^$important
 @@|authorisation.api.bunnings.com.au^$important
 @@|azcd.harveynorman.com.au^$important
+@@|backstory.ebay.com.au^$important
 @@|bigw.com.au^$important
 @@|binglee.com.au^$important
 @@|brand-images.jbhifi.com.au^$important
@@ -35,6 +38,7 @@
 @@|cdn.mwave.com.au^$important
 @@|cdn.optimizely.com^$important
 @@|cdn0.woolworths.media^$important
+@@|centrecomstatic.s3.amazonaws.com^$important
 @@|check.aec.gov.au^$important
 @@|chemistdirect.com.au^$important
 @@|cnstrc.com^$important
@@ -46,6 +50,7 @@
 @@|customer.energyaustralia.com.au^$important
 @@|cweb.myshopping.com.au^$important
 @@|data.nsw.gov.au^$important
+@@|devicebind.ebay.com.au^$important
 @@|dfat.gov.au^$important
 @@|dodo.com.au^$important
 @@|ebay.com.au^$important
@@ -100,6 +105,7 @@
 @@|onlineservices.ato.gov.au^$important
 @@|opal.com.au^$important
 @@|opva.elections.nsw.gov.au^$important
+@@|order.ebay.com.au^$important
 @@|point.digital.nsw.gov.au^$important
 @@|poro.ato.gov.au^$important
 @@|privacyaustralia.net^$important
@@ -138,6 +144,7 @@
 @@|vfr4.gpsoft.com.au^$important
 @@|wcsprdstg.cmltd.net.au^$important
 @@|webident.service.nsw.gov.au^$important
+@@|webservices.api.exetel.com.au^$important
 @@|woolworths.com.au^$important
 @@|woolworths.scene7.com^$important
 @@|woolworthsgiftcardstore.com.au^$important
@@ -164,6 +171,7 @@
 @@|www.environment.nsw.gov.au^$important
 @@|www.epa.nsw.gov.au^$important
 @@|www.eway.com.au^$important
+@@|www.exetel.com.au^$important
 @@|www.f1techcomputers.com.au^$important
 @@|www.fbigaming.com.au^$important
 @@|www.google.com.au^$important
@@ -172,6 +180,7 @@
 @@|www.health.gov.au^$important
 @@|www.health.nsw.gov.au^$important
 @@|www.images-home.com^$important
+@@|www.ing.com.au^$important
 @@|www.intel.com.au^$important
 @@|www.jaycar.com.au^$important
 @@|www.jbhifi.com.au^$important

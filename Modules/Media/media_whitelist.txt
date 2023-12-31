@@ -1,4 +1,5 @@
 @@|*.deviantart.com^$important
+@@|7tv.foo^$important
 @@|a.deviantart.net^$important
 @@|a.thumbs.redditmedia.com^$important
 @@|accounts.scdn.co^$important
@@ -49,6 +50,7 @@
 @@|e.deviantart.net^$important
 @@|embed.spotify.com^$important
 @@|encore.scdn.co^$important
+@@|events.7tv.foo^$important
 @@|exp.wg.spotify.com^$important
 @@|external-preview.redd.it^$important
 @@|extract.services.disqus.com^$important

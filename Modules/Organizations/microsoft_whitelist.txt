@@ -46,6 +46,7 @@
 @@|a-*.a-msedge.net^$important
 @@|aadcdn.msauth.net^$important
 @@|aadcdn.msftauth.net^$important
+@@|access-point.cloudmessaging.edge.microsoft.com^$important
 @@|account.live.com^$important
 @@|account.microsoft.com^$important
 @@|account.xbox.com^$important
@@ -62,6 +63,7 @@
 @@|amcdn.msauth.net^$important
 @@|amcdn.msftauth.net^$important
 @@|answers.microsoft.com^$important
+@@|api.appcenter.ms^$important
 @@|api.bing.com^$important
 @@|api.live.net^$important
 @@|api.msn.com^$important
@@ -80,6 +82,7 @@
 @@|assets*.msn.com^$important
 @@|assets*.xboxlive.com^$important
 @@|assets-www.xbox.com^$important
+@@|assets.account.microsoft.com^$important
 @@|assets.msn.com^$important
 @@|assets.xbox.com^$important
 @@|assets.xboxservices.com^$important
@@ -149,6 +152,7 @@
 @@|clubhub.xboxlive.com^$important
 @@|code.visualstudio.com^$important
 @@|collections.md.mp.microsoft.com^$important
+@@|collections.mp.microsoft.com^$important
 @@|community.xbox.com^$important
 @@|compass-ssl.microsoft.com^$important
 @@|compass-ssl.xbox.com^$important
@@ -194,6 +198,8 @@
 @@|ds.download.windowsupdate.com^$important
 @@|dual-a-*.a-msedge.net^$important
 @@|ecn.dev.virtualearth.net^$important
+@@|edge-consumer-static.azureedge.net^$important
+@@|edge-mobile-static.azureedge.net^$important
 @@|edge.activity.windows.com ^$important
 @@|edge.activity.windows.com^$important
 @@|edge.microsoft.com^$important
@@ -260,6 +266,7 @@
 @@|images-eds-ssl.xboxlive.com^$important
 @@|images-eds.xboxlive.com^$important
 @@|images-xboxdesignlab.xbox.com^$important
+@@|images.ecomm.microsoft.com^$important
 @@|img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@|img-s-msn-com.akamaized.net^$important
 @@|img.teams.skype.com^$important
@@ -288,6 +295,7 @@
 @@|login.microsoftonline.com^$important
 @@|login.windows.net^$important
 @@|logincdn.msauth.net^$important
+@@|logincdn.msftauth.net^$important
 @@|love.xbox.com^$important
 @@|m.xbox.com^$important
 @@|mail.live.com^$important
@@ -305,7 +313,6 @@
 @@|mktplassets.xbox.com^$important
 @@|modernb.akamai.odsp.cdn.office.net^$important
 @@|modernb.verizon.odsp.cdn.office.net^$important
-@@|msedge.api.cdp.microsoft.com^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msedgewelcome.azureedge.net^$important
 @@|msftconnecttest.com^$important
@@ -499,6 +506,7 @@
 @@|vortex.data.microsoft.com^$important
 @@|vscjava.gallery.vsassets.io^$important
 @@|vscjava.gallerycdn.vsassets.io^$important
+@@|vscode.download.prss.microsoft.com^$important
 @@|watchdog.gallery.vsassets.io^$important
 @@|watchdog.gallerycdn.vsassets.io^$important
 @@|wcpstatic.microsoft.com^$important

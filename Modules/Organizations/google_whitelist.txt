@@ -11,7 +11,6 @@
 @@|ajax.googleapis.com^$important
 @@|android.apis.google.com^$important
 @@|android.clients.google.com^$important
-@@|android.clients.google.com^$important
 @@|android.googleapis.com^$important
 @@|androidplatformbackuprestore-pa.googleapis.com^$important
 @@|apis.google.com^$important
@@ -37,6 +36,7 @@
 @@|chromereleases.googleblog.com^$important
 @@|chromesyncentities-pa.googleapis.com^$important
 @@|chromesyncpasswords-pa.googleapis.com^$important
+@@|chromewebstore.google.com^$important
 @@|ci3.googleusercontent.com^$important
 @@|ci4.googleusercontent.com^$important
 @@|ci5.googleusercontent.com^$important
@@ -75,6 +75,7 @@
 @@|fi.google.com^$important
 @@|fonts.googleapis.com^$important
 @@|fonts.gstatic.com^$important
+@@|gds.google.com^$important
 @@|geo*.ggpht.com^$important
 @@|gmail.google.com^$important
 @@|google.com^$important
@@ -87,6 +88,7 @@
 @@|groups.google.com^$important
 @@|gstatic.com^$important
 @@|home.plus.google.com^$important
+@@|i.ytimg.com^$important
 @@|id.google.co.in^$important
 @@|id.google.com^$important
 @@|img.youtube.com^$important

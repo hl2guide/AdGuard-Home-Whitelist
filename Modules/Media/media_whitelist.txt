@@ -1,3 +1,4 @@
+@@|*.cdn.optimizely.com^$important
 @@|*.deviantart.com^$important
 @@|7tv.foo^$important
 @@|a.deviantart.net^$important
@@ -25,6 +26,7 @@
 @@|blog.getpaint.net^$important
 @@|bunkr.is^$important
 @@|cdn*.bunkr.is^$important
+@@|cdn.cquotient.com^$important
 @@|cdn.jwplayer.com^$important
 @@|cdn.plyr.io^$important
 @@|cdn.windowsreport.com^$important

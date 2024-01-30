@@ -135,6 +135,7 @@
 @@|cloud.gg^$important
 @@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
+@@|cloudsync-prod.s3.us-east-1.amazonaws.com^$important
 @@|club.ubisoft.com^$important
 @@|cm*.cm.steampowered.com^$important
 @@|cms-cache.ubisoft.com^$important

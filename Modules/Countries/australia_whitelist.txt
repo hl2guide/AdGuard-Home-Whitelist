@@ -61,6 +61,7 @@
 @@|enquiries.passports.gov.au^$important
 @@|errors.client.optimizely.com^$important
 @@|f1techcomputers.com.au^$important
+@@|fhp.nab.com.au^$important
 @@|fonts.service.nsw.gov.au^$important
 @@|foodhub.scene7.com^$important
 @@|foodhub.woolworths.com.au^$important
@@ -82,6 +83,7 @@
 @@|kmartau.mo.cloudinary.net^$important
 @@|lifeblood.com.au^$important
 @@|login.my.gov.au^$important
+@@|login.sydneywater.com.au^$important
 @@|logx.optimizely.com^$important
 @@|lowes.com.au^$important
 @@|mcusercontent.com^$important
@@ -138,6 +140,7 @@
 @@|terrywhitechemmart.cdn.prismic.io^$important
 @@|terrywhitechemmart.com.au^$important
 @@|thegoodguys.sirv.com^$important
+@@|tms.nab.com.au^$important
 @@|transportnsw.info^$important
 @@|vfr0.gpsoft.com.au^$important
 @@|vfr3.gpsoft.com.au^$important
@@ -150,6 +153,7 @@
 @@|woolworthsgiftcardstore.com.au^$important
 @@|wowprodmediaaae.blob.core.windows.net^$important
 @@|ws1-n1syd.isp.foxtel.net.au^$important
+@@|wup-24f7f3c7.nab.com.au^$important
 @@|www.aec.gov.au^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important

@@ -5,9 +5,12 @@
 @@|gfwsl.geforce.com^$important
 @@|images.nvidia.com^$important
 @@|layouts.nvidiagrid.net^$important
+@@|localized-config-api.gx.nvidia.com^$important
 @@|ngx.download.nvidia.com^$important
+@@|nvda.d2.sc.omtrdc.net^$important
 @@|nvidia.com.ssl.sc.omtrdc.net^$important
 @@|nvidia.com^$important
+@@|nvidia.tt.omtrdc.net^$important
 @@|origin-api-forums.nvidia.com^$important
 @@|services.gfe.nvidia.com^$important
 @@|store.nvidia.com^$important

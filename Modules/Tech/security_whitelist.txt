@@ -65,6 +65,7 @@
 @@|dl*.cdn.filezilla-project.org^$important
 @@|dl.acronis.com^$important
 @@|dl.dell.com^$important
+@@|dl1.pxc-coding.com^$important
 @@|dl3.cdn.filezilla-project.org^$important
 @@|do-not-tracker.org^$important
 @@|docs.clearurls.xyz^$important
@@ -128,8 +129,10 @@
 @@|privacytools.io^$important
 @@|prod-tp.sumo.mozit.cloud^$important
 @@|proton.me^$important
+@@|pxc-coding.com^$important
 @@|r2.community.samsung.com^$important
 @@|r3.i.lencr.org^$important
+@@|raindrop-preview-prod.exentrich.workers.dev^$important
 @@|readthedocs.org^$important
 @@|relay.firefox.com^$important
 @@|repo.vivaldi.com^$important
@@ -238,3 +241,4 @@
 @@|www.wisecleaner.com^$important
 @@|www91.intel.com^$important
 @@|x2.c.lencr.org^$important
+@@|xtnzefcqrb.execute-api.us-east-1.amazonaws.com^$important

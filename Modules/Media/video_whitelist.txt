@@ -158,6 +158,8 @@
 @@|video-weaver.syd*.hls.ttvnw.net^$important
 @@|vimeo.com^$important
 @@|vod-secure.twitch.tv^$important
+@@|web*.rumble.com^$important
+@@|wn*.rumble.com^$important
 @@|www.twitch.tv^$important
 @@|xt.streamlabs.com^$important
 @@|yewtu.be^$important

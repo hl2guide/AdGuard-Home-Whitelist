@@ -318,6 +318,7 @@
 @@|msftconnecttest.com^$important
 @@|msn.com^$important
 @@|msrc-blog.microsoft.com^$important
+@@|msrc.microsoft.com^$important
 @@|mucp.api.account.microsoft.com^$important
 @@|multiplayeractivity.xboxlive.com^$important
 @@|music.xbox.com^$important
@@ -404,6 +405,7 @@
 @@|secure.aadcdn.microsoftonline-p.com^$important
 @@|securityintelligencecenter-eastus.azurewebsites.net^$important
 @@|self.events.data.microsoft.com^$important
+@@|server.events.data.microsoft.com^$important
 @@|service.weather.microsoft.com^$important
 @@|sessiondirectory.xboxlive.com^$important
 @@|settings-ssl.xboxlive.com^$important

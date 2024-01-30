@@ -8,6 +8,8 @@
 @@|buny.uk^$important
 @@|carbon-bonsai-621.appspot.com^$important
 @@|chihaya-heroku.120181311.xyz^$important
+@@|coppersurfer.tk^$important
+@@|epider.me^$important
 @@|exodus.desync.com^$important
 @@|fe.dealclub.de^$important
 @@|git.qbittorrent.org^$important
@@ -17,6 +19,7 @@
 @@|open.acgnxtracker.com^$important
 @@|open.demonii.com^$important
 @@|open.dstud.io^$important
+@@|open.free-tracker.ga^$important
 @@|open.tracker.cl^$important
 @@|open.tracker.ink^$important
 @@|open.xxtor.com^$important
@@ -61,6 +64,7 @@
 @@|tracker.bt4g.com^$important
 @@|tracker.ccp.ovh^$important
 @@|tracker.coppersurfer.site^$important
+@@|tracker.cubonegro.lol^$important
 @@|tracker.dler.org^$important
 @@|tracker.doko.moe^$important
 @@|tracker.dump.cl^$important
@@ -73,9 +77,11 @@
 @@|tracker.fnix.net^$important
 @@|tracker.foreverpirates.co^$important
 @@|tracker.gbitt.info^$important
+@@|tracker.gcrreen.xyz^$important
 @@|tracker.imgoingto.icu^$important
 @@|tracker.ipv6tracker.ru^$important
 @@|tracker.iriseden.fr^$important
+@@|tracker.jamesthebard.net^$important
 @@|tracker.jdx3.org^$important
 @@|tracker.jordan.im^$important
 @@|tracker.k.vu^$important
@@ -107,13 +113,16 @@
 @@|tracker.theoks.net^$important
 @@|tracker.therarbg.com^$important
 @@|tracker.thinelephant.org^$important
+@@|tracker.torrust-demo.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.vds.nz^$important
 @@|tracker.yarr.pt^$important
 @@|tracker.yemekyedim.com^$important
 @@|tracker.zer0day.to^$important
 @@|tracker.zerobytes.xyz^$important
 @@|tracker1.520.jp^$important
 @@|tracker1.bt.moack.co.kr^$important
+@@|tracker1.myporn.club^$important
 @@|tracker2.ctix.cn^$important
 @@|tracker2.dler.com^$important
 @@|tracker2.dler.org^$important
@@ -122,3 +131,4 @@
 @@|vibe.sleepyinternetfun.xyz^$important
 @@|vps02.net.orel.ru^$important
 @@|www.torrent.eu.org^$important
+@@|y.paranoid.agency^$important

@@ -1,4 +1,5 @@
 @@|connected.sonymusic.com^$important
+@@|gmedia.playstation.com^$important
 @@|id.sonyentertainmentnetwork.com^$important
 @@|m.store.sony.com^$important
 @@|sony.co.nz^$important
@@ -11,3 +12,6 @@
 @@|sony.jp^$important
 @@|sony.net^$important
 @@|store.sony.com^$important
+@@|web-toolbar.playstation.com^$important
+@@|web.np.playstation.com^$important
+@@|www.playstation.com^$important

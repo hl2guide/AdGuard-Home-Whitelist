@@ -114,6 +114,7 @@
 @@|link.adtidy.org^$important
 @@|links.account.evernote.com^$important
 @@|mail.proton.me^$important
+@@|manage.macrium.com^$important
 @@|manage.ntppool.org^$important
 @@|mastiff.ext.hp.com^$important
 @@|mozilla.cloudflare-dns.com^$important
@@ -241,4 +242,5 @@
 @@|www.wisecleaner.com^$important
 @@|www91.intel.com^$important
 @@|x2.c.lencr.org^$important
+@@|xsnews.us12.list-manage.com^$important
 @@|xtnzefcqrb.execute-api.us-east-1.amazonaws.com^$important

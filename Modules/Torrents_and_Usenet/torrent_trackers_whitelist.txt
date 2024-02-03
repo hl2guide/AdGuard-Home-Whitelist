@@ -79,6 +79,7 @@
 @@|tracker.gbitt.info^$important
 @@|tracker.gcrreen.xyz^$important
 @@|tracker.imgoingto.icu^$important
+@@|tracker.internetwarriors.net^$important
 @@|tracker.ipv6tracker.ru^$important
 @@|tracker.iriseden.fr^$important
 @@|tracker.jamesthebard.net^$important
@@ -97,9 +98,11 @@
 @@|tracker.nanoha.org^$important
 @@|tracker.nitrix.me^$important
 @@|tracker.opentrackr.org^$important
+@@|tracker.picotorrent.one^$important
 @@|tracker.piratepublic.com^$important
 @@|tracker.pomf.se^$important
 @@|tracker.publictracker.xyz^$important
+@@|tracker.qu.ax^$important
 @@|tracker.renfei.net^$important
 @@|tracker.rev.pm^$important
 @@|tracker.skynetcloud.site^$important
@@ -115,6 +118,7 @@
 @@|tracker.thinelephant.org^$important
 @@|tracker.torrust-demo.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
 @@|tracker.yarr.pt^$important
 @@|tracker.yemekyedim.com^$important

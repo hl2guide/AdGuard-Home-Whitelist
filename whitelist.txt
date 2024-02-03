@@ -1093,6 +1093,7 @@
 @@|consent.dropbox.com^$important
 @@|consent.trustarc.com^$important
 @@|console.python.org^$important
+@@|consumer.intel.com^$important
 @@|contacts.google.com^$important
 @@|contactus.netflix.com^$important
 @@|contactus.samsung.com^$important
@@ -1269,6 +1270,7 @@
 @@|dev.xbox.com^$important
 @@|devblogs.microsoft.com^$important
 @@|developer.apple.com^$important
+@@|developer.download.nvidia.com^$important
 @@|developer.github.com^$important
 @@|developer.microsoft.com^$important
 @@|developer.mozilla.org^$important
@@ -1517,6 +1519,7 @@
 @@|edgechunked.cyberdrop.me^$important
 @@|edgefrecdn.azureedge.net^$important
 @@|edgeservices.bing.com^$important
+@@|edgestatic.azureedge.net^$important
 @@|edgestoreweb.azureedge.net^$important
 @@|edgetips.azureedge.net^$important
 @@|editor.swagger.io^$important
@@ -2390,6 +2393,8 @@
 @@|lancache.steamcontent.com^$important
 @@|landing-pages.gog-statics.com^$important
 @@|lastpass.com^$important
+@@|launcher-index-prod.s3.amazonaws.com^$important
+@@|launcher-prod.s3.us-east-2.amazonaws.com^$important
 @@|launcher-public-service-prod*.ol.epicgames.com^$important
 @@|launcher.store.epicgames.com^$important
 @@|launchpad.net^$important
@@ -2556,6 +2561,7 @@
 @@|majorgeeks.com^$important
 @@|man.archlinux.org^$important
 @@|manage.devcenter.microsoft.com^$important
+@@|manage.macrium.com^$important
 @@|manage.ntppool.org^$important
 @@|manifest-gce-us-east1-production.cfcdn.v.rokfin.com^$important
 @@|manifest.razerapi.com^$important
@@ -2996,6 +3002,7 @@
 @@|ohioix.mm.fcix.net^$important
 @@|ohmyposh.dev^$important
 @@|old-releases.ubuntu.com^$important
+@@|omniverse-content-production.s3-us-west-2.amazonaws.com^$important
 @@|onboardcloud.dl.sourceforge.net^$important
 @@|one.google.com^$important
 @@|oneclient.sfx.ms^$important
@@ -3022,6 +3029,7 @@
 @@|open.spotify.com^$important
 @@|open.spotifycdn.com^$important
 @@|open.stealth.si^$important
+@@|open.tracker.cl^$important
 @@|open.tracker.ink^$important
 @@|opencritic.com^$important
 @@|openphish.com^$important
@@ -3267,6 +3275,7 @@
 @@|prod-nginz-ssl.wire.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
 @@|prod-pa.api.wbinsights.com^$important
+@@|prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com^$important
 @@|prod-syd-cf.zionprod.systems^$important
 @@|prod-tp.sumo.mozit.cloud^$important
 @@|prod-video-cms-rt-microsoft-com.akamaized.net^$important
@@ -3354,6 +3363,8 @@
 @@|r5---sn-ntqe6nes.c.2mdn.net^$important
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
+@@|racker.dler.org^$important
+@@|racker.uw0.xyz^$important
 @@|raindrop-preview-prod.exentrich.workers.dev^$important
 @@|raindrop.io^$important
 @@|raindrop.onfastspring.com^$important
@@ -4117,6 +4128,7 @@
 @@|tracker.gcrreen.xyz^$important
 @@|tracker.grepler.com^$important
 @@|tracker.imgoingto.icu^$important
+@@|tracker.internetwarriors.net^$important
 @@|tracker.ipv6tracker.ru^$important
 @@|tracker.jamesthebard.net^$important
 @@|tracker.jdx3.org^$important
@@ -4135,10 +4147,12 @@
 @@|tracker.open-internet.nl^$important
 @@|tracker.openbittorrent.com^$important
 @@|tracker.opentrackr.org^$important
+@@|tracker.picotorrent.one^$important
 @@|tracker.pirateparty.gr^$important
 @@|tracker.piratepublic.com^$important
 @@|tracker.pomf.se^$important
 @@|tracker.publictracker.xyz^$important
+@@|tracker.qu.ax^$important
 @@|tracker.renfei.net^$important
 @@|tracker.rev.pm^$important
 @@|tracker.skynetcloud.site^$important
@@ -4884,6 +4898,7 @@
 @@|xmpp-service-prod.ol.epicgames.com^$important
 @@|xnotify.xboxlive.com^$important
 @@|xpui.app.spotify.com^$important
+@@|xsnews.us12.list-manage.com^$important
 @@|xsts.auth.xboxlive.com^$important
 @@|xt.streamlabs.com^$important
 @@|xtnzefcqrb.execute-api.us-east-1.amazonaws.com^$important

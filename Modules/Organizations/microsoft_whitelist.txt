@@ -160,6 +160,7 @@
 @@|concierge.live.com^$important
 @@|conciergelive.azureedge.net^$important
 @@|config.teams.microsoft.com^$important
+@@|consumer.intel.com^$important
 @@|content.assist.gameservices.xboxlive.com^$important
 @@|content.lifecycle.office.net^$important
 @@|continuum.dds.microsoft.com^$important
@@ -206,6 +207,7 @@
 @@|edgeassetdelivery.blob.core.windows.net^$important
 @@|edgefrecdn.azureedge.net^$important
 @@|edgeservices.bing.com^$important
+@@|edgestatic.azureedge.net^$important
 @@|edgestoreweb.azureedge.net^$important
 @@|edgetips.azureedge.net^$important
 @@|editorial.xboxlive.com^$important
@@ -379,6 +381,7 @@
 @@|preview.xbox.com^$important
 @@|privacy.microsoft.com^$important
 @@|privacy.xboxlive.com^$important
+@@|prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com^$important
 @@|prod.rewardsplatform.microsoft.com^$important
 @@|products.office.com^$important
 @@|profile.xboxlive.com^$important

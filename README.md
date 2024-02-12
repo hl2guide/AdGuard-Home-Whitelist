@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.5.2
-- Last Updated (AEST): 2024-02-03 11:47:26PM
+- Current Version: 1.2.5.3
+- Last Updated (AEST): 2024-02-12 01:30:48PM
 
 ## Intro ✍
 
@@ -24,6 +24,7 @@ _AdGuard-Home-Whitelist © 2024 - hl2guide_
 
 | Date and Time 📅 | Note 📓 |
 |---------------|------|
+| 2024-02-12 01:30:37PM | Added more rules |
 | 2024-02-03 11:47:36PM | Added more rules |
 | 2024-01-30 04:47:38PM | Added more rules |
 | 2023-12-31 05:15:21PM | Added more rules (happy new year!) |
@@ -67,8 +68,8 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 
 ### Details 🧾
 
-* __Expected AdGuard Home Average RAM Usage:__ around 18MB
-* __Number of Rules:__ over 4700
+* __Expected AdGuard Home Average RAM Usage:__ around 22MB
+* __Number of Rules:__ over 4900
 
 ## Updates 👩‍💻
 

@@ -366,6 +366,7 @@
 @@|partner.support.services.microsoft.com^$important
 @@|paymentinstruments.mp.microsoft.com^$important
 @@|paymentsredirectionservice.cp.microsoft.com^$important
+@@|pcmanager.microsoft.com^$important
 @@|peoplehub.xboxlive.com^$important
 @@|photos.live.com^$important
 @@|play.halo.part.xbox.com^$important

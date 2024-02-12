@@ -3139,6 +3139,7 @@
 @@|pc.ea.com^$important
 @@|pcdn.brave.com^$important
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
+@@|pcmanager.microsoft.com^$important
 @@|pcs.geforcenow.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
@@ -4115,6 +4116,7 @@
 @@|tracker.cubonegro.lol^$important
 @@|tracker.cyberia.is^$important
 @@|tracker.dler.com^$important
+@@|tracker.dler.org^$important
 @@|tracker.doko.moe^$important
 @@|tracker.dump.cl^$important
 @@|tracker.edkj.club^$important
@@ -4171,6 +4173,7 @@
 @@|tracker.torrust-demo.com^$important
 @@|tracker.trackerfix.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
 @@|tracker.yemekyedim.com^$important
 @@|tracker.zer0day.to^$important

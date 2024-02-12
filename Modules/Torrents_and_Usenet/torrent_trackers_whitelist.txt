@@ -66,6 +66,7 @@
 @@|tracker.coppersurfer.site^$important
 @@|tracker.cubonegro.lol^$important
 @@|tracker.dler.org^$important
+@@|tracker.dler.org^$important
 @@|tracker.doko.moe^$important
 @@|tracker.dump.cl^$important
 @@|tracker.edkj.club^$important
@@ -118,6 +119,7 @@
 @@|tracker.thinelephant.org^$important
 @@|tracker.torrust-demo.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.uw0.xyz^$important
 @@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
 @@|tracker.yarr.pt^$important

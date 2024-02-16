@@ -24,6 +24,7 @@ _AdGuard-Home-Whitelist © 2024 - hl2guide_
 
 | Date and Time 📅 | Note 📓 |
 |---------------|------|
+| 2024-02-16 12:46:58PM | Added more rules |
 | 2024-02-12 01:30:37PM | Added more rules |
 | 2024-02-03 11:47:36PM | Added more rules |
 | 2024-01-30 04:47:38PM | Added more rules |

@@ -98,6 +98,7 @@
 @@|*.time.system76.com^$important
 @@|*.update.microsoft.com^$important
 @@|*.userstorage.mega.co.nz^$important
+@@|*.vimeocdn.com^$important
 @@|*.vo.msecnd.net^$important
 @@|*.vscode-cdn.net^$important
 @@|*.vscode-webview.net^$important
@@ -2622,6 +2623,7 @@
 @@|media.xda-developers.com^$important
 @@|media4.steampowered.com^$important
 @@|mediafire.com^$important
+@@|meet.google.com^$important
 @@|mega.co.nz^$important
 @@|mega.io^$important
 @@|mega.nz^$important
@@ -2814,6 +2816,7 @@
 @@|modernb.akamai.odsp.cdn.office.net^$important
 @@|modernb.verizon.odsp.cdn.office.net^$important
 @@|modules-cdn.eac-prod.on.epicgames.com^$important
+@@|monitor.ebay.com^$important
 @@|movies.netflix.com^$important
 @@|movies.zsw.ca^$important
 @@|mozilla.cloudflare-dns.com^$important
@@ -3146,6 +3149,7 @@
 @@|people.canonical.com^$important
 @@|people.gnome.org^$important
 @@|peoplehub.xboxlive.com^$important
+@@|peoplestack-pa.clients6.google.com^$important
 @@|perf.store.on.epicgames.com^$important
 @@|pfmsqos.australiaeast.cloudapp.azure.com^$important
 @@|pfmsqos.australiasoutheast.cloudapp.azure.com^$important
@@ -4386,6 +4390,7 @@
 @@|video.google.com^$important
 @@|video.playstation.com^$important
 @@|video.xhcdn.com^$important
+@@|videoapi-sprites.vimeocdn.com^$important
 @@|videoplayercdn.osi.office.net^$important
 @@|videos-rockstargames-com.akamaized.net^$important
 @@|view.engage.xbox.com^$important

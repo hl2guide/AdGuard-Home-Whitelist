@@ -1,6 +1,7 @@
 @@|*.abs.hls.ttvnw.net^$important
 @@|*.ext-twitch.tv^$important
 @@|*.tapecontent.net^$important
+@@|*.vimeocdn.com^$important
 @@|affiliate.twitch.tv^$important
 @@|api-global.netflix.com^$important
 @@|api.dbdtwitch.com^$important
@@ -156,6 +157,7 @@
 @@|video-edge-ea0fad.pdx01.abs.hls.ttvnw.net^$important
 @@|video-fa.scdn.co^$important
 @@|video-weaver.syd*.hls.ttvnw.net^$important
+@@|videoapi-sprites.vimeocdn.com^$important
 @@|vimeo.com^$important
 @@|vod-secure.twitch.tv^$important
 @@|web*.rumble.com^$important

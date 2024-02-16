@@ -114,6 +114,7 @@
 @@|maps.google.com^$important
 @@|maps.googleapis.com^$important
 @@|maps.gstatic.com^$important
+@@|meet.google.com^$important
 @@|messages.google.com^$important
 @@|mt.googleapis.com^$important
 @@|music.plus.google.com^$important
@@ -132,6 +133,7 @@
 @@|pay.google.com^$important
 @@|payments.google.com^$important
 @@|people-pa.clients*.google.com^$important
+@@|peoplestack-pa.clients6.google.com^$important
 @@|photo.plus.google.com^$important
 @@|photos-ugc.l.googleusercontent.com^$important
 @@|photos.google.com^$important

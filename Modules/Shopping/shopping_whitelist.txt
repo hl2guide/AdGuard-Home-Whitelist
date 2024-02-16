@@ -29,6 +29,7 @@
 @@|m.alibaba.com^$important
 @@|m.aliexpress.com^$important
 @@|mobi.aliexpress.com^$important
+@@|monitor.ebay.com^$important
 @@|nzxt.com^$important
 @@|passport.alipay.com^$important
 @@|prod.scorptec.com.au^$important

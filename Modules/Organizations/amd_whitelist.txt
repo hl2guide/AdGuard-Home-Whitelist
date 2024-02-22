@@ -1,0 +1,2 @@
+@@|www.amd.com^$important
+@@|discover.amd.com^$important

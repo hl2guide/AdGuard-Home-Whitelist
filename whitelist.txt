@@ -1308,6 +1308,7 @@
 @@|discord.gg^$important
 @@|discordapp.com^$important
 @@|discourse.ubuntu.com^$important
+@@|discover.amd.com^$important
 @@|discover.hulu.com^$important
 @@|discovery-infiniteugc.svc.halowaypoint.com^$important
 @@|discovery.razerapi.com^$important
@@ -2053,6 +2054,7 @@
 @@|gumtree.com^$important
 @@|guru99.com^$important
 @@|guts2.sp.f-secure.com^$important
+@@|gx-target-experiments-frontend-api.gx.nvidia.com^$important
 @@|gyan.dev^$important
 @@|h2.twitch.map.fastly.net^$important
 @@|h20572.www2.hp.com^$important
@@ -3328,6 +3330,7 @@
 @@|pti.store.microsoft.com^$important
 @@|public-ubiservices.ubi.com^$important
 @@|public-ws-ubiservices.ubi.com^$important
+@@|public.games.geforce.com^$important
 @@|public.publictracker.xyz^$important
 @@|publish-p16597-e60686.adobeaemcloud.com^$important
 @@|pubmirror1.math.uh.edu^$important
@@ -4533,6 +4536,7 @@
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
 @@|www.alphacoders.com^$important
+@@|www.amd.com^$important
 @@|www.androidauthority.com^$important
 @@|www.androidcentral.com^$important
 @@|www.anydesk.com^$important

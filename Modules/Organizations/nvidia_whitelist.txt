@@ -4,6 +4,7 @@
 @@|forums.geforce.com^$important
 @@|gfe.nvidia.com^$important
 @@|gfwsl.geforce.com^$important
+@@|gx-target-experiments-frontend-api.gx.nvidia.com^$important
 @@|images.nvidia.com^$important
 @@|launcher-index-prod.s3.amazonaws.com^$important
 @@|launcher-prod.s3.us-east-2.amazonaws.com^$important
@@ -16,6 +17,7 @@
 @@|nvidia.tt.omtrdc.net^$important
 @@|omniverse-content-production.s3-us-west-2.amazonaws.com^$important
 @@|origin-api-forums.nvidia.com^$important
+@@|public.games.geforce.com^$important
 @@|services.gfe.nvidia.com^$important
 @@|store.nvidia.com^$important
 @@|uk.download.nvidia.com^$important

@@ -430,6 +430,7 @@
 @@|apis.live.net^$important
 @@|apollo.dl.playstation.net^$important
 @@|app-assets.ea.com^$important
+@@|app-images.ea.com^$important
 @@|app-rgl-prod.ros.rockstargames.com^$important
 @@|app.alipay.com^$important
 @@|app.degoo.com^$important
@@ -1481,6 +1482,7 @@
 @@|dropboxusercontent.com^$important
 @@|drupal.org^$important
 @@|ds.download.windowsupdate.com^$important
+@@|dsadata.intel.com^$important
 @@|dstik9906m659.cloudfront.net^$important
 @@|dual-a-*.a-msedge.net^$important
 @@|dualstack.reddit.map.fastly.net^$important

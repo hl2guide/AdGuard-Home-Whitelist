@@ -46,6 +46,7 @@
 @@|api.warframe.com^$important
 @@|apollo.dl.playstation.net^$important
 @@|app-assets.ea.com^$important
+@@|app-images.ea.com^$important
 @@|app-rgl-prod.ros.rockstargames.com^$important
 @@|app.swaggerhub.com^$important
 @@|arbiter.warframe.com^$important

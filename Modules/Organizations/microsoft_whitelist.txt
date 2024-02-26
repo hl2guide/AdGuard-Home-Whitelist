@@ -115,6 +115,7 @@
 @@|bing.pl^$important
 @@|bing.ru^$important
 @@|bing.se^$important
+@@|bingapis.com^$important
 @@|bingedu.azureedge.net^$important
 @@|blobs.officehome.msocdn.com^$important
 @@|blogs.windows.com^$important

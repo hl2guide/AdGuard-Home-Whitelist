@@ -109,6 +109,7 @@
 @@|img.chocolatey.org^$important
 @@|imgs.search.brave.com^$important
 @@|int.form.eset.com^$important
+@@|internxt.com^$important
 @@|ipfs.tech^$important
 @@|learn.offcloud.com^$important
 @@|link.adtidy.org^$important

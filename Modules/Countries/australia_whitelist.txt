@@ -82,6 +82,7 @@
 @@|kmart.com.au^$important
 @@|kmartau.mo.cloudinary.net^$important
 @@|lifeblood.com.au^$important
+@@|link.orders.kmart.com.au^$important
 @@|login.my.gov.au^$important
 @@|login.sydneywater.com.au^$important
 @@|logx.optimizely.com^$important
@@ -95,6 +96,8 @@
 @@|my.gov.au^$important
 @@|my.service.nsw.gov.au^$important
 @@|myer.com.au^$important
+@@|nbnco.carto.com^$important
+@@|nbncoadmin.carto.com^$important
 @@|nintendo.com.au^$important
 @@|nn.speedtest.vodafone.com.au.prod.hosts.ooklaserver.net^$important
 @@|nn.speedtest.vodafone.com.au^$important
@@ -119,6 +122,7 @@
 @@|secure2.alphassl.com^$important
 @@|shop.aldi.com.au^$important
 @@|shop.coles.com.au^$important
+@@|smart-status.superloop.com^$important
 @@|sony.com.au^$important
 @@|speedtest-syd.optusnet.com.au^$important
 @@|speedtest-vds1.tasmanet.com.au^$important
@@ -131,7 +135,9 @@
 @@|static.comparebroadband.com.au^$important
 @@|store.aldi.com.au^$important
 @@|storelocator.aldi.com.au^$important
+@@|superhub.superloop.com^$important
 @@|support.jbhifi.com.au^$important
+@@|support.superloop.com^$important
 @@|syd-speed.overthewire.com.au^$important
 @@|syd1.speedtest.telstra.net^$important
 @@|sydneywater.com.au^$important
@@ -148,6 +154,7 @@
 @@|wcsprdstg.cmltd.net.au^$important
 @@|webident.service.nsw.gov.au^$important
 @@|webservices.api.exetel.com.au^$important
+@@|webservices.myexetel.exetel.com.au^$important
 @@|woolworths.com.au^$important
 @@|woolworths.scene7.com^$important
 @@|woolworthsgiftcardstore.com.au^$important

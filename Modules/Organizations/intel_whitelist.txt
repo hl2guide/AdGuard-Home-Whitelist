@@ -1,2 +1,3 @@
 @@|dsadata.intel.com^$important
+@@|pki.intel.com^$important
 @@|www.intel.com.au^$important

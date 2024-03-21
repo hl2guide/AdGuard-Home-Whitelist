@@ -237,6 +237,7 @@
 @@|fe3cr.delivery.mp.microsoft.com^$important
 @@|feedback.xbox.com^$important
 @@|flow.microsoft.com^$important
+@@|fluent2.microsoft.design^$important
 @@|forms.office.com^$important
 @@|forums-origin.xbox.com^$important
 @@|forums-preview.xbox.com^$important

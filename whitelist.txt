@@ -238,9 +238,13 @@
 @@|adblockplus.org^$important
 @@|addictivetips.com^$important
 @@|addons-amo.cdn.mozilla.net^$important
+@@|addons-extensions.operacdn.com^$important
+@@|addons-media.operacdn.com^$important
 @@|addons-pa.clients*.google.com^$important
+@@|addons-themes.operacdn.com^$important
 @@|addons.cdn.mozilla.net^$important
 @@|addons.mozilla.org^$important
+@@|addons.opera.com^$important
 @@|addons.palemoon.org^$important
 @@|adguard-dns.io^$important
 @@|adguard.com^$important
@@ -510,6 +514,7 @@
 @@|assets.kogan.com^$important
 @@|assets.msn.com^$important
 @@|assets.onestore.ms^$important
+@@|assets.oneweb.mercedes-benz.com^$important
 @@|assets.pippa.io^$important
 @@|assets.razerzone.com^$important
 @@|assets.resultspage.com^$important
@@ -562,6 +567,7 @@
 @@|autocomplete.kaspersky.com^$important
 @@|autoconfig.kde.org^$important
 @@|autopatch.juno.ea.com^$important
+@@|autoupdate.geo.opera.com^$important
 @@|av-updateservice.adaware.com^$important
 @@|avaloniaui.net^$important
 @@|avatar-management--avatars.us-west-2.prod.public.atl-paas.net^$important
@@ -803,6 +809,7 @@
 @@|cdn-mirror.chaotic.cx^$important
 @@|cdn-pics.pornhd.com^$important
 @@|cdn-pics.pornhdprime.com^$important
+@@|cdn-production-opera-website.operacdn.com^$important
 @@|cdn-s-thewitcher.cdprojektred.com^$important
 @@|cdn-static-cf.pornhd.com^$important
 @@|cdn.adguard.com^$important
@@ -1365,6 +1372,7 @@
 @@|doc-*-drive-data-export.googleusercontent.com^$important
 @@|doc.opensuse.org^$important
 @@|doclone.nongnu.org^$important
+@@|docs.avaloniaui.net^$important
 @@|docs.chocolatey.org^$important
 @@|docs.clearurls.xyz^$important
 @@|docs.dbhub.io^$important
@@ -1403,6 +1411,7 @@
 @@|download*.easeus.com^$important
 @@|download*.epicgames.com^$important
 @@|download*.mediafire.com^$important
+@@|download*.operacdn.com^$important
 @@|download*.portableapps.com^$important
 @@|download*.vmware.com^$important
 @@|download-alt.easyanticheat.net^$important
@@ -1439,6 +1448,7 @@
 @@|download.nus.edu.sg^$important
 @@|download.onlyoffice.com^$important
 @@|download.opensuse.org^$important
+@@|download.opera.com^$important
 @@|download.rockylinux.org^$important
 @@|download.sourceforge.net^$important
 @@|download.sqlitebrowser.org^$important
@@ -1635,6 +1645,7 @@
 @@|exodus.desync.com^$important
 @@|exp.wg.spotify.com^$important
 @@|extension-files.twitch.tv^$important
+@@|extension-updates.opera.com^$important
 @@|extension.streamelements.com^$important
 @@|extensions-discovery-images.twitch.tv^$important
 @@|extensions-loader.azurewebsites.net^$important
@@ -2894,6 +2905,7 @@
 @@|nelly-service-prod-fastly.ecosec.on.epicgames.com^$important
 @@|nelly-service-prod.ecbc.live.use1a.on.epicgames.com^$important
 @@|neosmart.net^$important
+@@|net.geo.opera.com^$important
 @@|netdna.bootstrapcdn.com^$important
 @@|netflix.com^$important
 @@|newassets.hcaptcha.com^$important
@@ -3556,6 +3568,7 @@
 @@|search.nexusmods.com^$important
 @@|search.spotxchange.com^$important
 @@|search.vimeo.com^$important
+@@|searchapi.samsung.com^$important
 @@|sebsauvage.net^$important
 @@|secure.aadcdn.microsoftonline-p.com^$important
 @@|secure.download.dm.origin.com^$important
@@ -4467,7 +4480,9 @@
 @@|wcsprdstg.cmltd.net.au^$important
 @@|wdcp.microsoft.com^$important
 @@|wdcpalt.microsoft.com^$important
+@@|weather.opera-api2.com^$important
 @@|web*.rumble.com^$important
+@@|web-assets-prod.s3.amazonaws.com^$important
 @@|web-browser.cdn.ubisoft.com^$important
 @@|web-toolbar.playstation.com^$important
 @@|web.np.playstation.com^$important
@@ -4762,6 +4777,7 @@
 @@|www.openssl.org^$important
 @@|www.opensubtitles.com^$important
 @@|www.opensuse.org^$important
+@@|www.opera.com^$important
 @@|www.oracle.com^$important
 @@|www.origin.com^$important
 @@|www.outlook.com^$important

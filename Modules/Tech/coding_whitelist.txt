@@ -58,6 +58,7 @@
 @@|developer.microsoft.com^$important
 @@|developer.nvidia.com^$important
 @@|developercommunity.visualstudio.com^$important
+@@|docs.avaloniaui.net^$important
 @@|docs.dbhub.io^$important
 @@|docs.docker.com^$important
 @@|docs.github.com^$important

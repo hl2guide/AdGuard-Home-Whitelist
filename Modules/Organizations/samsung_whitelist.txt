@@ -11,4 +11,5 @@
 @@|image.samsung.com^$important
 @@|images.samsung.com^$important
 @@|music.samsung.com^$important
+@@|searchapi.samsung.com^$important
 @@|www.samsung.com^$important

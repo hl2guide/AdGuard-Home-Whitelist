@@ -1,0 +1,12 @@
+@@|addons-extensions.operacdn.com^$important
+@@|addons-media.operacdn.com^$important
+@@|addons-themes.operacdn.com^$important
+@@|addons.opera.com^$important
+@@|autoupdate.geo.opera.com^$important
+@@|cdn-production-opera-website.operacdn.com^$important
+@@|download*.operacdn.com^$important
+@@|download.opera.com^$important
+@@|extension-updates.opera.com^$important
+@@|net.geo.opera.com^$important
+@@|weather.opera-api2.com^$important
+@@|www.opera.com^$important

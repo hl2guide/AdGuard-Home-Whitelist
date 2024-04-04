@@ -10,6 +10,7 @@
 @@|adult.com^$important
 @@|albums1.cdntrex.com^$important
 @@|api13.comm100.io^$important
+@@|assets-ah.flixcdn.com^$important
 @@|assets.freeones.com^$important
 @@|auth.freeones.com^$important
 @@|avatar.pornone.com^$important
@@ -37,6 +38,7 @@
 @@|di.phprcdn.com^$important
 @@|e-cdns-images.dzcdn.net^$important
 @@|eve.cdntrex.com^$important
+@@|faphouse.com^$important
 @@|fiona.cdntrex.com^$important
 @@|freeones.com^$important
 @@|freeones.xxx^$important
@@ -48,6 +50,7 @@
 @@|hotpornfile.disqus.com^$important
 @@|hotpornfile.org^$important
 @@|hubt.pornhub.com^$important
+@@|ic-ah.flixcdn.com^$important
 @@|ic-st-lm.xhcdn.com^$important
 @@|ic-tt-lm.xhcdn.com^$important
 @@|ic-ut-lm.xhcdn.com^$important
@@ -91,9 +94,11 @@
 @@|statics.cdntrex.com^$important
 @@|sxyprn.com^$important
 @@|th-eu4.pornone.com^$important
+@@|thumb-ah.flixcdn.com^$important
 @@|thumb-lvlt.xhcdn.com^$important
 @@|thumb-user.xhcdn.com^$important
 @@|thumb-v2.xhcdn.com^$important
+@@|thumb-v3.xhcdn.com^$important
 @@|thumb-v4.xhcdn.com^$important
 @@|thumb-v8.xhcdn.com^$important
 @@|thumb-v9.xhcdn.com^$important

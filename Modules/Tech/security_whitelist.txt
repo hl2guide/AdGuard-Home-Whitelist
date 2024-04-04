@@ -26,6 +26,7 @@
 @@|artifacts.bitwarden.com^$important
 @@|ask.libreoffice.org^$important
 @@|assets.esetstatic.com^$important
+@@|assets.oneweb.mercedes-benz.com^$important
 @@|assets.zendesk.com^$important
 @@|atlas.eff.org^$important
 @@|au.pcpartpicker.com^$important
@@ -188,6 +189,7 @@
 @@|uso.kkx.one^$important
 @@|vanilla.futurecdn.net^$important
 @@|ventoy.net^$important
+@@|web-assets-prod.s3.amazonaws.com^$important
 @@|websiteapi.acronis.com^$important
 @@|windowsreport.com^$important
 @@|winget.run^$important

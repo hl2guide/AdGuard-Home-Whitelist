@@ -13,6 +13,7 @@
 @@|exodus.desync.com^$important
 @@|fe.dealclub.de^$important
 @@|git.qbittorrent.org^$important
+@@|ipv6.rer.lol^$important
 @@|milanesitracker.tekcities.com^$important
 @@|movies.zsw.ca^$important
 @@|nyaa.tracker.wf^$important
@@ -34,6 +35,7 @@
 @@|run.publictracker.xyz^$important
 @@|share.camoe.cn^$important
 @@|t.acg.rip^$important
+@@|t.acg.rip^$important
 @@|t.nyaatracker.com^$important
 @@|t.overflow.biz^$important
 @@|t.publictracker.xyz^$important
@@ -48,6 +50,7 @@
 @@|tr.doogh.club^$important
 @@|tr.fuckbitcoin.xyz^$important
 @@|tr.highstar.shop^$important
+@@|tr.qfruiti.in^$important
 @@|tr.ready4.icu^$important
 @@|tr.torland.ga^$important
 @@|tracker.0x.tf^$important
@@ -115,6 +118,7 @@
 @@|tracker.tamersunion.org^$important
 @@|tracker.tfile.co^$important
 @@|tracker.theoks.net^$important
+@@|tracker.thepiratebay.org^$important
 @@|tracker.therarbg.com^$important
 @@|tracker.thinelephant.org^$important
 @@|tracker.torrust-demo.com^$important

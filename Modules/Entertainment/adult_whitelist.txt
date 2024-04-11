@@ -37,6 +37,7 @@
 @@|di.phncdn.com^$important
 @@|di.phprcdn.com^$important
 @@|e-cdns-images.dzcdn.net^$important
+@@|ei.phprcdn.com^$important
 @@|eve.cdntrex.com^$important
 @@|faphouse.com^$important
 @@|fiona.cdntrex.com^$important

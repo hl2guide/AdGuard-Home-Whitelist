@@ -241,6 +241,7 @@
 @@|addons-extensions.operacdn.com^$important
 @@|addons-media.operacdn.com^$important
 @@|addons-pa.clients*.google.com^$important
+@@|addons-static.operacdn.com^$important
 @@|addons-themes.operacdn.com^$important
 @@|addons.cdn.mozilla.net^$important
 @@|addons.mozilla.org^$important
@@ -255,6 +256,7 @@
 @@|adssettings.google.com^$important
 @@|adult.com^$important
 @@|aex.dev.azure.com^$important
+@@|af.opera.com^$important
 @@|afdxtest.z01.azurefd.net^$important
 @@|affiliate.twitch.tv^$important
 @@|agrd.io^$important
@@ -1542,6 +1544,7 @@
 @@|education.github.com^$important
 @@|eff.org^$important
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
+@@|ei.phprcdn.com^$important
 @@|ekr.zdassets.com^$important
 @@|elb-lon-gcp.nimbus.bitdefender.net^$important
 @@|elb-nvi-gcp.nimbus.bitdefender.net^$important
@@ -1685,6 +1688,7 @@
 @@|fe2cr.update.microsoft.com^$important
 @@|fe3cr.delivery.mp.microsoft.com^$important
 @@|feathericons.com^$important
+@@|features.opera-api*.com^$important
 @@|fedora-secondary.mirror.liquidtelecom.com^$important
 @@|fedora.c3sl.ufpr.br^$important
 @@|fedora.cu.be^$important
@@ -2325,6 +2329,7 @@
 @@|ipv4only.arpa^$important
 @@|ipv6.login.live.com^$important
 @@|ipv6.msftconnecttest.com^$important
+@@|ipv6.rer.lol^$important
 @@|ipv6check-http.steamcontent.com^$important
 @@|ipv6check-udp.steamcontent.com^$important
 @@|ir.ebaystatic.com^$important
@@ -3719,6 +3724,7 @@
 @@|speed.me1.gigacomm.net.au.prod.hosts.ooklaserver.net^$important
 @@|speed4.snap.net.nz.prod.hosts.ooklaserver.net^$important
 @@|speed4.snap.net.nz^$important
+@@|speeddials.opera.com^$important
 @@|speedtest-ebw.optusnet.com.au^$important
 @@|speedtest-mel.cdn.on.net.prod.hosts.ooklaserver.net^$important
 @@|speedtest-mel.cdn.on.net^$important
@@ -4020,6 +4026,7 @@
 @@|t-ring-fallbacks1.msedge.net^$important
 @@|t-ring-fallbacks2.msedge.net^$important
 @@|t-ring-fdv2.msedge.net^$important
+@@|t.acg.rip^$important
 @@|t.castle.io^$important
 @@|t.paypal.com^$important
 @@|t.ssl.ak.dynamic.tiles.virtualearth.net^$important
@@ -4128,6 +4135,7 @@
 @@|tos.ea.com^$important
 @@|toshiba.semicon-storage.com^$important
 @@|tpucdn.com^$important
+@@|tr.qfruiti.in^$important
 @@|tr.twitch.tv^$important
 @@|tr.wikipedia.com^$important
 @@|tr11v6.os.eidos.com^$important
@@ -4199,6 +4207,7 @@
 @@|tracker.tamersunion.org^$important
 @@|tracker.tfile.co^$important
 @@|tracker.theoks.net^$important
+@@|tracker.thepiratebay.org^$important
 @@|tracker.therarbg.com^$important
 @@|tracker.thinelephant.org^$important
 @@|tracker.tiny-vps.com^$important

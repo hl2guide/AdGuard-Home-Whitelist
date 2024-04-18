@@ -347,6 +347,7 @@
 @@|api-v2.soundcloud.com^$important
 @@|api-widget.soundcloud.com^$important
 @@|api.accounts.firefox.com^$important
+@@|api.accuweather.com^$important
 @@|api.addressify.com.au^$important
 @@|api.adguard.com^$important
 @@|api.aec.gov.au^$important
@@ -407,6 +408,7 @@
 @@|api.pushbullet.com^$important
 @@|api.qwant.com^$important
 @@|api.raindrop.io^$important
+@@|api.samsungcloud.com^$important
 @@|api.segment.io^$important
 @@|api.snapcraft.io^$important
 @@|api.soundcloud.com^$important
@@ -1237,6 +1239,7 @@
 @@|dbhub.eu.auth0.com^$important
 @@|dbhub.io^$important
 @@|dbl.oisd.nl^$important
+@@|dc.dqa.samsung.com^$important
 @@|dc.oracleinfinity.io^$important
 @@|dc.services.visualstudio.com^$important
 @@|dci.sophosupd.net^$important
@@ -3231,6 +3234,7 @@
 @@|play.googleapis.com^$important
 @@|play.halo.part.xbox.com^$important
 @@|play.hulu.com^$important
+@@|play.samsungcloud.com^$important
 @@|play.spotify.com^$important
 @@|player.h-cdn.com^$important
 @@|player.hulu.com^$important
@@ -4357,6 +4361,7 @@
 @@|upx.sourceforge.net^$important
 @@|uraniumhexafluori.de^$important
 @@|urbackup.atlassian.net^$important
+@@|ureca.samsungapps.com^$important
 @@|us-as.gr-cdn.com^$important
 @@|us-east-1-pachinko-realtime-2.wbagora.com^$important
 @@|us-east-2-gateway.zionprod.systems^$important
@@ -4845,6 +4850,7 @@
 @@|www.simplemobiletools.com^$important
 @@|www.slant.co^$important
 @@|www.smashingmagazine.com^$important
+@@|www.smeg.com^$important
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important
 @@|www.speedguide.net^$important

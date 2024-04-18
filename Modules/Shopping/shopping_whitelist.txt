@@ -45,3 +45,4 @@
 @@|www.corsair.com^$important
 @@|www.lightboxcdn.com^$important
 @@|www.scorptec.com.au^$important
+@@|www.smeg.com^$important

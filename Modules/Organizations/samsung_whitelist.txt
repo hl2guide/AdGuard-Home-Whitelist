@@ -1,9 +1,12 @@
 @@|account.samsung.com.gslb.cdnetworks.net^$important
 @@|account.samsung.com^$important
 @@|api-us1.mpay.samsung.com^$important
+@@|api.accuweather.com^$important
+@@|api.samsungcloud.com^$important
 @@|cdn.samsung.com^$important
 @@|chbusiness.samsung.com^$important
 @@|contactus.samsung.com^$important
+@@|dc.dqa.samsung.com^$important
 @@|eu.community.samsung.com^$important
 @@|frbusiness.samsung.com^$important
 @@|gear.sca.samsung.com^$important
@@ -11,5 +14,7 @@
 @@|image.samsung.com^$important
 @@|images.samsung.com^$important
 @@|music.samsung.com^$important
+@@|play.samsungcloud.com^$important
 @@|searchapi.samsung.com^$important
+@@|ureca.samsungapps.com^$important
 @@|www.samsung.com^$important

@@ -1,6 +1,7 @@
 @@|*-cdn.eporner.com^$important
 @@|*-ph.rdtcdn.com^$important
 @@|*.ahcdn.com^$important
+@@|*.cdn13.com^$important
 @@|*.cdntrex.com^$important
 @@|*.phncdn.com^$important
 @@|*.rdtcdn.com^$important
@@ -95,6 +96,7 @@
 @@|statics.cdntrex.com^$important
 @@|sxyprn.com^$important
 @@|th-eu4.pornone.com^$important
+@@|thumb-*.xhcdn.com^$important
 @@|thumb-ah.flixcdn.com^$important
 @@|thumb-lvlt.xhcdn.com^$important
 @@|thumb-user.xhcdn.com^$important

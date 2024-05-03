@@ -37,6 +37,7 @@
 @@|*.cdn.office.net^$important
 @@|*.cdn.optimizely.com^$important
 @@|*.cdn.snapcraft.io^$important
+@@|*.cdn13.com^$important
 @@|*.cdnrobot.xyz^$important
 @@|*.cdntrex.com^$important
 @@|*.cloudapp.azure.com^$important
@@ -488,6 +489,7 @@
 @@|artifacts.videolan.org^$important
 @@|artoo.system76.com^$important
 @@|arvr.google.com^$important
+@@|as2rgn.file.samsungcloud.com^$important
 @@|asia.creativecdn.com^$important
 @@|asia.mirror.pkgbuild.com^$important
 @@|asia.playstation.com^$important
@@ -774,6 +776,7 @@
 @@|caniuse.com^$important
 @@|canonical-bos01.cdn.snapcraftcontent.com^$important
 @@|canvas-cdn-prod.azureedge.net^$important
+@@|capi.samsungcloud.com^$important
 @@|captcha.website^$important
 @@|cardinal.maelstrom.gameservices.xboxlive.com^$important
 @@|cards*-prod.svc.gearsofwar.net^$important
@@ -804,6 +807,7 @@
 @@|cdn*.evernote.com^$important
 @@|cdn*.iconfinder.com^$important
 @@|cdn*.portableapps.com^$important
+@@|cdn-*.nflximg.com^$important
 @@|cdn-*.pornone.com^$important
 @@|cdn-dynmedia-1.microsoft.com^$important
 @@|cdn-edge.azureedge.net^$important
@@ -821,6 +825,7 @@
 @@|cdn.ageofempires.com^$important
 @@|cdn.akamai.steamstatic.com^$important
 @@|cdn.appdynamics.com^$important
+@@|cdn.arstechnica.net^$important
 @@|cdn.auth0.com^$important
 @@|cdn.base64decode.org^$important
 @@|cdn.bethesda.net^$important
@@ -878,6 +883,7 @@
 @@|cdn.razersynapse.com^$important
 @@|cdn.registry.fedoraproject.org^$important
 @@|cdn.samsung.com^$important
+@@|cdn.samsungcloudsolution.com^$important
 @@|cdn.search.brave.com^$important
 @@|cdn.services.gearboxsoftware.com^$important
 @@|cdn.shopify.com^$important
@@ -1239,6 +1245,7 @@
 @@|dbhub.eu.auth0.com^$important
 @@|dbhub.io^$important
 @@|dbl.oisd.nl^$important
+@@|dc.di.atlas.samsung.com^$important
 @@|dc.dqa.samsung.com^$important
 @@|dc.oracleinfinity.io^$important
 @@|dc.services.visualstudio.com^$important
@@ -1486,9 +1493,11 @@
 @@|dpgsrv.redmond.corp.microsoft.com^$important
 @@|dragonagekeep.com^$important
 @@|drive-thirdparty.googleusercontent.com^$important
+@@|drive.fife.usercontent.google.com^$important
 @@|drive.google.com^$important
 @@|drive.proton.me^$important
 @@|drive.protonmail.com^$important
+@@|drivefrontend-pa.clients6.google.com^$important
 @@|driveroff.net^$important
 @@|dropbox-api.arkoselabs.com^$important
 @@|dropbox.com^$important
@@ -2176,6 +2185,7 @@
 @@|i1.ytimg.com^$important
 @@|i2.shared.global.fastly.net^$important
 @@|iad.mirror.rackspace.com^$important
+@@|ic-ah.flixcdn.com^$important
 @@|ic-st-lm.xhcdn.com^$important
 @@|ic-tt-lm.xhcdn.com^$important
 @@|ic-ut-lm.xhcdn.com^$important
@@ -2597,6 +2607,7 @@
 @@|manjaro.org^$important
 @@|manpages.debian.org^$important
 @@|manpages.ubuntu.com^$important
+@@|map.bunnings.com.au^$important
 @@|mapbox.com^$important
 @@|maps.google.com.au^$important
 @@|maps.google.com^$important
@@ -3254,6 +3265,7 @@
 @@|pogo.hulu.com^$important
 @@|point.digital.nsw.gov.au^$important
 @@|policies.live.net^$important
+@@|policy.samsungcloud.com^$important
 @@|pollserver.lastpass.com^$important
 @@|polyfill.io^$important
 @@|pool.apk.aptoide.com^$important
@@ -3716,6 +3728,7 @@
 @@|spaces.live.com^$important
 @@|spade.twitch.tv^$important
 @@|spankbang.com^$important
+@@|spapi-prd.samsungrs.com^$important
 @@|sparkcdneus2.azureedge.net^$important
 @@|sparkcdnwus2.azureedge.net^$important
 @@|spartanstats.svc.halowaypoint.com^$important
@@ -4092,6 +4105,7 @@
 @@|thewindowsclub.com^$important
 @@|threatcrowd.org^$important
 @@|threats.kaspersky.com^$important
+@@|thumb-*.xhcdn.com^$important
 @@|thumb-lvlt.xhcdn.com^$important
 @@|thumb-user.xhcdn.com^$important
 @@|thumb-v2.xhcdn.com^$important
@@ -4111,6 +4125,7 @@
 @@|tiles.xbox.com^$important
 @@|time.android.com^$important
 @@|time.is^$important
+@@|time.samsungcloudsolution.com^$important
 @@|time.windows.com^$important
 @@|timeline.google.com^$important
 @@|title.auth.xboxlive.com^$important
@@ -4250,6 +4265,7 @@
 @@|tutorial.notable.md^$important
 @@|tv.vimeo.com^$important
 @@|tv.youtube.com^$important
+@@|tvpnlogopus.samsungcloud.tv^$important
 @@|tw.blog.twitch.tv^$important
 @@|twemoji.maxcdn.com^$important
 @@|twitch.amazon.com^$important
@@ -4480,6 +4496,7 @@
 @@|vue.comm100.com^$important
 @@|w.tampermonkey.net^$important
 @@|w.wallhaven.cc^$important
+@@|waa-pa.clients6.google.com^$important
 @@|waldorf5.distrochooser.de^$important
 @@|wallet.ecom.ubi.com^$important
 @@|wallhaven.cc^$important
@@ -4913,6 +4930,7 @@
 @@|www.windowscentral.com^$important
 @@|www.wisecleaner.com^$important
 @@|www.woolworths.com.au^$important
+@@|www.workshop.bunnings.com.au^$important
 @@|www.xbox.com^$important
 @@|www.xboxab.com^$important
 @@|www.xradio.nl^$important

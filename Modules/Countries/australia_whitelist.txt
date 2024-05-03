@@ -87,6 +87,7 @@
 @@|login.sydneywater.com.au^$important
 @@|logx.optimizely.com^$important
 @@|lowes.com.au^$important
+@@|map.bunnings.com.au^$important
 @@|mcusercontent.com^$important
 @@|media.binglee.com.au^$important
 @@|media.prod.bunnings.com.au^$important
@@ -218,4 +219,5 @@
 @@|www.whistleout.com.au^$important
 @@|www.willoughby.nsw.gov.au^$important
 @@|www.woolworths.com.au^$important
+@@|www.workshop.bunnings.com.au^$important
 @@|www91.intel.com.au^$important

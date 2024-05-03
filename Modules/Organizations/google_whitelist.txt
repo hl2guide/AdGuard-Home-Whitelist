@@ -62,7 +62,9 @@
 @@|doc-*-drive-data-export.googleusercontent.com^$important
 @@|docs.google.com^$important
 @@|drive-thirdparty.googleusercontent.com^$important
+@@|drive.fife.usercontent.google.com^$important
 @@|drive.google.com^$important
+@@|drivefrontend-pa.clients6.google.com^$important
 @@|earth-pa.clients6.google.com^$important
 @@|earth.google.com^$important
 @@|encrypted-tbn0.gstatic.com^$important
@@ -176,6 +178,7 @@
 @@|versionhistory.googleapis.com^$important
 @@|video.google.com^$important
 @@|vr.google.com^$important
+@@|waa-pa.clients6.google.com^$important
 @@|workspace.google.com^$important
 @@|www.google.com^$important
 @@|www.gstatic.com^$important

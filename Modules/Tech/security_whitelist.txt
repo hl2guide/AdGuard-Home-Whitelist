@@ -37,6 +37,7 @@
 @@|browserbench.org^$important
 @@|calendar.protonmail.com^$important
 @@|cdn.adtidy.org^$important
+@@|cdn.arstechnica.net^$important
 @@|cdn.mos.cms.futurecdn.net^$important
 @@|cdn.slant.co^$important
 @@|cdn.statuspage.io^$important

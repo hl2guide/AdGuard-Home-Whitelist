@@ -3,9 +3,14 @@
 @@|api-us1.mpay.samsung.com^$important
 @@|api.accuweather.com^$important
 @@|api.samsungcloud.com^$important
+@@|as2rgn.file.samsungcloud.com^$important
+@@|capi.samsungcloud.com^$important
+@@|cdn-*.nflximg.com^$important
 @@|cdn.samsung.com^$important
+@@|cdn.samsungcloudsolution.com^$important
 @@|chbusiness.samsung.com^$important
 @@|contactus.samsung.com^$important
+@@|dc.di.atlas.samsung.com^$important
 @@|dc.dqa.samsung.com^$important
 @@|eu.community.samsung.com^$important
 @@|frbusiness.samsung.com^$important
@@ -15,6 +20,10 @@
 @@|images.samsung.com^$important
 @@|music.samsung.com^$important
 @@|play.samsungcloud.com^$important
+@@|policy.samsungcloud.com^$important
 @@|searchapi.samsung.com^$important
+@@|spapi-prd.samsungrs.com^$important
+@@|time.samsungcloudsolution.com^$important
+@@|tvpnlogopus.samsungcloud.tv^$important
 @@|ureca.samsungapps.com^$important
 @@|www.samsung.com^$important

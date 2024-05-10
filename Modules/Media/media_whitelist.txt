@@ -106,6 +106,7 @@
 @@|s.imgur.com^$important
 @@|script.wikia.nocookie.net^$important
 @@|secure.rokfin.com^$important
+@@|sentry.odysee.tv^$important
 @@|software.manjaro.org^$important
 @@|spclient.wg.spotify.com^$important
 @@|spotify.com^$important
@@ -123,6 +124,7 @@
 @@|vlc-bluray.whoknowsmy.name^$important
 @@|w.wallhaven.cc^$important
 @@|wallhaven.cc^$important
+@@|watchman.na-backend.odysee.com^$important
 @@|wiki.videolan.org^$important
 @@|wixmp-ed30a86b8c4ca887773594c2.wixmp.com^$important
 @@|ws.audioscrobbler.com^$important

@@ -21,6 +21,7 @@
 @@|api.eset.com^$important
 @@|api.fosshub.com^$important
 @@|api.hcaptcha.com^$important
+@@|api.internxt.com^$important
 @@|api.westerndigital.com^$important
 @@|ark.intel.com^$important
 @@|artifacts.bitwarden.com^$important
@@ -82,6 +83,7 @@
 @@|download.onlyoffice.com^$important
 @@|downloadcenter.samsung.com^$important
 @@|downloads.dell.com^$important
+@@|drive.internxt.com^$important
 @@|drive.proton.me^$important
 @@|drive.protonmail.com^$important
 @@|e1.o.lencr.org^$important
@@ -101,6 +103,7 @@
 @@|gateway.userstyles.org^$important
 @@|global.discourse-cdn.com^$important
 @@|go.acronis.com^$important
+@@|go.getproton.me^$important
 @@|go.glarysoft.com^$important
 @@|go.oo-software.com^$important
 @@|gu.glarysoft.com^$important
@@ -112,6 +115,7 @@
 @@|imgs.search.brave.com^$important
 @@|int.form.eset.com^$important
 @@|internxt.com^$important
+@@|internxt.sjv.io^$important
 @@|ipfs.tech^$important
 @@|learn.offcloud.com^$important
 @@|link.adtidy.org^$important
@@ -121,12 +125,14 @@
 @@|manage.ntppool.org^$important
 @@|mastiff.ext.hp.com^$important
 @@|mozilla.cloudflare-dns.com^$important
+@@|notifications.internxt.com^$important
 @@|ocsp.*.amazontrust.com^$important
 @@|onboardcloud.dl.sourceforge.net^$important
 @@|org.downloadcenter.samsung.com^$important
 @@|p19.zdassets.com^$important
 @@|p3a-json.brave.com^$important
 @@|pcdn.brave.com^$important
+@@|photos.internxt.com^$important
 @@|platform.cloud.coveo.com^$important
 @@|preview.systems^$important
 @@|privacytests.org^$important
@@ -140,6 +146,7 @@
 @@|readthedocs.org^$important
 @@|relay.firefox.com^$important
 @@|repo.vivaldi.com^$important
+@@|reports.proton.me^$important
 @@|rescuezilla.com^$important
 @@|rm-eu.palemoon.org^$important
 @@|rufus.akeo.ie^$important
@@ -149,6 +156,7 @@
 @@|samsungvr.com^$important
 @@|screentogif-releases.azurewebsites.net^$important
 @@|security.cloudflare-dns.com^$important
+@@|sentry.internxt.com^$important
 @@|sfederation.intel.com^$important
 @@|shell.windows.com^$important
 @@|signal.org^$important
@@ -164,6 +172,7 @@
 @@|static.sandisk.com^$important
 @@|static.tp-link.com^$important
 @@|staticfiles.acronis.com^$important
+@@|status.geotrust.com^$important
 @@|sudf-resources.hpcloud.hp.com^$important
 @@|support-en.wd.com^$important
 @@|support.brave.com^$important

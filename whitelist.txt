@@ -378,6 +378,7 @@
 @@|api.gog.com^$important
 @@|api.hcaptcha.com^$important
 @@|api.imgur.com^$important
+@@|api.internxt.com^$important
 @@|api.invidious.io^$important
 @@|api.jdownloader.org^$important
 @@|api.jquery.com^$important
@@ -409,6 +410,7 @@
 @@|api.pushbullet.com^$important
 @@|api.qwant.com^$important
 @@|api.raindrop.io^$important
+@@|api.rollbar.com^$important
 @@|api.samsungcloud.com^$important
 @@|api.segment.io^$important
 @@|api.snapcraft.io^$important
@@ -462,6 +464,7 @@
 @@|apply.service.nsw.gov.au^$important
 @@|apps.fedoraproject.org^$important
 @@|apps.microsoft.com^$important
+@@|apps.samsungcloudcdn.com^$important
 @@|appsbackup-pa.clients6.google.com^$important
 @@|appsbackup-pa.googleapis.com^$important
 @@|appsforoffice.microsoft.com^$important
@@ -943,6 +946,7 @@
 @@|cfl.dropboxstatic.com^$important
 @@|cfos-blog.de^$important
 @@|cfos.de^$important
+@@|cfota*.ospserver.net^$important
 @@|cha1.speedtest.telstra.net^$important
 @@|challenges.cdn.ubisoft.com^$important
 @@|change.org^$important
@@ -1371,6 +1375,7 @@
 @@|dlwnextsetting.cloudapp.net^$important
 @@|dmca.twitch.tv^$important
 @@|dmd.metaservices.microsoft.com^$important
+@@|dms.ospserver.net^$important
 @@|dmx.upc.ubisoft.com^$important
 @@|dna.cyberlink.com^$important
 @@|dnf.readthedocs.io^$important
@@ -1475,6 +1480,7 @@
 @@|download.xbox.com^$important
 @@|download1.gigabyte.com^$important
 @@|download2280.mediafire.com^$important
+@@|downloadable-manifests-collector.gog.com^$important
 @@|downloadcenter.samsung.com^$important
 @@|downloadcontent.opensuse.org^$important
 @@|downloader.cyberlink.com^$important
@@ -1495,6 +1501,7 @@
 @@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.fife.usercontent.google.com^$important
 @@|drive.google.com^$important
+@@|drive.internxt.com^$important
 @@|drive.proton.me^$important
 @@|drive.protonmail.com^$important
 @@|drivefrontend-pa.clients6.google.com^$important
@@ -1825,6 +1832,7 @@
 @@|forums.xda-developers.com^$important
 @@|fose.silverlock.org^$important
 @@|fossbytes.com^$important
+@@|fota-s3-dn.ospserver.net^$important
 @@|fowp.disp.vivox.com^$important
 @@|fowp.www.vivox.com^$important
 @@|fp-*-nocache.azureedge.net^$important
@@ -2031,6 +2039,7 @@
 @@|go.dev^$important
 @@|go.eset.com^$important
 @@|go.eset.eu^$important
+@@|go.getproton.me^$important
 @@|go.glarysoft.com^$important
 @@|go.microsoft.com^$important
 @@|go.oo-software.com^$important
@@ -2107,6 +2116,7 @@
 @@|health.nsw.gov.au^$important
 @@|heartbeat.dm.origin.com^$important
 @@|help-assets.soundcloud.com^$important
+@@|help.aldi.com.au^$important
 @@|help.bitwarden.com^$important
 @@|help.cdn.ubisoft.com^$important
 @@|help.codesector.com^$important
@@ -2159,6 +2169,7 @@
 @@|howlongtobeat.com^$important
 @@|httpd.apache.org^$important
 @@|https-rulesets.org^$important
+@@|https://js.braintreegateway.com^$important
 @@|hu.twitch.tv^$important
 @@|hu.wikipedia.com^$important
 @@|hub.deviantart.net^$important
@@ -2314,6 +2325,7 @@
 @@|interactive-examples.mdn.mozilla.net^$important
 @@|international-gfe.download.nvidia.com^$important
 @@|internxt.com^$important
+@@|internxt.sjv.io^$important
 @@|invent.kde.org^$important
 @@|invidious.io^$important
 @@|invidious.namazso.eu^$important
@@ -2437,6 +2449,7 @@
 @@|launchpad.net^$important
 @@|layouts.nvidiagrid.net^$important
 @@|lcdn-eu.icons8.com^$important
+@@|lcprd1.samsungcloudsolution.net^$important
 @@|lea.cdntrex.com^$important
 @@|leaderboards.xboxlive.com^$important
 @@|learn.microsoft.com^$important
@@ -2616,6 +2629,7 @@
 @@|maps.windows.com^$important
 @@|maren.cdntrex.com^$important
 @@|mariadb.org^$important
+@@|marketing-sections.gog.com^$important
 @@|marketplace-origin.xbox.com^$important
 @@|marketplace-screenshots.githubusercontent.com^$important
 @@|marketplace-website-node-launcher-prod.ol.epicgames.com^$important
@@ -2972,6 +2986,7 @@
 @@|notifications.cdn.ubisoft.com^$important
 @@|notifications.gog.com^$important
 @@|notifications.google.com^$important
+@@|notifications.internxt.com^$important
 @@|notify.xboxlive.com^$important
 @@|npmjs.com^$important
 @@|ns1.dropbox.com^$important
@@ -3034,6 +3049,7 @@
 @@|odrs.gnome.org^$important
 @@|odysee.com^$important
 @@|odyssey.services.gearboxsoftware.com^$important
+@@|oempprd.samsungcloudsolution.com^$important
 @@|offcloud.com^$important
 @@|offcloudshop.onfastspring.com^$important
 @@|office.com^$important
@@ -3216,6 +3232,7 @@
 @@|photo.plus.google.com^$important
 @@|photos-ugc.l.googleusercontent.com^$important
 @@|photos.google.com^$important
+@@|photos.internxt.com^$important
 @@|photos.live.com^$important
 @@|php.net^$important
 @@|pi-hole.net^$important
@@ -3472,6 +3489,7 @@
 @@|repo1.maven.org^$important
 @@|report-uri.cloudflare.com^$important
 @@|reports.adguard.com^$important
+@@|reports.proton.me^$important
 @@|reports.tools.gos.ea.com^$important
 @@|repository-images.githubusercontent.com^$important
 @@|reqstat.api.mega.co.nz^$important
@@ -3591,6 +3609,7 @@
 @@|search.vimeo.com^$important
 @@|searchapi.samsung.com^$important
 @@|sebsauvage.net^$important
+@@|sections.gog.com^$important
 @@|secure.aadcdn.microsoftonline-p.com^$important
 @@|secure.download.dm.origin.com^$important
 @@|secure.fanboy.co.nz^$important
@@ -3616,8 +3635,10 @@
 @@|self.events.data.microsoft.com^$important
 @@|semantic-ui.com^$important
 @@|send.cm^$important
+@@|sentry.internxt.com^$important
 @@|sentry.io^$important
 @@|sentry.lbry.tech^$important
+@@|sentry.odysee.tv^$important
 @@|sentry.unknownworlds.com^$important
 @@|server.events.data.microsoft.com^$important
 @@|service-aggregation-layer-subs.juno.ea.com^$important
@@ -3908,6 +3929,7 @@
 @@|stats.windscribe.com^$important
 @@|status.brave.com^$important
 @@|status.discord.com^$important
+@@|status.geotrust.com^$important
 @@|status.github.com^$important
 @@|status.inoreader.com^$important
 @@|status.playstation.com^$important
@@ -4265,6 +4287,7 @@
 @@|tutorial.notable.md^$important
 @@|tv.vimeo.com^$important
 @@|tv.youtube.com^$important
+@@|tvpndynamiclogopus.samsungcloud.tv^$important
 @@|tvpnlogopus.samsungcloud.tv^$important
 @@|tw.blog.twitch.tv^$important
 @@|twemoji.maxcdn.com^$important
@@ -4503,6 +4526,7 @@
 @@|wallpaperaccess.com^$important
 @@|watchdog.gallery.vsassets.io^$important
 @@|watchdog.gallerycdn.vsassets.io^$important
+@@|watchman.na-backend.odysee.com^$important
 @@|watchporn.to^$important
 @@|wave.sndcdn.com^$important
 @@|wb-agora-hydra-file-storage-kraken.s3.amazonaws.com^$important

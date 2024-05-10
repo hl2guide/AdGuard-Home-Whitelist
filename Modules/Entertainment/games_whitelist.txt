@@ -42,6 +42,7 @@
 @@|api.locize.app^$important
 @@|api.nexusmods.com^$important
 @@|api.opencritic.com^$important
+@@|api.rollbar.com^$important
 @@|api.steampowered.com^$important
 @@|api.warframe.com^$important
 @@|apollo.dl.playstation.net^$important
@@ -189,6 +190,7 @@
 @@|download.dm.origin.com^$important
 @@|download.epicgames.com^$important
 @@|download.gfe.nvidia.com^$important
+@@|downloadable-manifests-collector.gog.com^$important
 @@|dragonagekeep.com^$important
 @@|dvcasha2.ocsp-certum.com^$important
 @@|ea.com^$important
@@ -306,6 +308,7 @@
 @@|home.playstation.com^$important
 @@|homer.dl.playstation.net^$important
 @@|howlongtobeat.com^$important
+@@|https://js.braintreegateway.com^$important
 @@|icdn.digitaltrends.com^$important
 @@|id-lookup.api.playstation.com^$important
 @@|id.razer.com^$important
@@ -355,6 +358,7 @@
 @@|m.codemasters.com^$important
 @@|m.playstation.com^$important
 @@|manifest.razerapi.com^$important
+@@|marketing-sections.gog.com^$important
 @@|marketplace-website-node-launcher-prod.ol.epicgames.com^$important
 @@|me3tweaks.com^$important
 @@|me4prodfeapp0002.ea.com^$important
@@ -525,6 +529,7 @@
 @@|sdk.split.io^$important
 @@|sea-displaycatalogrp.frontdoor.bigcatalog.commerce.microsoft.com^$important
 @@|search.nexusmods.com^$important
+@@|sections.gog.com^$important
 @@|secure.download.dm.origin.com^$important
 @@|segments-s.msedge.net^$important
 @@|service-aggregation-layer-subs.juno.ea.com^$important

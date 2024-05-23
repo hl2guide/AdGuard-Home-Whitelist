@@ -16,6 +16,7 @@
 @@|api.odysee.live^$important
 @@|api.powercloud.cyberlink.com^$important
 @@|api.spotify.com^$important
+@@|api.weatherapi.com^$important
 @@|apresolve.spotify.com^$important
 @@|artifacts.videolan.org^$important
 @@|audio-ak.spotify.com.edgesuite.net^$important
@@ -69,8 +70,10 @@
 @@|get.videolan.org^$important
 @@|global-uploads.webflow.com^$important
 @@|gpodder.net^$important
+@@|guc-spclient.spotify.com^$important
 @@|help.cyberlink.com^$important
 @@|hub.deviantart.net^$important
+@@|image-cdn-ak.spotifycdn.com^$important
 @@|image.v.rokfin.com^$important
 @@|images*.alphacoders.com^$important
 @@|images.alphacoders.com^$important
@@ -89,6 +92,7 @@
 @@|madvr.com^$important
 @@|madvrlabs.wpengine.com^$important
 @@|manifest-gce-us-east1-production.cfcdn.v.rokfin.com^$important
+@@|mediaservices.cdn-apple.com^$important
 @@|membership.cyberlink.com^$important
 @@|mobile-ap.spotify.com^$important
 @@|mpc-be.org^$important

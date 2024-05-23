@@ -27,6 +27,7 @@
 @@|cdn.freeones.com^$important
 @@|cdn1-ht-thumbnails.pornerbros.com^$important
 @@|cdn11.bigcommerce.com^$important
+@@|cdn77-pic.others-cdn.com^$important
 @@|cdn77-vid.xvideos-cdn.com^$important
 @@|chatserver13.comm100.io^$important
 @@|checkout-sdk.bigcommerce.com^$important
@@ -62,6 +63,7 @@
 @@|img-hw.xvideos-cdn.com^$important
 @@|img.freeones.com^$important
 @@|img.strpst.com^$important
+@@|k.pussyspace.com^$important
 @@|lea.cdntrex.com^$important
 @@|lily.cdntrex.com^$important
 @@|lzzos7clo5.execute-api.us-east-1.amazonaws.com^$important
@@ -86,6 +88,7 @@
 @@|sofia.cdntrex.com^$important
 @@|spankbang.com^$important
 @@|srv*.zload.cc^$important
+@@|st.pussyspace.com^$important
 @@|standby.comm100vue.com^$important
 @@|static-*-cdn.eporner.com^$important
 @@|static-*.xvideos-cdn.com^$important
@@ -124,6 +127,7 @@
 @@|www.hotpornfile.org^$important
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
+@@|www.pussyspace.com^$important
 @@|www.redtube.com^$important
 @@|www.sxyprn.net^$important
 @@|www.xvideos.com^$important

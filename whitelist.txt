@@ -254,6 +254,7 @@
 @@|adidas.com^$important
 @@|adl.windows.com^$important
 @@|admin.fedoraproject.org^$important
+@@|admin.microsoft.com^$important
 @@|adssettings.google.com^$important
 @@|adult.com^$important
 @@|aex.dev.azure.com^$important
@@ -428,6 +429,7 @@
 @@|api.vimeo.com^$important
 @@|api.warframe.com^$important
 @@|api.weather.com^$important
+@@|api.weatherapi.com^$important
 @@|api.westerndigital.com^$important
 @@|api.windscribe.com^$important
 @@|api.winstall.app^$important
@@ -693,6 +695,7 @@
 @@|blog.twitch.tv^$important
 @@|blog.us.playstation.com^$important
 @@|blogs.nvidia.com^$important
+@@|blogs.opera.com^$important
 @@|blogs.windows.com^$important
 @@|blz-contentstack-assets.akamaized.net^$important
 @@|blz-contentstack-images.akamaized.net^$important
@@ -921,6 +924,7 @@
 @@|cdn4.appwork.org^$important
 @@|cdn57.androidauthority.net^$important
 @@|cdn7.appwork.org^$important
+@@|cdn77-pic.others-cdn.com^$important
 @@|cdn77-vid.xvideos-cdn.com^$important
 @@|cdna.pcpartpicker.com^$important
 @@|cdne.gearsofwar.xbox.com^$important
@@ -2088,6 +2092,7 @@
 @@|gu.glarysoft.com^$important
 @@|guardianproject.gitlab.io^$important
 @@|guardianproject.info^$important
+@@|guc-spclient.spotify.com^$important
 @@|guides.github.com^$important
 @@|gumtree.com.au^$important
 @@|gumtree.com^$important
@@ -2227,6 +2232,7 @@
 @@|ifconfig.co^$important
 @@|iir.blizzard.com^$important
 @@|im.twitch.tv^$important
+@@|image-cdn-ak.spotifycdn.com^$important
 @@|image.engage.xbox.com^$important
 @@|image.flaticon.com^$important
 @@|image.samsung.com^$important
@@ -2403,6 +2409,7 @@
 @@|julialang.org^$important
 @@|juno-error-reporter-prod-junoerrorreporters*.s3.amazonaws.com^$important
 @@|k-ring.msedge.net^$important
+@@|k.pussyspace.com^$important
 @@|k.twitchcdn.net^$important
 @@|k2s.cc^$important
 @@|k535caawve-1.algolianet.com^$important
@@ -2675,6 +2682,7 @@
 @@|media.xda-developers.com^$important
 @@|media4.steampowered.com^$important
 @@|mediafire.com^$important
+@@|mediaservices.cdn-apple.com^$important
 @@|meet.google.com^$important
 @@|mega.co.nz^$important
 @@|mega.io^$important
@@ -3595,6 +3603,7 @@
 @@|script.wikia.nocookie.net^$important
 @@|scrootca2.ocsp.secomtrust.net^$important
 @@|scui.rockstargames.com^$important
+@@|sd-images.operacdn.com^$important
 @@|sdk.split.io^$important
 @@|sdl.adaware.com^$important
 @@|sdlc-esd.oracle.com^$important
@@ -3825,6 +3834,7 @@
 @@|st.deviantart.net^$important
 @@|st.dynamicyield.com^$important
 @@|st.ntppool.org^$important
+@@|st.pussyspace.com^$important
 @@|stackauth.com^$important
 @@|stackexchange.com^$important
 @@|stackoverflow.com^$important
@@ -4608,6 +4618,7 @@
 @@|www*.uptobox.com^$important
 @@|www-eset-com.api.cspconsole.com^$important
 @@|www-growth.scdn.co^$important
+@@|www-static-blogs.operacdn.com^$important
 @@|www.30secondsofcode.org^$important
 @@|www.7-zip.org^$important
 @@|www.acq-inc.com^$important
@@ -4859,6 +4870,7 @@
 @@|www.programmingfonts.org^$important
 @@|www.protondb.com^$important
 @@|www.proxyscan.io^$important
+@@|www.pussyspace.com^$important
 @@|www.python.org^$important
 @@|www.pythonanywhere.com^$important
 @@|www.qbittorrent.org^$important

@@ -5,12 +5,15 @@
 @@|addons.opera.com^$important
 @@|af.opera.com^$important
 @@|autoupdate.geo.opera.com^$important
+@@|blogs.opera.com^$important
 @@|cdn-production-opera-website.operacdn.com^$important
 @@|download*.operacdn.com^$important
 @@|download.opera.com^$important
 @@|extension-updates.opera.com^$important
 @@|features.opera-api*.com^$important
 @@|net.geo.opera.com^$important
+@@|sd-images.operacdn.com^$important
 @@|speeddials.opera.com^$important
 @@|weather.opera-api2.com^$important
+@@|www-static-blogs.operacdn.com^$important
 @@|www.opera.com^$important

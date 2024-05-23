@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.6.3
-- Last Updated (AEST): 2024-05-10 05:36:39PM
+- Current Version: 1.2.6.4
+- Last Updated (AEST): 2024-05-23 07:41:55PM
 
 ## Intro ✍
 
@@ -24,12 +24,9 @@ _AdGuard-Home-Whitelist © 2024 - hl2guide_
 
 | Date and Time 📅 | Note 📓 |
 |---------------|------|
+| 2024-05-23 07:41:55PM | Added more rules |
 | 2024-05-10 05:36:39PM | Added more rules |
 | 2024-05-03 11:20:55AM | Added more rules |
-| 2024-04-18 07:20:36PM | Added more rules |
-| 2024-04-11 05:21:02PM | Added more rules |
-| 2024-04-04 05:17:57PM | Added more rules |
-| 2024-03-21 11:49:41AM | Added more rules |
 
 ## Aspects ⏺
 
@@ -63,8 +60,8 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 
 ### Details 🧾
 
-* __Expected AdGuard Home Average RAM Usage:__ around 22MB
-* __Number of Rules:__ over 4900
+* __Expected AdGuard Home Average RAM Usage:__ around 25MB
+* __Number of Rules:__ over 5000
 
 ## Updates 👩‍💻
 
@@ -78,6 +75,10 @@ See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAG
 
 | Date and Time 📅 | Note 📓 |
 |---------------|------|
+| 2024-04-18 07:20:36PM | Added more rules |
+| 2024-04-11 05:21:02PM | Added more rules |
+| 2024-04-04 05:17:57PM | Added more rules |
+| 2024-03-21 11:49:41AM | Added more rules |
 | 2024-02-26 01:41:29PM | Added more rules |
 | 2024-02-23 06:36:48AM | Added more rules |
 | 2024-02-16 12:46:58PM | Added more rules |
@@ -91,4 +92,4 @@ See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAG
 | 2022-10-11 06:05:36PM | Fixed EA App |
 | 2022-10-01 05:42:10PM | Added many new rules |
 | 2022-09-09 04:52:33PM | Added an Android module |
-| August, 2022 | Added more Fedora and Ubuntu mirrors |
+| 2022 August | Added more Fedora and Ubuntu mirrors |

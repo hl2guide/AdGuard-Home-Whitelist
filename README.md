@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.6.4
-- Last Updated (AEST): 2024-05-23 07:41:55PM
+- Current Version: 1.2.6.5
+- Last Updated (AEST): 2024-05-26 01:50:26AM
 
 ## Intro ✍
 
@@ -19,14 +19,6 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
 _AdGuard-Home-Whitelist © 2024 - hl2guide_
-
-## Recent News 📰
-
-| Date and Time 📅 | Note 📓 |
-|---------------|------|
-| 2024-05-23 07:41:55PM | Added more rules |
-| 2024-05-10 05:36:39PM | Added more rules |
-| 2024-05-03 11:20:55AM | Added more rules |
 
 ## Aspects ⏺
 
@@ -75,6 +67,9 @@ See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAG
 
 | Date and Time 📅 | Note 📓 |
 |---------------|------|
+| 2024-05-23 07:41:55PM | Added more rules |
+| 2024-05-10 05:36:39PM | Added more rules |
+| 2024-05-03 11:20:55AM | Added more rules |
 | 2024-04-18 07:20:36PM | Added more rules |
 | 2024-04-11 05:21:02PM | Added more rules |
 | 2024-04-04 05:17:57PM | Added more rules |

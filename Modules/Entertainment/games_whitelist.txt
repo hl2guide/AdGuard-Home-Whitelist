@@ -540,6 +540,7 @@
 @@|settings.svc.halowaypoint.com^$important
 @@|share-play.cdn.ubisoft.com^$important
 @@|shared-static-prod.epicgames.com^$important
+@@|shared.akamai.steamstatic.com^$important
 @@|sigma.ubi.com^$important
 @@|signin.ea.com^$important
 @@|signin.rockstargames.com^$important

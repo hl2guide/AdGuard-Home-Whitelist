@@ -65,6 +65,7 @@
 @@|fonts.service.nsw.gov.au^$important
 @@|foodhub.scene7.com^$important
 @@|foodhub.woolworths.com.au^$important
+@@|go.scorptec.com.au^$important
 @@|google.com.au^$important
 @@|gumtree.com.au^$important
 @@|harveynorman.com.au^$important

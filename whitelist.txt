@@ -2047,6 +2047,7 @@
 @@|go.glarysoft.com^$important
 @@|go.microsoft.com^$important
 @@|go.oo-software.com^$important
+@@|go.scorptec.com.au^$important
 @@|go.trouter.teams.microsoft.com^$important
 @@|go.twitch.tv^$important
 @@|godofwar.playstation.com^$important
@@ -3676,6 +3677,7 @@
 @@|share-play.cdn.ubisoft.com^$important
 @@|share.dmca.gripe^$important
 @@|shared-static-prod.epicgames.com^$important
+@@|shared.akamai.steamstatic.com^$important
 @@|shasta-rrs.norton.com^$important
 @@|shavar.prod.mozaws.net^$important
 @@|shavar.services.mozilla.com^$important

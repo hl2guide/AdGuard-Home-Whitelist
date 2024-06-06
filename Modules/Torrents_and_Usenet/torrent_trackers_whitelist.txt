@@ -1,5 +1,6 @@
 @@|1337.abcvg.info^$important
 @@|9.rarbg.com^$important
+@@|9.rarbg.com^$important
 @@|abir0dev.github.io^$important
 @@|bt.okmp3.ru^$important
 @@|bt.uniondht.org^$important
@@ -14,8 +15,11 @@
 @@|fe.dealclub.de^$important
 @@|git.qbittorrent.org^$important
 @@|ipv6.rer.lol^$important
+@@|isk.richardsw.club^$important
 @@|milanesitracker.tekcities.com^$important
+@@|moonburrow.club^$important
 @@|movies.zsw.ca^$important
+@@|nyaa.tracker.wf^$important
 @@|nyaa.tracker.wf^$important
 @@|open.acgnxtracker.com^$important
 @@|open.demonii.com^$important
@@ -25,9 +29,11 @@
 @@|open.tracker.ink^$important
 @@|open.xxtor.com^$important
 @@|opentor.org^$important
+@@|opentor.org^$important
 @@|opentracker.cc^$important
 @@|opentracker.i2p.rocks^$important
 @@|opentracker.xyz^$important
+@@|p4p.arenabg.ch^$important
 @@|plab.site^$important
 @@|public.publictracker.xyz^$important
 @@|retracker.hotplug.ru^$important
@@ -52,6 +58,7 @@
 @@|tr.highstar.shop^$important
 @@|tr.qfruiti.in^$important
 @@|tr.ready4.icu^$important
+@@|tr.ready4.icu^$important
 @@|tr.torland.ga^$important
 @@|tracker.0x.tf^$important
 @@|tracker.0x7c0.com^$important
@@ -74,6 +81,7 @@
 @@|tracker.dump.cl^$important
 @@|tracker.edkj.club^$important
 @@|tracker.electro-torrent.pl^$important
+@@|tracker.expli.top^$important
 @@|tracker.farted.net^$important
 @@|tracker.fatkhoala.org^$important
 @@|tracker.filemail.com^$important
@@ -132,12 +140,14 @@
 @@|tracker.zerobytes.xyz^$important
 @@|tracker1.520.jp^$important
 @@|tracker1.bt.moack.co.kr^$important
+@@|tracker1.itzmx.com^$important
 @@|tracker1.myporn.club^$important
 @@|tracker2.ctix.cn^$important
 @@|tracker2.dler.com^$important
 @@|tracker2.dler.org^$important
 @@|trackme.theom.nz^$important
 @@|uraniumhexafluori.de^$important
+@@|v2.iperson.xyz^$important
 @@|vibe.sleepyinternetfun.xyz^$important
 @@|vps02.net.orel.ru^$important
 @@|www.torrent.eu.org^$important

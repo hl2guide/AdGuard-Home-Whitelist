@@ -285,6 +285,7 @@
 @@|gog-cdn-lumen.secure2.footprint.net^$important
 @@|gog-statics.com^$important
 @@|gog.com^$important
+@@|gog.salesmanago.com^$important
 @@|gogalaxy.gog-statics.com^$important
 @@|gogsupport.zendesk.com^$important
 @@|google.cdn.steampipe.steamcontent.com^$important
@@ -687,6 +688,7 @@
 @@|www.ageofempires.com^$important
 @@|www.bethesda.net^$important
 @@|www.blizzard.com^$important
+@@|www.cyberpunk.net^$important
 @@|www.dev-c.com^$important
 @@|www.digitaltrends.com^$important
 @@|www.dm.origin.com^$important

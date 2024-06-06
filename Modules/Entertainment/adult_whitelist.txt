@@ -109,6 +109,7 @@
 @@|thumb-v8.xhcdn.com^$important
 @@|thumb-v9.xhcdn.com^$important
 @@|thumbs.externulls.com^$important
+@@|thumbs.freeones.com^$important
 @@|us-img.freeones.com^$important
 @@|venice.cdntrex.com^$important
 @@|venus.cdntrex.com^$important

@@ -577,6 +577,7 @@
 @@|authy.vimeo.com^$important
 @@|autocomplete.kaspersky.com^$important
 @@|autoconfig.kde.org^$important
+@@|autohotkey.com^$important
 @@|autopatch.juno.ea.com^$important
 @@|autoupdate.geo.opera.com^$important
 @@|av-updateservice.adaware.com^$important
@@ -2054,6 +2055,7 @@
 @@|gog-cdn-lumen.secure2.footprint.net^$important
 @@|gog-statics.com^$important
 @@|gog.com^$important
+@@|gog.salesmanago.com^$important
 @@|gogalaxy.gog-statics.com^$important
 @@|gogsupport.zendesk.com^$important
 @@|golang.org^$important
@@ -4150,6 +4152,7 @@
 @@|thumbnails.pcgamingwiki.com^$important
 @@|thumbs.ebaystatic.com^$important
 @@|thumbs.externulls.com^$important
+@@|thumbs.freeones.com^$important
 @@|thumbs.gfycat.com^$important
 @@|thumbs1.ebaystatic.com^$important
 @@|tile-service.weather.microsoft.com^$important
@@ -4673,6 +4676,7 @@
 @@|www.cookiepro.com^$important
 @@|www.corsair.com^$important
 @@|www.cyberlink.com^$important
+@@|www.cyberpunk.net^$important
 @@|www.cydex.com.au^$important
 @@|www.dashlane.com^$important
 @@|www.debian.org^$important

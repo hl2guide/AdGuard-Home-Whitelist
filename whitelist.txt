@@ -1,7 +1,3 @@
-# @@|api.rewards.brave.com^$important (disabled)
-# @@|laptop-updates.brave.com^$important (disabled)
-# @@|rewards.brave.com^$important (disabled)
-# @@|variations.brave.com^$important (disabled)
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
@@ -295,6 +291,7 @@
 @@|altap.cz^$important
 @@|alternativeto.net^$important
 @@|altushost-swe.dl.sourceforge.net^$important
+@@|ambie-catalogue.azurewebsites.net^$important
 @@|amcdn.msauth.net^$important
 @@|amcdn.msftauth.net^$important
 @@|amd.com^$important
@@ -584,6 +581,7 @@
 @@|avaloniaui.net^$important
 @@|avatar-management--avatars.us-west-2.prod.public.atl-paas.net^$important
 @@|avatar.pornone.com^$important
+@@|avatar.razerzone.com^$important
 @@|avatarfiles.alphacoders.com^$important
 @@|avatars*.githubusercontent.com^$important
 @@|avatars.akamai.steamstatic.com^$important
@@ -603,6 +601,7 @@
 @@|ax.init.itunes.apple.com^$important
 @@|ax.itunes.apple.com^$important
 @@|ax.phobos.apple.com.edgesuite.net^$important
+@@|axon-assets-cdn.razerzone.com^$important
 @@|az667904.vo.msecnd.net^$important
 @@|az725175.vo.msecnd.net^$important
 @@|az764295.vo.msecnd.net^$important
@@ -1265,6 +1264,7 @@
 @@|de.playstation.com^$important
 @@|de.pool.ntp.org^$important
 @@|de.wikipedia.com^$important
+@@|deals-assets-cdn.razerzone.com^$important
 @@|deals.ghacks.net^$important
 @@|deb.debian.org^$important
 @@|debian.charite.de^$important
@@ -1976,6 +1976,7 @@
 @@|gateway.ea.com^$important
 @@|gateway.reddit.com^$important
 @@|gateway.userstyles.org^$important
+@@|gcore-pic.xvideos-cdn.com^$important
 @@|gds.google.com^$important
 @@|gear.playstation.com^$important
 @@|gear.sca.samsung.com^$important
@@ -2207,9 +2208,12 @@
 @@|ic-ah.flixcdn.com^$important
 @@|ic-st-lm.xhcdn.com^$important
 @@|ic-tt-lm.xhcdn.com^$important
+@@|ic-tt-nss.xhcdn.com^$important
 @@|ic-ut-lm.xhcdn.com^$important
+@@|ic-ut-nss.xhcdn.com^$important
 @@|ic-vt-ah.xhcdn.com^$important
 @@|ic-vt-lm.xhcdn.com^$important
+@@|ic-vt-nss.xhcdn.com^$important
 @@|icdn.digitaltrends.com^$important
 @@|icedrive.net^$important
 @@|icons.bitwarden.net^$important
@@ -2462,6 +2466,7 @@
 @@|lcprd1.samsungcloudsolution.net^$important
 @@|lea.cdntrex.com^$important
 @@|leaderboards.xboxlive.com^$important
+@@|leakslove.com^$important
 @@|learn.microsoft.com^$important
 @@|learn.offcloud.com^$important
 @@|letsencrypt.org^$important
@@ -3304,6 +3309,7 @@
 @@|pornhub.com^$important
 @@|pornhubpremium.com^$important
 @@|pornone.com^$important
+@@|pornrips.to^$important
 @@|porntrex.com^$important
 @@|pornwild.com^$important
 @@|pornwild.to^$important
@@ -3869,6 +3875,7 @@
 @@|static-login.gog-statics.com^$important
 @@|static-lvlt.xhcdn.com^$important
 @@|static-media-prod-cdn.itsre-sumo.mozilla.net^$important
+@@|static-nss.xhcdn.com^$important
 @@|static-t.xhcdn.com^$important
 @@|static-webservicesops.akamaized.net^$important
 @@|static-www.onlyoffice.com^$important
@@ -4478,9 +4485,12 @@
 @@|vic.speedtest.exetel.com.au^$important
 @@|vic.speedtest.leaptel.com.au.prod.hosts.ooklaserver.net^$important
 @@|vidcoder.net^$important
+@@|video-b.xhcdn.com^$important
 @@|video-edge-855073.pdx01.abs.hls.ttvnw.net^$important
 @@|video-edge-ea0fad.pdx01.abs.hls.ttvnw.net^$important
 @@|video-fa.scdn.co^$important
+@@|video-gcr.xhcdn.com^$important
+@@|video-nss.xhcdn.com^$important
 @@|video-weaver.syd*.hls.ttvnw.net^$important
 @@|video.api.playstation.com^$important
 @@|video.dl.playstation.net^$important
@@ -4511,6 +4521,7 @@
 @@|vporn.com^$important
 @@|vr.google.com^$important
 @@|vrmedia-lm.xhcdn.com^$important
+@@|vrmedia-nss.xhcdn.com^$important
 @@|vsa-prod.services.microsoft.com^$important
 @@|vsa.services.microsoft.com^$important
 @@|vscjava.gallery.vsassets.io^$important
@@ -4791,10 +4802,12 @@
 @@|www.kogan.com^$important
 @@|www.kudoboard.com^$important
 @@|www.lastpass.com^$important
+@@|www.leakslove.com^$important
 @@|www.libreoffice.org^$important
 @@|www.lifeblood.com.au^$important
 @@|www.lifewire.com^$important
 @@|www.lightboxcdn.com^$important
+@@|www.limetorrents.lol^$important
 @@|www.linux.org^$important
 @@|www.linuxcompatible.org^$important
 @@|www.linuxmint.com^$important
@@ -4977,6 +4990,7 @@
 @@|www.xboxab.com^$important
 @@|www.xradio.nl^$important
 @@|www.xvideos.com^$important
+@@|www.xvideos.red^$important
 @@|www.youtube-nocookie.com^$important
 @@|www.youtube.com^$important
 @@|www.youtubekids.com^$important
@@ -5022,6 +5036,7 @@
 @@|xvideos-cdn.com^$important
 @@|xvideos.com^$important
 @@|xxx-image.com^$important
+@@|xxxclub.to^$important
 @@|y.paranoid.agency^$important
 @@|yahoo.com^$important
 @@|yari-demos.prod.mdn.mozit.cloud^$important

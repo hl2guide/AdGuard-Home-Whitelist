@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.6.6
-- Last Updated (AEST): 2024-06-06 04:30:07PM
+- Current Version: 1.2.6.7
+- Last Updated (AEST): 2024-06-15 07:46:16AM
 
 ## Intro ✍
 
@@ -62,29 +62,3 @@ I will update this repo infrequently and sporadically.
 ## Usage 💚
 
 See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
-
-## Old News 📰
-
-| Date and Time 📅 | Note 📓 |
-|---------------|------|
-| 2024-05-23 07:41:55PM | Added more rules |
-| 2024-05-10 05:36:39PM | Added more rules |
-| 2024-05-03 11:20:55AM | Added more rules |
-| 2024-04-18 07:20:36PM | Added more rules |
-| 2024-04-11 05:21:02PM | Added more rules |
-| 2024-04-04 05:17:57PM | Added more rules |
-| 2024-03-21 11:49:41AM | Added more rules |
-| 2024-02-26 01:41:29PM | Added more rules |
-| 2024-02-23 06:36:48AM | Added more rules |
-| 2024-02-16 12:46:58PM | Added more rules |
-| 2024-02-12 01:30:37PM | Added more rules |
-| 2024-02-03 11:47:36PM | Added more rules |
-| 2024-01-30 04:47:38PM | Added more rules |
-| 2023-12-31 05:15:21PM | Added more rules (happy new year!) |
-| 2023-08-31 06:45:48PM | Added more rules |
-| 2023-08-08 09:04:22PM | Back from hiatus, added a rule and updated USAGE.md info |
-| 2022-12-05 12:30:10PM | Added more security rules |
-| 2022-10-11 06:05:36PM | Fixed EA App |
-| 2022-10-01 05:42:10PM | Added many new rules |
-| 2022-09-09 04:52:33PM | Added an Android module |
-| 2022 August | Added more Fedora and Ubuntu mirrors |

@@ -17,6 +17,7 @@
 @@|adguard-dns.io^$important
 @@|agrd.io^$important
 @@|ahadns.com^$important
+@@|ambie-catalogue.azurewebsites.net^$important
 @@|anonaddy.com^$important
 @@|api.eset.com^$important
 @@|api.fosshub.com^$important

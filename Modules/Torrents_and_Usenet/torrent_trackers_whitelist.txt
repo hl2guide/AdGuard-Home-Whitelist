@@ -35,6 +35,7 @@
 @@|opentracker.xyz^$important
 @@|p4p.arenabg.ch^$important
 @@|plab.site^$important
+@@|pornrips.to^$important
 @@|public.publictracker.xyz^$important
 @@|retracker.hotplug.ru^$important
 @@|rt.optizone.ru^$important
@@ -150,5 +151,7 @@
 @@|v2.iperson.xyz^$important
 @@|vibe.sleepyinternetfun.xyz^$important
 @@|vps02.net.orel.ru^$important
+@@|www.limetorrents.lol^$important
 @@|www.torrent.eu.org^$important
+@@|xxxclub.to^$important
 @@|y.paranoid.agency^$important

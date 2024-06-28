@@ -32,6 +32,7 @@
 @@|*.branch.io^$important
 @@|*.cdn.office.net^$important
 @@|*.cdn.optimizely.com^$important
+@@|*.cdn.rumble.cloud^$important
 @@|*.cdn.snapcraft.io^$important
 @@|*.cdn13.com^$important
 @@|*.cdnrobot.xyz^$important
@@ -48,6 +49,7 @@
 @@|*.ext-twitch.tv^$important
 @@|*.fandom.com^$important
 @@|*.files.1drv.com^$important
+@@|*.flkitover.com^$important
 @@|*.g.akamaiedge.net^$important
 @@|*.g2.akamai.net^$important
 @@|*.gallery.vsassets.io^$important
@@ -139,6 +141,7 @@
 @@|4shared.com^$important
 @@|5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
 @@|7tv.foo^$important
+@@|9.rarbg.com^$important
 @@|9.rarbg.me^$important
 @@|9.rarbg.to^$important
 @@|_dnsaddr.bootstrap.libp2p.io^$important
@@ -1780,6 +1783,7 @@
 @@|flathub.org^$important
 @@|flatpak.elementary.io^$important
 @@|flatpak.zorinos.com^$important
+@@|flkitover.com^$important
 @@|flow.lavasoft.com^$important
 @@|flow.microsoft.com^$important
 @@|fluent2.microsoft.design^$important
@@ -2509,6 +2513,7 @@
 @@|links.malwarebytes.com^$important
 @@|links.notifications.soundcloud.com^$important
 @@|links.podia.com^$important
+@@|linksnappy.com^$important
 @@|linus.iyte.edu.tr^$important
 @@|linustechtips.com^$important
 @@|linux.yz.yamagata-u.ac.jp^$important
@@ -3116,6 +3121,7 @@
 @@|opensuse.ipacct.com^$important
 @@|opensuse.mirrors.theom.nz^$important
 @@|opentor.net^$important
+@@|opentor.org^$important
 @@|opentracker.i2p.rocks^$important
 @@|opentracker.xyz^$important
 @@|openuserjs.org^$important
@@ -4577,6 +4583,7 @@
 @@|webservices.api.exetel.com.au^$important
 @@|webservices.myexetel.exetel.com.au^$important
 @@|websiteapi.acronis.com^$important
+@@|webtags.logitech.com^$important
 @@|welcome.adguard.com^$important
 @@|westus.tts.speech.microsoft.com^$important
 @@|whatsnew.teamviewer.com^$important

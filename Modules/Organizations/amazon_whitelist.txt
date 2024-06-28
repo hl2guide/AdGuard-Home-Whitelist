@@ -1,0 +1,4 @@
+@@|amazon.com.au^$important
+@@|images-fe.ssl-images-amazon.com^$important
+@@|unagi-fe.amazon.com^$important
+@@|c.media-amazon.com^$important

@@ -1,6 +1,7 @@
 @@|1337.abcvg.info^$important
 @@|9.rarbg.com^$important
 @@|9.rarbg.com^$important
+@@|9.rarbg.com^$important
 @@|abir0dev.github.io^$important
 @@|bt.okmp3.ru^$important
 @@|bt.uniondht.org^$important
@@ -28,6 +29,7 @@
 @@|open.tracker.cl^$important
 @@|open.tracker.ink^$important
 @@|open.xxtor.com^$important
+@@|opentor.org^$important
 @@|opentor.org^$important
 @@|opentor.org^$important
 @@|opentracker.cc^$important

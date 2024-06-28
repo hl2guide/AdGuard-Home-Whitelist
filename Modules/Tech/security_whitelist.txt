@@ -3,6 +3,7 @@
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
 @@|*-dl.techpowerup.com^$important
+@@|*.flkitover.com^$important
 @@|*.nimbus.bitdefender.net^$important
 @@|0.pool.ntp.org^$important
 @@|1.pool.ntp.org^$important
@@ -97,6 +98,7 @@
 @@|filezilla-project.org^$important
 @@|firstpartysimulator.net^$important
 @@|firstpartysimulator.org^$important
+@@|flkitover.com^$important
 @@|forum.palemoon.org^$important
 @@|forums.tomsguide.com^$important
 @@|forums.urbackup.org^$important
@@ -121,6 +123,7 @@
 @@|learn.offcloud.com^$important
 @@|link.adtidy.org^$important
 @@|links.account.evernote.com^$important
+@@|linksnappy.com^$important
 @@|mail.proton.me^$important
 @@|manage.macrium.com^$important
 @@|manage.ntppool.org^$important
@@ -202,6 +205,7 @@
 @@|ventoy.net^$important
 @@|web-assets-prod.s3.amazonaws.com^$important
 @@|websiteapi.acronis.com^$important
+@@|webtags.logitech.com^$important
 @@|windowsreport.com^$important
 @@|winget.run^$important
 @@|www-eset-com.api.cspconsole.com^$important

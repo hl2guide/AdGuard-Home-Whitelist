@@ -1,4 +1,5 @@
 @@|*.abs.hls.ttvnw.net^$important
+@@|*.cdn.rumble.cloud^$important
 @@|*.ext-twitch.tv^$important
 @@|*.tapecontent.net^$important
 @@|*.vimeocdn.com^$important

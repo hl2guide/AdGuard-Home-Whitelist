@@ -887,7 +887,7 @@
 @@|cdn.pling.com^$important
 @@|cdn.plyr.io^$important
 @@|cdn.podia.com^$important
-@@|cdn.polyfill.io^$important
+# @@|cdn.polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
 @@|cdn.rawgit.com^$important
 @@|cdn.razersynapse.com^$important
 @@|cdn.registry.fedoraproject.org^$important
@@ -3306,7 +3306,7 @@
 @@|policies.live.net^$important
 @@|policy.samsungcloud.com^$important
 @@|pollserver.lastpass.com^$important
-@@|polyfill.io^$important
+#@@|polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
 @@|pool.apk.aptoide.com^$important
 @@|pool.ntp.org^$important
 @@|pop-iso.sfo2.cdn.digitaloceanspaces.com^$important

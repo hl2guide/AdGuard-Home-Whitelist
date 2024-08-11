@@ -104,6 +104,7 @@
 @@|forums.urbackup.org^$important
 @@|ftp.fau.de^$important
 @@|gateway.userstyles.org^$important
+@@|get.activated.win^$important
 @@|global.discourse-cdn.com^$important
 @@|go.acronis.com^$important
 @@|go.getproton.me^$important
@@ -119,6 +120,7 @@
 @@|int.form.eset.com^$important
 @@|internxt.com^$important
 @@|internxt.sjv.io^$important
+@@|ip.dns.sh^$important
 @@|ipfs.tech^$important
 @@|learn.offcloud.com^$important
 @@|link.adtidy.org^$important
@@ -169,6 +171,7 @@
 @@|ssd.eff.org^$important
 @@|st.ntppool.org^$important
 @@|stackpath.bootstrapcdn.com^$important
+@@|stat.dns.sb^$important
 @@|static-www.onlyoffice.com^$important
 @@|static.airtable.com^$important
 @@|static.bada.com^$important

@@ -19,12 +19,14 @@
 @@|fota-s3-dn.ospserver.net^$important
 @@|frbusiness.samsung.com^$important
 @@|gear.sca.samsung.com^$important
+@@|gld.push.samsungosp.com^$important
 @@|help.content.samsung.com^$important
 @@|image.samsung.com^$important
 @@|images.samsung.com^$important
 @@|lcprd1.samsungcloudsolution.net^$important
 @@|music.samsung.com^$important
 @@|oempprd.samsungcloudsolution.com^$important
+@@|osb-ussvc.samsungqbe.com^$important
 @@|play.samsungcloud.com^$important
 @@|policy.samsungcloud.com^$important
 @@|searchapi.samsung.com^$important
@@ -32,5 +34,8 @@
 @@|time.samsungcloudsolution.com^$important
 @@|tvpndynamiclogopus.samsungcloud.tv^$important
 @@|tvpnlogopus.samsungcloud.tv^$important
+@@|upu.samsungelectronics.com^$important
 @@|ureca.samsungapps.com^$important
 @@|www.samsung.com^$important
+@@|www.samsungotn.net^$important
+@@|zpu.samsungelectronics.com^$important

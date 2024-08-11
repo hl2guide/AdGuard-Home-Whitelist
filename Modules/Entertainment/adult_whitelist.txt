@@ -32,6 +32,7 @@
 @@|chatserver13.comm100.io^$important
 @@|checkout-sdk.bigcommerce.com^$important
 @@|ci.phncdn.com^$important
+@@|cluster.awdeliverynet.com^$important
 @@|cluster.awmdelivery.com^$important
 @@|cora.porntrex.com^$important
 @@|cs.phncdn.com^$important
@@ -81,6 +82,7 @@
 @@|naomy.cdntrex.com^$important
 @@|nsfw.reddit.com^$important
 @@|pia.porntrex.com^$important
+@@|planetsuzy.org^$important
 @@|pornhub.com^$important
 @@|pornhubpremium.com^$important
 @@|pornone.com^$important
@@ -137,6 +139,8 @@
 @@|www.gammaentertainment.com^$important
 @@|www.hotpornfile.org^$important
 @@|www.leakslove.com^$important
+@@|www.naughtyblog.org^$important
+@@|www.planetsuzy.org^$important
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
 @@|www.pussyspace.com^$important

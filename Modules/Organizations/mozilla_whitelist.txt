@@ -34,6 +34,7 @@
 @@||themes.mozilla.org^$important
 @@||tiles.services.mozilla.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
+@@||tracking-protection.prod.mozaws.net^$important
 @@||updates.push.services.mozilla.com^$important
 @@||versioncheck-bg.addons.mozilla.org^$important
 @@||versioncheck.addons.mozilla.org^$important

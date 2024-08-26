@@ -153,6 +153,7 @@
 @@||prod-tp.sumo.mozit.cloud^$important
 @@||proton.me^$important
 @@||pxc-coding.com^$important
+@@||r11.o.lencr.org^$important
 @@||r2.community.samsung.com^$important
 @@||r3.i.lencr.org^$important
 @@||raindrop-preview-prod.exentrich.workers.dev^$important
@@ -188,6 +189,7 @@
 @@||staticfiles.acronis.com^$important
 @@||status.geotrust.com^$important
 @@||sudf-resources.hpcloud.hp.com^$important
+@@||superloop.com^$important
 @@||support-en.wd.com^$important
 @@||support.brave.com^$important
 @@||support.hp.com^$important
@@ -258,6 +260,7 @@
 @@||www.screentogif.com^$important
 @@||www.seagate.com^$important
 @@||www.slant.co^$important
+@@||www.superloop.com^$important
 @@||www.sysinternals.com^$important
 @@||www.techradar.com^$important
 @@||www.tomsguide.com^$important

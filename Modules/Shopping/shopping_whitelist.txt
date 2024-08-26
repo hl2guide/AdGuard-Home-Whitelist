@@ -12,6 +12,7 @@
 @@||cdn.joinhoney.com^$important
 @@||cdnp*.stackassets.com^$important
 @@||cdp.aliexpress.com^$important
+@@||chat.stream-io-api.com^$important
 @@||client.stackcommerce.io^$important
 @@||computers.scorptec.com.au^$important
 @@||coupon.aliexpress.com^$important
@@ -24,6 +25,7 @@
 @@||es.aliexpress.com^$important
 @@||feedback.aliexpress.com^$important
 @@||fr.aliexpress.com^$important
+@@||gumtreeau-res.cloudinary.com^$important
 @@||img.alibaba.com^$important
 @@||link.email.stackcommerce.com^$important
 @@||login.aliexpress.com^$important
@@ -43,6 +45,7 @@
 @@||shops1.stackassets.com^$important
 @@||signin.g.ebay.com^$important
 @@||st.dynamicyield.com^$important
+@@||static.gumtree.com.au.peakhour.zone^$important
 @@||static.queue-it.net^$important
 @@||vi.vipr.ebaydesc.com^$important
 @@||www.amazon.com.au^$important

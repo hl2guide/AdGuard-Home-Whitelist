@@ -988,6 +988,7 @@
 @@||chat.gog.com^$important
 @@||chat.google.com^$important
 @@||chat.pop-os.org^$important
+@@||chat.stream-io-api.com^$important
 @@||chat.xboxlive.com^$important
 @@||chatdepot.twitch.tv^$important
 @@||chatenabled.mail.google.com^$important
@@ -2137,6 +2138,7 @@
 @@||guides.github.com^$important
 @@||gumtree.com.au^$important
 @@||gumtree.com^$important
+@@||gumtreeau-res.cloudinary.com^$important
 @@||guru99.com^$important
 @@||guts2.sp.f-secure.com^$important
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^$important
@@ -2784,6 +2786,7 @@
 @@||mirror.datamossa.io^$important
 @@||mirror.datto.com^$important
 @@||mirror.de.leaseweb.net^$important
+@@||mirror.digitalpacific.com.au^$important
 @@||mirror.dogado.de^$important
 @@||mirror.dst.ca^$important
 @@||mirror.easyname.at^$important
@@ -3500,6 +3503,7 @@
 @@||qwant.com^$important
 @@||r.msftstatic.com^$important
 @@||r.razer.com^$important
+@@||r11.o.lencr.org^$important
 @@||r2.community.samsung.com^$important
 @@||r3.i.lencr.org^$important
 @@||r3.o.lencr.org^$important
@@ -3842,6 +3846,7 @@
 @@||spartaprofile-prod.svc.gearsofwar.net^$important
 @@||spartaprofile2-prod.svc.gearsofwar.net^$important
 @@||spclient.wg.spotify.com^$important
+@@||spd03-syd.au.superloop.com.prod.hosts.ooklaserver.net^$important
 @@||speckyboy.com^$important
 @@||speech.platform.bing.com^$important
 @@||speed.cloudflare.com^$important
@@ -3862,6 +3867,8 @@
 @@||speedtest-syd.optusnet.com.au^$important
 @@||speedtest-syd.vocus.net.prod.hosts.ooklaserver.net^$important
 @@||speedtest-syd.vocus.net^$important
+@@||speedtest-sydney.macquarietelecom.com.prod.hosts.ooklaserver.net^$important
+@@||speedtest-sydney.macquarietelecom.com^$important
 @@||speedtest-vds1.tasmanet.com.au^$important
 @@||speedtest.dcsi.net.au.prod.hosts.ooklaserver.net^$important
 @@||speedtest.dcsi.net.au^$important
@@ -3870,8 +3877,10 @@
 @@||speedtest.mirror.digitalpacific.com.au^$important
 @@||speedtest.mirror.hostopia.com.au^$important
 @@||speedtest.mirror.serversaustralia.com.au.prod.hosts.ooklaserver.net^$important
+@@||speedtest.mirror.serversaustralia.com.au^$important
 @@||speedtest.net^$important
 @@||speedtest.syd.m2core.net.au^$important
+@@||speedtest.syd.mhn.cloud^$important
 @@||speedtest.syd.netsg.net.au.prod.hosts.ooklaserver.net^$important
 @@||speedtest.syd.netsg.net.au^$important
 @@||sphinx.acast.com^$important
@@ -3966,6 +3975,7 @@
 @@||static.edge.microsoftapp.net^$important
 @@||static.freedownloadmanager.org^$important
 @@||static.gigabyte.com^$important
+@@||static.gumtree.com.au.peakhour.zone^$important
 @@||static.hsstatic.net^$important
 @@||static.icloud.com^$important
 @@||static.intercomassets.com^$important
@@ -4098,6 +4108,7 @@
 @@||substrate.office.com^$important
 @@||sudf-resources.hpcloud.hp.com^$important
 @@||superhub.superloop.com^$important
+@@||superloop.com^$important
 @@||superuser.com^$important
 @@||supervisor.ext-twitch.tv^$important
 @@||suporte.br.playstation.com^$important
@@ -4144,6 +4155,7 @@
 @@||sxyprn.com^$important
 @@||sy.mirrors.kernel.org^$important
 @@||sy5.test.gslnetworks.com.au.prod.hosts.ooklaserver.net^$important
+@@||sy5.test.gslnetworks.com.au^$important
 @@||syd-col.eum-appdynamics.com^$important
 @@||syd-speed.overthewire.com.au^$important
 @@||syd.mirror.rackspace.com^$important
@@ -4372,6 +4384,7 @@
 @@||trackerfix.com^$important
 @@||trackersimulator.org^$important
 @@||tracking-protection.cdn.mozilla.net^$important
+@@||tracking-protection.prod.mozaws.net^$important
 @@||tracking.epicgames.com^$important
 @@||translate.google.com.au^$important
 @@||transportnsw.info^$important
@@ -5031,6 +5044,7 @@
 @@||www.sublimehq.com^$important
 @@||www.sublimetext.com^$important
 @@||www.superantispyware.com^$important
+@@||www.superloop.com^$important
 @@||www.sxyprn.net^$important
 @@||www.sydneywater.com.au^$important
 @@||www.sysinternals.com^$important

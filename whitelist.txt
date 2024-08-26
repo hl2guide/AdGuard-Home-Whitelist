@@ -267,6 +267,7 @@
 @@||agrd.io^$important
 @@||ahadns.com^$important
 @@||aid-frontend.prod.atl-paas.net^$important
+@@||air-quality-api.open-meteo.com^$important
 @@||airtable.com^$important
 @@||ajax.aspnetcdn.com^$important
 @@||ajax.cloudflare.com^$important
@@ -399,6 +400,7 @@
 @@||api.msn.com^$important
 @@||api.my.gov.au^$important
 @@||api.na-backend.odysee.com^$important
+@@||api.nab.com.au^$important
 @@||api.netflix.com^$important
 @@||api.nexusmods.com^$important
 @@||api.nfl.com^$important
@@ -915,6 +917,7 @@
 @@||cdn.shopify.com^$important
 @@||cdn.skypack.dev^$important
 @@||cdn.slant.co^$important
+@@||cdn.sonicb.it^$important
 @@||cdn.sonicbit.net^$important
 @@||cdn.sstatic.net^$important
 @@||cdn.staticaly.com^$important
@@ -1051,6 +1054,7 @@
 @@||clients4.google.com^$important
 @@||clients5.google.com^$important
 @@||clients6.google.com^$important
+@@||clientstream.launchdarkly.com^$important
 @@||clips-media-assets2.twitch.tv^$important
 @@||clips.twitch.tv^$important
 @@||clipsync.bdwm.be^$important
@@ -1897,6 +1901,7 @@
 @@||free.hitnews.com^$important
 @@||free.kaspersky.com^$important
 @@||free.nchc.org.tw^$important
+@@||free.publictracker.xyz^$important
 @@||freeones.com^$important
 @@||freeones.xxx^$important
 @@||freetime.mikeconnelly.com^
@@ -2591,6 +2596,7 @@
 @@||local.adguard.com^$important
 @@||local.adguard.org^$important
 @@||localized-config-api.gx.nvidia.com^$important
+@@||log-24f7f3c7.nab.com.au^$important
 @@||login.aliexpress.com^$important
 @@||login.corsair.com^$important
 @@||login.gog.com^$important
@@ -2917,6 +2923,7 @@
 @@||mobile-ap.spotify.com^$important
 @@||mobile-collector.newrelic.com^$important
 @@||mobile.kaspersky.com^$important
+@@||mobile.launchdarkly.com^$important
 @@||mobile.paypal.com^$important
 @@||moddb.com^$important
 @@||modding.wiki^$important
@@ -2933,6 +2940,7 @@
 @@||mozilla.wpengine.com^$important
 @@||mpc-be.org^$important
 @@||mpc-hc.org^$important
+@@||mps.nab.com.au^$important
 @@||mpv.io^$important
 @@||mpv.srsfckn.biz^$important
 @@||ms-vscode.vscode-unpkg.net^$important
@@ -2980,6 +2988,7 @@
 @@||mysql.com^$important
 @@||n9e5v4d8.ssl.hwcdn.net^$important
 @@||na.edge.kernel.org^$important
+@@||nab.demdex.net^$important
 @@||nairobi.cdntrex.com^$important
 @@||naomy.cdntrex.com^$important
 @@||nav.smartscreen.microsoft.com^$important
@@ -3102,6 +3111,7 @@
 @@||ocsp.thawte.com^$important
 @@||ocsp.usertrust.com^$important
 @@||ocsp.verisign.com^$important
+@@||ocsps.ssl.com^$important
 @@||odc.officeapps.live.com^$important
 @@||odinvzc.azureedge.net^$important
 @@||odrs.gnome.org^$important
@@ -3143,6 +3153,7 @@
 @@||open.demonii.com^$important
 @@||open.dstud.io^$important
 @@||open.free-tracker.ga^$important
+@@||open.publictracker.xyz^$important
 @@||open.scdn.co^$important
 @@||open.spotify.com^$important
 @@||open.spotifycdn.com^$important
@@ -3161,6 +3172,7 @@
 @@||opentor.net^$important
 @@||opentor.org^$important
 @@||opentracker.i2p.rocks^$important
+@@||opentracker.io^$important
 @@||opentracker.xyz^$important
 @@||openuserjs.org^$important
 @@||openvsxorg.blob.core.windows.net^$important
@@ -3206,6 +3218,7 @@
 @@||p19.zdassets.com^$important
 @@||p20.zdassets.com^$important
 @@||p29.zdassets.com^$important
+@@||p2p.publictracker.xyz^$important
 @@||p3a-json.brave.com^$important
 @@||p3a.brave.com^$important
 @@||p4p.arenabg.com^$important
@@ -3777,6 +3790,7 @@
 @@||smart-status.superloop.com^$important
 @@||smartscreen-prod.microsoft.com^$important
 @@||smartscreen.microsoft.com^$important
+@@||smetrics.nab.com.au^$important
 @@||snahp.it^$important
 @@||snapcraft.io^$important
 @@||snapi.live.net^$important
@@ -4130,6 +4144,7 @@
 @@||sxyprn.com^$important
 @@||sy.mirrors.kernel.org^$important
 @@||sy5.test.gslnetworks.com.au.prod.hosts.ooklaserver.net^$important
+@@||syd-col.eum-appdynamics.com^$important
 @@||syd-speed.overthewire.com.au^$important
 @@||syd.mirror.rackspace.com^$important
 @@||syd1.speedtest.telstra.net^$important
@@ -4262,6 +4277,8 @@
 @@||tr.wikipedia.com^$important
 @@||tr11v6.os.eidos.com^$important
 @@||tr2.os.eidos.com^$important
+@@||trackarr.org^$important
+@@||tracker-udp.gbitt.info^$important
 @@||tracker.0x.tf^$important
 @@||tracker.0x7c0.com^$important
 @@||tracker.4.babico.name.tr^$important
@@ -4278,6 +4295,7 @@
 @@||tracker.coppersurfer.tk^$important
 @@||tracker.cubonegro.lol^$important
 @@||tracker.cyberia.is^$important
+@@||tracker.darkness.services^$important
 @@||tracker.dler.com^$important
 @@||tracker.dler.org^$important
 @@||tracker.doko.moe^$important
@@ -4294,6 +4312,7 @@
 @@||tracker.grepler.com^$important
 @@||tracker.imgoingto.icu^$important
 @@||tracker.internetwarriors.net^$important
+@@||tracker.ipv6tracker.org^$important
 @@||tracker.ipv6tracker.ru^$important
 @@||tracker.jamesthebard.net^$important
 @@||tracker.jdx3.org^$important
@@ -4313,6 +4332,7 @@
 @@||tracker.openbittorrent.com^$important
 @@||tracker.opentrackr.org^$important
 @@||tracker.picotorrent.one^$important
+@@||tracker.pimpmyworld.to^$important
 @@||tracker.pirateparty.gr^$important
 @@||tracker.piratepublic.com^$important
 @@||tracker.pomf.se^$important
@@ -4346,6 +4366,7 @@
 @@||tracker1.myporn.club^$important
 @@||tracker2.ctix.cn^$important
 @@||tracker2.dler.com^$important
+@@||tracker2.dler.org^$important
 @@||tracker2.itzmx.com^$important
 @@||tracker4.itzmx.com^$important
 @@||trackerfix.com^$important
@@ -4904,6 +4925,7 @@
 @@||www.my.commbank.com.au^$important
 @@||www.myshopping.com.au^$important
 @@||www.mysql.com^$important
+@@||www.nab.com.au^$important
 @@||www.naughtyblog.org^$important
 @@||www.nbnco.com.au^$important
 @@||www.nerdfonts.com^$important

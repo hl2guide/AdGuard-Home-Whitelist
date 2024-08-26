@@ -1,7 +1,5 @@
 @@||1337.abcvg.info^$important
 @@||9.rarbg.com^$important
-@@||9.rarbg.com^$important
-@@||9.rarbg.com^$important
 @@||abir0dev.github.io^$important
 @@||bt.okmp3.ru^$important
 @@||bt.uniondht.org^$important
@@ -14,6 +12,7 @@
 @@||epider.me^$important
 @@||exodus.desync.com^$important
 @@||fe.dealclub.de^$important
+@@||free.publictracker.xyz^$important
 @@||git.qbittorrent.org^$important
 @@||ipv6.rer.lol^$important
 @@||isk.richardsw.club^$important
@@ -21,20 +20,20 @@
 @@||moonburrow.club^$important
 @@||movies.zsw.ca^$important
 @@||nyaa.tracker.wf^$important
-@@||nyaa.tracker.wf^$important
 @@||open.acgnxtracker.com^$important
 @@||open.demonii.com^$important
 @@||open.dstud.io^$important
 @@||open.free-tracker.ga^$important
+@@||open.publictracker.xyz^$important
 @@||open.tracker.cl^$important
 @@||open.tracker.ink^$important
 @@||open.xxtor.com^$important
 @@||opentor.org^$important
-@@||opentor.org^$important
-@@||opentor.org^$important
 @@||opentracker.cc^$important
 @@||opentracker.i2p.rocks^$important
+@@||opentracker.io^$important
 @@||opentracker.xyz^$important
+@@||p2p.publictracker.xyz^$important
 @@||p4p.arenabg.ch^$important
 @@||plab.site^$important
 @@||pornrips.to^$important
@@ -43,7 +42,6 @@
 @@||rt.optizone.ru^$important
 @@||run.publictracker.xyz^$important
 @@||share.camoe.cn^$important
-@@||t.acg.rip^$important
 @@||t.acg.rip^$important
 @@||t.nyaatracker.com^$important
 @@||t.overflow.biz^$important
@@ -61,8 +59,9 @@
 @@||tr.highstar.shop^$important
 @@||tr.qfruiti.in^$important
 @@||tr.ready4.icu^$important
-@@||tr.ready4.icu^$important
 @@||tr.torland.ga^$important
+@@||trackarr.org^$important
+@@||tracker-udp.gbitt.info^$important
 @@||tracker.0x.tf^$important
 @@||tracker.0x7c0.com^$important
 @@||tracker.4.babico.name.tr^$important
@@ -78,7 +77,7 @@
 @@||tracker.ccp.ovh^$important
 @@||tracker.coppersurfer.site^$important
 @@||tracker.cubonegro.lol^$important
-@@||tracker.dler.org^$important
+@@||tracker.darkness.services^$important
 @@||tracker.dler.org^$important
 @@||tracker.doko.moe^$important
 @@||tracker.dump.cl^$important
@@ -95,6 +94,7 @@
 @@||tracker.gcrreen.xyz^$important
 @@||tracker.imgoingto.icu^$important
 @@||tracker.internetwarriors.net^$important
+@@||tracker.ipv6tracker.org^$important
 @@||tracker.ipv6tracker.ru^$important
 @@||tracker.iriseden.fr^$important
 @@||tracker.jamesthebard.net^$important
@@ -114,6 +114,7 @@
 @@||tracker.nitrix.me^$important
 @@||tracker.opentrackr.org^$important
 @@||tracker.picotorrent.one^$important
+@@||tracker.pimpmyworld.to^$important
 @@||tracker.piratepublic.com^$important
 @@||tracker.pomf.se^$important
 @@||tracker.publictracker.xyz^$important
@@ -134,7 +135,6 @@
 @@||tracker.thinelephant.org^$important
 @@||tracker.torrust-demo.com^$important
 @@||tracker.tryhackx.org^$important
-@@||tracker.uw0.xyz^$important
 @@||tracker.uw0.xyz^$important
 @@||tracker.vds.nz^$important
 @@||tracker.yarr.pt^$important

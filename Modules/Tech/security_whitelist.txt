@@ -44,6 +44,7 @@
 @@||cdn.arstechnica.net^$important
 @@||cdn.mos.cms.futurecdn.net^$important
 @@||cdn.slant.co^$important
+@@||cdn.sonicb.it^$important
 @@||cdn.statuspage.io^$important
 @@||cdn1.esetstatic.com^$important
 @@||cdn2.esetstatic.com^$important
@@ -138,6 +139,7 @@
 @@||myip.wtf^$important
 @@||notifications.internxt.com^$important
 @@||ocsp.*.amazontrust.com^$important
+@@||ocsps.ssl.com^$important
 @@||onboardcloud.dl.sourceforge.net^$important
 @@||org.downloadcenter.samsung.com^$important
 @@||p19.zdassets.com^$important

@@ -1,4 +1,10 @@
+@@||api.nab.com.au^$important
 @@||clientstream.launchdarkly.com^$important
+@@||log-24f7f3c7.nab.com.au^$important
+@@||mobile.launchdarkly.com^$important
+@@||mps.nab.com.au^$important
 @@||nab.demdex.net^$important
+@@||smetrics.nab.com.au^$important
 @@||sst.nab.com.au^$important
 @@||syd-col.eum-appdynamics.com^$important
+@@||www.nab.com.au^$important

@@ -2084,6 +2084,7 @@
 @@|gosredirector.ea.com^$important
 @@|gossip.easyanticheat.net^$important
 @@|gparted.org^$important
+@@|gpm.samsungqbe.com^$important
 @@|gpodder.net^$important
 @@|gql-realtime.reddit.com^$important
 @@|gql.reddit.com^$important
@@ -2454,6 +2455,7 @@
 @@|kmartau.mo.cloudinary.net^$important
 @@|knowledgebase.macrium.com^$important
 @@|koofr.eu^$important
+@@|kpu.samsungelectronics.com^$important
 @@|kr-mirror.chaotic.cx^$important
 @@|kr.api.blizzard.com^$important
 @@|kstatic.googleusercontent.com^$important
@@ -3002,6 +3004,7 @@
 @@|notable.md^$important
 @@|notepad-plus-plus.org^$important
 @@|notes-pa.clients6.google.com^$important
+@@|notice.samsungcloudsolution.com^$important
 @@|notice.xbox.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
 @@|notification.svc.halowaypoint.com^$important
@@ -3606,6 +3609,7 @@
 @@|samsung.com^$important
 @@|samsungvr.com^$important
 @@|sara.cdntrex.com^$important
+@@|sas.samsungcloudsolution.com^$important
 @@|savanna.mozillazine.org^$important
 @@|sb-ssl.brave.com^$important
 @@|sb.adtidy.org^$important
@@ -4323,6 +4327,7 @@
 @@|tv.vimeo.com^$important
 @@|tv.youtube.com^$important
 @@|tvpndynamiclogopus.samsungcloud.tv^$important
+@@|tvpnlinupepgpus.samsungcloud.tv^$important
 @@|tvpnlogopus.samsungcloud.tv^$important
 @@|tw.blog.twitch.tv^$important
 @@|twemoji.maxcdn.com^$important
@@ -5069,6 +5074,7 @@
 @@|youtube.com^$important
 @@|youtubei.googleapis.com^$important
 @@|yps.link^$important
+@@|ypu.samsungelectronics.com^$important
 @@|yt-dl.org^$important
 @@|yt1.ggpht.com^$important
 @@|yt2.ggpht.com^$important

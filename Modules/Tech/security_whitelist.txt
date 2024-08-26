@@ -50,6 +50,7 @@
 @@||cdna.pcpartpicker.com^$important
 @@||certbot.eff.org^$important
 @@||cfcdn.neosmart.net^$important
+@@||check.dns.sh^$important
 @@||clearurls.xyz^$important
 @@||cloudsync-prod.s3.amazonaws.com^$important
 @@||community.brave.com^$important
@@ -74,6 +75,7 @@
 @@||dl.dell.com^$important
 @@||dl1.pxc-coding.com^$important
 @@||dl3.cdn.filezilla-project.org^$important
+@@||dns.sb^$important
 @@||do-not-tracker.org^$important
 @@||docs.clearurls.xyz^$important
 @@||docs.ipfs.tech^$important
@@ -223,6 +225,7 @@
 @@||www.dell.com^$important
 @@||www.dellcdn.com^$important
 @@||www.deluge-torrent.org^$important
+@@||www.dns.sb^$important
 @@||www.emsisoft.com^$important
 @@||www.eset.com^$important
 @@||www.filepuma.com^$important

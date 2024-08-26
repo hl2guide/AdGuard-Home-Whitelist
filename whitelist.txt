@@ -993,6 +993,7 @@
 @@||chbusiness.samsung.com^$important
 @@||check.aec.gov.au^$important
 @@||check.ddos-guard.net^$important
+@@||check.dns.sh^$important
 @@||checkappexec.microsoft.com^$important
 @@||checkipv4.windscribe.com^$important
 @@||checkout-sdk.bigcommerce.com^$important
@@ -1411,6 +1412,7 @@
 @@||dns.cloudflare.com^$important
 @@||dns.msftncsi.com^$important
 @@||dns.quad9.net^$important
+@@||dns.sb^$important
 @@||do-not-tracker.org^$important
 @@||doc-*-docs.googleusercontent.com^$important
 @@||doc-*-drive-data-export.googleusercontent.com^$important
@@ -4760,6 +4762,7 @@
 @@||www.dictionary.com^$important
 @@||www.digitaltrends.com^$important
 @@||www.dm.origin.com^$important
+@@||www.dns.sb^$important
 @@||www.docker.com^$important
 @@||www.dodo.com^$important
 @@||www.dolby.com^$important

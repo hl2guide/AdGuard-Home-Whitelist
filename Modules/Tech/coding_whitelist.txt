@@ -140,6 +140,7 @@
 @@||m3.material.io^$important
 @@||main.vscode-cdn.net^$important
 @@||marketplace-screenshots.githubusercontent.com^$important
+@@||massgrave.dev^$important
 @@||maxst.icons8.com^$important
 @@||media.githubusercontent.com^$important
 @@||metal.prod.atl-paas.net^$important
@@ -159,6 +160,7 @@
 @@||objects-origin.githubusercontent.com^$important
 @@||objects.githubusercontent.com^$important
 @@||ohmyposh.dev^$important
+@@||opengraph.githubassets.com^$important
 @@||opensource.com^$important
 @@||oppen.digital^$important
 @@||packaging.python.org^$important

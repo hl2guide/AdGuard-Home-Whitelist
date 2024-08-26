@@ -1566,6 +1566,8 @@
 @@||easylist-downloads.adblockplus.org^$important
 @@||easylist.to^$important
 @@||ebay.com.au^$important
+@@||ebayimg.map.fastly.net^$important
+@@||ebaystatic.ebay.map.fastly.net^$important
 @@||ebgames.com.au^$important
 @@||ebill.sydneywater.com.au^$important
 @@||ec.razer.com^$important
@@ -2686,6 +2688,7 @@
 @@||marketplace-website-node-launcher-prod.ol.epicgames.com^$important
 @@||marketplace.visualstudio.com^$important
 @@||marketplace.xbox.com^$important
+@@||massgrave.dev^$important
 @@||massive.io^$important
 @@||master.dl.sourceforge.net^$important
 @@||master.net-radio.fr^$important
@@ -3147,6 +3150,7 @@
 @@||open.tracker.cl^$important
 @@||open.tracker.ink^$important
 @@||opencritic.com^$important
+@@||opengraph.githubassets.com^$important
 @@||openphish.com^$important
 @@||opensource.com^$important
 @@||opensubtitles.org^$important
@@ -3752,6 +3756,7 @@
 @@||signal.org^$important
 @@||signaler-pa.clients*.google.com^$important
 @@||signin.ea.com^$important
+@@||signin.g.ebay.com^$important
 @@||signin.intel.com^$important
 @@||signin.rockstargames.com^$important
 @@||signinupcdn.blob.core.windows.net^$important
@@ -4708,6 +4713,7 @@
 @@||www.aldi.com.au^$important
 @@||www.aldimobile.com.au^$important
 @@||www.alphacoders.com^$important
+@@||www.amazon.com.au^$important
 @@||www.amd.com^$important
 @@||www.androidauthority.com^$important
 @@||www.androidcentral.com^$important
@@ -4775,6 +4781,7 @@
 @@||www.easeus.com^$important
 @@||www.easyuefi.com^$important
 @@||www.ebay.com.au^$important
+@@||www.ebay.com^$important
 @@||www.ebgames.com.au^$important
 @@||www.eff.org^$important
 @@||www.elections.nsw.gov.au^$important

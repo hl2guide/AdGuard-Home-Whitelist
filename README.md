@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
 - Current Version: 1.2.7.1
-- Last Updated (AEST): 2024-08-26 04:02:29PM
+- Last Updated (AEST): 2024-08-26 04:15:26PM
 
 ## Intro ✍
 
@@ -52,8 +52,8 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 
 ### Details 🧾
 
-* __Expected AdGuard Home Average RAM Usage:__ around 25MB
-* __Number of Rules:__ over 5080
+* __Expected AdGuard Home Average RAM Usage:__ around 130MB
+* __Number of Rules:__ over 5100
 
 ## Updates 👩‍💻
 

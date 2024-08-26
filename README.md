@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.7.0
-- Last Updated (AEST): 2024-08-26 12:44:17PM
+- Current Version: 1.2.7.1
+- Last Updated (AEST): 2024-08-26 03:44:01PM
 
 ## Intro ✍
 

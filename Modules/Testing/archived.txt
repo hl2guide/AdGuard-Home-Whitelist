@@ -1,0 +1,7 @@
+# Old rules that have been commented out
+
+! @@||fuckingfast.co^$important
+! @@||add0n.com^$important
+! @@||alldebrid.com^$important
+! @@||shop.app^$important
+

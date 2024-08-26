@@ -23,7 +23,7 @@
 # ================================================================================================
 
 # 🛑 Blocks everything
-*.*
+||*^$important
 
 # 🛑 Priority blocks all HTTP traffic (insecure links) [disabled to test a bug, browsers should block by default anyway]
 # ||http://$important

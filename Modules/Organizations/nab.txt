@@ -1,4 +1,4 @@
-@@|clientstream.launchdarkly.com^$important
-@@|nab.demdex.net^$important
-@@|sst.nab.com.au^$important
-@@|syd-col.eum-appdynamics.com^$important
+@@||clientstream.launchdarkly.com^$important
+@@||nab.demdex.net^$important
+@@||sst.nab.com.au^$important
+@@||syd-col.eum-appdynamics.com^$important

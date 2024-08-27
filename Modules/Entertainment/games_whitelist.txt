@@ -130,6 +130,7 @@
 @@||chat.gog.com^$important
 @@||checkout.ea.com^$important
 @@||checkoutshopper-live.adyen.com^$important
+@@||clan.steamstatic.com^$important
 @@||client-download.steampowered.com^$important
 @@||client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@||client-update.akamai.steamstatic.com^$important

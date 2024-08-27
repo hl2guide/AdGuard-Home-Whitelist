@@ -4,12 +4,14 @@
 @@||*-*.totallyacdn.com^$important
 @@||*-dl.techpowerup.com^$important
 @@||*.flkitover.com^$important
+@@||*.lencr.org^$important
 @@||*.nimbus.bitdefender.net^$important
 @@||0.pool.ntp.org^$important
 @@||1.pool.ntp.org^$important
 @@||1dot1dot1dot1.cloudflare-dns.com^$important
 @@||2.pool.ntp.org^$important
 @@||3.pool.ntp.org^$important
+@@||7r2ycrb.impervadns.net^$important
 @@||account-api.proton.me^$important
 @@||account.acronis.com^$important
 @@||account.proton.me^$important
@@ -121,6 +123,7 @@
 @@||hndl.urbackup.org^$important
 @@||ideas.mozilla.org^$important
 @@||images.easeus.com^$important
+@@||images.prismic.io^$important
 @@||img.chocolatey.org^$important
 @@||imgs.search.brave.com^$important
 @@||int.form.eset.com^$important
@@ -138,6 +141,7 @@
 @@||mastiff.ext.hp.com^$important
 @@||mozilla.cloudflare-dns.com^$important
 @@||myip.wtf^$important
+@@||n.sni.global.fastly.net^$important
 @@||notifications.internxt.com^$important
 @@||ocsp.*.amazontrust.com^$important
 @@||ocsps.ssl.com^$important
@@ -152,6 +156,7 @@
 @@||privacytests.org^$important
 @@||privacytools.io^$important
 @@||prod-tp.sumo.mozit.cloud^$important
+@@||proton-me.cdn.prismic.io^$important
 @@||proton.me^$important
 @@||pxc-coding.com^$important
 @@||r11.o.lencr.org^$important
@@ -217,6 +222,7 @@
 @@||vanilla.futurecdn.net^$important
 @@||ventoy.net^$important
 @@||web-assets-prod.s3.amazonaws.com^$important
+@@||webapp-cp-back.azurewebsites.net^$important
 @@||websiteapi.acronis.com^$important
 @@||webtags.logitech.com^$important
 @@||windowsreport.com^$important

@@ -67,6 +67,7 @@
 @@||*.icedrive.io^$important
 @@||*.ip6.arpa^$important
 @@||*.karere.mega.nz^$important
+@@||*.lencr.org^$important
 @@||*.livefilestore.com^$important
 @@||*.mesh.com^$important
 @@||*.mwbsys.com^$important
@@ -143,6 +144,7 @@
 @@||3.pool.ntp.org^$important
 @@||4shared.com^$important
 @@||5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
+@@||7r2ycrb.impervadns.net^$important
 @@||7tv.foo^$important
 @@||9.rarbg.com^$important
 @@||9.rarbg.me^$important
@@ -1033,6 +1035,7 @@
 @@||ci6.googleusercontent.com^$important
 @@||cinnamon-spices.linuxmint.com^$important
 @@||ciscobinary.openh264.org^$important
+@@||clan.steamstatic.com^$important
 @@||clearlinux.org^$important
 @@||clearurls.xyz^$important
 @@||cli.speedtest.net^$important
@@ -2316,6 +2319,7 @@
 @@||images.pcgamingwiki.com^$important
 @@||images.platforum.cloud^$important
 @@||images.pling.com^$important
+@@||images.prismic.io^$important
 @@||images.samsung.com^$important
 @@||images.sourceforge.net^$important
 @@||images.theabcdn.com^$important
@@ -2993,6 +2997,7 @@
 @@||myer.com.au^$important
 @@||myip.wtf^$important
 @@||mysql.com^$important
+@@||n.sni.global.fastly.net^$important
 @@||n9e5v4d8.ssl.hwcdn.net^$important
 @@||na.edge.kernel.org^$important
 @@||nab.demdex.net^$important
@@ -3455,6 +3460,7 @@
 @@||promotion.aliexpress.com^$important
 @@||promotions.newegg.com^$important
 @@||promotions.soundcloud.com^$important
+@@||proton-me.cdn.prismic.io^$important
 @@||proton.me^$important
 @@||protonmail.ch^$important
 @@||protonmail.com^$important
@@ -4672,6 +4678,7 @@
 @@||web.poecdn.com^$important
 @@||web.vortex.data.microsoft.com^$important
 @@||web.vortex.data.trafficmanager.net^$important
+@@||webapp-cp-back.azurewebsites.net^$important
 @@||webchat.kde.org^$important
 @@||webident.service.nsw.gov.au^$important
 @@||webinstallers.gog-statics.com^$important
@@ -4792,6 +4799,7 @@
 @@||www.comparebroadband.com.au^$important
 @@||www.cookiepro.com^$important
 @@||www.corsair.com^$important
+@@||www.couriersplease.com.au^$important
 @@||www.cyberlink.com^$important
 @@||www.cyberpunk.net^$important
 @@||www.cydex.com.au^$important

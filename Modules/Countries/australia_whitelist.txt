@@ -184,6 +184,7 @@
 @@||www.chemistwarehouse.com.au^$important
 @@||www.coles.com.au^$important
 @@||www.comparebroadband.com.au^$important
+@@||www.couriersplease.com.au^$important
 @@||www.cydex.com.au^$important
 @@||www.dicksmith.com.au^$important
 @@||www.dodo.com^$important

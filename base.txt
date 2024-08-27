@@ -1,11 +1,11 @@
 # START +=========================================================================================
 
 # 🧾 Name:      Strict List
-# 🚦  Status:    Experimental
-# ✍ Version:   0.11
+# 🚦  Status:   Experimental
+# ✍ Version:   0.12
 # 🚧 Build:     1101
-# 📅 Date:      Aug 27, 2021
-# 🕔 Time:      3:50 AM
+# 📅 Date:      2024-08-27 12:30:20PM
+# 🕔 Time:       3:50 AM
 
 # 📔 Description:
 # Blocks and then whitelists using Adblock-Style Syntax, Regular Expressions, Special Characters
@@ -24,6 +24,12 @@
 
 # 🛑 Blocks everything
 ||*^$important
+
+# Speeds up loading of https://learn.microsoft.com
+|js.monitor.azure.com^$important
+|wcpstatic.microsoft.com^$important
+# Block Plex app ads on Samsung Smart TVs
+|assets.springserve.com^$important
 
 # 🛑 Priority blocks all HTTP traffic (insecure links) [disabled to test a bug, browsers should block by default anyway]
 # ||http://$important

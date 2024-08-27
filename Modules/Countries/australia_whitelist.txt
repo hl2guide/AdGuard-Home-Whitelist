@@ -41,6 +41,7 @@
 @@||cdn.optimizely.com^$important
 @@||cdn0.woolworths.media^$important
 @@||centrecomstatic.s3.amazonaws.com^$important
+@@||chat-edge-sydney-ce1.stream-io-api.com^$important
 @@||check.aec.gov.au^$important
 @@||chemistdirect.com.au^$important
 @@||cnstrc.com^$important

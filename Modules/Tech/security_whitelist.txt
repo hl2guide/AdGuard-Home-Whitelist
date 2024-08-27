@@ -25,6 +25,7 @@
 @@||api.hcaptcha.com^$important
 @@||api.internxt.com^$important
 @@||api.westerndigital.com^$important
+@@||api2.sec-tunnel.com^$important
 @@||ark.intel.com^$important
 @@||artifacts.bitwarden.com^$important
 @@||ask.libreoffice.org^$important
@@ -222,6 +223,7 @@
 @@||winget.run^$important
 @@||www-eset-com.api.cspconsole.com^$important
 @@||www.acronis.com^$important
+@@||www.anyburn.com^$important
 @@||www.asus.com^$important
 @@||www.browserbench.org^$important
 @@||www.candisoft.com^$important

@@ -1,0 +1,2 @@
+@@||desktop-dna.osp.opera.software^$important
+@@||exchange.opera.com^$important

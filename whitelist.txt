@@ -446,6 +446,7 @@
 @@||api.xda-developers.com^$important
 @@||api1.weather.com^$important
 @@||api13.comm100.io^$important
+@@||api2.sec-tunnel.com^$important
 @@||api2.weather.com^$important
 @@||api3.weather.com^$important
 @@||apigw.coles.com.au^$important
@@ -984,6 +985,7 @@
 @@||chart.googleapis.com^$important
 @@||chat-1-client-s1-prod.services.gearboxsoftware.com^$important
 @@||chat-dl.google.com^$important
+@@||chat-edge-sydney-ce1.stream-io-api.com^$important
 @@||chat.cdn.ubisoft.com^$important
 @@||chat.gog.com^$important
 @@||chat.google.com^$important
@@ -1316,6 +1318,7 @@
 @@||deploy.windscribe.com^$important
 @@||depositfiles.com^$important
 @@||desktop-config.juno.ea.com^$important
+@@||desktop-dna.osp.opera.software^$important
 @@||desktop.github.com^$important
 @@||desktop.githubusercontent.com^$important
 @@||dev.deluge-torrent.org^$important
@@ -1700,6 +1703,7 @@
 @@||evoke-windowsservices-tas.msedge.net^$important
 @@||example-publisher.gallery.vsassets.io^$important
 @@||example-publisher.gallerycdn.vsassets.io^$important
+@@||exchange.opera.com^$important
 @@||exodus.desync.com^$important
 @@||exp.wg.spotify.com^$important
 @@||extension-files.twitch.tv^$important
@@ -4751,6 +4755,7 @@
 @@||www.amd.com^$important
 @@||www.androidauthority.com^$important
 @@||www.androidcentral.com^$important
+@@||www.anyburn.com^$important
 @@||www.anydesk.com^$important
 @@||www.apkmirror.com^$important
 @@||www.asus.com^$important

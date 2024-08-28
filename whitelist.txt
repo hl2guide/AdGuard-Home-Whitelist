@@ -321,6 +321,8 @@
 @@||answers.unrealengine.com^$important
 @@||answersstaticfilecdnv2.azureedge.net^$important
 @@||anydesk.com^$important
+@@||anz.com.au^$important
+@@||anz.demdex.net^$important
 @@||aoe-api.reliclink.com^$important
 @@||aoe.ms^$important
 @@||aomeitech.com^$important
@@ -528,6 +530,7 @@
 @@||assets-www.xbox.com^$important
 @@||assets.account.microsoft.com^$important
 @@||assets.acq-inc.com^$important
+@@||assets.anz.com^$important
 @@||assets.braintreegateway.com^$important
 @@||assets.codepen.io^$important
 @@||assets.ctfassets.net^$important
@@ -622,6 +625,7 @@
 @@||ax.itunes.apple.com^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
 @@||axon-assets-cdn.razerzone.com^$important
+@@||az-dn.gw.samsungapps.com^$important
 @@||az667904.vo.msecnd.net^$important
 @@||az725175.vo.msecnd.net^$important
 @@||az764295.vo.msecnd.net^$important
@@ -1362,6 +1366,8 @@
 @@||di.phncdn.com^$important
 @@||di.phprcdn.com^$important
 @@||dictionaries.standardnotes.org^$important
+@@||digital-api.stgeorge.com.au^$important
+@@||digital-api.westpac.com.au^$important
 @@||directline.botframework.com^$important
 @@||directory.soundcloud.com^$important
 @@||directory.vimeo.com^$important
@@ -1410,6 +1416,7 @@
 @@||dl.teamviewer.com^$important
 @@||dl1.pxc-coding.com^$important
 @@||dl3.cdn.filezilla-project.org^$important
+@@||dl30.sonicb.it^$important
 @@||dlassets-ssl.xboxlive.com^$important
 @@||dlwnextsetting.cloudapp.net^$important
 @@||dmca.twitch.tv^$important
@@ -2148,6 +2155,7 @@
 @@||gumtreeau-res.cloudinary.com^$important
 @@||guru99.com^$important
 @@||guts2.sp.f-secure.com^$important
+@@||gw-public.api.stgeorge.com.au^$important
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^$important
 @@||gx-target-survey-frontend-api.gx.nvidia.com^$important
 @@||gyan.dev^$important
@@ -4066,6 +4074,7 @@
 @@||steamugcquincy.blob.core.windows.net^$important
 @@||steamusercontent-a.akamaihd.net^$important
 @@||steamuserimages-a.akamaihd.net^$important
+@@||stgeorge.com.au.ssl.sc.omtrdc.net^$important
 @@||stitcher.acast.com^$important
 @@||stockservice.vimeo.com^$important
 @@||storage-asset.msi.com^$important
@@ -4688,6 +4697,8 @@
 @@||websiteapi.acronis.com^$important
 @@||webtags.logitech.com^$important
 @@||welcome.adguard.com^$important
+@@||westpac.com.au^$important
+@@||westpacbankinggroup.sc.omtrdc.net^$important
 @@||westus.tts.speech.microsoft.com^$important
 @@||whatsnew.teamviewer.com^$important
 @@||whstatics.cdntrex.com^$important
@@ -4764,6 +4775,8 @@
 @@||www.androidcentral.com^$important
 @@||www.anyburn.com^$important
 @@||www.anydesk.com^$important
+@@||www.anz.com.au^$important
+@@||www.anz.com^$important
 @@||www.apkmirror.com^$important
 @@||www.asus.com^$important
 @@||www.ato.gov.au^$important
@@ -5053,6 +5066,7 @@
 @@||www.sqlite.org^$important
 @@||www.staticice.com.au^$important
 @@||www.steampowered.com^$important
+@@||www.stgeorge.com.au^$important
 @@||www.stockcheck.aldi.com.au^$important
 @@||www.sublimehq.com^$important
 @@||www.sublimetext.com^$important

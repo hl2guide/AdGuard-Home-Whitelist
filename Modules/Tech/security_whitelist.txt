@@ -79,6 +79,7 @@
 @@||dl.dell.com^$important
 @@||dl1.pxc-coding.com^$important
 @@||dl3.cdn.filezilla-project.org^$important
+@@||dl30.sonicb.it^$important
 @@||dns.sb^$important
 @@||do-not-tracker.org^$important
 @@||docs.clearurls.xyz^$important

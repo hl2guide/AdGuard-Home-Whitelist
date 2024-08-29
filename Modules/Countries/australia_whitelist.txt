@@ -20,6 +20,8 @@
 @@||app.nexuspublications.com.au^$important
 @@||apply.service.nsw.gov.au^$important
 @@||arc.com.au^$important
+@@||assets.msy.com.au^$important
+@@||assets.umart.com.au^$important
 @@||ato.gov.au^$important
 @@||auspost.com.au^$important
 @@||auth.ato.gov.au^$important
@@ -33,6 +35,7 @@
 @@||bunnings.com.au^$important
 @@||c*.myshopping.com.au^$important
 @@||c2.eb-cdn.com.au^$important
+@@||cdn*.centrecom.com.au^$important
 @@||cdn.appdynamics.com^$important
 @@||cdn.canstar.com.au^$important
 @@||cdn.canstarblue.com.au^$important
@@ -211,6 +214,7 @@
 @@||www.kmart.com.au^$important
 @@||www.lifeblood.com.au^$important
 @@||www.minidisc.com.au^$important
+@@||www.msy.com.au^$important
 @@||www.mwave.com.au^$important
 @@||www.my.commbank.com.au^$important
 @@||www.myshopping.com.au^$important

@@ -27,6 +27,7 @@
 @@||analytics.tripwireinteractive.com^$important
 @@||answers.ea.com^$important
 @@||aoe.ms^$important
+@@||aoeliverelease1-api.worldsedgelink.com^$important
 @@||ap-southeast-2-storm.ubi.com^$important
 @@||apac-storm.ubi.com^$important
 @@||api*.origin.com^$important

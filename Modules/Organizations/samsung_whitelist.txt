@@ -18,6 +18,8 @@
 @@||dc.di.atlas.samsung.com^$important
 @@||dc.dqa.samsung.com^$important
 @@||dms.ospserver.net^$important
+@@||ers.samsungcloud.com^$important
+@@||ers.samsungcloudplatform.com^$important
 @@||eu.community.samsung.com^$important
 @@||fota-s3-dn.ospserver.net^$important
 @@||frbusiness.samsung.com^$important

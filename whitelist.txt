@@ -1054,6 +1054,7 @@
 @@||ci6.googleusercontent.com^$important
 @@||cinnamon-spices.linuxmint.com^$important
 @@||ciscobinary.openh264.org^$important
+@@||clan.akamai.steamstatic.com^$important
 @@||clan.steamstatic.com^$important
 @@||clearlinux.org^$important
 @@||clearurls.xyz^$important
@@ -1452,6 +1453,7 @@
 @@||doc-*-docs.googleusercontent.com^$important
 @@||doc-*-drive-data-export.googleusercontent.com^$important
 @@||doc.opensuse.org^$important
+@@||doc.qbittorrent.org^$important
 @@||doclone.nongnu.org^$important
 @@||docs.avaloniaui.net^$important
 @@||docs.chocolatey.org^$important
@@ -1880,6 +1882,7 @@
 @@||forum.manjaro.org^$important
 @@||forum.nexusmods.com^$important
 @@||forum.palemoon.org^$important
+@@||forum.qbittorrent.org^$important
 @@||forum.snahp.it^$important
 @@||forum.techhut.tv^$important
 @@||forum.videolan.org^$important
@@ -4673,6 +4676,7 @@
 @@||video-gcr.xhcdn.com^$important
 @@||video-nss.xhcdn.com^$important
 @@||video-weaver.syd*.hls.ttvnw.net^$important
+@@||video.akamai.steamstatic.com^$important
 @@||video.api.playstation.com^$important
 @@||video.dl.playstation.net^$important
 @@||video.google.com^$important

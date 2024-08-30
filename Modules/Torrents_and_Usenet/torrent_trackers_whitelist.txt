@@ -11,11 +11,13 @@
 @@||carbon-bonsai-621.appspot.com^$important
 @@||chihaya-heroku.120181311.xyz^$important
 @@||coppersurfer.tk^$important
+@@||doc.qbittorrent.org^$important
 @@||epider.me^$important
 @@||euprod-knoxpp.samsungknox.com^$important
 @@||exodus.desync.com^$important
 @@||explodie.org^$important
 @@||fe.dealclub.de^$important
+@@||forum.qbittorrent.org^$important
 @@||free.publictracker.xyz^$important
 @@||git.qbittorrent.org^$important
 @@||ipv6.rer.lol^$important

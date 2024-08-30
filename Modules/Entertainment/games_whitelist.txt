@@ -131,6 +131,7 @@
 @@||chat.gog.com^$important
 @@||checkout.ea.com^$important
 @@||checkoutshopper-live.adyen.com^$important
+@@||clan.akamai.steamstatic.com^$important
 @@||clan.steamstatic.com^$important
 @@||client-download.steampowered.com^$important
 @@||client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
@@ -671,6 +672,7 @@
 @@||useast1-public.aws-ubiservices.ubi.com^$important
 @@||users.gog.com^$important
 @@||users.nexusmods.com^$important
+@@||video.akamai.steamstatic.com^$important
 @@||video.api.playstation.com^$important
 @@||video.dl.playstation.net^$important
 @@||video.playstation.com^$important

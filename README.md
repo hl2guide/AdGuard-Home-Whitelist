@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.7.3
-- Last Updated (AEST): 2024-08-30 05:43:16AM
+- Current Version: 1.2.7.4
+- Last Updated (AEST): 2024-08-30 02:21:07PM
 
 ## Intro ✍
 
@@ -18,7 +18,7 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
-_AdGuard-Home-Whitelist © 2024 - hl2guide_
+_AdGuard-Home-Whitelist © hl2guide 2024_
 
 ## Aspects ⏺
 
@@ -34,8 +34,11 @@ _AdGuard-Home-Whitelist © 2024 - hl2guide_
 | 🦠 Second-Opinion Malware Scanners | _Malwarebytes, SuperAntispyware, ESET Online Scanner and HitManPro_ |
 | ✍ Development Languages | _C#, Python, Golang, Ruby etc_ |
 | 📚 Programming Editors | _Visual Studio Code, Visual Studio and VSCodium_ |
+| 🐧 Linux Software | _Fedora, Ubuntu etc_ |
+| 🌏 Internet Browsers | _Firefox, Brave, Vivaldi etc_ |
 | 🏬 Australian specific stores | _JB Hifi, Coles, Woolworths, OfficeWorks etc_ |
 | 🏦 Australian government websites | _Election, tax office etc_ |
+| 💵 Australian banking websites | _NAB, ING Direct Australia etc_ |
 
 and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
 
@@ -53,7 +56,7 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 ### Details 🧾
 
 * __Expected AdGuard Home Average RAM Usage:__ around 130MB
-* __Number of Rules:__ over 5100
+* __Number of Rules:__ over 5200
 
 ## Updates 👩‍💻
 

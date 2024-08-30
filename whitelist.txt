@@ -124,6 +124,9 @@
 @@||0eaf.cardinalcommerce.com^$important
 @@||0patch.com^$important
 @@||0xxx.ws^$important
+@@||1.a79ab95c1589a13f8a4cab612bc71f9f7.com^$important
+@@||1.b406929acabac9b095f124c81bdfcf57f.com^$important
+@@||1.c81358859121583b7adf2ace89cb39f44.com^$important
 @@||1.pool.ntp.org^$important
 @@||1337x.to^$important
 @@||149366088.v2.pressablecdn.com^$important
@@ -752,6 +755,7 @@
 @@||braintree-api.com^$important
 @@||braintreegateway.com^$important
 @@||brand-images.jbhifi.com.au^$important
+@@||brand-messenger.app.khoros.com^$important
 @@||brand.twitch.tv^$important
 @@||brave-browser-rpm-release.s3.brave.com^$important
 @@||brave-core-ext.s3.brave.com^$important
@@ -796,6 +800,7 @@
 @@||c1.microsoft.com^$important
 @@||c1h-word-edit-*.cdn.office.net^$important
 @@||c2.eb-cdn.com.au^$important
+@@||c3.shared.global.fastly.net^$important
 @@||c6.paypal.com^$important
 @@||c9.trafficdeposit.com^$important
 @@||ca-mirror.chaotic.cx^$important
@@ -1072,6 +1077,7 @@
 @@||clients4.google.com^$important
 @@||clients5.google.com^$important
 @@||clients6.google.com^$important
+@@||clientstream-ga.launchdarkly.com^$important
 @@||clientstream.launchdarkly.com^$important
 @@||clips-media-assets2.twitch.tv^$important
 @@||clips.twitch.tv^$important
@@ -1109,6 +1115,7 @@
 @@||codesector.nyc3.cdn.digitaloceanspaces.com^$important
 @@||codingflyboy.mm.fcix.net^$important
 @@||coles.com.au^$important
+@@||collect.nab.com.au^$important
 @@||collections.md.mp.microsoft.com^$important
 @@||collections.mp.microsoft.com^$important
 @@||collector-service.api.lbry.tv^$important
@@ -1552,6 +1559,7 @@
 @@||downloads.wisecleaner.com^$important
 @@||downloads3.fxsound.com^$important
 @@||dpgsrv.redmond.corp.microsoft.com^$important
+@@||dpm.demdex.net^$important
 @@||dragonagekeep.com^$important
 @@||drive-thirdparty.googleusercontent.com^$important
 @@||drive.fife.usercontent.google.com^$important
@@ -1602,6 +1610,7 @@
 @@||ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@||economy.svc.halowaypoint.com^$important
 @@||edge-consumer-static.azureedge.net^$important
+@@||edge-geo.nc0.co^$important
 @@||edge-mobile-static.azureedge.net^$important
 @@||edge.activity.windows.com ^$important
 @@||edge.activity.windows.com^$important
@@ -2272,6 +2281,7 @@
 @@||i1.ytimg.com^$important
 @@||i2.shared.global.fastly.net^$important
 @@||iad.mirror.rackspace.com^$important
+@@||ib.nab.com.au^$important
 @@||ic-ah.flixcdn.com^$important
 @@||ic-st-lm.xhcdn.com^$important
 @@||ic-tt-lm.xhcdn.com^$important
@@ -2495,6 +2505,7 @@
 @@||k535caawve-2.algolianet.com^$important
 @@||k535caawve-3.algolianet.com^$important
 @@||k535caawve-dsn.algolia.net^$important
+@@||k8s-istiosys-istioing-245f3491e8-20c60ff33b9fb931.elb.ap-southeast-2.amazonaws.com^$important
 @@||ka-f.fontawesome.com^$important
 @@||kazooie.canonical.com^$important
 @@||kb.adguard.com^$important
@@ -3024,9 +3035,11 @@
 @@||n.sni.global.fastly.net^$important
 @@||n9e5v4d8.ssl.hwcdn.net^$important
 @@||na.edge.kernel.org^$important
+@@||nab.com.au.ssl.d1.sc.omtrdc.net^$important
 @@||nab.demdex.net^$important
 @@||nairobi.cdntrex.com^$important
 @@||naomy.cdntrex.com^$important
+@@||nationalaustraliaban.tt.omtrdc.net^$important
 @@||nav.smartscreen.microsoft.com^$important
 @@||navbar.blizzard.com^$important
 @@||nbnco.carto.com^$important
@@ -3446,6 +3459,7 @@
 @@||privacytests.org^$important
 @@||privacytools.io^$important
 @@||private-user-images.githubusercontent.com^$important
+@@||proactive-chat-server-ap.prod.aws.lcloud.com^$important
 @@||prod-api-v2.production.rokfin.com^$important
 @@||prod-assets.wire.com^$important
 @@||prod-cleo.malwarebytes.com^$important
@@ -4215,6 +4229,7 @@
 @@||taf.teamviewer.com^$important
 @@||tage.playstation.com^$important
 @@||tags.kmart.com.au^$important
+@@||tags.nab.com.au^$important
 @@||tags.tiqcdn.com^$important
 @@||tails.boum.org^$important
 @@||takeout-pa.clients6.google.com^$important
@@ -5160,6 +5175,7 @@
 @@||wwz-prod-uh2.wwzapi.com^$important
 @@||wwz-production.wwzapi.com^$important
 @@||wwz.wwzapi.com^$important
+@@||x.nab.com.au^$important
 @@||x1.c.lencr.org^$important
 @@||x1streamingplans.azureedge.net^$important
 @@||x2.c.lencr.org^$important

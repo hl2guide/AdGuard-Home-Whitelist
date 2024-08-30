@@ -132,6 +132,7 @@
 @@||panels-images.twitch.tv^$important
 @@||panels.twitch.tv^$important
 @@||passport.twitch.tv^$important
+@@||pipedapi.kavin.rocks^$important
 @@||play.hulu.com^$important
 @@||player.hulu.com^$important
 @@||player.twitch.tv^$important

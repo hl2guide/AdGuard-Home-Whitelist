@@ -431,6 +431,7 @@
 @@||api.rainviewer.com^$important
 @@||api.rollbar.com^$important
 @@||api.samsungcloud.com^$important
+@@||api.samsungconsent.com^$important
 @@||api.segment.io^$important
 @@||api.snapcraft.io^$important
 @@||api.soundcloud.com^$important
@@ -3376,6 +3377,7 @@
 @@||ping.archlinux.org^$important
 @@||ping.manjaro.org^$important
 @@||pipe.how^$important
+@@||pipedapi.kavin.rocks^$important
 @@||pipelines.actions.githubusercontent.com^$important
 @@||piwik.pcgamingwiki.com^$important
 @@||pixel-static.spotify.com^$important
@@ -3845,6 +3847,7 @@
 @@||sirius.mwbsys.com^$important
 @@||sisu.xboxlive.com^$important
 @@||site-cdn.onenote.net^$important
+@@||sitecheck.opera.com^$important
 @@||sjc*.dl.dbolical.com^$important
 @@||skill.svc.halowaypoint.com^$important
 @@||skyapi.live.net^$important

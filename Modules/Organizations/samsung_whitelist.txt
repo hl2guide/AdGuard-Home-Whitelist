@@ -4,6 +4,7 @@
 @@||api.accuweather.com^$important
 @@||api.glb.samsung-gamelauncher.com^$important
 @@||api.samsungcloud.com^$important
+@@||api.samsungconsent.com^$important
 @@||apps.samsungcloudcdn.com^$important
 @@||as2rgn.file.samsungcloud.com^$important
 @@||au-odc.samsungapps.com^$important

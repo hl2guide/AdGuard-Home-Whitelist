@@ -151,6 +151,7 @@
 @@||p19.zdassets.com^$important
 @@||p3a-json.brave.com^$important
 @@||pcdn.brave.com^$important
+@@||ph.sonicb.it^$important
 @@||photos.internxt.com^$important
 @@||platform.cloud.coveo.com^$important
 @@||preview.systems^$important

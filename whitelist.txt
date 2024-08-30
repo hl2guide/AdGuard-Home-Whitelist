@@ -3350,6 +3350,7 @@
 @@||pfmsqos.westus2.cloudapp.azure.com^$important
 @@||pfmsqssi.uaenorth.cloudapp.azure.com^$important
 @@||pgl.yoyo.org^$important
+@@||ph.sonicb.it^$important
 @@||phishing.army^$important
 @@||phoenixnap.dl.sourceforge.net^$important
 @@||photo.plus.google.com^$important

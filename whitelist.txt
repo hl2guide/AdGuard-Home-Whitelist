@@ -568,6 +568,7 @@
 @@||assets.zendesk.com^$important
 @@||assets.zorincdn.com^$important
 @@||assets2.razerzone.com^$important
+@@||astrr.ru^$important
 @@||async-px.dynamicyield.com^$important
 @@||atlas.eff.org^$important
 @@||atlassian.com^$important
@@ -1713,6 +1714,7 @@
 @@||eu.wikipedia.com^$important
 @@||eulatracking-public-service-prod.ak.epicgames.com^$important
 @@||eulatracking-public-service-prod06.ol.epicgames.com^$important
+@@||euprod-knoxpp.samsungknox.com^$important
 @@||eur01.safelinks.protection.outlook.com^$important
 @@||eur02.safelinks.protection.outlook.com^$important
 @@||eur03.safelinks.protection.outlook.com^$important
@@ -1736,6 +1738,7 @@
 @@||exchange.opera.com^$important
 @@||exodus.desync.com^$important
 @@||exp.wg.spotify.com^$important
+@@||explodie.org^$important
 @@||extension-files.twitch.tv^$important
 @@||extension-updates.opera.com^$important
 @@||extension.streamelements.com^$important
@@ -3123,6 +3126,7 @@
 @@||nvidia.tt.omtrdc.net^$important
 @@||nwjs.io^$important
 @@||nxos.org^$important
+@@||nyaa.tracker.wf^$important
 @@||nyc.mirrors.clouvider.net^$important
 @@||nz.static.mega.co.nz^$important
 @@||nzb360.com^$important
@@ -3198,7 +3202,9 @@
 @@||onsite2.researchintel.com^$important
 @@||oo-software.com^$important
 @@||opal.com.au^$important
+@@||open-tracker.demonoid.ch^$important
 @@||open-vsx.org^$important
+@@||open.acgtracker.com^$important
 @@||open.demonii.com^$important
 @@||open.dstud.io^$important
 @@||open.free-tracker.ga^$important
@@ -3639,9 +3645,12 @@
 @@||rest.iad-03.braze.com^$important
 @@||results.speedtest.net^$important
 @@||retrace.fedoraproject.org^$important
+@@||retracker.home^$important
+@@||retracker.hotplug.ru^$important
 @@||retracker.ip.ncnet.ru^$important
 @@||retracker.lanta-net.ru^$important
 @@||retracker.local^$important
+@@||retracker2.x2k.ru^$important
 @@||returnandearn.org.au^$important
 @@||reviews.gog.com^$important
 @@||reviews.kaspersky.com^$important
@@ -3766,6 +3775,7 @@
 @@||securitydomain-pa.googleapis.com^$important
 @@||securityintelligencecenter-eastus.azurewebsites.net^$important
 @@||seed*.debrid.link^$important
+@@||seedpeer.net^$important
 @@||seedr.cc^$important
 @@||segments-s.msedge.net^$important
 @@||self-test.sabnzbd.org^$important
@@ -3817,6 +3827,7 @@
 @@||shop.lego.com^$important
 @@||shops1.stackassets.com^$important
 @@||shots.codepen.io^$important
+@@||shubt.net^$important
 @@||siftrss.com^$important
 @@||sigma.ubi.com^$important
 @@||sign-in.soundcloud.com^$important
@@ -4225,6 +4236,7 @@
 @@||t.castle.io^$important
 @@||t.paypal.com^$important
 @@||t.ssl.ak.dynamic.tiles.virtualearth.net^$important
+@@||t1.aag.moe^$important
 @@||ta.wikipedia.com^$important
 @@||tabler-icons.io^$important
 @@||taf.teamviewer.com^$important
@@ -4273,6 +4285,7 @@
 @@||th-eu4.pornone.com^$important
 @@||th.bing.com^$important
 @@||th.wallhaven.cc^$important
+@@||thagoat.rocks^$important
 @@||theantisocialengineer.com^$important
 @@||thecheese.co.nz^$important
 @@||thecheese.ddns.net^$important
@@ -4319,6 +4332,7 @@
 @@||titlestorage.xboxlive.com^$important
 @@||titlestorageeus*.blob.core.windows.net^$important
 @@||titlestoragencus0102.blob.core.windows.net^$important
+@@||tk2.trackerservers.com^$important
 @@||tm-rgl-prod.ros.rockstargames.com^$important
 @@||tms-global.intel.com^$important
 @@||tms.nab.com.au^$important
@@ -4333,7 +4347,9 @@
 @@||tool-avpg.crsi.norton.com^$important
 @@||torlock.com^$important
 @@||torren.eu^$important
+@@||torrent-tracker.hama3.net^$important
 @@||torrentclub.space^$important
+@@||torrents.artixlinux.org^$important
 @@||tos.ea.com^$important
 @@||toshiba.semicon-storage.com^$important
 @@||tpucdn.com^$important
@@ -4361,6 +4377,8 @@
 @@||tracker.cubonegro.lol^$important
 @@||tracker.cyberia.is^$important
 @@||tracker.darkness.services^$important
+@@||tracker.ddunlimited.net^$important
+@@||tracker.deadorbit.nl^$important
 @@||tracker.dler.com^$important
 @@||tracker.dler.org^$important
 @@||tracker.doko.moe^$important
@@ -4381,6 +4399,7 @@
 @@||tracker.ipv6tracker.ru^$important
 @@||tracker.jamesthebard.net^$important
 @@||tracker.jdx3.org^$important
+@@||tracker.jonaslsa.com^$important
 @@||tracker.jordan.im^$important
 @@||tracker.k.vu^$important
 @@||tracker.kuroy.me^$important
@@ -4390,6 +4409,8 @@
 @@||tracker.lilithraws.org^$important
 @@||tracker.loligirl.cn^$important
 @@||tracker.mirrorbay.org^$important
+@@||tracker.mlsub.net^$important
+@@||tracker.moeblog.cn^$important
 @@||tracker.moeking.me^$important
 @@||tracker.monitorit4.me^$important
 @@||tracker.mywaifu.best^$important
@@ -4401,10 +4422,12 @@
 @@||tracker.pirateparty.gr^$important
 @@||tracker.piratepublic.com^$important
 @@||tracker.pomf.se^$important
+@@||tracker.publicbt.com^$important
 @@||tracker.publictracker.xyz^$important
 @@||tracker.qu.ax^$important
 @@||tracker.renfei.net^$important
 @@||tracker.rev.pm^$important
+@@||tracker.silksa.co.za^$important
 @@||tracker.skynetcloud.site^$important
 @@||tracker.skyts.net^$important
 @@||tracker.slowcheetah.org^$important
@@ -4424,6 +4447,8 @@
 @@||tracker.tryhackx.org^$important
 @@||tracker.uw0.xyz^$important
 @@||tracker.vds.nz^$important
+@@||tracker.xor.st^$important
+@@||tracker.yangxiaoguozi.cn^$important
 @@||tracker.yemekyedim.com^$important
 @@||tracker.zer0day.to^$important
 @@||tracker1.520.jp^$important
@@ -4433,6 +4458,7 @@
 @@||tracker2.dler.com^$important
 @@||tracker2.dler.org^$important
 @@||tracker2.itzmx.com^$important
+@@||tracker3.ctix.cn^$important
 @@||tracker4.itzmx.com^$important
 @@||trackerfix.com^$important
 @@||trackersimulator.org^$important
@@ -4613,6 +4639,7 @@
 @@||v.tampermonkey.net^$important
 @@||v0.wordpress.com^$important
 @@||v20.events.data.microsoft.com^$important
+@@||v6-tracker.0g.cx^$important
 @@||vanilla.futurecdn.net^$important
 @@||vas.samsungapps.com^$important
 @@||vault.bitwarden.com^$important
@@ -5144,6 +5171,7 @@
 @@||www.voidtools.com^$important
 @@||www.wagnardsoft.com^$important
 @@||www.wallpaperengine.io^$important
+@@||www.wareztorrent.com^$important
 @@||www.warframe.com^$important
 @@||www.westerndigital.com^$important
 @@||www.westfield.com.au^$important

@@ -673,6 +673,7 @@
 @@||users.gog.com^$important
 @@||users.nexusmods.com^$important
 @@||video.akamai.steamstatic.com^$important
+@@||video.akamai.steamstatic.com^$important
 @@||video.api.playstation.com^$important
 @@||video.dl.playstation.net^$important
 @@||video.playstation.com^$important

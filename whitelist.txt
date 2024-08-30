@@ -4677,6 +4677,7 @@
 @@||video-nss.xhcdn.com^$important
 @@||video-weaver.syd*.hls.ttvnw.net^$important
 @@||video.akamai.steamstatic.com^$important
+@@||video.akamai.steamstatic.com^$important
 @@||video.api.playstation.com^$important
 @@||video.dl.playstation.net^$important
 @@||video.google.com^$important

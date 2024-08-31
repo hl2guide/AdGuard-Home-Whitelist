@@ -111,6 +111,7 @@
 @@||docs.freebsd.org^$important
 @@||docs.rockylinux.org^$important
 @@||download*.vmware.com^$important
+@@||download.copr.fedorainfracloud.org^$important
 @@||download.fedoraproject.org^$important
 @@||download.freebsd.org^$important
 @@||download.kde.org^$important

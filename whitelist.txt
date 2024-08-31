@@ -1507,6 +1507,7 @@
 @@||download.acronis.com^$important
 @@||download.adguard.com^$important
 @@||download.anydesk.com^$important
+@@||download.copr.fedorainfracloud.org^$important
 @@||download.cpuid.com^$important
 @@||download.db-ip.com^$important
 @@||download.dm.origin.com^$important
@@ -3258,6 +3259,8 @@
 @@||osiprodwusodcspstoa01.blob.core.windows.net^$important
 @@||ossmirror.mycloud.services^$important
 @@||ota.nvidia.com^$important
+@@||otn*.samsungcloudcdn.com^$important
+@@||otnprd*.samsungcloudsolution.net^$important
 @@||ouo.io^$important
 @@||ouo.press^$important
 @@||outlook-*.cdn.office.net^$important

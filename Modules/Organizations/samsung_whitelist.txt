@@ -37,6 +37,8 @@
 @@||notice.samsungcloudsolution.com^$important
 @@||oempprd.samsungcloudsolution.com^$important
 @@||osb-ussvc.samsungqbe.com^$important
+@@||otn*.samsungcloudcdn.com^$important
+@@||otnprd*.samsungcloudsolution.net^$important
 @@||play.samsungcloud.com^$important
 @@||policy.samsungcloud.com^$important
 @@||rc.samsungweather.com^$important
@@ -54,4 +56,5 @@
 @@||www.samsung.com^$important
 @@||www.samsungotn.net^$important
 @@||ypu.samsungelectronics.com^$important
+@@||zpu.samsungelectronics.com^$important
 @@||zpu.samsungelectronics.com^$important

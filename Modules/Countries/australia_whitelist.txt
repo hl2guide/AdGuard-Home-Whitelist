@@ -49,6 +49,7 @@
 @@||chemistdirect.com.au^$important
 @@||cnstrc.com^$important
 @@||coles.com.au^$important
+@@||computerparts.centrecom.com.au^$important
 @@||computers.mwave.com.au^$important
 @@||content.mwave.com.au^$important
 @@||covid-check-in-self-form-prod.apps.pcf-ext.service.nsw.gov.au^$important
@@ -184,6 +185,7 @@
 @@||www.binglee.com.au^$important
 @@||www.bunnings.com.au^$important
 @@||www.canstarblue.com.au^$important
+@@||www.centrecom.com.au^$important
 @@||www.chemistwarehouse.com.au^$important
 @@||www.coles.com.au^$important
 @@||www.comparebroadband.com.au^$important
@@ -223,6 +225,7 @@
 @@||www.nsw.gov.au^$important
 @@||www.officeworks.com.au^$important
 @@||www.opal.com.au^$important
+@@||www.ozbargain.com.au^$important
 @@||www.passports.gov.au^$important
 @@||www.pharmacy4less.com.au^$important
 @@||www.police.nsw.gov.au^$important

@@ -114,6 +114,7 @@
 @@||ftp.fau.de^$important
 @@||gateway.userstyles.org^$important
 @@||get.activated.win^$important
+@@||getsession.org^$important
 @@||global.discourse-cdn.com^$important
 @@||go.acronis.com^$important
 @@||go.getproton.me^$important
@@ -244,6 +245,7 @@
 @@||www.eset.com^$important
 @@||www.filepuma.com^$important
 @@||www.filescan.io^$important
+@@||www.getsession.org^$important
 @@||www.glarysoft.com^$important
 @@||www.glenn.delahoy.com^$important
 @@||www.grc.com^$important

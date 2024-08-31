@@ -1149,6 +1149,7 @@
 @@||compass-ssl.xboxlive.com^$important
 @@||compass.xbox.com^$important
 @@||componentupdater.brave.com^$important
+@@||computerparts.centrecom.com.au^$important
 @@||computers.mwave.com.au^$important
 @@||computers.scorptec.com.au^$important
 @@||concierge.live.com^$important
@@ -2074,6 +2075,7 @@
 @@||getfedora.org^$important
 @@||getmusicbee.com^$important
 @@||getprof.sg.np.community.playstation.net^$important
+@@||getsession.org^$important
 @@||getsharex.com^$important
 @@||getsol.us^$important
 @@||gfe.nvidia.com^$important
@@ -4677,7 +4679,6 @@
 @@||video-nss.xhcdn.com^$important
 @@||video-weaver.syd*.hls.ttvnw.net^$important
 @@||video.akamai.steamstatic.com^$important
-@@||video.akamai.steamstatic.com^$important
 @@||video.api.playstation.com^$important
 @@||video.dl.playstation.net^$important
 @@||video.google.com^$important
@@ -4866,6 +4867,7 @@
 @@||www.camwhoresbay.com^$important
 @@||www.candisoft.com^$important
 @@||www.canstarblue.com.au^$important
+@@||www.centrecom.com.au^$important
 @@||www.cfos.de^$important
 @@||www.cfosspeed.de^$important
 @@||www.chemistwarehouse.com.au^$important
@@ -4946,6 +4948,7 @@
 @@||www.gentoo.org^$important
 @@||www.getmusicbee.com^$important
 @@||www.getpaint.net^$important
+@@||www.getsession.org^$important
 @@||www.ghacks.net^$important
 @@||www.gigabyte.com^$important
 @@||www.github.com^$important
@@ -5068,6 +5071,7 @@
 @@||www.oracle.com^$important
 @@||www.origin.com^$important
 @@||www.outlook.com^$important
+@@||www.ozbargain.com.au^$important
 @@||www.palemoon.org^$important
 @@||www.partimage.org^$important
 @@||www.passports.gov.au^$important

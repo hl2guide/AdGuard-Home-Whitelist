@@ -2331,6 +2331,7 @@
 @@||iir.blizzard.com^$important
 @@||im.twitch.tv^$important
 @@||image-cdn-ak.spotifycdn.com^$important
+@@||image.e.stgeorge.com.au^$important
 @@||image.engage.xbox.com^$important
 @@||image.flaticon.com^$important
 @@||image.samsung.com^$important
@@ -2665,6 +2666,7 @@
 @@||login.my.gov.au^$important
 @@||login.nvgs.nvidia.com^$important
 @@||login.nvidia.com^$important
+@@||login.steampowered.com^$important
 @@||login.sydneywater.com.au^$important
 @@||login.wikimedia.org^$important
 @@||login.windows.net^$important
@@ -3833,6 +3835,7 @@
 @@||share.dmca.gripe^$important
 @@||shared-static-prod.epicgames.com^$important
 @@||shared.akamai.steamstatic.com^$important
+@@||shared.steamstatic.com^$important
 @@||shasta-rrs.norton.com^$important
 @@||shavar.prod.mozaws.net^$important
 @@||shavar.services.mozilla.com^$important

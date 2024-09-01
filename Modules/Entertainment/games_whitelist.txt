@@ -355,6 +355,7 @@
 @@||login.gog.com^$important
 @@||login.nvgs.nvidia.com^$important
 @@||login.nvidia.com^$important
+@@||login.steampowered.com^$important
 @@||lp.gog.com^$important
 @@||ls.dtrace.nvidia.com^$important
 @@||lvlt.bioware.cdn.ea.com^$important
@@ -545,6 +546,7 @@
 @@||share-play.cdn.ubisoft.com^$important
 @@||shared-static-prod.epicgames.com^$important
 @@||shared.akamai.steamstatic.com^$important
+@@||shared.steamstatic.com^$important
 @@||sigma.ubi.com^$important
 @@||signin.ea.com^$important
 @@||signin.rockstargames.com^$important
@@ -672,7 +674,6 @@
 @@||useast1-public.aws-ubiservices.ubi.com^$important
 @@||users.gog.com^$important
 @@||users.nexusmods.com^$important
-@@||video.akamai.steamstatic.com^$important
 @@||video.akamai.steamstatic.com^$important
 @@||video.api.playstation.com^$important
 @@||video.dl.playstation.net^$important

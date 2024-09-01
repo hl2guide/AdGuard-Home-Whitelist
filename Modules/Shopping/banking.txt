@@ -21,6 +21,7 @@
 @@||gos-api.gos-gsp.io^$important
 @@||gw-public.api.stgeorge.com.au^$important
 @@||ib.nab.com.au^$important
+@@||image.e.stgeorge.com.au^$important
 @@||ingdirect.d1.sc.omtrdc.net^$important
 @@||k8s-istiosys-istioing-245f3491e8-20c60ff33b9fb931.elb.ap-southeast-2.amazonaws.com^$important
 @@||link.anz.com^$important

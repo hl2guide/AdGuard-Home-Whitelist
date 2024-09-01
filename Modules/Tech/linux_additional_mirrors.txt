@@ -203,6 +203,7 @@
 @@||mirrors.ptisp.pt^$important
 @@||mirrors.ptisp.pt^$important
 @@||mirrors.rit.edu^$important
+@@||mirrors.rpmfusion.org^$important
 @@||mirrors.sth.sze.hu^$important
 @@||mirrors.syringanetworks.net^$important
 @@||mirrors.tscak.com^$important

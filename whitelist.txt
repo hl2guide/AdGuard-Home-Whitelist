@@ -767,6 +767,7 @@
 @@||bromite.org^$important
 @@||browser.events.data.microsoft.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
+@@||browser.samsungcloudcdn.com^$important
 @@||browserbench.org^$important
 @@||bt.uniondht.org^$important
 @@||bt1.archive.org^$important
@@ -959,6 +960,7 @@
 @@||cdn1-ht-thumbnails.pornerbros.com^$important
 @@||cdn1.downdetector.com^$important
 @@||cdn1.esetstatic.com^$important
+@@||cdn1.thm.stgeorge.com.au^$important
 @@||cdn1.unrealengine.com^$important
 @@||cdn1.xda-developers.com^$important
 @@||cdn11.bigcommerce.com^$important
@@ -1158,6 +1160,7 @@
 @@||config.hulu.com^$important
 @@||config.teams.microsoft.com^$important
 @@||config.uca.cloud.unity3d.com^$important
+@@||configprd.samsungcloudsolution.net^$important
 @@||configuration.apple.com.akadns.net^$important
 @@||confluence.ea.com^$important
 @@||conncheck.opensuse.org^$important
@@ -1634,6 +1637,7 @@
 @@||eds.xboxlive.com^$important
 @@||education.github.com^$important
 @@||eff.org^$important
+@@||eforms.stgeorge.com.au^$important
 @@||egp-idsoc-proxy-prod.ol.epicgames.com^$important
 @@||ei.phprcdn.com^$important
 @@||ekr.zdassets.com^$important
@@ -3145,6 +3149,7 @@
 @@||o.xbox.com^$important
 @@||o741402.ingest.sentry.io^$important
 @@||oak-public-service-prod.ol.epicgames.com^$important
+@@||oao.stgeorge.com.au^$important
 @@||oapi.opalsystems.com.au^$important
 @@||oauth.accounts.firefox.com^$important
 @@||oauth.live.com^$important
@@ -3254,7 +3259,10 @@
 @@||originassets.akamaized.net^$important
 @@||orsp-c1-ane1.aws.orsp.f-secure.com^$important
 @@||orsp.f-secure.com^$important
+@@||osb-apps.samsungqbe.com^$important
+@@||osb-tnc-v2-appsacc.samsungqbe.com^$important
 @@||osb-ussvc.samsungqbe.com^$important
+@@||osb-v1-alb.samsungqbe.com^$important
 @@||osdn.net^$important
 @@||osiprodwusodcspstoa01.blob.core.windows.net^$important
 @@||ossmirror.mycloud.services^$important
@@ -4130,6 +4138,7 @@
 @@||steamusercontent-a.akamaihd.net^$important
 @@||steamuserimages-a.akamaihd.net^$important
 @@||stgeorge.com.au.ssl.sc.omtrdc.net^$important
+@@||stgeorge.com.au^$important
 @@||stitcher.acast.com^$important
 @@||stockservice.vimeo.com^$important
 @@||storage-asset.msi.com^$important

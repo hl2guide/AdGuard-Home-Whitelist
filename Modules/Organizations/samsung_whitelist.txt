@@ -9,12 +9,14 @@
 @@||as2rgn.file.samsungcloud.com^$important
 @@||au-odc.samsungapps.com^$important
 @@||az-dn.gw.samsungapps.com^$important
+@@||browser.samsungcloudcdn.com^$important
 @@||capi.samsungcloud.com^$important
 @@||cdn-*.nflximg.com^$important
 @@||cdn.samsung.com^$important
 @@||cdn.samsungcloudsolution.com^$important
 @@||cfota*.ospserver.net^$important
 @@||chbusiness.samsung.com^$important
+@@||configprd.samsungcloudsolution.net^$important
 @@||contactus.samsung.com^$important
 @@||dc.di.atlas.samsung.com^$important
 @@||dc.dqa.samsung.com^$important
@@ -36,7 +38,10 @@
 @@||music.samsung.com^$important
 @@||notice.samsungcloudsolution.com^$important
 @@||oempprd.samsungcloudsolution.com^$important
+@@||osb-apps.samsungqbe.com^$important
+@@||osb-tnc-v2-appsacc.samsungqbe.com^$important
 @@||osb-ussvc.samsungqbe.com^$important
+@@||osb-v1-alb.samsungqbe.com^$important
 @@||otn*.samsungcloudcdn.com^$important
 @@||otnprd*.samsungcloudsolution.net^$important
 @@||play.samsungcloud.com^$important

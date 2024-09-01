@@ -9,12 +9,14 @@
 @@||assets.anz.com^$important
 @@||brand-messenger.app.khoros.com^$important
 @@||c3.shared.global.fastly.net^$important
+@@||cdn1.thm.stgeorge.com.au^$important
 @@||clientstream-ga.launchdarkly.com^$important
 @@||collect.nab.com.au^$important
 @@||digital-api.stgeorge.com.au^$important
 @@||digital-api.westpac.com.au^$important
 @@||dpm.demdex.net^$important
 @@||edge-geo.nc0.co^$important
+@@||eforms.stgeorge.com.au^$important
 @@||epdg.epc.mnc001.mcc505.pub.3gppnetwork.org^$important
 @@||gos-api.gos-gsp.io^$important
 @@||gw-public.api.stgeorge.com.au^$important
@@ -24,9 +26,11 @@
 @@||link.anz.com^$important
 @@||nab.com.au.ssl.d1.sc.omtrdc.net^$important
 @@||nationalaustraliaban.tt.omtrdc.net^$important
+@@||oao.stgeorge.com.au^$important
 @@||proactive-chat-server-ap.prod.aws.lcloud.com^$important
 @@||sst.nab.com.au^$important
 @@||stgeorge.com.au.ssl.sc.omtrdc.net^$important
+@@||stgeorge.com.au^$important
 @@||tags.nab.com.au^$important
 @@||westpac.com.au^$important
 @@||westpacbankinggroup.sc.omtrdc.net^$important

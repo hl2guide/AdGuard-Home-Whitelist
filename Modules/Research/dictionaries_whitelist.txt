@@ -1,4 +1,4 @@
-@@||merriam-webster.com^$important
-@@||www.collinsdictionary.com^$important
-@@||www.dictionary.com^$important
-@@||www.merriam-webster.com^$important
+@@|merriam-webster.com^$important
+@@|www.collinsdictionary.com^$important
+@@|www.dictionary.com^$important
+@@|www.merriam-webster.com^$important

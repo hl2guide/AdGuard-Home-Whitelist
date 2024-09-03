@@ -1,4 +1,4 @@
-# Testing Rules - 2022-12-27 11:58:10PM
+# Testing Rules - 2024-09-03 12:43:25 +1000
 
 # Tech
 @@|darkreader.org^$important

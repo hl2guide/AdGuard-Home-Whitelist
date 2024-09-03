@@ -1,1 +1,1 @@
-@@||copilot.microsoft.com^$important
+@@|copilot.microsoft.com^$important

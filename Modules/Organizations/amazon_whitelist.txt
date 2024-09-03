@@ -1,6 +1,6 @@
-@@||amazon.com.au^$important
-@@||apx-security.amazon.com.au^$important
-@@||c.media-amazon.com^$important
-@@||fls-fe.amazon.com.au^$important
-@@||images-fe.ssl-images-amazon.com^$important
-@@||unagi-fe.amazon.com^$important
+@@|amazon.com.au^$important
+@@|apx-security.amazon.com.au^$important
+@@|c.media-amazon.com^$important
+@@|fls-fe.amazon.com.au^$important
+@@|images-fe.ssl-images-amazon.com^$important
+@@|unagi-fe.amazon.com^$important

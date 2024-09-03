@@ -1,1 +1,1 @@
-@@||sdk.virtualearth.net^$important
+@@|sdk.virtualearth.net^$important

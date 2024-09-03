@@ -1,8 +1,8 @@
-# @@||www.simplemobiletools.com^$important
-@@||air-quality-api.open-meteo.com^$important
-@@||api.open-meteo.com^$important
-@@||api.rainviewer.com^$important
-@@||apt.izzysoft.de^$important
-@@||archive.newpipe.net^$important
-@@||bdwm.be^$important
-@@||clipsync.bdwm.be^$important
+# @@|www.simplemobiletools.com^$important
+@@|air-quality-api.open-meteo.com^$important
+@@|api.open-meteo.com^$important
+@@|api.rainviewer.com^$important
+@@|apt.izzysoft.de^$important
+@@|archive.newpipe.net^$important
+@@|bdwm.be^$important
+@@|clipsync.bdwm.be^$important

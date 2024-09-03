@@ -1094,6 +1094,7 @@
 @@|cloud.githubusercontent.com^$important
 @@|cloud.hitmanpro.com^$important
 @@|cloud.icons8.com^$important
+@@|cloudflare-dns.com^$important
 @@|cloudflare.com^$important
 @@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
@@ -1783,6 +1784,7 @@
 @@|fd-assets.prod.atl-paas.net^$important
 @@|fd-config.us-east-1.prod.public.atl-paas.net^$important
 @@|fd.api.iris.microsoft.com^$important
+@@|fdroid.getsession.org^$important
 @@|fdroid.gitlab.io^$important
 @@|fdroid.tetaneutral.net^$important
 @@|fe.dealclub.de^$important
@@ -2988,6 +2990,8 @@
 @@|mobile.kaspersky.com^$important
 @@|mobile.launchdarkly.com^$important
 @@|mobile.paypal.com^$important
+@@|mobilemaps-pa-gz.googleapis.com^$important
+@@|mobilemaps.googleapis.com^$important
 @@|moddb.com^$important
 @@|modding.wiki^$important
 @@|modernb.akamai.odsp.cdn.office.net^$important
@@ -3263,6 +3267,7 @@
 @@|orsp-c1-ane1.aws.orsp.f-secure.com^$important
 @@|orsp.f-secure.com^$important
 @@|osb-apps.samsungqbe.com^$important
+@@|osb-auth-ussvc.samsungqbe.com^$important
 @@|osb-tnc-v2-appsacc.samsungqbe.com^$important
 @@|osb-ussvc.samsungqbe.com^$important
 @@|osb-v1-alb.samsungqbe.com^$important
@@ -3426,6 +3431,7 @@
 @@|playnite.link^$important
 @@|playstation.com^$important
 @@|playstation.net^$important
+@@|playstoregatewayadapter-pa.googleapis.com^$important
 @@|plex.tv^$important
 @@|pls.dyinglightgame.com^$important
 @@|plugins.grayjay.app^$important
@@ -3506,6 +3512,7 @@
 @@|prod.cloud.rockstargames.com^$important
 @@|prod.disqus.map.fastlylb.net^$important
 @@|prod.intellicode.vsengsaas.visualstudio.com^$important
+@@|prod.otel.kaizen.nvidia.com^$important
 @@|prod.rewardsplatform.microsoft.com^$important
 @@|prod.ros.rockstargames.com^$important
 @@|prod.scorptec.com.au^$important
@@ -3657,6 +3664,7 @@
 @@|res-1.cdn.office.net^$important
 @@|res.cdn.office.net^$important
 @@|res.cloudinary.com^$important
+@@|res.update.nab.com.au^$important
 @@|res.windscribe.com^$important
 @@|rescuezilla.com^$important
 @@|reshade.me^$important
@@ -3738,6 +3746,7 @@
 @@|safebrowsing.brave.com^$important
 @@|safebrowsing.googleapis.com^$important
 @@|salesforce.com^$important
+@@|samsung-callerprofile.edge.hiyaapi.com^$important
 @@|samsung.com^$important
 @@|samsungvr.com^$important
 @@|sara.cdntrex.com^$important
@@ -4658,6 +4667,7 @@
 @@|ussus1westprod.blob.core.windows.net^$important
 @@|ussus2eastprod.blob.core.windows.net^$important
 @@|ussus3eastprod.blob.core.windows.net^$important
+@@|usw22.playlist.ttvnw.net^$important
 @@|v-tiles.downdetector.com^$important
 @@|v.firebog.net^$important
 @@|v.tampermonkey.net^$important
@@ -4979,6 +4989,7 @@
 @@|www.gpsoft.com.au^$important
 @@|www.grc.com^$important
 @@|www.gstatic.com^$important
+@@|www.gumtree.com.au^$important
 @@|www.guru3d.com^$important
 @@|www.guru99.com^$important
 @@|www.gyan.dev^$important

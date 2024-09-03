@@ -56,6 +56,7 @@
 @@|cfcdn.neosmart.net^$important
 @@|check.dns.sh^$important
 @@|clearurls.xyz^$important
+@@|cloudflare-dns.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
 @@|community.brave.com^$important
 @@|community.intel.com^$important
@@ -102,6 +103,7 @@
 @@|evernotesupport.zendesk.com^$important
 @@|eviltracker.net^$important
 @@|extensionworkshop.com^$important
+@@|fdroid.getsession.org^$important
 @@|feedback.eset.com^$important
 @@|filefactory.us6.list-manage.com^$important
 @@|filezilla-project.org^$important

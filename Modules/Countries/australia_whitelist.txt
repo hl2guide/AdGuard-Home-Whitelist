@@ -205,6 +205,7 @@
 @@|www.fbigaming.com.au^$important
 @@|www.google.com.au^$important
 @@|www.gpsoft.com.au^$important
+@@|www.gumtree.com.au^$important
 @@|www.harveynorman.com.au^$important
 @@|www.health.gov.au^$important
 @@|www.health.nsw.gov.au^$important

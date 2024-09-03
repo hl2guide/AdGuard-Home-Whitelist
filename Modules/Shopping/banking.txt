@@ -29,6 +29,7 @@
 @@|nationalaustraliaban.tt.omtrdc.net^$important
 @@|oao.stgeorge.com.au^$important
 @@|proactive-chat-server-ap.prod.aws.lcloud.com^$important
+@@|res.update.nab.com.au^$important
 @@|sst.nab.com.au^$important
 @@|stgeorge.com.au.ssl.sc.omtrdc.net^$important
 @@|stgeorge.com.au^$important

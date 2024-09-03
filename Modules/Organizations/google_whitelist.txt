@@ -123,6 +123,8 @@
 @@|maps.gstatic.com^$important
 @@|meet.google.com^$important
 @@|messages.google.com^$important
+@@|mobilemaps-pa-gz.googleapis.com^$important
+@@|mobilemaps.googleapis.com^$important
 @@|mt.googleapis.com^$important
 @@|music.plus.google.com^$important
 @@|music.youtube.com^$important
@@ -149,6 +151,7 @@
 @@|play-lh.googleusercontent.com^$important
 @@|play.google.com^$important
 @@|play.googleapis.com^$important
+@@|playstoregatewayadapter-pa.googleapis.com^$important
 @@|plus.google.com^$important
 @@|plus.l.google.com^$important
 @@|podcasts.google.com^$important

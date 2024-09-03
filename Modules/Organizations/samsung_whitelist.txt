@@ -39,6 +39,7 @@
 @@|notice.samsungcloudsolution.com^$important
 @@|oempprd.samsungcloudsolution.com^$important
 @@|osb-apps.samsungqbe.com^$important
+@@|osb-auth-ussvc.samsungqbe.com^$important
 @@|osb-tnc-v2-appsacc.samsungqbe.com^$important
 @@|osb-ussvc.samsungqbe.com^$important
 @@|osb-v1-alb.samsungqbe.com^$important
@@ -47,6 +48,7 @@
 @@|play.samsungcloud.com^$important
 @@|policy.samsungcloud.com^$important
 @@|rc.samsungweather.com^$important
+@@|samsung-callerprofile.edge.hiyaapi.com^$important
 @@|sas.samsungcloudsolution.com^$important
 @@|searchapi.samsung.com^$important
 @@|spapi-prd.samsungrs.com^$important
@@ -61,5 +63,4 @@
 @@|www.samsung.com^$important
 @@|www.samsungotn.net^$important
 @@|ypu.samsungelectronics.com^$important
-@@|zpu.samsungelectronics.com^$important
 @@|zpu.samsungelectronics.com^$important

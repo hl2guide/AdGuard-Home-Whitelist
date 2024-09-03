@@ -61,6 +61,7 @@
 @@|cryptauthvault.googleapis.com^$important
 @@|csd-apt-sea-d-3.southeastasia.cloudapp.azure.com^$important
 @@|developers.google.com^$important
+@@|deviceintegritytokens-pa.googleapis.com^$important
 @@|dl.google.com^$important
 @@|doc-*-docs.googleusercontent.com^$important
 @@|doc-*-drive-data-export.googleusercontent.com^$important
@@ -204,6 +205,7 @@
 @@|yt1.ggpht.com^$important
 @@|yt2.ggpht.com^$important
 @@|yt3.ggpht.com^$important
+@@|yt3.googleusercontent.com^$important
 @@|yt4.ggpht.com^$important
 @@|yt5.ggpht.com^$important
 @@|yt6.ggpht.com^$important

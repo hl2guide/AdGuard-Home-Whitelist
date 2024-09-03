@@ -132,6 +132,7 @@
 @@|fedora.mirror.digitalpacific.com.au^$important
 @@|fedora.mirror.liteserver.nl^$important
 @@|fedora.mirrorservice.org^$important
+@@|fedoraproject-updates-archive.fedoraproject.org^$important
 @@|fedoraproject.org^$important
 @@|flathub.org^$important
 @@|flatpak.elementary.io^$important

@@ -1,0 +1,16 @@
+@@|aaa00e5cffb63d634.awsglobalaccelerator.com^$important
+@@|access.broadcom.com^$important
+@@|downloads2.broadcom.com^$important
+@@|login.broadcom.com^$important
+@@|login.okta.com^$important
+@@|profile.broadcom.com.cdn.cloudflare.net^$important
+@@|profile.broadcom.com^$important
+@@|service.mtcaptcha.com^$important
+@@|service2.mtcaptcha.com^$important
+@@|static.broadcom.com^$important
+@@|support.broadcom.com.cdn.cloudflare.net^$important
+@@|support.broadcom.com^$important
+@@|vmware.com^$important
+@@|www.broadcom.com.cdn.cloudflare.net^$important
+@@|www.broadcom.com^$important
+@@|www.vmware.com.cdn.cloudflare.net^$important

@@ -5,7 +5,9 @@
 @@|api.glb.samsung-gamelauncher.com^$important
 @@|api.samsungcloud.com^$important
 @@|api.samsungconsent.com^$important
+@@|apps-multi-cdn.samsungcloudcdn.com^$important
 @@|apps.samsungcloudcdn.com^$important
+@@|apu.samsungelectronics.com^$important
 @@|as2rgn.file.samsungcloud.com^$important
 @@|au-odc.samsungapps.com^$important
 @@|az-dn.gw.samsungapps.com^$important
@@ -18,6 +20,7 @@
 @@|chbusiness.samsung.com^$important
 @@|configprd.samsungcloudsolution.net^$important
 @@|contactus.samsung.com^$important
+@@|cpu.samsungelectronics.com^$important
 @@|dc.di.atlas.samsung.com^$important
 @@|dc.dqa.samsung.com^$important
 @@|dms.ospserver.net^$important
@@ -43,6 +46,7 @@
 @@|osb-tnc-v2-appsacc.samsungqbe.com^$important
 @@|osb-ussvc.samsungqbe.com^$important
 @@|osb-v1-alb.samsungqbe.com^$important
+@@|osb-v1-ussvc.samsungqbe.com^$important
 @@|otn*.samsungcloudcdn.com^$important
 @@|otnprd*.samsungcloudsolution.net^$important
 @@|play.samsungcloud.com^$important
@@ -52,6 +56,7 @@
 @@|sas.samsungcloudsolution.com^$important
 @@|searchapi.samsung.com^$important
 @@|spapi-prd.samsungrs.com^$important
+@@|store.samsungcloudcdn.com^$important
 @@|time.samsungcloudsolution.com^$important
 @@|tvpndynamiclogopus.samsungcloud.tv^$important
 @@|tvpnlinupepgpus.samsungcloud.tv^$important
@@ -62,5 +67,6 @@
 @@|vas.samsungapps.com^$important
 @@|www.samsung.com^$important
 @@|www.samsungotn.net^$important
+@@|xpu.samsungelectronics.com^$important
 @@|ypu.samsungelectronics.com^$important
 @@|zpu.samsungelectronics.com^$important

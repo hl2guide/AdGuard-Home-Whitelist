@@ -486,6 +486,7 @@
 @@|appldnld.apple.com^$important
 @@|appleid.apple.com^$important
 @@|apply.service.nsw.gov.au^$important
+@@|apps-multi-cdn.samsungcloudcdn.com^$important
 @@|apps.fedoraproject.org^$important
 @@|apps.microsoft.com^$important
 @@|apps.samsungcloudcdn.com^$important
@@ -499,6 +500,7 @@
 @@|apt.izzysoft.de^$important
 @@|apt.pop-os.org^$important
 @@|aptoide.com^$important
+@@|apu.samsungelectronics.com^$important
 @@|apx-security.amazon.com.au^$important
 @@|arbiter.warframe.com^$important
 @@|arc.com.au^$important
@@ -1222,6 +1224,7 @@
 @@|covid-check-in-self-form-prod.apps.pcf-ext.service.nsw.gov.au^$important
 @@|covid19-data.health.gov.au^$important
 @@|cp601.prod.do.dsp.mp.microsoft.com^$important
+@@|cpu.samsungelectronics.com^$important
 @@|cpuid.com^$important
 @@|cpwebassets.codepen.io^$important
 @@|crapblock.theel0ja.info^$important
@@ -1378,6 +1381,7 @@
 @@|device.auth.xboxlive.com^$important
 @@|device.maxmind.com^$important
 @@|devicebind.ebay.com.au^$important
+@@|deviceintegritytokens-pa.googleapis.com^$important
 @@|devices.netflix.com^$important
 @@|devuan.org^$important
 @@|dfat.gov.au^$important
@@ -3271,6 +3275,7 @@
 @@|osb-tnc-v2-appsacc.samsungqbe.com^$important
 @@|osb-ussvc.samsungqbe.com^$important
 @@|osb-v1-alb.samsungqbe.com^$important
+@@|osb-v1-ussvc.samsungqbe.com^$important
 @@|osdn.net^$important
 @@|osiprodwusodcspstoa01.blob.core.windows.net^$important
 @@|ossmirror.mycloud.services^$important
@@ -4181,6 +4186,7 @@
 @@|store.nvidia.com^$important
 @@|store.playstation.com^$important
 @@|store.rockstargames.com^$important
+@@|store.samsungcloudcdn.com^$important
 @@|store.sony.com^$important
 @@|store.steampowered.com^$important
 @@|store.ubi.com^$important
@@ -5267,6 +5273,7 @@
 @@|xkms.xboxlive.com^$important
 @@|xmpp-service-prod.ol.epicgames.com^$important
 @@|xnotify.xboxlive.com^$important
+@@|xpu.samsungelectronics.com^$important
 @@|xpui.app.spotify.com^$important
 @@|xsnews.us12.list-manage.com^$important
 @@|xsts.auth.xboxlive.com^$important
@@ -5295,6 +5302,7 @@
 @@|yt1.ggpht.com^$important
 @@|yt2.ggpht.com^$important
 @@|yt3.ggpht.com^$important
+@@|yt3.googleusercontent.com^$important
 @@|yt4.ggpht.com^$important
 @@|yt5.ggpht.com^$important
 @@|yt6.ggpht.com^$important

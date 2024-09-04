@@ -565,6 +565,7 @@
 @@|assets.umart.com.au^$important
 @@|assets.vimeo.com^$important
 @@|assets.windscribe.com^$important
+@@|assets.woolworths.com.au^$important
 @@|assets.www.cloudflare.com^$important
 @@|assets.xbox.com^$important
 @@|assets.xboxservices.com^$important
@@ -822,6 +823,7 @@
 @@|calendar-pa.clients*.google.com^$important
 @@|calendar.google.com^$important
 @@|calendar.protonmail.com^$important
+@@|calendarpushsubscription-pa.googleapis.com^$important
 @@|calendars.fe.apple-dns.net^$important
 @@|calendarsync-pa.googleapis.com^$important
 @@|camo.githubusercontent.com^$important
@@ -1574,6 +1576,7 @@
 @@|downloads3.fxsound.com^$important
 @@|dpgsrv.redmond.corp.microsoft.com^$important
 @@|dpm.demdex.net^$important
+@@|dpu.samsungelectronics.com^$important
 @@|dragonagekeep.com^$important
 @@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.fife.usercontent.google.com^$important
@@ -1666,6 +1669,7 @@
 @@|emea-storm.ubi.com^$important
 @@|emea01.safelinks.protection.outlook.com^$important
 @@|emerald.xboxservices.com^$important
+@@|empdownprd.samsungcloudsolution.com^$important
 @@|ems-delivery.api.playstation.com^$important
 @@|en.m.wikipedia.com^$important
 @@|en.m.wikipedia.org^$important
@@ -2547,6 +2551,7 @@
 @@|kmart.com.au^$important
 @@|kmart.com^$important
 @@|kmartau.mo.cloudinary.net^$important
+@@|kml.elections.nsw.gov.au^$important
 @@|knowledgebase.macrium.com^$important
 @@|koofr.eu^$important
 @@|kpu.samsungelectronics.com^$important
@@ -2747,6 +2752,7 @@
 @@|manpages.debian.org^$important
 @@|manpages.ubuntu.com^$important
 @@|map.bunnings.com.au^$important
+@@|map.elections.nsw.gov.au^$important
 @@|mapbox.com^$important
 @@|maps.google.com.au^$important
 @@|maps.google.com^$important
@@ -3094,6 +3100,7 @@
 @@|nexus-files.b-cdn.net^$important
 @@|nexus-media*.backblazeb2.com^$important
 @@|nexusmods.com^$important
+@@|nexusmods.statuspage.io^$important
 @@|nginx.org^$important
 @@|ngx.download.nvidia.com^$important
 @@|nightlies.videolan.org^$important
@@ -3282,6 +3289,7 @@
 @@|ota.nvidia.com^$important
 @@|otn*.samsungcloudcdn.com^$important
 @@|otnprd*.samsungcloudsolution.net^$important
+@@|ott-samsung.tubitv.com^$important
 @@|ouo.io^$important
 @@|ouo.press^$important
 @@|outlook-*.cdn.office.net^$important
@@ -3703,6 +3711,7 @@
 @@|rockstar-api.arkoselabs.com^$important
 @@|rockstargames.com^$important
 @@|rockylinux.org^$important
+@@|roll.elections.nsw.gov.au^$important
 @@|roosterteeth.com^$important
 @@|router*.teamviewer.com^$important
 @@|router-default.apps.openshift4.gnome.org^$important
@@ -4075,6 +4084,7 @@
 @@|static.freedownloadmanager.org^$important
 @@|static.gigabyte.com^$important
 @@|static.gumtree.com.au.peakhour.zone^$important
+@@|static.gumtree.com.au^$important
 @@|static.hsstatic.net^$important
 @@|static.icloud.com^$important
 @@|static.intercomassets.com^$important

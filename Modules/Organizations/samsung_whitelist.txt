@@ -24,6 +24,8 @@
 @@|dc.di.atlas.samsung.com^$important
 @@|dc.dqa.samsung.com^$important
 @@|dms.ospserver.net^$important
+@@|dpu.samsungelectronics.com^$important
+@@|empdownprd.samsungcloudsolution.com^$important
 @@|ers.samsungcloud.com^$important
 @@|ers.samsungcloudplatform.com^$important
 @@|eu.community.samsung.com^$important
@@ -49,6 +51,7 @@
 @@|osb-v1-ussvc.samsungqbe.com^$important
 @@|otn*.samsungcloudcdn.com^$important
 @@|otnprd*.samsungcloudsolution.net^$important
+@@|ott-samsung.tubitv.com^$important
 @@|play.samsungcloud.com^$important
 @@|policy.samsungcloud.com^$important
 @@|rc.samsungweather.com^$important

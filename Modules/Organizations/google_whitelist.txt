@@ -30,6 +30,7 @@
 @@|c.pki.goog^$important
 @@|calendar-pa.clients*.google.com^$important
 @@|calendar.google.com^$important
+@@|calendarpushsubscription-pa.googleapis.com^$important
 @@|calendarsync-pa.googleapis.com^$important
 @@|cbks0.googleapis.com^$important
 @@|chart.googleapis.com^$important

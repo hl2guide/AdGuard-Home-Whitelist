@@ -406,6 +406,7 @@
 @@|nexus-collections-temp.s3.*.backblazeb2.com^$important
 @@|nexus-media*.backblazeb2.com^$important
 @@|nexusmods.com^$important
+@@|nexusmods.statuspage.io^$important
 @@|nintendo.com^$important
 @@|nintendo.net^$important
 @@|notification.svc.halowaypoint.com^$important

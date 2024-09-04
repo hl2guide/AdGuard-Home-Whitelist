@@ -22,6 +22,7 @@
 @@|arc.com.au^$important
 @@|assets.msy.com.au^$important
 @@|assets.umart.com.au^$important
+@@|assets.woolworths.com.au^$important
 @@|ato.gov.au^$important
 @@|auspost.com.au^$important
 @@|auth.ato.gov.au^$important
@@ -91,6 +92,7 @@
 @@|k535caawve-dsn.algolia.net^$important
 @@|kmart.com.au^$important
 @@|kmartau.mo.cloudinary.net^$important
+@@|kml.elections.nsw.gov.au^$important
 @@|lifeblood.com.au^$important
 @@|link.orders.kmart.com.au^$important
 @@|login.my.gov.au^$important
@@ -98,6 +100,7 @@
 @@|logx.optimizely.com^$important
 @@|lowes.com.au^$important
 @@|map.bunnings.com.au^$important
+@@|map.elections.nsw.gov.au^$important
 @@|mcusercontent.com^$important
 @@|media.binglee.com.au^$important
 @@|media.prod.bunnings.com.au^$important
@@ -131,6 +134,7 @@
 @@|r3.whistleout.com.au^$important
 @@|remoteassistance.support.services.microsoft.com^$important
 @@|returnandearn.org.au^$important
+@@|roll.elections.nsw.gov.au^$important
 @@|s7ap1.scene7.com^$important
 @@|secure2.alphassl.com^$important
 @@|shop.aldi.com.au^$important
@@ -147,6 +151,7 @@
 @@|static.binglee.com.au^$important
 @@|static.chemistwarehouse.com.au^$important
 @@|static.comparebroadband.com.au^$important
+@@|static.gumtree.com.au^$important
 @@|store.aldi.com.au^$important
 @@|storelocator.aldi.com.au^$important
 @@|superhub.superloop.com^$important

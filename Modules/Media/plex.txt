@@ -1,0 +1,9 @@
+@@|community.plex.tv^$important
+@@|discover.provider.plex.tv^$important
+@@|epg.provider.plex.tv^$important
+@@|images.plex.tv^$important
+@@|metadata.provider.plex.tv^$important
+@@|music.provider.plex.tv^$important
+@@|provider-static.plex.tv^$important
+@@|pubsub.plex.tv^$important
+@@|vod.provider.plex.tv^$important

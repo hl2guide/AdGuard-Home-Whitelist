@@ -55,8 +55,8 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 
 ### Details 🧾
 
-* __Expected AdGuard Home Average RAM Usage:__ around 130MB
-* __Number of Rules:__ over 5200
+* __Expected AdGuard Home Average RAM Usage:__ around 60MB
+* __Number of Rules:__ over 5300
 
 ## Updates 👩‍💻
 

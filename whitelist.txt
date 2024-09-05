@@ -1233,6 +1233,7 @@
 @@|cpwebassets.codepen.io^$important
 @@|crapblock.theel0ja.info^$important
 @@|crash.steampowered.com^$important
+@@|crash.vivaldi.com^$important
 @@|crates.io^$important
 @@|crc.cyberlink.com^$important
 @@|creativecommons.org^$important
@@ -1550,6 +1551,7 @@
 @@|download.rockylinux.org^$important
 @@|download.sourceforge.net^$important
 @@|download.sqlitebrowser.org^$important
+@@|download.stgeorge.com.au^$important
 @@|download.sublimetext.com^$important
 @@|download.sysinternals.com^$important
 @@|download.teamviewer.com^$important
@@ -1786,6 +1788,7 @@
 @@|f4se.silverlock.org^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
+@@|fallout4london.com^$important
 @@|fan.twitch.tv^$important
 @@|fanboy.co.nz^$important
 @@|fandom.com^$important
@@ -1821,6 +1824,7 @@
 @@|fedora.mirror.wearetriple.com^$important
 @@|fedora.mirrorservice.org^$important
 @@|fedora.tu-chemnitz.de^$important
+@@|fedoraproject-updates-archive.fedoraproject.org^$important
 @@|fedoraproject.org^$important
 @@|feed.xda-developers.com^$important
 @@|feedback-pa.clients6.google.com^$important
@@ -2311,6 +2315,7 @@
 @@|i2.shared.global.fastly.net^$important
 @@|iad.mirror.rackspace.com^$important
 @@|ib.nab.com.au^$important
+@@|ibanking.stgeorge.com.au^$important
 @@|ic-ah.flixcdn.com^$important
 @@|ic-st-lm.xhcdn.com^$important
 @@|ic-tt-lm.xhcdn.com^$important
@@ -3295,6 +3300,7 @@
 @@|osdn.net^$important
 @@|osiprodwusodcspstoa01.blob.core.windows.net^$important
 @@|ossmirror.mycloud.services^$important
+@@|ostree.fedoraproject.org^$important
 @@|ota.nvidia.com^$important
 @@|otn*.samsungcloudcdn.com^$important
 @@|otnprd*.samsungcloudsolution.net^$important
@@ -4810,6 +4816,7 @@
 @@|web.vortex.data.microsoft.com^$important
 @@|web.vortex.data.trafficmanager.net^$important
 @@|webapp-cp-back.azurewebsites.net^$important
+@@|webapps.stgeorge.com.au^$important
 @@|webchat.kde.org^$important
 @@|webident.service.nsw.gov.au^$important
 @@|webinstallers.gog-statics.com^$important
@@ -4870,6 +4877,7 @@
 @@|wt.soundcloud.com^$important
 @@|wtfismyip.com^$important
 @@|wup-24f7f3c7.nab.com.au^$important
+@@|wup-2ffe60ee.stgeorge.com.au^$important
 @@|wup-d8814f41.commbank.com.au^$important
 @@|wus-streaming-video-rt-microsoft-com.akamaized.net^$important
 @@|wus-www.sway-cdn.com^$important
@@ -4980,6 +4988,7 @@
 @@|www.eway.com.au^$important
 @@|www.exetel.com.au^$important
 @@|www.f1techcomputers.com.au^$important
+@@|www.fallout4london.com^$important
 @@|www.fbigaming.com.au^$important
 @@|www.feyrer.de^$important
 @@|www.filefactory.com^$important

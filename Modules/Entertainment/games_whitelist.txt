@@ -235,6 +235,7 @@
 @@|f4se.silverlock.org^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
+@@|fallout4london.com^$important
 @@|fandom.com^$important
 @@|fast.fonts.net^$important
 @@|feedback.nexusmods.com^$important
@@ -702,6 +703,7 @@
 @@|www.dm.origin.com^$important
 @@|www.ea.com^$important
 @@|www.epicgames.com^$important
+@@|www.fallout4london.com^$important
 @@|www.fose.silverlock.org^$important
 @@|www.geforce.com^$important
 @@|www.gog.com^$important

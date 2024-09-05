@@ -269,6 +269,7 @@
 @@|opensuse.ipacct.com^$important
 @@|opensuse.mirrors.theom.nz^$important
 @@|osdn.net^$important
+@@|ostree.fedoraproject.org^$important
 @@|packages.linuxmint.com^$important
 @@|packages.zorinos.com^$important
 @@|pacman.archlinux.org^$important

@@ -66,6 +66,7 @@
 @@|cookiewatch.org^$important
 @@|countly.ipfs.io^$important
 @@|coveryourtracks.eff.org^$important
+@@|crash.vivaldi.com^$important
 @@|crl.*.amazontrust.com^$important
 @@|crl.rootg2.amazontrust.com^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important

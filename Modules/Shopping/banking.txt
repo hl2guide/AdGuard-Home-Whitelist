@@ -14,6 +14,7 @@
 @@|collect.nab.com.au^$important
 @@|digital-api.stgeorge.com.au^$important
 @@|digital-api.westpac.com.au^$important
+@@|download.stgeorge.com.au^$important
 @@|dpm.demdex.net^$important
 @@|edge-geo.nc0.co^$important
 @@|eforms.stgeorge.com.au^$important
@@ -21,6 +22,7 @@
 @@|gos-api.gos-gsp.io^$important
 @@|gw-public.api.stgeorge.com.au^$important
 @@|ib.nab.com.au^$important
+@@|ibanking.stgeorge.com.au^$important
 @@|image.e.stgeorge.com.au^$important
 @@|ingdirect.d1.sc.omtrdc.net^$important
 @@|k8s-istiosys-istioing-245f3491e8-20c60ff33b9fb931.elb.ap-southeast-2.amazonaws.com^$important
@@ -34,8 +36,10 @@
 @@|stgeorge.com.au.ssl.sc.omtrdc.net^$important
 @@|stgeorge.com.au^$important
 @@|tags.nab.com.au^$important
+@@|webapps.stgeorge.com.au^$important
 @@|westpac.com.au^$important
 @@|westpacbankinggroup.sc.omtrdc.net^$important
+@@|wup-2ffe60ee.stgeorge.com.au^$important
 @@|www.anz.com.au^$important
 @@|www.anz.com^$important
 @@|www.stgeorge.com.au^$important

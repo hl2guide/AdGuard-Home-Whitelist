@@ -181,6 +181,7 @@
 @@|safebrowsing*.brave.com^$important
 @@|samsung.com^$important
 @@|samsungvr.com^$important
+@@|schneegans.de^$important
 @@|screentogif-releases.azurewebsites.net^$important
 @@|security.cloudflare-dns.com^$important
 @@|sentry.internxt.com^$important
@@ -273,6 +274,7 @@
 @@|www.realtek.com^$important
 @@|www.rizonesoft.com^$important
 @@|www.safedns.com^$important
+@@|www.schneegans.de^$important
 @@|www.screentogif.com^$important
 @@|www.seagate.com^$important
 @@|www.slant.co^$important

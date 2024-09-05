@@ -160,6 +160,7 @@
 @@|plus.google.com^$important
 @@|plus.l.google.com^$important
 @@|podcasts.google.com^$important
+@@|proactivebackend-pa.googleapis.com^$important
 @@|prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 @@|r4---sn-npoe7n7y.googlevideo.com^$important
 @@|redirector.googlevideo.com^$important

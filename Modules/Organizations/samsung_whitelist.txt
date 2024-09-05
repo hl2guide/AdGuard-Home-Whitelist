@@ -57,6 +57,7 @@
 @@|rc.samsungweather.com^$important
 @@|samsung-callerprofile.edge.hiyaapi.com^$important
 @@|sas.samsungcloudsolution.com^$important
+@@|sdk.pushmessage.samsung.com^$important
 @@|searchapi.samsung.com^$important
 @@|spapi-prd.samsungrs.com^$important
 @@|store.samsungcloudcdn.com^$important

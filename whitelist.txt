@@ -3522,6 +3522,7 @@
 @@|privacytools.io^$important
 @@|private-user-images.githubusercontent.com^$important
 @@|proactive-chat-server-ap.prod.aws.lcloud.com^$important
+@@|proactivebackend-pa.googleapis.com^$important
 @@|prod-api-v2.production.rokfin.com^$important
 @@|prod-assets.wire.com^$important
 @@|prod-cleo.malwarebytes.com^$important
@@ -3788,6 +3789,7 @@
 @@|scan.hitmanpro.com^$important
 @@|scan.kaspersky.com^$important
 @@|scapi.rockstargames.com^$important
+@@|schneegans.de^$important
 @@|sciter.com^$important
 @@|scone-pa.clients6.google.com^$important
 @@|scoop.sh^$important
@@ -3800,6 +3802,7 @@
 @@|scrootca2.ocsp.secomtrust.net^$important
 @@|scui.rockstargames.com^$important
 @@|sd-images.operacdn.com^$important
+@@|sdk.pushmessage.samsung.com^$important
 @@|sdk.split.io^$important
 @@|sdk.virtualearth.net^$important
 @@|sdl.adaware.com^$important
@@ -5186,6 +5189,7 @@
 @@|www.samsung.com^$important
 @@|www.samsungotn.net^$important
 @@|www.scdn.co^$important
+@@|www.schneegans.de^$important
 @@|www.scorptec.com.au^$important
 @@|www.screentogif.com^$important
 @@|www.seagate.com^$important
@@ -5285,6 +5289,7 @@
 @@|x1streamingplans.azureedge.net^$important
 @@|x2.c.lencr.org^$important
 @@|xamarinstorage.blob.core.windows.net^$important
+@@|xapi.ing.com.au^$important
 @@|xblcx*.cloudapp.net^$important
 @@|xblmessaging.xboxlive.com^$important
 @@|xbox.com^$important

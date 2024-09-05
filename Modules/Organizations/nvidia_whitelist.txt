@@ -17,6 +17,7 @@
 @@|nvidia.com^$important
 @@|nvidia.tt.omtrdc.net^$important
 @@|omniverse-content-production.s3-us-west-2.amazonaws.com^$important
+@@|ops.gx.nvidia.com^$important
 @@|origin-api-forums.nvidia.com^$important
 @@|prod.otel.kaizen.nvidia.com^$important
 @@|public.games.geforce.com^$important

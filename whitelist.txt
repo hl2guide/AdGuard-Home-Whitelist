@@ -410,6 +410,7 @@
 @@|api.na-backend.odysee.com^$important
 @@|api.nab.com.au^$important
 @@|api.netflix.com^$important
+@@|api.nextthere.com^$important
 @@|api.nexusmods.com^$important
 @@|api.nfl.com^$important
 @@|api.nordvpn.com^$important
@@ -626,6 +627,7 @@
 @@|avatars.cloudflare.steamstatic.com^$important
 @@|avatars.discourse-cdn.com^$important
 @@|avatars.githubusercontent.com^$important
+@@|avatars.nexusmods.com^$important
 @@|avatars.slant.co^$important
 @@|avatars.steamstatic.com^$important
 @@|avatars0.githubusercontent.com^$important
@@ -1269,6 +1271,7 @@
 @@|css-tricks.com^$important
 @@|ctldl.windowsupdate.com^$important
 @@|curben.gitlab.io^$important
+@@|customer.api.nab.com.au^$important
 @@|customer.energyaustralia.com.au^$important
 @@|customerconnect.vmware.com^$important
 @@|cutefishos.com^$important
@@ -1858,7 +1861,9 @@
 @@|filters.adtidy.org^$important
 @@|filtersadguard.b-cdn.net^$important
 @@|fiona.cdntrex.com^$important
+@@|firebaseinappmessaging.googleapis.com^$important
 @@|firebaselogging-pa.googleapis.com^$important
+@@|firebaseremoteconfig.googleapis.com^$important
 @@|firefox-settings-attachments.cdn.mozilla.net^$important
 @@|firefox.com^$important
 @@|firstpartysimulator.net^$important
@@ -2388,6 +2393,7 @@
 @@|imageshack.com^$important
 @@|imagetwist.com^$important
 @@|imagizer.imageshack.com^$important
+@@|imasdk.googleapis.com^$important
 @@|img*.imagetwist.com^$important
 @@|img-*.cyberdrop.to^$important
 @@|img-*.xvideos-cdn.com^$important
@@ -2728,6 +2734,7 @@
 @@|madshi.net^$important
 @@|madvr.com^$important
 @@|madvrlabs.wpengine.com^$important
+@@|mail-api.proton.me^$important
 @@|mail-attachment.googleusercontent.com^$important
 @@|mail.google.com^$important
 @@|mail.hulu.com^$important
@@ -3232,6 +3239,7 @@
 @@|onsite2.researchintel.com^$important
 @@|oo-software.com^$important
 @@|opal.com.au^$important
+@@|opalconnect.transportnsw.info^$important
 @@|open-tracker.demonoid.ch^$important
 @@|open-vsx.org^$important
 @@|open.acgtracker.com^$important
@@ -3262,6 +3270,7 @@
 @@|openuserjs.org^$important
 @@|openvsxorg.blob.core.windows.net^$important
 @@|oppen.digital^$important
+@@|ops.gx.nvidia.com^$important
 @@|opva.elections.nsw.gov.au^$important
 @@|oracle.com^$important
 @@|orca.pet^$important
@@ -3522,6 +3531,7 @@
 @@|prod-tp.sumo.mozit.cloud^$important
 @@|prod-video-cms-rt-microsoft-com.akamaized.net^$important
 @@|prod-www.malwarebytes.com^$important
+@@|prod.client.wosc.services.microsoft.com^$important
 @@|prod.cloud.rockstargames.com^$important
 @@|prod.disqus.map.fastlylb.net^$important
 @@|prod.intellicode.vsengsaas.visualstudio.com^$important
@@ -5056,6 +5066,7 @@
 @@|www.linuxcompatible.org^$important
 @@|www.linuxmint.com^$important
 @@|www.localcdn.org^$important
+@@|www.macquariecentre.com.au^$important
 @@|www.macrium.com^$important
 @@|www.madvr.com^$important
 @@|www.majorgeeks.com^$important
@@ -5214,6 +5225,7 @@
 @@|www.ubisoft.com^$important
 @@|www.ubuntu.com^$important
 @@|www.ubuntupit.com^$important
+@@|www.umart.com.au^$important
 @@|www.unifiedremote.com^$important
 @@|www.unrealengine.com^$important
 @@|www.urbackup.org^$important

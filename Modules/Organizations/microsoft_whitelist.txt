@@ -386,6 +386,7 @@
 @@|privacy.microsoft.com^$important
 @@|privacy.xboxlive.com^$important
 @@|prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com^$important
+@@|prod.client.wosc.services.microsoft.com^$important
 @@|prod.rewardsplatform.microsoft.com^$important
 @@|products.office.com^$important
 @@|profile.xboxlive.com^$important

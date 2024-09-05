@@ -139,6 +139,7 @@
 @@|link.adtidy.org^$important
 @@|links.account.evernote.com^$important
 @@|linksnappy.com^$important
+@@|mail-api.proton.me^$important
 @@|mail.proton.me^$important
 @@|manage.macrium.com^$important
 @@|manage.ntppool.org^$important

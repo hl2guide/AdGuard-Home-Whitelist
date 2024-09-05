@@ -81,7 +81,9 @@
 @@|feedback-pa.clients6.google.com^$important
 @@|feedback.googleusercontent.com^$important
 @@|fi.google.com^$important
+@@|firebaseinappmessaging.googleapis.com^$important
 @@|firebaselogging-pa.googleapis.com^$important
+@@|firebaseremoteconfig.googleapis.com^$important
 @@|fonts.googleapis.com^$important
 @@|fonts.gstatic.com^$important
 @@|gds.google.com^$important
@@ -100,6 +102,7 @@
 @@|i.ytimg.com^$important
 @@|id.google.co.in^$important
 @@|id.google.com^$important
+@@|imasdk.googleapis.com^$important
 @@|img.youtube.com^$important
 @@|inbox.google.com^$important
 @@|keep.google.com^$important

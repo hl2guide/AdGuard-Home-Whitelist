@@ -13,6 +13,7 @@
 @@|api.kmart.com.au^$important
 @@|api.my.gov.au^$important
 @@|api.nab.com.au^$important
+@@|api.nextthere.com^$important
 @@|api.prod.bunnings.com.au^$important
 @@|api.target.com.au^$important
 @@|api2.ingdirect.com.au^$important
@@ -55,6 +56,7 @@
 @@|content.mwave.com.au^$important
 @@|covid-check-in-self-form-prod.apps.pcf-ext.service.nsw.gov.au^$important
 @@|covid19-data.health.gov.au^$important
+@@|customer.api.nab.com.au^$important
 @@|customer.energyaustralia.com.au^$important
 @@|cweb.myshopping.com.au^$important
 @@|data.nsw.gov.au^$important
@@ -125,6 +127,7 @@
 @@|onegov.nsw.gov.au^$important
 @@|onlineservices.ato.gov.au^$important
 @@|opal.com.au^$important
+@@|opalconnect.transportnsw.info^$important
 @@|opva.elections.nsw.gov.au^$important
 @@|order.ebay.com.au^$important
 @@|point.digital.nsw.gov.au^$important
@@ -221,6 +224,7 @@
 @@|www.jbhifi.com.au^$important
 @@|www.kmart.com.au^$important
 @@|www.lifeblood.com.au^$important
+@@|www.macquariecentre.com.au^$important
 @@|www.minidisc.com.au^$important
 @@|www.msy.com.au^$important
 @@|www.mwave.com.au^$important
@@ -242,6 +246,7 @@
 @@|www.sydneywater.com.au^$important
 @@|www.target.com.au^$important
 @@|www.thegoodguys.com.au^$important
+@@|www.umart.com.au^$important
 @@|www.westfield.com.au^$important
 @@|www.whistleout.com.au^$important
 @@|www.willoughby.nsw.gov.au^$important

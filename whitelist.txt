@@ -387,6 +387,7 @@
 @@|api.evernote.com^$important
 @@|api.feedburner.com^$important
 @@|api.fosshub.com^$important
+@@|api.frankerfacez.com^$important
 @@|api.g.service.nsw.gov.au^$important
 @@|api.giphy.com^$important
 @@|api.github.com^$important
@@ -1356,6 +1357,7 @@
 @@|deluge.readthedocs.io^$important
 @@|deploy.windscribe.com^$important
 @@|depositfiles.com^$important
+@@|desktop-config-integration.juno.ea.com^$important
 @@|desktop-config.juno.ea.com^$important
 @@|desktop-dna.osp.opera.software^$important
 @@|desktop.github.com^$important
@@ -3638,6 +3640,7 @@
 @@|rarbg.to^$important
 @@|rarbgmirror.org^$important
 @@|ratingsedge.rnr.microsoft.com^$important
+@@|ratt-dev.juno.ea.com^$important
 @@|ratt.juno.ea.com^$important
 @@|raw.blocklist.vsnz.net^$important
 @@|raw.github.com^$important
@@ -5044,6 +5047,7 @@
 @@|www.howtogeek.com^$important
 @@|www.https-rulesets.org^$important
 @@|www.humblebundle.com^$important
+@@|www.hwinfo.com^$important
 @@|www.i-dont-care-about-cookies.eu^$important
 @@|www.if-not-true-then-false.com^$important
 @@|www.images-home.com^$important

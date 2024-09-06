@@ -9,6 +9,7 @@
 @@|announcements.grayjay.app^$important
 @@|api-global.netflix.com^$important
 @@|api.dbdtwitch.com^$important
+@@|api.frankerfacez.com^$important
 @@|api.netflix.com^$important
 @@|api.twitch.tv^$important
 @@|api.vimeo.com^$important

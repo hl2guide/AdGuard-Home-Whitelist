@@ -180,6 +180,7 @@
 @@|datarouter.ol.epicgames.com^$important
 @@|datastorage-public-service-liveegs.live.use1a.on.epicgames.com^$important
 @@|de.playstation.com^$important
+@@|desktop-config-integration.juno.ea.com^$important
 @@|desktop-config.juno.ea.com^$important
 @@|directline.botframework.com^$important
 @@|dirtybits.api.origin.com^$important
@@ -508,6 +509,7 @@
 @@|r.razer.com^$important
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
+@@|ratt-dev.juno.ea.com^$important
 @@|ratt.juno.ea.com^$important
 @@|razer-assets2.s3.amazonaws.com^$important
 @@|razerid-assets.razerzone.com^$important

@@ -254,6 +254,7 @@
 @@|www.glarysoft.com^$important
 @@|www.glenn.delahoy.com^$important
 @@|www.grc.com^$important
+@@|www.hwinfo.com^$important
 @@|www.industry.gov.au^$important
 @@|www.intel.com^$important
 @@|www.izarc.org^$important

@@ -128,6 +128,7 @@
 @@|maps.gstatic.com^$important
 @@|meet.google.com^$important
 @@|messages.google.com^$important
+@@|mobile-webview.gmail.com^$important
 @@|mobilemaps-pa-gz.googleapis.com^$important
 @@|mobilemaps.googleapis.com^$important
 @@|mt.googleapis.com^$important
@@ -149,6 +150,7 @@
 @@|payments.google.com^$important
 @@|people-pa.clients*.google.com^$important
 @@|peoplestack-pa.clients6.google.com^$important
+@@|peoplestack-pa.googleapis.com^$important
 @@|photo.plus.google.com^$important
 @@|photos-ugc.l.googleusercontent.com^$important
 @@|photos.google.com^$important
@@ -187,6 +189,7 @@
 @@|talk.google.com^$important
 @@|talk.l.google.com^$important
 @@|taskassist-pa.clients6.google.com^$important
+@@|taskassist-pa.googleapis.com^$important
 @@|tasks-pa.clients6.google.com^$important
 @@|tasks-pa.googleapis.com^$important
 @@|timeline.google.com^$important

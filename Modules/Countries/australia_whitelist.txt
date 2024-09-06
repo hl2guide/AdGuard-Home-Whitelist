@@ -66,6 +66,7 @@
 @@|ebay.com.au^$important
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
+@@|ecg-api.gumtree.com.au^$important
 @@|elections.nsw.gov.au^$important
 @@|energyaustralia.com.au^$important
 @@|enquiries.passports.gov.au^$important

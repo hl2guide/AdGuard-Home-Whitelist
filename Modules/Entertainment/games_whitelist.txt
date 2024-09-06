@@ -171,6 +171,7 @@
 @@|counter-strike.net^$important
 @@|crash.steampowered.com^$important
 @@|crews-gta5-prod.ros.rockstargames.com^$important
+@@|crews-rdr2-prod.ros.rockstargames.com^$important
 @@|crl.certum.pl^$important
 @@|cs-rgl-prod.ros.rockstargames.com^$important
 @@|da2.gos.ea.com^$important
@@ -239,6 +240,7 @@
 @@|fallout4london.com^$important
 @@|fandom.com^$important
 @@|fast.fonts.net^$important
+@@|feed-rdr2-prod.ros.rockstargames.com^$important
 @@|feedback.nexusmods.com^$important
 @@|fellowship.services.gearboxsoftware.com^$important
 @@|file-metadata.nexusmods.com^$important
@@ -327,6 +329,7 @@
 @@|images.pcgamingwiki.com^$important
 @@|img.nvidiagrid.net^$important
 @@|inbox-gta5-prod.ros.rockstargames.com^$important
+@@|inbox-rdr2-prod.ros.rockstargames.com^$important
 @@|info.social.ea.com^$important
 @@|ingame-store.cdn.ubisoft.com^$important
 @@|international-gfe.download.nvidia.com^$important
@@ -470,6 +473,7 @@
 @@|playstation.com^$important
 @@|playstation.net^$important
 @@|pls.dyinglightgame.com^$important
+@@|posse-rdr2-prod.ros.rockstargames.com^$important
 @@|pport.gearstactics.com^$important
 @@|pr-*.data.ea.com^$important
 @@|prd.orbit.bos.ea.com^$important
@@ -479,6 +483,8 @@
 @@|priceengine-public-service-ecomprod01.ol.epicgames.com^$important
 @@|priceengine-public-service-prod.ak.epicgames.com^$important
 @@|pricing.gog.com^$important
+@@|prod-avatars.akamaized.net^$important
+@@|prod-core.ros.rockstargames.com^$important
 @@|prod-locator-cloud.rockstargames.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
 @@|prod-pa.api.wbinsights.com^$important
@@ -493,8 +499,10 @@
 @@|progression2-prod.svc.gearsofwar.net^$important
 @@|proxy.novafusion.ea.com^$important
 @@|prs-gta5-prod.ros.rockstargames.com^$important
+@@|prs-rdr2-prod.ros.rockstargames.com^$important
 @@|prs-rgl-prod.ros.rockstargames.com^$important
 @@|prs55-prod.ros.rockstargames.com^$important
+@@|ps-rgl-prod.ros.rockstargames.com^$important
 @@|public-ubiservices.ubi.com^$important
 @@|public-ws-ubiservices.ubi.com^$important
 @@|pubsub-api.razerapi.com^$important
@@ -647,6 +655,7 @@
 @@|thumbnails.pcgamingwiki.com^$important
 @@|tiles.mapgenie.io^$important
 @@|titlestorage.bethesda.net^$important
+@@|tm-rdr2-prod.ros.rockstargames.com^$important
 @@|tm-rgl-prod.ros.rockstargames.com^$important
 @@|tos.ea.com^$important
 @@|tracking.epicgames.com^$important
@@ -662,6 +671,7 @@
 @@|ubistatic*-a.akamaihd.net^$important
 @@|ue-launcher-website-prod.ol.epicgames.com^$important
 @@|ufs*.steamcontent.com^$important
+@@|ugc-rdr2-prod.ros.rockstargames.com^$important
 @@|ugc.api.playstation.com^$important
 @@|unrealengine.com^$important
 @@|upchk.api.playstation.com^$important

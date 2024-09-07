@@ -658,10 +658,12 @@
 @@|backstory.ebay.com.au^$important
 @@|badges.twitch.tv^$important
 @@|bam-cell.nr-data.net^$important
+@@|bam.nr-data.net^$important
 @@|banjo.canonical.com^$important
 @@|bankofamerica.com^$important
 @@|banner.eset.com^$important
 @@|banprocessor.svc.halowaypoint.com^$important
+@@|bat.bing.com^$important
 @@|battle.net^$important
 @@|battlelog.battlefield.com^$important
 @@|bbc.co.uk^$important
@@ -1392,6 +1394,7 @@
 @@|devicebind.ebay.com.au^$important
 @@|deviceintegritytokens-pa.googleapis.com^$important
 @@|devices.netflix.com^$important
+@@|devtools.azureedge.net^$important
 @@|devuan.org^$important
 @@|dfat.gov.au^$important
 @@|dfiles.eu^$important
@@ -1656,6 +1659,7 @@
 @@|eff.org^$important
 @@|eforms.stgeorge.com.au^$important
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
+@@|egs-platform-service.store.epicgames.com^$important
 @@|ei.phprcdn.com^$important
 @@|ekr.zdassets.com^$important
 @@|elb-lon-gcp.nimbus.bitdefender.net^$important
@@ -1798,6 +1802,7 @@
 @@|fandom.com^$important
 @@|fast.fonts.net^$important
 @@|fastcopy.jp^$important
+@@|fastly-download.epicgames.com^$important
 @@|favorites.live.com^$important
 @@|fd-assets.prod.atl-paas.net^$important
 @@|fd-config.us-east-1.prod.public.atl-paas.net^$important
@@ -3458,6 +3463,7 @@
 @@|play.hulu.com^$important
 @@|play.samsungcloud.com^$important
 @@|play.spotify.com^$important
+@@|playatoms-pa.googleapis.com^$important
 @@|player.h-cdn.com^$important
 @@|player.hulu.com^$important
 @@|player.odycdn.com^$important

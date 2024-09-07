@@ -207,6 +207,7 @@
 @@|ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@|economy.svc.halowaypoint.com^$important
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
+@@|egs-platform-service.store.epicgames.com^$important
 @@|email2.gog.com^$important
 @@|emapi.prm.data.ea.com^$important
 @@|embed.gog.com^$important
@@ -240,6 +241,7 @@
 @@|fallout4london.com^$important
 @@|fandom.com^$important
 @@|fast.fonts.net^$important
+@@|fastly-download.epicgames.com^$important
 @@|feed-rdr2-prod.ros.rockstargames.com^$important
 @@|feedback.nexusmods.com^$important
 @@|fellowship.services.gearboxsoftware.com^$important

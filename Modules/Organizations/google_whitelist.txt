@@ -158,6 +158,7 @@
 @@|play-lh.googleusercontent.com^$important
 @@|play.google.com^$important
 @@|play.googleapis.com^$important
+@@|playatoms-pa.googleapis.com^$important
 @@|playstoregatewayadapter-pa.googleapis.com^$important
 @@|plus.google.com^$important
 @@|plus.l.google.com^$important

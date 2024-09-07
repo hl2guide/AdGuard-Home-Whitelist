@@ -97,6 +97,8 @@
 @@|az725175.vo.msecnd.net^$important
 @@|az764295.vo.msecnd.net^$important
 @@|b-ring.msedge.net^$important
+@@|bam.nr-data.net^$important
+@@|bat.bing.com^$important
 @@|beige.xboxservices.com^$important
 @@|binaries.templates.cdn.office.net^$important
 @@|bing.at^$important
@@ -183,6 +185,7 @@
 @@|dev.xbox.com^$important
 @@|devblogs.microsoft.com^$important
 @@|device.auth.xboxlive.com^$important
+@@|devtools.azureedge.net^$important
 @@|displaycatalog.mp.microsoft.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dlassets-ssl.xboxlive.com^$important

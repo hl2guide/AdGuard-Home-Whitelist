@@ -1,8 +1,12 @@
-# @@|www.simplemobiletools.com^$important
+@@|a.basemaps.cartocdn.com^$important
 @@|air-quality-api.open-meteo.com^$important
 @@|api.open-meteo.com^$important
 @@|api.rainviewer.com^$important
+@@|api.unsplash.com^$important
 @@|apt.izzysoft.de^$important
 @@|archive.newpipe.net^$important
+@@|b.basemaps.cartocdn.com^$important
 @@|bdwm.be^$important
+@@|c.basemaps.cartocdn.com^$important
 @@|clipsync.bdwm.be^$important
+@@|tilecache.rainviewer.com^$important

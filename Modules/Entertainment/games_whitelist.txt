@@ -292,7 +292,9 @@
 @@|gfn.pentanet.gg^$important
 @@|gfwsl.geforce.com^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-fastly.gog.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
+@@|gog-cdn.akamaized.net^$important
 @@|gog-statics.com^$important
 @@|gog.com^$important
 @@|gog.salesmanago.com^$important
@@ -306,6 +308,7 @@
 @@|graphql.epicgames.com^$important
 @@|groups.gameservices.ea.com^$important
 @@|gsprodblapp-*.ea.com^$important
+@@|gwent-bi-collector.gog.com^$important
 @@|halostats.svc.halowaypoint.com^$important
 @@|hardware.support.eu.playstation.com^$important
 @@|hb.imgix.net^$important

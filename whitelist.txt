@@ -177,6 +177,7 @@
 @@|a-*.1fichier.com^$important
 @@|a-*.a-msedge.net^$important
 @@|a-v2.sndcdn.com^$important
+@@|a.basemaps.cartocdn.com^$important
 @@|a.deviantart.net^$important
 @@|a.fsdn.com^$important
 @@|a.idio.co^$important
@@ -447,6 +448,7 @@
 @@|api.tiles.mapbox.com^$important
 @@|api.twitch.tv^$important
 @@|api.typeform.com^$important
+@@|api.unsplash.com^$important
 @@|api.vimeo.com^$important
 @@|api.warframe.com^$important
 @@|api.weather.com^$important
@@ -649,6 +651,7 @@
 @@|azcd.harveynorman.com.au^$important
 @@|azuresearch-ussc.nuget.org^$important
 @@|b-ring.msedge.net^$important
+@@|b.basemaps.cartocdn.com^$important
 @@|b.cdnst.net^$important
 @@|b.stats.paypal.com^$important
 @@|b.thumbs.redditmedia.com^$important
@@ -790,6 +793,7 @@
 @@|c*.patreonusercontent.com^$important
 @@|c*.wp.com^$important
 @@|c-ring.msedge.net^$important
+@@|c.basemaps.cartocdn.com^$important
 @@|c.bing.com^$important
 @@|c.degoo.biz^$important
 @@|c.degoo.eu^$important
@@ -1457,6 +1461,7 @@
 @@|dl3.cdn.filezilla-project.org^$important
 @@|dl30.sonicb.it^$important
 @@|dlassets-ssl.xboxlive.com^$important
+@@|dls.di.atlas.samsung.com^$important
 @@|dlwnextsetting.cloudapp.net^$important
 @@|dmca.twitch.tv^$important
 @@|dmd.metaservices.microsoft.com^$important
@@ -2167,7 +2172,9 @@
 @@|go.trouter.teams.microsoft.com^$important
 @@|go.twitch.tv^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-fastly.gog.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
+@@|gog-cdn.akamaized.net^$important
 @@|gog-statics.com^$important
 @@|gog.com^$important
 @@|gog.salesmanago.com^$important
@@ -2221,6 +2228,7 @@
 @@|guru99.com^$important
 @@|guts2.sp.f-secure.com^$important
 @@|gw-public.api.stgeorge.com.au^$important
+@@|gwent-bi-collector.gog.com^$important
 @@|gx-target-experiments-frontend-api.gx.nvidia.com^$important
 @@|gx-target-survey-frontend-api.gx.nvidia.com^$important
 @@|gyan.dev^$important
@@ -4061,6 +4069,7 @@
 @@|ssl.reddit.com^$important
 @@|sso-static.razer.com^$important
 @@|sso.nexusmods.com^$important
+@@|sspapi-prd.samsungrs.com^$important
 @@|sst.nab.com.au^$important
 @@|st*.debrid.link^$important
 @@|st-syd-02.gcomm.com.au.prod.hosts.ooklaserver.net^$important
@@ -4404,6 +4413,7 @@
 @@|thumbs.odycdn.com^$important
 @@|thumbs1.ebaystatic.com^$important
 @@|tile-service.weather.microsoft.com^$important
+@@|tilecache.rainviewer.com^$important
 @@|tiles.mapgenie.io^$important
 @@|tiles.search.brave.com^$important
 @@|tiles.services.mozilla.com^$important
@@ -4696,6 +4706,7 @@
 @@|us-img.freeones.com^$important
 @@|us-s2-depot.classic.blizzard.com^$important
 @@|us-ut-mirror.chaotic.cx^$important
+@@|us.account.samsung.com^$important
 @@|us.api.blizzard.com^$important
 @@|us.archive.ubuntu.com^$important
 @@|us.cdn.blizzard.com^$important

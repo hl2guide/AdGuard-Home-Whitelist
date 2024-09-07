@@ -23,6 +23,7 @@
 @@|cpu.samsungelectronics.com^$important
 @@|dc.di.atlas.samsung.com^$important
 @@|dc.dqa.samsung.com^$important
+@@|dls.di.atlas.samsung.com^$important
 @@|dms.ospserver.net^$important
 @@|dpu.samsungelectronics.com^$important
 @@|empdownprd.samsungcloudsolution.com^$important
@@ -60,6 +61,7 @@
 @@|sdk.pushmessage.samsung.com^$important
 @@|searchapi.samsung.com^$important
 @@|spapi-prd.samsungrs.com^$important
+@@|sspapi-prd.samsungrs.com^$important
 @@|store.samsungcloudcdn.com^$important
 @@|time.samsungcloudsolution.com^$important
 @@|tvpndynamiclogopus.samsungcloud.tv^$important
@@ -68,6 +70,7 @@
 @@|upu.samsungelectronics.com^$important
 @@|ureca.samsungapps.com^$important
 @@|us-auth2.samsungosp.com^$important
+@@|us.account.samsung.com^$important
 @@|vas.samsungapps.com^$important
 @@|www.samsung.com^$important
 @@|www.samsungotn.net^$important

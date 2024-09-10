@@ -4,6 +4,7 @@
 @@|cdn.downdetector.com^$important
 @@|cdn1.downdetector.com^$important
 @@|cdn2.downdetector.com^$important
+@@|challenges.cloudflare.com^$important
 @@|crm.lightningbroadband.com.au^$important
 @@|data-api.downdetector.com^$important
 @@|downdetector.com.au^$important
@@ -17,8 +18,10 @@
 @@|my1.speedtest.vodafone.com.au.prod.hosts.ooklaserver.net^$important
 @@|my1.speedtest.vodafone.com.au^$important
 @@|nsw-brwy-speedtest.aarnet.net.au^$important
+@@|nsw-brwy-st1.speedtest.aarnet.net.au^$important
 @@|ocsp.comodoca.com.cdn.cloudflare.net^$important
 @@|spd03-syd.au.superloop.com.prod.hosts.ooklaserver.net^$important
+@@|spd03-syd.au.superloop.com^$important
 @@|speed.me1.gigacomm.net.au.prod.hosts.ooklaserver.net^$important
 @@|speed4.snap.net.nz^$important
 @@|speedtest-ebw.optusnet.com.au^$important
@@ -51,5 +54,6 @@
 @@|ws1-n1mel.isp.foxtel.net.au^$important
 @@|www.nbnco.com.au^$important
 @@|www.speedguide.net^$important
+@@|www.speedtest.net.cdn.cloudflare.net^$important
 @@|zd.map.fastly.net^$important
 @@|zdstatic.speedtest.net^$important

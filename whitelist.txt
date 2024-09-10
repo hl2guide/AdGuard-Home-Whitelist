@@ -272,6 +272,7 @@
 @@|affiliate.twitch.tv^$important
 @@|agrd.io^$important
 @@|ahadns.com^$important
+@@|ai-chat.bsg.brave.com^$important
 @@|aid-frontend.prod.atl-paas.net^$important
 @@|air-quality-api.open-meteo.com^$important
 @@|airtable.com^$important
@@ -1013,6 +1014,7 @@
 @@|cfota*.ospserver.net^$important
 @@|cha1.speedtest.telstra.net^$important
 @@|challenges.cdn.ubisoft.com^$important
+@@|challenges.cloudflare.com^$important
 @@|change.org^$important
 @@|changelog.m7g.twitch.tv^$important
 @@|changelogs.ubuntu.com^$important
@@ -1030,6 +1032,7 @@
 @@|chat.xboxlive.com^$important
 @@|chatdepot.twitch.tv^$important
 @@|chatenabled.mail.google.com^$important
+@@|chatgpt.com^$important
 @@|chatlounge-preview.xbox.com^$important
 @@|chatserver13.comm100.io^$important
 @@|chbusiness.samsung.com^$important
@@ -3173,6 +3176,7 @@
 @@|nsfw.reddit.com^$important
 @@|nsw-brwy-speedtest.aarnet.net.au.prod.hosts.ooklaserver.net^$important
 @@|nsw-brwy-speedtest.aarnet.net.au^$important
+@@|nsw-brwy-st1.speedtest.aarnet.net.au^$important
 @@|nsw.gov.au^$important
 @@|nsw.speedtest.exetel.com.au^$important
 @@|nswdac-covid-19-postcode-heatmap.azurewebsites.net^$important
@@ -3278,6 +3282,7 @@
 @@|open.stealth.si^$important
 @@|open.tracker.cl^$important
 @@|open.tracker.ink^$important
+@@|openai.com^$important
 @@|opencritic.com^$important
 @@|opengraph.githubassets.com^$important
 @@|openphish.com^$important
@@ -4001,6 +4006,7 @@
 @@|spartaprofile2-prod.svc.gearsofwar.net^$important
 @@|spclient.wg.spotify.com^$important
 @@|spd03-syd.au.superloop.com.prod.hosts.ooklaserver.net^$important
+@@|spd03-syd.au.superloop.com^$important
 @@|speckyboy.com^$important
 @@|speech.platform.bing.com^$important
 @@|speed.cloudflare.com^$important
@@ -4088,6 +4094,7 @@
 @@|standardnotes.com^$important
 @@|standardnotes.org^$important
 @@|standby.comm100vue.com^$important
+@@|star-randsrv.bsg.brave.com^$important
 @@|starcraft2.com^$important
 @@|start.ubuntu.com^$important
 @@|stat.dns.sb^$important
@@ -5084,6 +5091,7 @@
 @@|www.images-home.com^$important
 @@|www.industry.gov.au^$important
 @@|www.ing.com.au^$important
+@@|www.innoreader.com^$important
 @@|www.inoreader.com^$important
 @@|www.intel.com.au^$important
 @@|www.intel.com^$important
@@ -5236,6 +5244,7 @@
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important
 @@|www.speedguide.net^$important
+@@|www.speedtest.net.cdn.cloudflare.net^$important
 @@|www.speedtest.net^$important
 @@|www.spintel.net.au^$important
 @@|www.spotify.com^$important

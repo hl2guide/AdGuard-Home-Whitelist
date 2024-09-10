@@ -1,1 +1,5 @@
+@@|ai-chat.bsg.brave.com^$important
+@@|chatgpt.com^$important
 @@|copilot.microsoft.com^$important
+@@|openai.com^$important
+@@|star-randsrv.bsg.brave.com^$important

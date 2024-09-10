@@ -62,6 +62,7 @@
 @@|thagoat.rocks^$important
 @@|thetracker.org^$important
 @@|tk2.trackerservers.com^$important
+@@|torbox.app^$important
 @@|torrent-tracker.hama3.net^$important
 @@|torrentclub.space^$important
 @@|torrents.artixlinux.org^$important
@@ -182,6 +183,7 @@
 @@|vibe.sleepyinternetfun.xyz^$important
 @@|vps02.net.orel.ru^$important
 @@|www.limetorrents.lol^$important
+@@|www.torbox.app^$important
 @@|www.torrent.eu.org^$important
 @@|www.wareztorrent.com^$important
 @@|xxxclub.to^$important

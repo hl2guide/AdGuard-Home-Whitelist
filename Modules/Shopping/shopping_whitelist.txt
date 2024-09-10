@@ -7,6 +7,8 @@
 @@|app.alipay.com^$important
 @@|assets.resultspage.com^$important
 @@|async-px.dynamicyield.com^$important
+@@|cart.ebay.com.au^$important
+@@|cart.payments.ebay.com.au^$important
 @@|cdn.dynamicyield.com^$important
 @@|cdn.honey.io^$important
 @@|cdn.joinhoney.com^$important
@@ -32,10 +34,14 @@
 @@|login.corsair.com^$important
 @@|m.alibaba.com^$important
 @@|m.aliexpress.com^$important
+@@|mesg.ebay.com.au^$important
 @@|mobi.aliexpress.com^$important
 @@|monitor.ebay.com^$important
 @@|nzxt.com^$important
+@@|pages.ebay.com.au^$important
 @@|passport.alipay.com^$important
+@@|pay.ebay.com.au^$important
+@@|pay.ebay.com^$important
 @@|prod.scorptec.com.au^$important
 @@|productimages.coles.com.au^$important
 @@|promotion.aliexpress.com^$important

@@ -54,6 +54,7 @@
 @@|cdna.pcpartpicker.com^$important
 @@|certbot.eff.org^$important
 @@|cfcdn.neosmart.net^$important
+@@|challenges.cloudflare.com^$important
 @@|check.dns.sh^$important
 @@|clearurls.xyz^$important
 @@|cloudflare-dns.com^$important

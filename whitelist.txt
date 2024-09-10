@@ -845,6 +845,8 @@
 @@|cardinal.maelstrom.gameservices.xboxlive.com^$important
 @@|cards*-prod.svc.gearsofwar.net^$important
 @@|cards2-prod.svc.gearsofwar.net^$important
+@@|cart.ebay.com.au^$important
+@@|cart.payments.ebay.com.au^$important
 @@|cart.production.store-web.dynamics.com^$important
 @@|cast-1.soundcloud.com^$important
 @@|cast.netflix.com^$important
@@ -2857,6 +2859,7 @@
 @@|merchantpool1.epicgames.com^$important
 @@|mercury.services.gearboxsoftware.com^$important
 @@|merriam-webster.com^$important
+@@|mesg.ebay.com.au^$important
 @@|messages.google.com^$important
 @@|messdistr1-rdr2-prod.ros.rockstargames.com^$important
 @@|metadata.ftp-master.debian.org^$important
@@ -3367,6 +3370,7 @@
 @@|packs.svc.halowaypoint.com^$important
 @@|pacman.archlinux.org^$important
 @@|paducahix.mm.fcix.net^$important
+@@|pages.ebay.com.au^$important
 @@|pages.ebay.com^$important
 @@|pages.engage.xbox.com^$important
 @@|pages.github.com^$important
@@ -3387,6 +3391,8 @@
 @@|password.kaspersky.com^$important
 @@|passwords.google.com^$important
 @@|pastebin.com^$important
+@@|pay.ebay.com.au^$important
+@@|pay.ebay.com^$important
 @@|pay.google.com^$important
 @@|payment-api.production.rokfin.com^$important
 @@|payment-website-pci.ol.epicgames.com^$important
@@ -4452,6 +4458,7 @@
 @@|tokens-auth.touchtype-fluency.com^$important
 @@|tokensit.cp.microsoft-tst.com/^$important
 @@|tool-avpg.crsi.norton.com^$important
+@@|torbox.app^$important
 @@|torlock.com^$important
 @@|torren.eu^$important
 @@|torrent-tracker.hama3.net^$important
@@ -5273,6 +5280,7 @@
 @@|www.thewitcher.com^$important
 @@|www.tm.a.prd.aadg.akadns.net^$important
 @@|www.tomsguide.com^$important
+@@|www.torbox.app^$important
 @@|www.toshiba-storage.com^$important
 @@|www.toshiba.com^$important
 @@|www.tp-link.com^$important

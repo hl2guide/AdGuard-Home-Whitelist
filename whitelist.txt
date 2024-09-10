@@ -170,6 +170,7 @@
 @@|_http._tcp.security.debian.org^$important
 @@|_http._tcp.security.ubuntu.com^$important
 @@|_http._tcp.us.archive.ubuntu.com^$important
+@@|_https._tcp.esm.ubuntu.com^$important
 @@|_https._tcp.metadata.ftp-master.debian.org^$important
 @@|_https._tcp.mirror.aarnet.edu.au^$important
 @@|_https._tcp.mirror.internet.asn.au^$important
@@ -331,6 +332,7 @@
 @@|anzplus.app.link^$important
 @@|aoe-api.reliclink.com^$important
 @@|aoe.ms^$important
+@@|aoeliverelease1-api.worldsedgelink.com^$important
 @@|aomeitech.com^$important
 @@|ap-southeast-2-storm.ubi.com^$important
 @@|ap.edge.kernel.org^$important
@@ -1742,6 +1744,7 @@
 @@|es.wikipedia.com^$important
 @@|eset.com^$important
 @@|eslint.org^$important
+@@|esm.ubuntu.com^$important
 @@|esupport.gigabyte.com^$important
 @@|eu-central-1-gateway.zionprod.systems^$important
 @@|eu.cdn.blizzard.com^$important
@@ -2693,6 +2696,7 @@
 @@|live.playstation.com^$important
 @@|live.sysinternals.com^$important
 @@|live.xbox.com^$important
+@@|livepatch.canonical.com^$important
 @@|livetileedge.dsx.mp.microsoft.com^$important
 @@|liveupdate.cyberlink.com^$important
 @@|lobby*-prod.svc.gearsofwar.net^$important

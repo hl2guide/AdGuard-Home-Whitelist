@@ -23,6 +23,7 @@
 @@|_http._tcp.security.debian.org^$important
 @@|_http._tcp.security.ubuntu.com^$important
 @@|_http._tcp.us.archive.ubuntu.com^$important
+@@|_https._tcp.esm.ubuntu.com^$important
 @@|_https._tcp.metadata.ftp-master.debian.org^$important
 @@|_https._tcp.mirror.aarnet.edu.au^$important
 @@|_https._tcp.mirror.internet.asn.au^$important
@@ -123,6 +124,7 @@
 @@|elementary.io^$important
 @@|en.opensuse.org^$important
 @@|en.osdn.net^$important
+@@|esm.ubuntu.com^$important
 @@|europe.mirror.pkgbuild.com^$important
 @@|extensions.gnome.org^$important
 @@|fastcopy.jp^$important
@@ -183,6 +185,7 @@
 @@|linuxmint.com^$important
 @@|lists.ubuntu.com^$important
 @@|live.linuxmint.com^$important
+@@|livepatch.canonical.com^$important
 @@|lutris.net^$important
 @@|man.archlinux.org^$important
 @@|manjaro.mirrors.theom.nz^$important

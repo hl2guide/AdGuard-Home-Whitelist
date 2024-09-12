@@ -480,6 +480,7 @@
 @@|app.launchdarkly.com^$important
 @@|app.mediafire.com^$important
 @@|app.nexuspublications.com.au^$important
+@@|app.nzbcloud.com^$important
 @@|app.plex.tv^$important
 @@|app.plus.google.com^$important
 @@|app.raindrop.io^$important
@@ -1882,6 +1883,7 @@
 @@|files*.majorgeeks.com^$important
 @@|files.cdn.ubisoft.com^$important
 @@|files.community^$important
+@@|files.nzbcloud.com^$important
 @@|files.pythonhosted.org^$important
 @@|files.surfright.nl^$important
 @@|fileshare1240.depositfiles.com^$important
@@ -2219,6 +2221,7 @@
 @@|graphql.accounts.firefox.com^$important
 @@|graphql.epicgames.com^$important
 @@|gravatar.com^$important
+@@|grayjay.app^$important
 @@|greasyfork.org^$important
 @@|greasyfork.s3.us-east-2.amazonaws.com^$important
 @@|grid.filefactory.com^$important
@@ -3207,6 +3210,7 @@
 @@|nyc.mirrors.clouvider.net^$important
 @@|nz.static.mega.co.nz^$important
 @@|nzb360.com^$important
+@@|nzbcloud.com^$important
 @@|nzbfinder.ws^$important
 @@|nzbstars.com^$important
 @@|nzxt.com^$important
@@ -3815,6 +3819,7 @@
 @@|s295.pornone.com^$important
 @@|s3-ap-southeast-2.amazonaws.com^$important
 @@|s3-eu-west-1.amazonaws.com^$important
+@@|s3.nzbcloud.com^$important
 @@|s3.us-west-002.backblazeb2.com^$important
 @@|s3.wasabisys.com^$important
 @@|s334284386.t.eloqua.com^$important
@@ -4797,6 +4802,7 @@
 @@|video-fa.scdn.co^$important
 @@|video-gcr.xhcdn.com^$important
 @@|video-nss.xhcdn.com^$important
+@@|video-weaver.lax03.hls.ttvnw.net^$important
 @@|video-weaver.syd*.hls.ttvnw.net^$important
 @@|video.akamai.steamstatic.com^$important
 @@|video.api.playstation.com^$important
@@ -5183,6 +5189,7 @@
 @@|www.nvidia.com^$important
 @@|www.nvidia.eu^$important
 @@|www.nzb360.com^$important
+@@|www.nzbcloud.com^$important
 @@|www.ocbase.com^$important
 @@|www.office.com^$important
 @@|www.officeworks.com.au^$important

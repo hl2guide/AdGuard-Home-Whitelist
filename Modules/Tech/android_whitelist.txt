@@ -9,4 +9,5 @@
 @@|bdwm.be^$important
 @@|c.basemaps.cartocdn.com^$important
 @@|clipsync.bdwm.be^$important
+@@|grayjay.app^$important
 @@|tilecache.rainviewer.com^$important

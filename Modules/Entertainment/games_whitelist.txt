@@ -42,6 +42,7 @@
 @@|api.gog.com^$important
 @@|api.locize.app^$important
 @@|api.nexusmods.com^$important
+@@|api.ocbase.com^$important
 @@|api.opencritic.com^$important
 @@|api.rollbar.com^$important
 @@|api.steampowered.com^$important
@@ -188,6 +189,7 @@
 @@|discovery-infiniteugc.svc.halowaypoint.com^$important
 @@|discovery.razerapi.com^$important
 @@|discovery.services.gearboxsoftware.com^$important
+@@|dl.ocbase.com^$important
 @@|dl.razer.com^$important
 @@|dl.razerzone.com^$important
 @@|dmx.upc.ubisoft.com^$important
@@ -730,6 +732,7 @@
 @@|www.killingfloor2.com^$important
 @@|www.moddb.com^$important
 @@|www.nexusmods.com^$important
+@@|www.ocbase.com^$important
 @@|www.origin.com^$important
 @@|www.pcgamingwiki.com^$important
 @@|www.razer.com^$important

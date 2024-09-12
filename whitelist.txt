@@ -420,6 +420,7 @@
 @@|api.nfl.com^$important
 @@|api.nordvpn.com^$important
 @@|api.nuget.org^$important
+@@|api.ocbase.com^$important
 @@|api.odysee.com^$important
 @@|api.odysee.live^$important
 @@|api.onedrive.com^$important
@@ -767,6 +768,7 @@
 @@|boot.net.anydesk.com^$important
 @@|boston.maelstrom.gameservices.xboxlive.com^$important
 @@|box.com^$important
+@@|bpu.samsungelectronics.com^$important
 @@|brackets.io^$important
 @@|braintree-api.com^$important
 @@|braintreegateway.com^$important
@@ -1460,6 +1462,7 @@
 @@|dl.flathub.org^$important
 @@|dl.google.com^$important
 @@|dl.humble.com^$important
+@@|dl.ocbase.com^$important
 @@|dl.opensubtitles.org^$important
 @@|dl.razer.com^$important
 @@|dl.razerzone.com^$important
@@ -2353,6 +2356,7 @@
 @@|ic-vt-nss.xhcdn.com^$important
 @@|icdn.digitaltrends.com^$important
 @@|icedrive.net^$important
+@@|icon-finder.fly.dev^$important
 @@|icons.bitwarden.net^$important
 @@|icons8.com^$important
 @@|id-cdn.twitch.tv^$important
@@ -3166,6 +3170,7 @@
 @@|notes-pa.clients6.google.com^$important
 @@|notice.samsungcloudsolution.com^$important
 @@|notice.xbox.com^$important
+@@|noticecdn.samsungcloudsolution.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
 @@|notification.svc.halowaypoint.com^$important
 @@|notificationinbox.xboxlive.com^$important
@@ -3329,6 +3334,7 @@
 @@|osb-ussvc.samsungqbe.com^$important
 @@|osb-v1-alb.samsungqbe.com^$important
 @@|osb-v1-ussvc.samsungqbe.com^$important
+@@|osb-v1.samsungqbe.com^$important
 @@|osdn.net^$important
 @@|osiprodwusodcspstoa01.blob.core.windows.net^$important
 @@|ossmirror.mycloud.services^$important
@@ -3978,6 +3984,7 @@
 @@|socialclub.rockstargames.com^$important
 @@|sockets.betterttv.net^$important
 @@|sockets.standardnotes.com^$important
+@@|sofe.ebay.com.au^$important
 @@|sofia.cdntrex.com^$important
 @@|software-download.microsoft.com^$important
 @@|software-static.download.prss.microsoft.com^$important
@@ -5176,6 +5183,7 @@
 @@|www.nvidia.com^$important
 @@|www.nvidia.eu^$important
 @@|www.nzb360.com^$important
+@@|www.ocbase.com^$important
 @@|www.office.com^$important
 @@|www.officeworks.com.au^$important
 @@|www.omgubuntu.co.uk^$important

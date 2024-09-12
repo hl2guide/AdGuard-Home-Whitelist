@@ -127,6 +127,7 @@
 @@|gu.glarysoft.com^$important
 @@|help.duckduckgo.com^$important
 @@|hndl.urbackup.org^$important
+@@|icon-finder.fly.dev^$important
 @@|ideas.mozilla.org^$important
 @@|images.easeus.com^$important
 @@|images.prismic.io^$important

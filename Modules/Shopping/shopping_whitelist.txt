@@ -50,6 +50,7 @@
 @@|seal-sanjose.bbb.org^$important
 @@|shops1.stackassets.com^$important
 @@|signin.g.ebay.com^$important
+@@|sofe.ebay.com.au^$important
 @@|st.dynamicyield.com^$important
 @@|static.gumtree.com.au.peakhour.zone^$important
 @@|static.queue-it.net^$important

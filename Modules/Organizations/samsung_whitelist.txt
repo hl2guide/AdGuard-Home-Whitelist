@@ -11,6 +11,7 @@
 @@|as2rgn.file.samsungcloud.com^$important
 @@|au-odc.samsungapps.com^$important
 @@|az-dn.gw.samsungapps.com^$important
+@@|bpu.samsungelectronics.com^$important
 @@|browser.samsungcloudcdn.com^$important
 @@|capi.samsungcloud.com^$important
 @@|cdn-*.nflximg.com^$important
@@ -43,6 +44,7 @@
 @@|lcprd1.samsungcloudsolution.net^$important
 @@|music.samsung.com^$important
 @@|notice.samsungcloudsolution.com^$important
+@@|noticecdn.samsungcloudsolution.com^$important
 @@|oempprd.samsungcloudsolution.com^$important
 @@|osb-apps.samsungqbe.com^$important
 @@|osb-auth-ussvc.samsungqbe.com^$important
@@ -50,6 +52,7 @@
 @@|osb-ussvc.samsungqbe.com^$important
 @@|osb-v1-alb.samsungqbe.com^$important
 @@|osb-v1-ussvc.samsungqbe.com^$important
+@@|osb-v1.samsungqbe.com^$important
 @@|otn*.samsungcloudcdn.com^$important
 @@|otnprd*.samsungcloudsolution.net^$important
 @@|ott-samsung.tubitv.com^$important

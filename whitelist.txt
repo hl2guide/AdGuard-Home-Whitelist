@@ -267,6 +267,7 @@
 @@|admin.microsoft.com^$important
 @@|adssettings.google.com^$important
 @@|adult.com^$important
+@@|aea892e467587cd82.awsglobalaccelerator.com^$important
 @@|aex.dev.azure.com^$important
 @@|af.opera.com^$important
 @@|afdxtest.z01.azurefd.net^$important
@@ -608,6 +609,7 @@
 @@|auspost.com.au^$important
 @@|australiaeast0-mediap.svc.ms^$important
 @@|ausyd1-edge1.cdn.i3d.net^$important
+@@|auth-investorcentre.linkgroup.com^$important
 @@|auth-rgl-prod.ros.rockstargames.com^$important
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.assist.gameservices.xboxlive.com^$important
@@ -1636,6 +1638,7 @@
 @@|e8690.e12.akamaiedge.net^$important
 @@|ea.com^$important
 @@|eaassets-a.akamaihd.net^$important
+@@|eaavatarservice.akamaized.net^$important
 @@|eacommerce.akamaized.net^$important
 @@|eadpgs-blapp002.ea.com^$important
 @@|earth-pa.clients6.google.com^$important
@@ -2491,6 +2494,8 @@
 @@|internxt.com^$important
 @@|internxt.sjv.io^$important
 @@|invent.kde.org^$important
+@@|investorcentre.linkgroup.com^$important
+@@|investorcentre.linkmarketservices.com.au^$important
 @@|invidious.io^$important
 @@|invidious.namazso.eu^$important
 @@|invidious.rhyshl.live^$important
@@ -2723,6 +2728,7 @@
 @@|login.my.gov.au^$important
 @@|login.nvgs.nvidia.com^$important
 @@|login.nvidia.com^$important
+@@|login.okta.com^$important
 @@|login.steampowered.com^$important
 @@|login.sydneywater.com.au^$important
 @@|login.wikimedia.org^$important
@@ -2877,6 +2883,7 @@
 @@|metal.prod.atl-paas.net^$important
 @@|metrics.ol.epicgames.com^$important
 @@|metrics.ubuntu.com.localdomain^$important
+@@|mfa.linkgroup.com^$important
 @@|microapps.bigcommerce.com^$important
 @@|microsoft.com^$important
 @@|microsoftedge.microsoft.com^$important
@@ -3110,6 +3117,7 @@
 @@|myaccount.google.com^$important
 @@|myactivity.google.com^$important
 @@|myer.com.au^$important
+@@|myid.telstra.com^$important
 @@|myip.wtf^$important
 @@|mysql.com^$important
 @@|n.sni.global.fastly.net^$important
@@ -3264,6 +3272,7 @@
 @@|ogs.google.com^$important
 @@|ohioix.mm.fcix.net^$important
 @@|ohmyposh.dev^$important
+@@|ok14static.oktacdn.com^$important
 @@|old-releases.ubuntu.com^$important
 @@|omniverse-content-production.s3-us-west-2.amazonaws.com^$important
 @@|onboardcloud.dl.sourceforge.net^$important
@@ -3764,6 +3773,7 @@
 @@|retracker.local^$important
 @@|retracker2.x2k.ru^$important
 @@|returnandearn.org.au^$important
+@@|returnyoutubedislikeapi.com^$important
 @@|reviews.gog.com^$important
 @@|reviews.kaspersky.com^$important
 @@|rewards*-prod.svc.gearsofwar.net^$important
@@ -4976,6 +4986,7 @@
 @@|www.anz.com.au^$important
 @@|www.anz.com^$important
 @@|www.apkmirror.com^$important
+@@|www.aramex.com.au^$important
 @@|www.asus.com^$important
 @@|www.ato.gov.au^$important
 @@|www.autohotkey.com^$important
@@ -5141,6 +5152,7 @@
 @@|www.lifewire.com^$important
 @@|www.lightboxcdn.com^$important
 @@|www.limetorrents.lol^$important
+@@|www.linkmarketservices.com.au^$important
 @@|www.linux.org^$important
 @@|www.linuxcompatible.org^$important
 @@|www.linuxmint.com^$important
@@ -5293,6 +5305,7 @@
 @@|www.techradar.com^$important
 @@|www.techsupportforum.com^$important
 @@|www.tecmint.com^$important
+@@|www.telstra.com.au^$important
 @@|www.tenforums.com^$important
 @@|www.thegoodguys.com.au^$important
 @@|www.thewindowsclub.com^$important

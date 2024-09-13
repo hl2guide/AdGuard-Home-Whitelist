@@ -202,6 +202,7 @@
 @@|dragonagekeep.com^$important
 @@|dvcasha2.ocsp-certum.com^$important
 @@|ea.com^$important
+@@|eaavatarservice.akamaized.net^$important
 @@|eacommerce.akamaized.net^$important
 @@|eadpgs-blapp002.ea.com^$important
 @@|ec.razer.com^$important

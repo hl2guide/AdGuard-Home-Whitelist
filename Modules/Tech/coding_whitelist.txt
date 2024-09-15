@@ -26,6 +26,7 @@
 @@|avatars1.githubusercontent.com^$important
 @@|avatars2.githubusercontent.com^$important
 @@|avatars3.githubusercontent.com^$important
+@@|azuresearch-usnc.nuget.org^$important
 @@|blog.jetbrains.com^$important
 @@|brackets.io^$important
 @@|bugs.python.org^$important
@@ -35,8 +36,10 @@
 @@|cdn-eu.icons8.com^$important
 @@|cdn.auth0.com^$important
 @@|cdn.eu.auth0.com^$important
+@@|cdn.graph.office.net^$important
 @@|cdn.rawgit.com^$important
 @@|cdn.skypack.dev^$important
+@@|cdn.storeedgefd.dsx.mp.microsoft.com^$important
 @@|cdpn.io^$important
 @@|central.github.com^$important
 @@|cloud.githubusercontent.com^$important
@@ -77,6 +80,7 @@
 @@|elixir-lang.org^$important
 @@|eslint.org^$important
 @@|events-feed.github.com^$important
+@@|fabricweb.azureedge.net^$important
 @@|fd-assets.prod.atl-paas.net^$important
 @@|fd-config.us-east-1.prod.public.atl-paas.net^$important
 @@|fdroid.gitlab.io^$important
@@ -111,6 +115,7 @@
 @@|github.vscode-unpkg.net^$important
 @@|githubstatus.com^$important
 @@|gitlab.com^$important
+@@|globalcdn.nuget.org^$important
 @@|graphql.accounts.firefox.com^$important
 @@|guardianproject.gitlab.io^$important
 @@|guides.github.com^$important
@@ -122,6 +127,7 @@
 @@|id.atlassian.com^$important
 @@|images.pling.com^$important
 @@|images.sourceforge.net^$important
+@@|img.s-msn.com^$important
 @@|interactive-examples.mdn.mozilla.net^$important
 @@|ip.notable.app^$important
 @@|ip.notable.md^$important
@@ -154,6 +160,7 @@
 @@|notable.md^$important
 @@|npmjs.com^$important
 @@|ntfy.sh^$important
+@@|nuget.info^$important
 @@|nuget.org^$important
 @@|nwjs.io^$important
 @@|oauth.accounts.firefox.com^$important
@@ -161,7 +168,9 @@
 @@|objects.githubusercontent.com^$important
 @@|ohmyposh.dev^$important
 @@|opengraph.githubassets.com^$important
+@@|opensource.azureedge.net^$important
 @@|opensource.com^$important
+@@|opensource.microsoft.com^$important
 @@|oppen.digital^$important
 @@|packaging.python.org^$important
 @@|pages.github.com^$important
@@ -198,6 +207,7 @@
 @@|spotlights-feed.github.com^$important
 @@|sqlite.org^$important
 @@|sqlitebrowser.org^$important
+@@|srtb.msn.com^$important
 @@|static.npmjs.com^$important
 @@|static.ocecdn.oraclecloud.com^$important
 @@|static.rust-lang.org^$important
@@ -215,6 +225,7 @@
 @@|user-images.githubusercontent.com^$important
 @@|v.tampermonkey.net^$important
 @@|viewscreen.githubusercontent.com^$important
+@@|vmw-keyid-d5ba3c17e840e79fe0c3b8c31a572ae24c2d01a9.microsoftaik.azure.net^$important
 @@|vscode-auth.github.com^$important
 @@|vscode-sync.trafficmanager.net^$important
 @@|vscode.dev^$important

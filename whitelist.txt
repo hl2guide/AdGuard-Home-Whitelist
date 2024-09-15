@@ -656,6 +656,7 @@
 @@|az725175.vo.msecnd.net^$important
 @@|az764295.vo.msecnd.net^$important
 @@|azcd.harveynorman.com.au^$important
+@@|azuresearch-usnc.nuget.org^$important
 @@|azuresearch-ussc.nuget.org^$important
 @@|b-ring.msedge.net^$important
 @@|b.basemaps.cartocdn.com^$important
@@ -930,6 +931,7 @@
 @@|cdn.globalsigncdn.com.cdn.cloudflare.net^$important
 @@|cdn.gog.com^$important
 @@|cdn.gpsoft.com.au^$important
+@@|cdn.graph.office.net^$important
 @@|cdn.guru99.com^$important
 @@|cdn.honey.io^$important
 @@|cdn.houseofmega.com^$important
@@ -969,6 +971,7 @@
 @@|cdn.staticaly.com^$important
 @@|cdn.statuspage.io^$important
 @@|cdn.steamstatic.com^$important
+@@|cdn.storeedgefd.dsx.mp.microsoft.com^$important
 @@|cdn.streamelements.com^$important
 @@|cdn.streamlabs.com^$important
 @@|cdn.superantispyware.com^$important
@@ -1124,6 +1127,7 @@
 @@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
 @@|cloudsync-prod.s3.us-east-1.amazonaws.com^$important
+@@|cloudsync.juno.ea.com^$important
 @@|club.ubisoft.com^$important
 @@|clubhub.xboxlive.com^$important
 @@|cluster.awdeliverynet.com^$important
@@ -1814,6 +1818,7 @@
 @@|f.vimeocdn.com^$important
 @@|f1techcomputers.com.au^$important
 @@|f4se.silverlock.org^$important
+@@|fabricweb.azureedge.net^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
 @@|fallout4london.com^$important
@@ -2171,6 +2176,7 @@
 @@|gld.push.samsungosp.com^$important
 @@|global.discourse-cdn.com^$important
 @@|global.poe.live-video.net^$important
+@@|globalcdn.nuget.org^$important
 @@|globalupload.io^$important
 @@|gmail.com^$important
 @@|gmail.google.com^$important
@@ -2451,6 +2457,7 @@
 @@|img.nvidiagrid.net^$important
 @@|img.production.rokfin.com^$important
 @@|img.rockylinux.org^$important
+@@|img.s-msn.com^$important
 @@|img.samsungapps.com^$important
 @@|img.shields.io^$important
 @@|img.strpst.com^$important
@@ -3206,6 +3213,7 @@
 @@|ntfy.sh^$important
 @@|ntp.msn.com^$important
 @@|ntp.ubuntu.com^$important
+@@|nuget.info^$important
 @@|nuget.org^$important
 @@|nukacrypt.com^$important
 @@|nvda.d2.sc.omtrdc.net^$important
@@ -3311,7 +3319,9 @@
 @@|opencritic.com^$important
 @@|opengraph.githubassets.com^$important
 @@|openphish.com^$important
+@@|opensource.azureedge.net^$important
 @@|opensource.com^$important
+@@|opensource.microsoft.com^$important
 @@|opensubtitles.org^$important
 @@|opensuse-mirror-gce-ap.susecloud.net^$important
 @@|opensuse.c3sl.ufpr.br^$important
@@ -4090,6 +4100,7 @@
 @@|sqlite.org^$important
 @@|sqlitebrowser.org^$important
 @@|squidblacklist.org^$important
+@@|srtb.msn.com^$important
 @@|srv*.zload.cc^$important
 @@|srv.au.ebayrtm.com^$important
 @@|srv01.codefusion.technology^$important
@@ -4837,6 +4848,7 @@
 @@|vivaldi.com^$important
 @@|vlc-bluray.whoknowsmy.name^$important
 @@|vlscppe.microsoft.com^$important
+@@|vmw-keyid-d5ba3c17e840e79fe0c3b8c31a572ae24c2d01a9.microsoftaik.azure.net^$important
 @@|vo2.qrlsx.com^$important
 @@|vod-secure.twitch.tv^$important
 @@|voidtools.com^$important

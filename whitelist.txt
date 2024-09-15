@@ -186,6 +186,9 @@
 @@|a.rsg.sc^$important
 @@|a.thumbs.redditmedia.com^$important
 @@|a.tiles.mapbox.com^$important
+@@|a1357.dscb.akamai.net^$important
+@@|a1836.d.akamai.net^$important
+@@|a1874.d.akamai.net^$important
 @@|a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
 @@|aadcdn.msauth.net^$important
 @@|aadcdn.msftauth.net^$important
@@ -764,6 +767,7 @@
 @@|bnetcmsus-a.akamaihd.net^$important
 @@|bnetproduct-a.akamaihd.net^$important
 @@|bnetshopus.akamaized.net^$important
+@@|bnetstorefront.akamaized.net^$important
 @@|bnetus-a.akamaihd.net^$important
 @@|board.jdownloader.org^$important
 @@|boardsus.playstation.com^$important
@@ -784,6 +788,7 @@
 @@|brave.com^$important
 @@|brazil.kaspersky.com^$important
 @@|brazzers.com^$important
+@@|breaking-news.support.blizzard.com^$important
 @@|bromite.org^$important
 @@|browser.events.data.microsoft.com^$important
 @@|browser.pipe.aria.microsoft.com^$important
@@ -861,6 +866,7 @@
 @@|cast.soundcloud.com^$important
 @@|catalog-public-service-prod.ak.epicgames.com^$important
 @@|catalog-public-service-prod06.ol.epicgames.com^$important
+@@|catalog.blzstatic.com^$important
 @@|catalog.gamepass.com^$important
 @@|catalog.gog.com^$important
 @@|causeway.obsidian.net^$important
@@ -4138,6 +4144,7 @@
 @@|standardnotes.org^$important
 @@|standby.comm100vue.com^$important
 @@|star-randsrv.bsg.brave.com^$important
+@@|starcraft2.blizzard.com^$important
 @@|starcraft2.com^$important
 @@|start.ubuntu.com^$important
 @@|stat.dns.sb^$important
@@ -4755,6 +4762,7 @@
 @@|us-east-1-pachinko-realtime-2.wbagora.com^$important
 @@|us-east-2-gateway.zionprod.systems^$important
 @@|us-img.freeones.com^$important
+@@|us-s2-depot-storage.classic.blizzard.com^$important
 @@|us-s2-depot.classic.blizzard.com^$important
 @@|us-ut-mirror.chaotic.cx^$important
 @@|us.account.samsung.com^$important

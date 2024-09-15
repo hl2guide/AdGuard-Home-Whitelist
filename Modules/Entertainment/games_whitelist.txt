@@ -12,6 +12,9 @@
 @@|*.xboxlive.com
 @@|5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
 @@|a.rsg.sc^$important
+@@|a1357.dscb.akamai.net^$important
+@@|a1836.d.akamai.net^$important
+@@|a1874.d.akamai.net^$important
 @@|account-public-service-prod.ak.epicgames.com^$important
 @@|account-public-service-prod03.ol.epicgames.com^$important
 @@|account.cdn.ubisoft.com^$important
@@ -86,10 +89,12 @@
 @@|blzprofile.akamaized.net^$important
 @@|bnetaccount.akamaized.net^$important
 @@|bnetcmsus-a.akamaihd.net^$important
+@@|bnetstorefront.akamaized.net^$important
 @@|bnetus-a.akamaihd.net^$important
 @@|boardsus.playstation.com^$important
 @@|braintree-api.com^$important
 @@|braintreegateway.com^$important
+@@|breaking-news.support.blizzard.com^$important
 @@|button.moddb.com^$important
 @@|c.opencritic.com^$important
 @@|cache*-syd1.steamcontent.com^$important
@@ -102,6 +107,7 @@
 @@|cards2-prod.svc.gearsofwar.net^$important
 @@|catalog-public-service-prod.ak.epicgames.com^$important
 @@|catalog-public-service-prod06.ol.epicgames.com^$important
+@@|catalog.blzstatic.com^$important
 @@|catalog.gamepass.com^$important
 @@|catalog.gog.com^$important
 @@|cconfig.azureedge.net^$important
@@ -590,6 +596,7 @@
 @@|sso-static.razer.com^$important
 @@|sso.nexusmods.com^$important
 @@|stage.secure.download.dm.origin.com^$important
+@@|starcraft2.blizzard.com^$important
 @@|starcraft2.com^$important
 @@|static*.cdn.ubi.com^$important
 @@|static*.ubi.com^$important
@@ -689,6 +696,7 @@
 @@|us-as.gr-cdn.com^$important
 @@|us-east-1-pachinko-realtime-2.wbagora.com^$important
 @@|us-east-2-gateway.zionprod.systems^$important
+@@|us-s2-depot-storage.classic.blizzard.com^$important
 @@|us-s2-depot.classic.blizzard.com^$important
 @@|us.api.blizzard.com^$important
 @@|us.cdn.blizzard.com^$important

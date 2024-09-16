@@ -316,6 +316,9 @@
 @@|amcdn.msftauth.net^$important
 @@|amd.com^$important
 @@|america.mirror.pkgbuild.com^$important
+@@|amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv^$important
+@@|amg00056-vevotv-vevoretrorockau-samsungau-k2qqz.amagi.tv^$important
+@@|amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv^$important
 @@|amp.azure.net^$important
 @@|analytics.tripwireinteractive.com^$important
 @@|andauth.co^$important
@@ -390,6 +393,7 @@
 @@|api.deezer.com^$important
 @@|api.doorman.fsapi.com^$important
 @@|api.dropbox.com^$important
+@@|api.dso.docker.com^$important
 @@|api.epicgames.dev^$important
 @@|api.eset.com^$important
 @@|api.evernote.com^$important
@@ -480,6 +484,7 @@
 @@|app-rgl-prod.ros.rockstargames.com^$important
 @@|app.alipay.com^$important
 @@|app.degoo.com^$important
+@@|app.docker.com^$important
 @@|app.hulu.com^$important
 @@|app.launchdarkly.com^$important
 @@|app.mediafire.com^$important
@@ -901,6 +906,8 @@
 @@|cdn-production-opera-website.operacdn.com^$important
 @@|cdn-s-thewitcher.cdprojektred.com^$important
 @@|cdn-static-cf.pornhd.com^$important
+@@|cdn-ue1-prod.tsv2.amagi.tv^$important
+@@|cdn-uw2-prod.tsv2.amagi.tv^$important
 @@|cdn.adguard.com^$important
 @@|cdn.adrise.tv^$important
 @@|cdn.adtidy.org^$important
@@ -968,6 +975,7 @@
 @@|cdn.samsung.com^$important
 @@|cdn.samsungcloudsolution.com^$important
 @@|cdn.search.brave.com^$important
+@@|cdn.segment.com^$important
 @@|cdn.services.gearboxsoftware.com^$important
 @@|cdn.shopify.com^$important
 @@|cdn.skypack.dev^$important
@@ -1404,6 +1412,7 @@
 @@|devblogs.microsoft.com^$important
 @@|developer.apple.com^$important
 @@|developer.download.nvidia.com^$important
+@@|developer.fedoraproject.org^$important
 @@|developer.github.com^$important
 @@|developer.microsoft.com^$important
 @@|developer.mozilla.org^$important
@@ -1464,6 +1473,7 @@
 @@|dl*.cdn.filezilla-project.org^$important
 @@|dl*.oo-software.com^$important
 @@|dl-asset.cyberlink.com^$important
+@@|dl-cdn.alpinelinux.org^$important
 @@|dl-file.cyberlink.com^$important
 @@|dl-web.dropbox.com^$important
 @@|dl.acronis.com^$important
@@ -1505,6 +1515,7 @@
 @@|doc-*-drive-data-export.googleusercontent.com^$important
 @@|doc.opensuse.org^$important
 @@|doc.qbittorrent.org^$important
+@@|docker.io^$important
 @@|doclone.nongnu.org^$important
 @@|docs.avaloniaui.net^$important
 @@|docs.chocolatey.org^$important
@@ -1705,6 +1716,7 @@
 @@|elixir-lang.org^$important
 @@|elm-lang.org^$important
 @@|email-assets.soundcloud.com^$important
+@@|email.notify.docker.com^$important
 @@|email2.gog.com^$important
 @@|emapi.prm.data.ea.com^$important
 @@|embed.gog.com^$important
@@ -1965,6 +1977,7 @@
 @@|forums-origin.xbox.com^$important
 @@|forums-preview.xbox.com^$important
 @@|forums.appleinsider.com^$important
+@@|forums.docker.com^$important
 @@|forums.geforce.com^$important
 @@|forums.getpaint.net^$important
 @@|forums.linuxmint.com^$important
@@ -2408,6 +2421,7 @@
 @@|image.engage.xbox.com^$important
 @@|image.flaticon.com^$important
 @@|image.samsung.com^$important
+@@|image.status.io^$important
 @@|image.status.xbox.com^$important
 @@|image.v.rokfin.com^$important
 @@|imagecurl.com^$important
@@ -2626,6 +2640,7 @@
 @@|kr-mirror.chaotic.cx^$important
 @@|kr.api.blizzard.com^$important
 @@|kstatic.googleusercontent.com^$important
+@@|kubernetes.io^$important
 @@|kv601.prod.do.dsp.mp.microsoft.com^$important
 @@|l-ring.msedge.net^$important
 @@|l.clarity.ms^$important
@@ -2739,6 +2754,7 @@
 @@|log-24f7f3c7.nab.com.au^$important
 @@|login.aliexpress.com^$important
 @@|login.corsair.com^$important
+@@|login.docker.com^$important
 @@|login.gog.com^$important
 @@|login.hulu.com^$important
 @@|login.live.com^$important
@@ -3177,6 +3193,7 @@
 @@|nexus-media*.backblazeb2.com^$important
 @@|nexusmods.com^$important
 @@|nexusmods.statuspage.io^$important
+@@|ngc.download.nvidia.com^$important
 @@|nginx.org^$important
 @@|ngx.download.nvidia.com^$important
 @@|nightlies.videolan.org^$important
@@ -3228,6 +3245,7 @@
 @@|nuget.info^$important
 @@|nuget.org^$important
 @@|nukacrypt.com^$important
+@@|nvcr.io^$important
 @@|nvda.d2.sc.omtrdc.net^$important
 @@|nvidia.com.ssl.sc.omtrdc.net^$important
 @@|nvidia.com^$important
@@ -3627,10 +3645,12 @@
 @@|prod.rewardsplatform.microsoft.com^$important
 @@|prod.ros.rockstargames.com^$important
 @@|prod.scorptec.com.au^$important
+@@|prodextdefgreen-k0uuibjyui-4ec6503f7037d339.elb.us-east-1.amazonaws.com^$important
 @@|productcard.gog-statics.com^$important
 @@|productimages.coles.com.au^$important
 @@|production-appsync.degoo.com^$important
 @@|production.assets.clips.twitchcdn.net^$important
+@@|production.cloudflare.docker.com^$important
 @@|products.office.com^$important
 @@|profile.accounts.firefox.com^$important
 @@|profile.gamepass.com^$important
@@ -3754,6 +3774,7 @@
 @@|redtube.com^$important
 @@|refer.wordpress.com^$important
 @@|referrals.brave.com^$important
+@@|registry-1.docker.io^$important
 @@|registry.fedoraproject.org^$important
 @@|registry.npmjs.org^$important
 @@|relay-*.net.anydesk.com^$important
@@ -3881,6 +3902,7 @@
 @@|scoop.sh^$important
 @@|scoopsearch.search.windows.net^$important
 @@|scorptec.resultspage.com^$important
+@@|scout.docker.com^$important
 @@|screenshotscontent-*.xboxlive.com^$important
 @@|screentogif-releases.azurewebsites.net^$important
 @@|script.google.com^$important
@@ -4219,6 +4241,7 @@
 @@|static.sandisk.com^$important
 @@|static.seedr.cc^$important
 @@|static.soundcloud.com^$important
+@@|static.status.io^$important
 @@|static.teamviewer.com^$important
 @@|static.tp-link.com^$important
 @@|static.trafficjunky.com^$important
@@ -4649,6 +4672,7 @@
 @@|tvpndynamiclogopus.samsungcloud.tv^$important
 @@|tvpnlinupepgpus.samsungcloud.tv^$important
 @@|tvpnlogopus.samsungcloud.tv^$important
+@@|tvpnlogosus.samsungcloud.tv^$important
 @@|tw.blog.twitch.tv^$important
 @@|twemoji.maxcdn.com^$important
 @@|twitch.amazon.com^$important
@@ -4937,6 +4961,7 @@
 @@|whatsnew.teamviewer.com^$important
 @@|whstatics.cdntrex.com^$important
 @@|wiki.almalinux.org^$important
+@@|wiki.alpinelinux.org^$important
 @@|wiki.archlinux.org^$important
 @@|wiki.debian.org^$important
 @@|wiki.manjaro.org^$important
@@ -5040,6 +5065,7 @@
 @@|www.christitus.com^$important
 @@|www.chromium.org^$important
 @@|www.clarity.ms^$important
+@@|www.clearlinux.org^$important
 @@|www.cleverbridge.com^$important
 @@|www.cloudflare.com^$important
 @@|www.codecademy.com^$important
@@ -5067,6 +5093,7 @@
 @@|www.dm.origin.com^$important
 @@|www.dns.sb^$important
 @@|www.docker.com^$important
+@@|www.dockerstatus.com^$important
 @@|www.dodo.com^$important
 @@|www.dolby.com^$important
 @@|www.dotnetperls.com^$important
@@ -5171,6 +5198,7 @@
 @@|www.killingfloor2.com^$important
 @@|www.kmart.com.au^$important
 @@|www.kogan.com^$important
+@@|www.kubernetes.io^$important
 @@|www.kudoboard.com^$important
 @@|www.lastpass.com^$important
 @@|www.leakslove.com^$important

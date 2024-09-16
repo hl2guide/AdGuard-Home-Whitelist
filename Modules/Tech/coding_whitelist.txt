@@ -11,8 +11,10 @@
 @@|apache.org^$important
 @@|api.accounts.firefox.com^$important
 @@|api.atlassian.com^$important
+@@|api.dso.docker.com^$important
 @@|api.github.com^$important
 @@|api.nuget.org^$important
+@@|app.docker.com^$important
 @@|assets-cdn.github.com^$important
 @@|assets.codepen.io^$important
 @@|assets.gitlab-static.net^$important
@@ -38,6 +40,7 @@
 @@|cdn.eu.auth0.com^$important
 @@|cdn.graph.office.net^$important
 @@|cdn.rawgit.com^$important
+@@|cdn.segment.com^$important
 @@|cdn.skypack.dev^$important
 @@|cdn.storeedgefd.dsx.mp.microsoft.com^$important
 @@|cdpn.io^$important
@@ -58,10 +61,13 @@
 @@|desktop.github.com^$important
 @@|desktop.githubusercontent.com^$important
 @@|dev.java^$important
+@@|developer.fedoraproject.org^$important
 @@|developer.github.com^$important
 @@|developer.microsoft.com^$important
 @@|developer.nvidia.com^$important
 @@|developercommunity.visualstudio.com^$important
+@@|dl-cdn.alpinelinux.org^$important
+@@|docker.io^$important
 @@|docs.avaloniaui.net^$important
 @@|docs.dbhub.io^$important
 @@|docs.docker.com^$important
@@ -78,6 +84,7 @@
 @@|electron.atom.io^$important
 @@|electronjs.org^$important
 @@|elixir-lang.org^$important
+@@|email.notify.docker.com^$important
 @@|eslint.org^$important
 @@|events-feed.github.com^$important
 @@|fabricweb.azureedge.net^$important
@@ -90,6 +97,7 @@
 @@|flutter.dev^$important
 @@|forthebadge.com^$important
 @@|forum.techhut.tv^$important
+@@|forums.docker.com^$important
 @@|forums.unrealengine.com^$important
 @@|forums.ventoy.net^$important
 @@|gist.github.com^$important
@@ -125,6 +133,7 @@
 @@|hub.docker.com^$important
 @@|id-common-frontend.prod.atl-paas.net^$important
 @@|id.atlassian.com^$important
+@@|image.status.io^$important
 @@|images.pling.com^$important
 @@|images.sourceforge.net^$important
 @@|img.s-msn.com^$important
@@ -138,10 +147,12 @@
 @@|jsfiddle.net^$important
 @@|julialang.org^$important
 @@|knowledgebase.macrium.com^$important
+@@|kubernetes.io^$important
 @@|lcdn-eu.icons8.com^$important
 @@|librewolf-community.gitlab.io^$important
 @@|linustechtips.com^$important
 @@|live.github.com^$important
+@@|login.docker.com^$important
 @@|logitech.com^$important
 @@|m3.material.io^$important
 @@|main.vscode-cdn.net^$important
@@ -153,6 +164,7 @@
 @@|ms-vscode.vscode-unpkg.net^$important
 @@|msdn.microsoft.com^$important
 @@|netdna.bootstrapcdn.com^$important
+@@|ngc.download.nvidia.com^$important
 @@|nginx.org^$important
 @@|nodejs.dev^$important
 @@|nodejs.org^$important
@@ -162,6 +174,7 @@
 @@|ntfy.sh^$important
 @@|nuget.info^$important
 @@|nuget.org^$important
+@@|nvcr.io^$important
 @@|nwjs.io^$important
 @@|oauth.accounts.firefox.com^$important
 @@|objects-origin.githubusercontent.com^$important
@@ -185,6 +198,8 @@
 @@|powershellgallery.com^$important
 @@|private-user-images.githubusercontent.com^$important
 @@|prod.intellicode.vsengsaas.visualstudio.com^$important
+@@|prodextdefgreen-k0uuibjyui-4ec6503f7037d339.elb.us-east-1.amazonaws.com^$important
+@@|production.cloudflare.docker.com^$important
 @@|profile.accounts.firefox.com^$important
 @@|pshelpprod.blob.core.windows.net^$important
 @@|ptc-directory-sited-static.us-east-1.prod.public.atl-paas.net^$important
@@ -193,11 +208,13 @@
 @@|raw.github.com^$important
 @@|raw.githubusercontent.com^$important
 @@|rawcdn.githack.com^$important
+@@|registry-1.docker.io^$important
 @@|registry.npmjs.org^$important
 @@|repository-images.githubusercontent.com^$important
 @@|resources.jetbrains.com^$important
 @@|rg3.github.io^$important
 @@|sciter.com^$important
+@@|scout.docker.com^$important
 @@|sdlc-esd.oracle.com^$important
 @@|semantic-ui.com^$important
 @@|sentry.io^$important
@@ -211,6 +228,7 @@
 @@|static.npmjs.com^$important
 @@|static.ocecdn.oraclecloud.com^$important
 @@|static.rust-lang.org^$important
+@@|static.status.io^$important
 @@|status.github.com^$important
 @@|t.castle.io^$important
 @@|tabler-icons.io^$important
@@ -240,16 +258,20 @@
 @@|w.tampermonkey.net^$important
 @@|webpifeed.blob.core.windows.net^$important
 @@|whotracks.me^$important
+@@|wiki.alpinelinux.org^$important
 @@|windows.php.net^$important
 @@|www.30secondsofcode.org^$important
+@@|www.clearlinux.org^$important
 @@|www.codecademy.com^$important
 @@|www.docker.com^$important
+@@|www.dockerstatus.com^$important
 @@|www.electronjs.org^$important
 @@|www.github.com^$important
 @@|www.github.developerdan.com^$important
 @@|www.heidisql.com^$important
 @@|www.java.com^$important
 @@|www.jetbrains.com^$important
+@@|www.kubernetes.io^$important
 @@|www.nerdfonts.com^$important
 @@|www.npmjs.com^$important
 @@|www.nuget.org^$important

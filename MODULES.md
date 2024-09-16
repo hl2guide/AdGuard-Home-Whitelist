@@ -24,6 +24,7 @@ Module | Description
 --------- | -----
 [Adult](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Entertainment/adult_whitelist.txt) | Adult only websites |
 [Games](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Entertainment/games_whitelist.txt) | PC Games and launchers |
+[Smart TV](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Entertainment/smart_tv.txt) | Smart TV websites |
 
 ## Managers
 
@@ -38,6 +39,7 @@ Module | Description
 Module | Description
 --------- | -----
 [Media](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Media/media_whitelist.txt) | Spotify and DeviantArt |
+[Plex](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Media/plex.txt) | Plex sites |
 [Video](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Media/video_whitelist.txt) | Twitch, Vimeo etc.. |
 
 ## Organizations
@@ -91,3 +93,5 @@ Module | Description
 [RARBG](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Torrents_and_Usenet/rarbg_whitelist.txt) | RARBG websites |
 [Torrent Trackers](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Torrents_and_Usenet/torrent_trackers_whitelist.txt) | Torrent Trackers |
 [Usenet](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/Modules/Torrents_and_Usenet/usenet_whitelist.txt) | Usenet websites |
+
+More modules are available [here](https://github.com/hl2guide/AdGuard-Home-Whitelist/tree/main/Modules), click the desired module and get the RAW link.

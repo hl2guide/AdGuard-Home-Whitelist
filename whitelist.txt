@@ -963,6 +963,7 @@
 @@|cdn.podia.com^$important
 @@|cdn.rawgit.com^$important
 @@|cdn.razersynapse.com^$important
+@@|cdn.readme.io^$important
 @@|cdn.registry.fedoraproject.org^$important
 @@|cdn.samsung.com^$important
 @@|cdn.samsungcloudsolution.com^$important
@@ -1389,6 +1390,7 @@
 @@|desktop-config-integration.juno.ea.com^$important
 @@|desktop-config.juno.ea.com^$important
 @@|desktop-dna.osp.opera.software^$important
+@@|desktop.docker.com^$important
 @@|desktop.github.com^$important
 @@|desktop.githubusercontent.com^$important
 @@|dev.deluge-torrent.org^$important
@@ -1532,6 +1534,7 @@
 @@|docs.standardnotes.org^$important
 @@|docs.unrealengine.com^$important
 @@|docs.uptobox.com^$important
+@@|docs.virustotal.com^$important
 @@|dodo.com.au^$important
 @@|dotnet.microsoft.com^$important
 @@|dotnetcli.azureedge.net^$important
@@ -1644,6 +1647,7 @@
 @@|e-cdns-images.dzcdn.net^$important
 @@|e.deviantart.net^$important
 @@|e1.o.lencr.org^$important
+@@|e6908.x.akamaiedge.net^$important
 @@|e7641.b.akamaiedge.net^$important
 @@|e8690.e12.akamaiedge.net^$important
 @@|ea.com^$important
@@ -1899,6 +1903,7 @@
 @@|files.community^$important
 @@|files.nzbcloud.com^$important
 @@|files.pythonhosted.org^$important
+@@|files.readme.io^$important
 @@|files.surfright.nl^$important
 @@|fileshare1240.depositfiles.com^$important
 @@|filestore.community.support.microsoft.com^$important
@@ -3137,6 +3142,7 @@
 @@|n9e5v4d8.ssl.hwcdn.net^$important
 @@|na.edge.kernel.org^$important
 @@|nab.com.au.ssl.d1.sc.omtrdc.net^$important
+@@|nab.com.au^$important
 @@|nab.demdex.net^$important
 @@|nairobi.cdntrex.com^$important
 @@|naomy.cdntrex.com^$important
@@ -4182,6 +4188,7 @@
 @@|static.cdprojektred.com^$important
 @@|static.chemistwarehouse.com.au^$important
 @@|static.cloud.coveo.com^$important
+@@|static.cloudflareinsights.com^$important
 @@|static.comparebroadband.com.au^$important
 @@|static.cyberdrop.me^$important
 @@|static.depositfiles.com^$important

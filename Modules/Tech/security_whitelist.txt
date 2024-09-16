@@ -46,6 +46,7 @@
 @@|cdn.adtidy.org^$important
 @@|cdn.arstechnica.net^$important
 @@|cdn.mos.cms.futurecdn.net^$important
+@@|cdn.readme.io^$important
 @@|cdn.slant.co^$important
 @@|cdn.sonicb.it^$important
 @@|cdn.statuspage.io^$important
@@ -75,6 +76,7 @@
 @@|deluge-torrent.org^$important
 @@|deluge.readthedocs.io^$important
 @@|deploy.windscribe.com^$important
+@@|desktop.docker.com^$important
 @@|dev.deluge-torrent.org^$important
 @@|discord-attachments-uploads-prd.storage.googleapis.com^$important
 @@|dl*.cdn.filezilla-project.org^$important
@@ -89,6 +91,7 @@
 @@|docs.ipfs.tech^$important
 @@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
+@@|docs.virustotal.com^$important
 @@|download.cpuid.com^$important
 @@|download.filepuma.com^$important
 @@|download.fosshub.com^$important
@@ -101,6 +104,7 @@
 @@|drive.proton.me^$important
 @@|drive.protonmail.com^$important
 @@|e1.o.lencr.org^$important
+@@|e6908.x.akamaiedge.net^$important
 @@|eset.com^$important
 @@|evernotesupport.zendesk.com^$important
 @@|eviltracker.net^$important
@@ -108,6 +112,7 @@
 @@|fdroid.getsession.org^$important
 @@|feedback.eset.com^$important
 @@|filefactory.us6.list-manage.com^$important
+@@|files.readme.io^$important
 @@|filezilla-project.org^$important
 @@|firstpartysimulator.net^$important
 @@|firstpartysimulator.org^$important
@@ -200,6 +205,7 @@
 @@|static.airtable.com^$important
 @@|static.bada.com^$important
 @@|static.cloud.coveo.com^$important
+@@|static.cloudflareinsights.com^$important
 @@|static.sandisk.com^$important
 @@|static.tp-link.com^$important
 @@|staticfiles.acronis.com^$important

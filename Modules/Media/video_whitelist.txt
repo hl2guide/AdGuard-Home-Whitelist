@@ -17,6 +17,7 @@
 @@|app.hulu.com^$important
 @@|app.twitch.tv^$important
 @@|appboot.netflix.com^$important
+@@|ase11-0.playlist.ttvnw.net^$important
 @@|assets.help.twitch.tv^$important
 @@|assets.hulu.com^$important
 @@|assets.twitch.tv^$important
@@ -31,6 +32,7 @@
 @@|cast.netflix.com^$important
 @@|cdn.adrise.tv^$important
 @@|cdn.dbdtwitch.com^$important
+@@|cdn.frankerfacez.com^$important
 @@|cdn.streamelements.com^$important
 @@|cdn.twitchalerts.com^$important
 @@|changelog.m7g.twitch.tv^$important
@@ -146,6 +148,7 @@
 @@|releases.grayjay.app^$important
 @@|returnyoutubedislikeapi.com^$important
 @@|rpg.twitch.tv^$important
+@@|science-output.s3.amazonaws.com^$important
 @@|search.vimeo.com^$important
 @@|secure.hulu.com^$important
 @@|secure.netflix.com^$important

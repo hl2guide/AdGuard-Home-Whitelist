@@ -115,6 +115,7 @@
 @@|cdn*.epicgames.com^$important
 @@|cdn-hw.gog.com^$important
 @@|cdn-s-thewitcher.cdprojektred.com^$important
+@@|cdn-s.cdprojektred.com^$important
 @@|cdn.ageofempires.com^$important
 @@|cdn.akamai.steamstatic.com^$important
 @@|cdn.bethesda.net^$important
@@ -302,6 +303,7 @@
 @@|gfn.pentanet.gg^$important
 @@|gfwsl.geforce.com^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-fastly-cp77.gog.com^$important
 @@|gog-cdn-fastly.gog.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
 @@|gog-cdn.akamaized.net^$important

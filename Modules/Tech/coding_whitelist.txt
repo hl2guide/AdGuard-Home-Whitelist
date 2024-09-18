@@ -19,6 +19,7 @@
 @@|assets.codepen.io^$important
 @@|assets.gitlab-static.net^$important
 @@|atlassian.com^$important
+@@|auth.docker.io^$important
 @@|autohotkey.com^$important
 @@|avaloniaui.net^$important
 @@|avatar-management--avatars.us-west-2.prod.public.atl-paas.net^$important

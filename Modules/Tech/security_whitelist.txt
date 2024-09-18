@@ -130,7 +130,9 @@
 @@|go.glarysoft.com^$important
 @@|go.oo-software.com^$important
 @@|gu.glarysoft.com^$important
+@@|help.adblockplus.org^$important
 @@|help.duckduckgo.com^$important
+@@|help.eyeo.com^$important
 @@|hndl.urbackup.org^$important
 @@|icon-finder.fly.dev^$important
 @@|ideas.mozilla.org^$important

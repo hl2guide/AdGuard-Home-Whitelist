@@ -8,6 +8,7 @@
 @@|b.basemaps.cartocdn.com^$important
 @@|bdwm.be^$important
 @@|c.basemaps.cartocdn.com^$important
+@@|cdn.organicmaps.app^$important
 @@|clipsync.bdwm.be^$important
 @@|grayjay.app^$important
 @@|tilecache.rainviewer.com^$important

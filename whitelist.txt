@@ -540,6 +540,7 @@
 @@|artoo.system76.com^$important
 @@|arvr.google.com^$important
 @@|as2rgn.file.samsungcloud.com^$important
+@@|ase11-0.playlist.ttvnw.net^$important
 @@|asia.creativecdn.com^$important
 @@|asia.mirror.pkgbuild.com^$important
 @@|asia.playstation.com^$important
@@ -622,6 +623,7 @@
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.assist.gameservices.xboxlive.com^$important
 @@|auth.ato.gov.au^$important
+@@|auth.docker.io^$important
 @@|auth.freeones.com^$important
 @@|auth.gog.com^$important
 @@|auth.kmart.com.au^$important
@@ -905,6 +907,7 @@
 @@|cdn-pics.pornhdprime.com^$important
 @@|cdn-production-opera-website.operacdn.com^$important
 @@|cdn-s-thewitcher.cdprojektred.com^$important
+@@|cdn-s.cdprojektred.com^$important
 @@|cdn-static-cf.pornhd.com^$important
 @@|cdn-ue1-prod.tsv2.amagi.tv^$important
 @@|cdn-uw2-prod.tsv2.amagi.tv^$important
@@ -939,6 +942,7 @@
 @@|cdn.eu.auth0.com^$important
 @@|cdn.flowplayer.com^$important
 @@|cdn.forms.office.net^$important
+@@|cdn.frankerfacez.com^$important
 @@|cdn.freeones.com^$important
 @@|cdn.fwupd.org^$important
 @@|cdn.globalsigncdn.com.cdn.cloudflare.net^$important
@@ -965,6 +969,7 @@
 @@|cdn.mwbsys.com^$important
 @@|cdn.onenote.net^$important
 @@|cdn.optimizely.com^$important
+@@|cdn.organicmaps.app^$important
 @@|cdn.pling.com^$important
 @@|cdn.plyr.io^$important
 @@|cdn.podia.com^$important
@@ -2218,6 +2223,7 @@
 @@|go.trouter.teams.microsoft.com^$important
 @@|go.twitch.tv^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-fastly-cp77.gog.com^$important
 @@|gog-cdn-fastly.gog.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
 @@|gog-cdn.akamaized.net^$important
@@ -2299,6 +2305,7 @@
 @@|health.nsw.gov.au^$important
 @@|heartbeat.dm.origin.com^$important
 @@|help-assets.soundcloud.com^$important
+@@|help.adblockplus.org^$important
 @@|help.aldi.com.au^$important
 @@|help.bitwarden.com^$important
 @@|help.cdn.ubisoft.com^$important
@@ -2308,6 +2315,7 @@
 @@|help.duckduckgo.com^$important
 @@|help.ea.com^$important
 @@|help.evernote.com^$important
+@@|help.eyeo.com^$important
 @@|help.kaspersky.com^$important
 @@|help.kogan.com^$important
 @@|help.macrium.com^$important
@@ -3897,6 +3905,7 @@
 @@|scan.kaspersky.com^$important
 @@|scapi.rockstargames.com^$important
 @@|schneegans.de^$important
+@@|science-output.s3.amazonaws.com^$important
 @@|sciter.com^$important
 @@|scone-pa.clients6.google.com^$important
 @@|scoop.sh^$important
@@ -4890,6 +4899,7 @@
 @@|vmw-keyid-d5ba3c17e840e79fe0c3b8c31a572ae24c2d01a9.microsoftaik.azure.net^$important
 @@|vo2.qrlsx.com^$important
 @@|vod-secure.twitch.tv^$important
+@@|vod.ebay.com.au^$important
 @@|voidtools.com^$important
 @@|vortex.data.microsoft.com^$important
 @@|vporn.com^$important

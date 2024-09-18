@@ -55,6 +55,7 @@
 @@|static.gumtree.com.au.peakhour.zone^$important
 @@|static.queue-it.net^$important
 @@|vi.vipr.ebaydesc.com^$important
+@@|vod.ebay.com.au^$important
 @@|www.amazon.com.au^$important
 @@|www.corsair.com^$important
 @@|www.ebay.com^$important

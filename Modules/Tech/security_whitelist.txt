@@ -57,6 +57,7 @@
 @@|cfcdn.neosmart.net^$important
 @@|challenges.cloudflare.com^$important
 @@|check.dns.sh^$important
+@@|checkip.windscribe.com^$important
 @@|clearurls.xyz^$important
 @@|cloudflare-dns.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
@@ -191,6 +192,7 @@
 @@|samsung.com^$important
 @@|samsungvr.com^$important
 @@|schneegans.de^$important
+@@|science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$important
 @@|screentogif-releases.azurewebsites.net^$important
 @@|security.cloudflare-dns.com^$important
 @@|sentry.internxt.com^$important

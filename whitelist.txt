@@ -229,6 +229,7 @@
 @@|accounts.firefox.com^$important
 @@|accounts.google.com.*^$important
 @@|accounts.google.com^$important
+@@|accounts.ikea.com^$important
 @@|accounts.lastpass.com^$important
 @@|accounts.nvgs.nvidia.cn^$important
 @@|accounts.nvgs.nvidia.com^$important
@@ -407,6 +408,7 @@
 @@|api.gog.com^$important
 @@|api.hcaptcha.com^$important
 @@|api.imgur.com^$important
+@@|api.ingka.ikea.com^$important
 @@|api.internxt.com^$important
 @@|api.invidious.io^$important
 @@|api.jdownloader.org^$important
@@ -458,6 +460,7 @@
 @@|api.target.com.au^$important
 @@|api.teams.skype.com^$important
 @@|api.tiles.mapbox.com^$important
+@@|api.tugc.ingka.com^$important
 @@|api.twitch.tv^$important
 @@|api.typeform.com^$important
 @@|api.unsplash.com^$important
@@ -1072,6 +1075,7 @@
 @@|check.ddos-guard.net^$important
 @@|check.dns.sh^$important
 @@|checkappexec.microsoft.com^$important
+@@|checkip.windscribe.com^$important
 @@|checkipv4.windscribe.com^$important
 @@|checkout-sdk.bigcommerce.com^$important
 @@|checkout.ea.com^$important
@@ -1361,6 +1365,7 @@
 @@|datarouter.ol.epicgames.com^$important
 @@|datasert.gallery.vsassets.io^$important
 @@|datastorage-public-service-liveegs.live.use1a.on.epicgames.com^$important
+@@|daylist.spotifycdn.com^$important
 @@|dbeaver.io^$important
 @@|dbhub.eu.auth0.com^$important
 @@|dbhub.io^$important
@@ -1916,6 +1921,7 @@
 @@|filejoker.net^$important
 @@|filen.io^$important
 @@|files*.majorgeeks.com^$important
+@@|files-proxy.wixmp.com^$important
 @@|files.cdn.ubisoft.com^$important
 @@|files.community^$important
 @@|files.nzbcloud.com^$important
@@ -2403,6 +2409,7 @@
 @@|icon-finder.fly.dev^$important
 @@|icons.bitwarden.net^$important
 @@|icons8.com^$important
+@@|icsp.ingka.ikea.com^$important
 @@|id-cdn.twitch.tv^$important
 @@|id-common-frontend.prod.atl-paas.net^$important
 @@|id-lookup.api.playstation.com^$important
@@ -2477,6 +2484,7 @@
 @@|img*.imagetwist.com^$important
 @@|img-*.cyberdrop.to^$important
 @@|img-*.xvideos-cdn.com^$important
+@@|img-deviantart.wixmp.com^$important
 @@|img-hw.xvideos-cdn.com^$important
 @@|img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@|img-s-msn-com.akamaized.net^$important
@@ -3523,6 +3531,7 @@
 @@|php.net^$important
 @@|pi-hole.net^$important
 @@|pia.porntrex.com^$important
+@@|pickasso.spotifycdn.com^$important
 @@|picotorrent.org^$important
 @@|pics.ebaystatic.com^$important
 @@|pics.paypal.com^$important
@@ -3645,6 +3654,7 @@
 @@|prod-tp.sumo.mozit.cloud^$important
 @@|prod-video-cms-rt-microsoft-com.akamaized.net^$important
 @@|prod-www.malwarebytes.com^$important
+@@|prod.cart.caas.selling.ingka.com^$important
 @@|prod.client.wosc.services.microsoft.com^$important
 @@|prod.cloud.rockstargames.com^$important
 @@|prod.disqus.map.fastlylb.net^$important
@@ -3905,6 +3915,7 @@
 @@|scan.kaspersky.com^$important
 @@|scapi.rockstargames.com^$important
 @@|schneegans.de^$important
+@@|science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$important
 @@|science-output.s3.amazonaws.com^$important
 @@|sciter.com^$important
 @@|scone-pa.clients6.google.com^$important
@@ -3955,6 +3966,7 @@
 @@|securitydomain-pa.googleapis.com^$important
 @@|securityintelligencecenter-eastus.azurewebsites.net^$important
 @@|seed*.debrid.link^$important
+@@|seed-mix-image.spotifycdn.com^$important
 @@|seedpeer.net^$important
 @@|seedr.cc^$important
 @@|segments-s.msedge.net^$important
@@ -4022,6 +4034,7 @@
 @@|signup.hulu.com^$important
 @@|signup.live.com^$important
 @@|signup.netflix.com^$important
+@@|sik.search.blue.cdtapps.com^$important
 @@|simplelogin.io^$important
 @@|sirius.mwbsys.com^$important
 @@|sisu.xboxlive.com^$important
@@ -4490,6 +4503,7 @@
 @@|themes.mozilla.org^$important
 @@|thetracker.org^$important
 @@|thewindowsclub.com^$important
+@@|thisis-images.spotifycdn.com^$important
 @@|threatcrowd.org^$important
 @@|threats.kaspersky.com^$important
 @@|thumb-*.xhcdn.com^$important
@@ -4841,6 +4855,7 @@
 @@|v.tampermonkey.net^$important
 @@|v0.wordpress.com^$important
 @@|v20.events.data.microsoft.com^$important
+@@|v4.ai.ingka.ikea.net^$important
 @@|v6-tracker.0g.cx^$important
 @@|vanilla.futurecdn.net^$important
 @@|vas.samsungapps.com^$important
@@ -4947,6 +4962,7 @@
 @@|wdcpalt.microsoft.com^$important
 @@|weather.opera-api2.com^$important
 @@|web*.rumble.com^$important
+@@|web-api.ikea.com^$important
 @@|web-assets-prod.s3.amazonaws.com^$important
 @@|web-browser.cdn.ubisoft.com^$important
 @@|web-toolbar.playstation.com^$important
@@ -5000,6 +5016,7 @@
 @@|winstall.app^$important
 @@|winter15.gosredirector.ea.com^$important
 @@|wire.com^$important
+@@|wixmp-ed30a86b8c4ca887773594c2.wixmp.com^$important
 @@|wn*.rumble.com^$important
 @@|woolworths.com.au^$important
 @@|woolworths.scene7.com^$important
@@ -5187,6 +5204,7 @@
 @@|www.hwinfo.com^$important
 @@|www.i-dont-care-about-cookies.eu^$important
 @@|www.if-not-true-then-false.com^$important
+@@|www.ikea.com^$important
 @@|www.images-home.com^$important
 @@|www.industry.gov.au^$important
 @@|www.ing.com.au^$important

@@ -1,0 +1,4 @@
+@@|daylist.spotifycdn.com^$important
+@@|pickasso.spotifycdn.com^$important
+@@|seed-mix-image.spotifycdn.com^$important
+@@|thisis-images.spotifycdn.com^$important

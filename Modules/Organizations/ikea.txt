@@ -1,0 +1,9 @@
+@@|accounts.ikea.com^$important
+@@|api.ingka.ikea.com^$important
+@@|api.tugc.ingka.com^$important
+@@|icsp.ingka.ikea.com^$important
+@@|prod.cart.caas.selling.ingka.com^$important
+@@|sik.search.blue.cdtapps.com^$important
+@@|v4.ai.ingka.ikea.net^$important
+@@|web-api.ikea.com^$important
+@@|www.ikea.com^$important

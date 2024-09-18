@@ -57,6 +57,7 @@
 @@|exp.wg.spotify.com^$important
 @@|external-preview.redd.it^$important
 @@|extract.services.disqus.com^$important
+@@|files-proxy.wixmp.com^$important
 @@|forum.doom9.org^$important
 @@|forum.makemkv.com^$important
 @@|forum.videolan.org^$important
@@ -81,6 +82,7 @@
 @@|images.wikia.com^$important
 @@|images.wikia.nocookie.net^$important
 @@|images5.alphacoders.com^$important
+@@|img-deviantart.wixmp.com^$important
 @@|img.production.rokfin.com^$important
 @@|imgur.com^$important
 @@|irc.libera.chat^$important

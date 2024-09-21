@@ -292,6 +292,7 @@
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gameplay.gog.com^$important
 @@|gamer-profile.cdn.ubisoft.com^$important
+@@|gamersnexus.net^$important
 @@|gamesdb.gog.com^$important
 @@|gaminglppc.azurefd.net^$important
 @@|gateway.ea.com^$important
@@ -736,6 +737,7 @@
 @@|www.epicgames.com^$important
 @@|www.fallout4london.com^$important
 @@|www.fose.silverlock.org^$important
+@@|www.gamersnexus.net^$important
 @@|www.geforce.com^$important
 @@|www.gog.com^$important
 @@|www.gogalaxy.com^$important

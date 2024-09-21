@@ -11,4 +11,6 @@
 @@|cdn.organicmaps.app^$important
 @@|clipsync.bdwm.be^$important
 @@|grayjay.app^$important
+@@|lrclib.net^$important
+@@|song.link^$important
 @@|tilecache.rainviewer.com^$important

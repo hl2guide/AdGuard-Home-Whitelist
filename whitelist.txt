@@ -581,6 +581,7 @@
 @@|assets.razerzone.com^$important
 @@|assets.resultspage.com^$important
 @@|assets.sb-cd.com^$important
+@@|assets.squarespace.com^$important
 @@|assets.system76.com^$important
 @@|assets.twitch.tv^$important
 @@|assets.ubuntu.com^$important
@@ -1047,6 +1048,7 @@
 @@|cfos-blog.de^$important
 @@|cfos.de^$important
 @@|cfota*.ospserver.net^$important
+@@|ch-thumbs.freeones.com^$important
 @@|cha1.speedtest.telstra.net^$important
 @@|challenges.cdn.ubisoft.com^$important
 @@|challenges.cloudflare.com^$important
@@ -1916,6 +1918,7 @@
 @@|fi.m.wikipedia.com^$important
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
+@@|file.portableupdate.com^$important
 @@|filefactory.com^$important
 @@|filefactory.us6.list-manage.com^$important
 @@|filejoker.net^$important
@@ -2138,6 +2141,7 @@
 @@|gameplay.gog.com^$important
 @@|gamer-profile.cdn.ubisoft.com^$important
 @@|gamercard.xbox.com^$important
+@@|gamersnexus.net^$important
 @@|games.dolby.com^$important
 @@|gamesdb.gog.com^$important
 @@|gameserverds.xboxlive.com^$important
@@ -2471,6 +2475,7 @@
 @@|images.prismic.io^$important
 @@|images.samsung.com^$important
 @@|images.sourceforge.net^$important
+@@|images.squarespace-cdn.com^$important
 @@|images.theabcdn.com^$important
 @@|images.unsplash.com^$important
 @@|images.videolan.org^$important
@@ -2511,6 +2516,7 @@
 @@|imgproxy-prod.services.web.outlook.com^$important
 @@|imgs.hcaptcha.com^$important
 @@|imgs.search.brave.com^$important
+@@|imgs1cdn.adultempire.com^$important
 @@|imgur.com^$important
 @@|impactserving.com^$important
 @@|improving.duckduckgo.com^$important
@@ -2796,6 +2802,7 @@
 @@|lowes.com.au^$important
 @@|lp-push-server-*.lastpass.com^$important
 @@|lp.gog.com^$important
+@@|lrclib.net^$important
 @@|ls.dtrace.nvidia.com^$important
 @@|lu.api.mega.co.nz^$important
 @@|lutris.net^$important
@@ -3315,6 +3322,7 @@
 @@|odysee.com^$important
 @@|odyssey.services.gearboxsoftware.com^$important
 @@|oempprd.samsungcloudsolution.com^$important
+@@|of-lb-s3.freeones.com^$important
 @@|offcloud.com^$important
 @@|offcloudshop.onfastspring.com^$important
 @@|office.com^$important
@@ -4073,6 +4081,7 @@
 @@|software.manjaro.org^$important
 @@|software.opensuse.org^$important
 @@|softwareupdate.vmware.com^$important
+@@|song.link^$important
 @@|songbird.cardinalcommerce.com^$important
 @@|sonicbit.net^$important
 @@|sonicseedbox.com^$important
@@ -4275,6 +4284,7 @@
 @@|static.zdassets.com^$important
 @@|static0.audioboom.com^$important
 @@|static1.makeuseofimages.com^$important
+@@|static1.squarespace.com^$important
 @@|static2.sharepointonline.com^$important
 @@|staticcdn.duckduckgo.com^$important
 @@|staticctf.akamaized.net^$important
@@ -5164,6 +5174,7 @@
 @@|www.freeones.xxx^$important
 @@|www.fsarchiver.org^$important
 @@|www.fxsound.com^$important
+@@|www.gamersnexus.net^$important
 @@|www.gammaentertainment.com^$important
 @@|www.geforce.com^$important
 @@|www.gentoo.org^$important
@@ -5321,6 +5332,7 @@
 @@|www.pool.ntp.org^$important
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
+@@|www.portableupdate.com^$important
 @@|www.powershellgallery.com^$important
 @@|www.privacytools.io^$important
 @@|www.programmingfonts.org^$important

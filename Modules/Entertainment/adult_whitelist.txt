@@ -29,6 +29,7 @@
 @@|cdn11.bigcommerce.com^$important
 @@|cdn77-pic.others-cdn.com^$important
 @@|cdn77-vid.xvideos-cdn.com^$important
+@@|ch-thumbs.freeones.com^$important
 @@|chatserver13.comm100.io^$important
 @@|checkout-sdk.bigcommerce.com^$important
 @@|ci.phncdn.com^$important
@@ -68,6 +69,7 @@
 @@|img-hw.xvideos-cdn.com^$important
 @@|img.freeones.com^$important
 @@|img.strpst.com^$important
+@@|imgs1cdn.adultempire.com^$important
 @@|k.pussyspace.com^$important
 @@|lea.cdntrex.com^$important
 @@|leakslove.com^$important
@@ -81,6 +83,7 @@
 @@|nairobi.cdntrex.com^$important
 @@|naomy.cdntrex.com^$important
 @@|nsfw.reddit.com^$important
+@@|of-lb-s3.freeones.com^$important
 @@|pia.porntrex.com^$important
 @@|planetsuzy.org^$important
 @@|pornhub.com^$important

@@ -805,6 +805,7 @@
 @@|browser.pipe.aria.microsoft.com^$important
 @@|browser.samsungcloudcdn.com^$important
 @@|browserbench.org^$important
+@@|bt.ktrackers.com^$important
 @@|bt.uniondht.org^$important
 @@|bt1.archive.org^$important
 @@|bugs.python.org^$important
@@ -1081,6 +1082,7 @@
 @@|checkipv4.windscribe.com^$important
 @@|checkout-sdk.bigcommerce.com^$important
 @@|checkout.ea.com^$important
+@@|checkout.nzbcloud.com^$important
 @@|checkout.paypal.com^$important
 @@|checkout.soundcloud.com^$important
 @@|checkout.stripe.com^$important
@@ -1862,6 +1864,7 @@
 @@|fast.fonts.net^$important
 @@|fastcopy.jp^$important
 @@|fastly-download.epicgames.com^$important
+@@|fasttracker.foreverpirates.co^$important
 @@|favorites.live.com^$important
 @@|fd-assets.prod.atl-paas.net^$important
 @@|fd-config.us-east-1.prod.public.atl-paas.net^$important
@@ -4514,6 +4517,7 @@
 @@|thetracker.org^$important
 @@|thewindowsclub.com^$important
 @@|thisis-images.spotifycdn.com^$important
+@@|thouvenin.cloud^$important
 @@|threatcrowd.org^$important
 @@|threats.kaspersky.com^$important
 @@|thumb-*.xhcdn.com^$important
@@ -4574,11 +4578,13 @@
 @@|tos.ea.com^$important
 @@|toshiba.semicon-storage.com^$important
 @@|tpucdn.com^$important
+@@|tr.bangumi.moe^$important
 @@|tr.qfruiti.in^$important
 @@|tr.twitch.tv^$important
 @@|tr.wikipedia.com^$important
 @@|tr11v6.os.eidos.com^$important
 @@|tr2.os.eidos.com^$important
+@@|tr4ck3r.duckdns.org^$important
 @@|trackarr.org^$important
 @@|tracker-udp.gbitt.info^$important
 @@|tracker.0x.tf^$important
@@ -4587,6 +4593,7 @@
 @@|tracker.6.babico.name.tr^$important
 @@|tracker.altrosky.nl^$important
 @@|tracker.anima.nz^$important
+@@|tracker.artixlinux.org^$important
 @@|tracker.auctor.tv^$important
 @@|tracker.beeimg.com^$important
 @@|tracker.birkenwald.de^$important
@@ -4653,6 +4660,7 @@
 @@|tracker.skyts.net^$important
 @@|tracker.slowcheetah.org^$important
 @@|tracker.srv00.com^$important
+@@|tracker.swateam.org.uk^$important
 @@|tracker.t-rb.org^$important
 @@|tracker.tallpenguin.org^$important
 @@|tracker.tamersunion.org^$important
@@ -4681,6 +4689,8 @@
 @@|tracker2.itzmx.com^$important
 @@|tracker3.ctix.cn^$important
 @@|tracker4.itzmx.com^$important
+@@|tracker6.lelux.fi^$important
+@@|trackerb.jonaslsa.com^$important
 @@|trackerfix.com^$important
 @@|trackersimulator.org^$important
 @@|tracking-protection.cdn.mozilla.net^$important

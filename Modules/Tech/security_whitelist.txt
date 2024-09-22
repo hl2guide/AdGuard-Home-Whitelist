@@ -59,6 +59,7 @@
 @@|challenges.cloudflare.com^$important
 @@|check.dns.sh^$important
 @@|checkip.windscribe.com^$important
+@@|checkout.nzbcloud.com^$important
 @@|clearurls.xyz^$important
 @@|cloudflare-dns.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important

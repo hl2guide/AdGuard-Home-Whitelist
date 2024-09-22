@@ -3,6 +3,7 @@
 @@|9.rarbg.com^$important
 @@|abir0dev.github.io^$important
 @@|astrr.ru^$important
+@@|bt.ktrackers.com^$important
 @@|bt.okmp3.ru^$important
 @@|bt.uniondht.org^$important
 @@|bt1.archive.org^$important
@@ -16,6 +17,7 @@
 @@|euprod-knoxpp.samsungknox.com^$important
 @@|exodus.desync.com^$important
 @@|explodie.org^$important
+@@|fasttracker.foreverpirates.co^$important
 @@|fe.dealclub.de^$important
 @@|forum.qbittorrent.org^$important
 @@|free.publictracker.xyz^$important
@@ -61,6 +63,7 @@
 @@|t1.aag.moe^$important
 @@|thagoat.rocks^$important
 @@|thetracker.org^$important
+@@|thouvenin.cloud^$important
 @@|tk2.trackerservers.com^$important
 @@|torbox.app^$important
 @@|torrent-tracker.hama3.net^$important
@@ -70,6 +73,7 @@
 @@|tp.m-team.cc^$important
 @@|tr.abiir.top^$important
 @@|tr.abirxo.cf^$important
+@@|tr.bangumi.moe^$important
 @@|tr.burnabyhighstar.com^$important
 @@|tr.cili001.com^$important
 @@|tr.doogh.club^$important
@@ -78,6 +82,7 @@
 @@|tr.qfruiti.in^$important
 @@|tr.ready4.icu^$important
 @@|tr.torland.ga^$important
+@@|tr4ck3r.duckdns.org^$important
 @@|trackarr.org^$important
 @@|tracker-udp.gbitt.info^$important
 @@|tracker.0x.tf^$important
@@ -86,6 +91,7 @@
 @@|tracker.6.babico.name.tr^$important
 @@|tracker.altrosky.nl^$important
 @@|tracker.anima.nz^$important
+@@|tracker.artixlinux.org^$important
 @@|tracker.auctor.tv^$important
 @@|tracker.babico.name.tr^$important
 @@|tracker.beeimg.com^$important
@@ -150,6 +156,7 @@
 @@|tracker.skyts.net^$important
 @@|tracker.slowcheetah.org^$important
 @@|tracker.srv00.com^$important
+@@|tracker.swateam.org.uk^$important
 @@|tracker.t-rb.org^$important
 @@|tracker.tallpenguin.org^$important
 @@|tracker.tamersunion.org^$important
@@ -176,6 +183,8 @@
 @@|tracker2.dler.com^$important
 @@|tracker2.dler.org^$important
 @@|tracker3.ctix.cn^$important
+@@|tracker6.lelux.fi^$important
+@@|trackerb.jonaslsa.com^$important
 @@|trackme.theom.nz^$important
 @@|uraniumhexafluori.de^$important
 @@|v2.iperson.xyz^$important

@@ -38,6 +38,7 @@
 @@|atlas.eff.org^$important
 @@|au.pcpartpicker.com^$important
 @@|avatars.slant.co^$important
+@@|avoidthehack.com^$important
 @@|blocklist.sefinek.net^$important
 @@|blog.chocolatey.org^$important
 @@|blog.ipfs.tech^$important
@@ -46,7 +47,9 @@
 @@|calendar.protonmail.com^$important
 @@|cdn.adtidy.org^$important
 @@|cdn.arstechnica.net^$important
+@@|cdn.localizeapi.com^$important
 @@|cdn.mos.cms.futurecdn.net^$important
+@@|cdn.prod.website-files.com^$important
 @@|cdn.readme.io^$important
 @@|cdn.slant.co^$important
 @@|cdn.sonicb.it^$important
@@ -94,6 +97,7 @@
 @@|docs.ipfs.tech^$important
 @@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
+@@|docs.pi-hole.net^$important
 @@|docs.virustotal.com^$important
 @@|download.cpuid.com^$important
 @@|download.filepuma.com^$important
@@ -186,6 +190,7 @@
 @@|raindrop-preview-prod.exentrich.workers.dev^$important
 @@|readthedocs.org^$important
 @@|relay.firefox.com^$important
+@@|remote-auth-gateway.discord.gg^$important
 @@|repo.vivaldi.com^$important
 @@|reports.proton.me^$important
 @@|rescuezilla.com^$important
@@ -199,6 +204,7 @@
 @@|science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$important
 @@|screentogif-releases.azurewebsites.net^$important
 @@|security.cloudflare-dns.com^$important
+@@|sefinek.net^$important
 @@|sentry.internxt.com^$important
 @@|sfederation.intel.com^$important
 @@|shell.windows.com^$important
@@ -252,10 +258,13 @@
 @@|webtags.logitech.com^$important
 @@|windowsreport.com^$important
 @@|winget.run^$important
+@@|wp-cdn.pi-hole.net^$important
+@@|wp-pihole.b-cdn.net^$important
 @@|www-eset-com.api.cspconsole.com^$important
 @@|www.acronis.com^$important
 @@|www.anyburn.com^$important
 @@|www.asus.com^$important
+@@|www.avoidthehack.com^$important
 @@|www.browserbench.org^$important
 @@|www.candisoft.com^$important
 @@|www.cookiepro.com^$important
@@ -297,6 +306,7 @@
 @@|www.schneegans.de^$important
 @@|www.screentogif.com^$important
 @@|www.seagate.com^$important
+@@|www.sefinek.net^$important
 @@|www.slant.co^$important
 @@|www.superloop.com^$important
 @@|www.sysinternals.com^$important

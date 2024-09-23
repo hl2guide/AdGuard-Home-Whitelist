@@ -267,6 +267,7 @@
 @@|adguardteam.github.io^$important
 @@|adidas.com^$important
 @@|adl.windows.com^$important
+@@|admin.docker.com^$important
 @@|admin.fedoraproject.org^$important
 @@|admin.microsoft.com^$important
 @@|adssettings.google.com^$important
@@ -658,6 +659,7 @@
 @@|avatars1.githubusercontent.com^$important
 @@|avatars2.githubusercontent.com^$important
 @@|avatars3.githubusercontent.com^$important
+@@|avoidthehack.com^$important
 @@|avty.xboxlive.com^$important
 @@|awards.netflix.com^$important
 @@|aws1.discourse-cdn.com^$important
@@ -965,6 +967,7 @@
 @@|cdn.jsdelivr.net^$important
 @@|cdn.jwplayer.com^$important
 @@|cdn.kde.org^$important
+@@|cdn.localizeapi.com^$important
 @@|cdn.mapgenie.io^$important
 @@|cdn.mcr.ea.com^$important
 @@|cdn.mega-debrid.eu^$important
@@ -978,6 +981,7 @@
 @@|cdn.pling.com^$important
 @@|cdn.plyr.io^$important
 @@|cdn.podia.com^$important
+@@|cdn.prod.website-files.com^$important
 @@|cdn.rawgit.com^$important
 @@|cdn.razersynapse.com^$important
 @@|cdn.readme.io^$important
@@ -1550,6 +1554,7 @@
 @@|docs.npmjs.com^$important
 @@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
+@@|docs.pi-hole.net^$important
 @@|docs.picotorrent.org^$important
 @@|docs.playstation.com^$important
 @@|docs.python.org^$important
@@ -1672,9 +1677,11 @@
 @@|e-cdns-images.dzcdn.net^$important
 @@|e.deviantart.net^$important
 @@|e1.o.lencr.org^$important
+@@|e207850.a.akamaiedge.net^$important
 @@|e6908.x.akamaiedge.net^$important
 @@|e7641.b.akamaiedge.net^$important
 @@|e8690.e12.akamaiedge.net^$important
+@@|e87795.a.akamaiedge.net^$important
 @@|ea.com^$important
 @@|eaassets-a.akamaihd.net^$important
 @@|eaavatarservice.akamaized.net^$important
@@ -3494,6 +3501,7 @@
 @@|payments.openalerts.com^$important
 @@|payments.soundcloud.com^$important
 @@|paymentsredirectionservice.cp.microsoft.com^$important
+@@|paypal-dynamic-cdn.map.fastly.net^$important
 @@|paypal.com^$important
 @@|paypal.de^$important
 @@|paypalobjects.com^$important
@@ -3725,6 +3733,7 @@
 @@|pubsub-api.razerapi.com^$important
 @@|pubsub-edge.twitch.tv^$important
 @@|pubsub.razersynapse.com^$important
+@@|pulsar.ebay.com.au^$important
 @@|purchase.mp.microsoft.com^$important
 @@|push.chocolatey.org^$important
 @@|push.services.mozilla.com^$important
@@ -3814,6 +3823,7 @@
 @@|reminders-pa.clients*.google.com^$important
 @@|reminders-pa.googleapis.com^$important
 @@|remnants.hitmanpro.com^$important
+@@|remote-auth-gateway.discord.gg^$important
 @@|remote-config.gog.com^$important
 @@|repo.fedora.md^$important
 @@|repo.manjaro.org^$important
@@ -3980,6 +3990,7 @@
 @@|seed-mix-image.spotifycdn.com^$important
 @@|seedpeer.net^$important
 @@|seedr.cc^$important
+@@|sefinek.net^$important
 @@|segments-s.msedge.net^$important
 @@|self-test.sabnzbd.org^$important
 @@|self.events.data.microsoft.com^$important
@@ -5045,6 +5056,8 @@
 @@|wordpress.org^$important
 @@|workspace.google.com^$important
 @@|wowprodmediaaae.blob.core.windows.net^$important
+@@|wp-cdn.pi-hole.net^$important
+@@|wp-pihole.b-cdn.net^$important
 @@|ws.audioscrobbler.com^$important
 @@|ws1-n1mel.isp.foxtel.net.au^$important
 @@|ws1-n1syd.isp.foxtel.net.au^$important
@@ -5089,6 +5102,7 @@
 @@|www.asus.com^$important
 @@|www.ato.gov.au^$important
 @@|www.autohotkey.com^$important
+@@|www.avoidthehack.com^$important
 @@|www.base64decode.org^$important
 @@|www.bcuninstaller.com^$important
 @@|www.bethesda.net^$important
@@ -5379,6 +5393,7 @@
 @@|www.scorptec.com.au^$important
 @@|www.screentogif.com^$important
 @@|www.seagate.com^$important
+@@|www.sefinek.net^$important
 @@|www.service.nsw.gov.au^$important
 @@|www.simplemobiletools.com^$important
 @@|www.slant.co^$important

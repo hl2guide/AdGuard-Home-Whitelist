@@ -22,6 +22,8 @@
 @@|databridge.tdbtrk.com^$important
 @@|de.aliexpress.com^$important
 @@|deals.ghacks.net^$important
+@@|e207850.a.akamaiedge.net^$important
+@@|e87795.a.akamaiedge.net^$important
 @@|ebayimg.map.fastly.net^$important
 @@|ebaystatic.ebay.map.fastly.net^$important
 @@|es.aliexpress.com^$important
@@ -42,9 +44,11 @@
 @@|passport.alipay.com^$important
 @@|pay.ebay.com.au^$important
 @@|pay.ebay.com^$important
+@@|paypal-dynamic-cdn.map.fastly.net^$important
 @@|prod.scorptec.com.au^$important
 @@|productimages.coles.com.au^$important
 @@|promotion.aliexpress.com^$important
+@@|pulsar.ebay.com.au^$important
 @@|rcom.dynamicyield.com^$important
 @@|scorptec.resultspage.com^$important
 @@|seal-sanjose.bbb.org^$important

@@ -4,6 +4,7 @@
 @@|*.vscode-webview.net^$important
 @@|about.gitlab.com^$important
 @@|adguardteam.github.io^$important
+@@|admin.docker.com^$important
 @@|aid-frontend.prod.atl-paas.net^$important
 @@|alive.github.com^$important
 @@|angularjs.org^$important

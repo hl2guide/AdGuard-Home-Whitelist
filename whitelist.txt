@@ -189,6 +189,7 @@
 @@|a1357.dscb.akamai.net^$important
 @@|a1836.d.akamai.net^$important
 @@|a1874.d.akamai.net^$important
+@@|a1be18f0874fd98eb.awsglobalaccelerator.com^$important
 @@|a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
 @@|aadcdn.msauth.net^$important
 @@|aadcdn.msftauth.net^$important
@@ -978,6 +979,7 @@
 @@|cdn.onenote.net^$important
 @@|cdn.optimizely.com^$important
 @@|cdn.organicmaps.app^$important
+@@|cdn.paddle.com^$important
 @@|cdn.pling.com^$important
 @@|cdn.plyr.io^$important
 @@|cdn.podia.com^$important
@@ -1669,6 +1671,7 @@
 @@|dstik9906m659.cloudfront.net^$important
 @@|dual-a-*.a-msedge.net^$important
 @@|dualstack.reddit.map.fastly.net^$important
+@@|dualstack.zd.map.fastly.net^$important
 @@|duckduckgo.com^$important
 @@|dvcasha2.ocsp-certum.com^$important
 @@|dyncdn.me^$important
@@ -3560,7 +3563,9 @@
 @@|ping.archlinux.org^$important
 @@|ping.manjaro.org^$important
 @@|pipe.how^$important
+@@|piped.video^$important
 @@|pipedapi.kavin.rocks^$important
+@@|pipedproxy.kavin.rocks^$important
 @@|pipelines.actions.githubusercontent.com^$important
 @@|piwik.pcgamingwiki.com^$important
 @@|pixel-static.spotify.com^$important
@@ -3978,6 +3983,7 @@
 @@|secure.twitch.tv^$important
 @@|secure.vimeo.com^$important
 @@|secure2.alphassl.com^$important
+@@|secureclock.playready.microsoft.com^$important
 @@|secured.netflix.com^$important
 @@|securedownloads.superantispyware.com^$important
 @@|secureir.ebaystatic.com^$important
@@ -5348,6 +5354,7 @@
 @@|www.pharmacy4less.com.au^$important
 @@|www.php.net^$important
 @@|www.pidgin.im^$important
+@@|www.piped.video^$important
 @@|www.planetsuzy.org^$important
 @@|www.playstation.com^$important
 @@|www.pling.com^$important

@@ -414,6 +414,7 @@
 @@|screenshotscontent-*.xboxlive.com^$important
 @@|sdx.microsoft.com^$important
 @@|secure.aadcdn.microsoftonline-p.com^$important
+@@|secureclock.playready.microsoft.com^$important
 @@|securityintelligencecenter-eastus.azurewebsites.net^$important
 @@|self.events.data.microsoft.com^$important
 @@|server.events.data.microsoft.com^$important

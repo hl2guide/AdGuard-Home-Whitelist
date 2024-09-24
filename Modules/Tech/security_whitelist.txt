@@ -12,6 +12,7 @@
 @@|2.pool.ntp.org^$important
 @@|3.pool.ntp.org^$important
 @@|7r2ycrb.impervadns.net^$important
+@@|a1be18f0874fd98eb.awsglobalaccelerator.com^$important
 @@|account-api.proton.me^$important
 @@|account.acronis.com^$important
 @@|account.proton.me^$important
@@ -49,6 +50,7 @@
 @@|cdn.arstechnica.net^$important
 @@|cdn.localizeapi.com^$important
 @@|cdn.mos.cms.futurecdn.net^$important
+@@|cdn.paddle.com^$important
 @@|cdn.prod.website-files.com^$important
 @@|cdn.readme.io^$important
 @@|cdn.slant.co^$important
@@ -110,6 +112,7 @@
 @@|drive.internxt.com^$important
 @@|drive.proton.me^$important
 @@|drive.protonmail.com^$important
+@@|dualstack.zd.map.fastly.net^$important
 @@|e1.o.lencr.org^$important
 @@|e6908.x.akamaiedge.net^$important
 @@|eset.com^$important

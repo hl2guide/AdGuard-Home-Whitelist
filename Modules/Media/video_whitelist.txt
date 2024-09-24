@@ -134,7 +134,9 @@
 @@|panels-images.twitch.tv^$important
 @@|panels.twitch.tv^$important
 @@|passport.twitch.tv^$important
+@@|piped.video^$important
 @@|pipedapi.kavin.rocks^$important
+@@|pipedproxy.kavin.rocks^$important
 @@|play.hulu.com^$important
 @@|player.hulu.com^$important
 @@|player.twitch.tv^$important
@@ -187,6 +189,7 @@
 @@|vod-secure.twitch.tv^$important
 @@|web*.rumble.com^$important
 @@|wn*.rumble.com^$important
+@@|www.piped.video^$important
 @@|www.twitch.tv^$important
 @@|xapi.ing.com.au^$important
 @@|xt.streamlabs.com^$important

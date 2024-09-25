@@ -1,3 +1,4 @@
+@@|*.vpn.mega.nz^$important
 @@|*.whiskergalaxy.com^$important
 @@|api.windscribe.com^$important
 @@|assets.windscribe.com^$important

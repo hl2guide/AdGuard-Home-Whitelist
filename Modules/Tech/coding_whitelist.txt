@@ -2,6 +2,7 @@
 @@|*.github.io^$important
 @@|*.vscode-cdn.net^$important
 @@|*.vscode-webview.net^$important
+@@|a1449.dscg2.akamai.net^$important
 @@|about.gitlab.com^$important
 @@|adguardteam.github.io^$important
 @@|admin.docker.com^$important
@@ -15,6 +16,7 @@
 @@|api.dso.docker.com^$important
 @@|api.github.com^$important
 @@|api.nuget.org^$important
+@@|api.scout.docker.com^$important
 @@|app.docker.com^$important
 @@|assets-cdn.github.com^$important
 @@|assets.codepen.io^$important
@@ -22,6 +24,7 @@
 @@|atlassian.com^$important
 @@|auth.docker.io^$important
 @@|autohotkey.com^$important
+@@|av-build-tel-api-v1.avaloniaui.net^$important
 @@|avaloniaui.net^$important
 @@|avatar-management--avatars.us-west-2.prod.public.atl-paas.net^$important
 @@|avatars*.githubusercontent.com^$important
@@ -54,6 +57,8 @@
 @@|collector.githubapp.com^$important
 @@|console.python.org^$important
 @@|cpwebassets.codepen.io^$important
+@@|cs10.wpc.v0cdn.net^$important
+@@|cs22.wpc.v0cdn.net^$important
 @@|css-tricks.com^$important
 @@|curben.gitlab.io^$important
 @@|dbeaver.io^$important
@@ -78,10 +83,13 @@
 @@|docs.npmjs.com^$important
 @@|docs.python.org^$important
 @@|docs.unrealengine.com^$important
+@@|dot.net^$important
 @@|download.notable.app^$important
 @@|download.sqlitebrowser.org^$important
 @@|download.sublimetext.com^$important
 @@|downloads.apache.org^$important
+@@|e11847.a.akamaiedge.net^$important
+@@|e9428.a.akamaiedge.net^$important
 @@|education.github.com^$important
 @@|electron.atom.io^$important
 @@|electronjs.org^$important
@@ -215,6 +223,7 @@
 @@|repository-images.githubusercontent.com^$important
 @@|resources.jetbrains.com^$important
 @@|rg3.github.io^$important
+@@|s-part-0003.t-0009.t-msedge.net^$important
 @@|sciter.com^$important
 @@|scout.docker.com^$important
 @@|sdlc-esd.oracle.com^$important
@@ -245,6 +254,7 @@
 @@|user-images.githubusercontent.com^$important
 @@|v.tampermonkey.net^$important
 @@|viewscreen.githubusercontent.com^$important
+@@|vmw-keyid-b60e03d83567150fa220721028f3c20cc6d4d8e4.microsoftaik.azure.net^$important
 @@|vmw-keyid-d5ba3c17e840e79fe0c3b8c31a572ae24c2d01a9.microsoftaik.azure.net^$important
 @@|vscode-auth.github.com^$important
 @@|vscode-sync.trafficmanager.net^$important
@@ -267,6 +277,7 @@
 @@|www.codecademy.com^$important
 @@|www.docker.com^$important
 @@|www.dockerstatus.com^$important
+@@|www.dot.net^$important
 @@|www.electronjs.org^$important
 @@|www.github.com^$important
 @@|www.github.developerdan.com^$important

@@ -102,6 +102,7 @@
 @@|*.userstorage.mega.co.nz^$important
 @@|*.vimeocdn.com^$important
 @@|*.vo.msecnd.net^$important
+@@|*.vpn.mega.nz^$important
 @@|*.vscode-cdn.net^$important
 @@|*.vscode-webview.net^$important
 @@|*.whiskergalaxy.com^$important
@@ -187,6 +188,7 @@
 @@|a.thumbs.redditmedia.com^$important
 @@|a.tiles.mapbox.com^$important
 @@|a1357.dscb.akamai.net^$important
+@@|a1449.dscg2.akamai.net^$important
 @@|a1836.d.akamai.net^$important
 @@|a1874.d.akamai.net^$important
 @@|a1be18f0874fd98eb.awsglobalaccelerator.com^$important
@@ -242,6 +244,7 @@
 @@|acctcdn.msftauth.net^$important
 @@|acctcdnmsftuswe2.azureedge.net^$important
 @@|acctcdnvzeuno.azureedge.net^$important
+@@|acdd5d9c18c314873.awsglobalaccelerator.com^$important
 @@|acdn.adaware.com^$important
 @@|acer.com^$important
 @@|achievements.gameservices.ea.com^$important
@@ -451,6 +454,7 @@
 @@|api.rollbar.com^$important
 @@|api.samsungcloud.com^$important
 @@|api.samsungconsent.com^$important
+@@|api.scout.docker.com^$important
 @@|api.segment.io^$important
 @@|api.snapcraft.io^$important
 @@|api.soundcloud.com^$important
@@ -641,6 +645,7 @@
 @@|autohotkey.com^$important
 @@|autopatch.juno.ea.com^$important
 @@|autoupdate.geo.opera.com^$important
+@@|av-build-tel-api-v1.avaloniaui.net^$important
 @@|av-updateservice.adaware.com^$important
 @@|avaloniaui.net^$important
 @@|avatar-management--avatars.us-west-2.prod.public.atl-paas.net^$important
@@ -1322,6 +1327,8 @@
 @@|cs.phncdn.com^$important
 @@|cs.twitch.tv^$important
 @@|cs.wikipedia.com^$important
+@@|cs10.wpc.v0cdn.net^$important
+@@|cs22.wpc.v0cdn.net^$important
 @@|cs9.wac.phicdn.net^$important
 @@|csd-apt-sea-d-1.southeastasia.cloudapp.azure.com^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
@@ -1568,6 +1575,7 @@
 @@|docs.uptobox.com^$important
 @@|docs.virustotal.com^$important
 @@|dodo.com.au^$important
+@@|dot.net^$important
 @@|dotnet.microsoft.com^$important
 @@|dotnetcli.azureedge.net^$important
 @@|dotnetcli.blob.core.windows.net^$important
@@ -1680,11 +1688,13 @@
 @@|e-cdns-images.dzcdn.net^$important
 @@|e.deviantart.net^$important
 @@|e1.o.lencr.org^$important
+@@|e11847.a.akamaiedge.net^$important
 @@|e207850.a.akamaiedge.net^$important
 @@|e6908.x.akamaiedge.net^$important
 @@|e7641.b.akamaiedge.net^$important
 @@|e8690.e12.akamaiedge.net^$important
 @@|e87795.a.akamaiedge.net^$important
+@@|e9428.a.akamaiedge.net^$important
 @@|ea.com^$important
 @@|eaassets-a.akamaihd.net^$important
 @@|eaavatarservice.akamaized.net^$important
@@ -3907,6 +3917,7 @@
 @@|s*.riotpixels.net^$important
 @@|s*.symcb.com^$important
 @@|s*.trafficdeposit.com^$important
+@@|s-part-0003.t-0009.t-msedge.net^$important
 @@|s.go-mpulse.net^$important
 @@|s.imgur.com^$important
 @@|s.rsg.sc^$important
@@ -4948,6 +4959,7 @@
 @@|vivaldi.com^$important
 @@|vlc-bluray.whoknowsmy.name^$important
 @@|vlscppe.microsoft.com^$important
+@@|vmw-keyid-b60e03d83567150fa220721028f3c20cc6d4d8e4.microsoftaik.azure.net^$important
 @@|vmw-keyid-d5ba3c17e840e79fe0c3b8c31a572ae24c2d01a9.microsoftaik.azure.net^$important
 @@|vo2.qrlsx.com^$important
 @@|vod-secure.twitch.tv^$important
@@ -5002,6 +5014,7 @@
 @@|web-api.ikea.com^$important
 @@|web-assets-prod.s3.amazonaws.com^$important
 @@|web-browser.cdn.ubisoft.com^$important
+@@|web-cms.superloop.com^$important
 @@|web-toolbar.playstation.com^$important
 @@|web.np.playstation.com^$important
 @@|web.poecdn.com^$important
@@ -5013,6 +5026,7 @@
 @@|webident.service.nsw.gov.au^$important
 @@|webinstallers.gog-statics.com^$important
 @@|webpifeed.blob.core.windows.net^$important
+@@|webservices-api.superloop.com^$important
 @@|webservices.api.exetel.com.au^$important
 @@|webservices.myexetel.exetel.com.au^$important
 @@|websiteapi.acronis.com^$important
@@ -5163,6 +5177,7 @@
 @@|www.dockerstatus.com^$important
 @@|www.dodo.com^$important
 @@|www.dolby.com^$important
+@@|www.dot.net^$important
 @@|www.dotnetperls.com^$important
 @@|www.dotpdn.com^$important
 @@|www.dropbox.com^$important

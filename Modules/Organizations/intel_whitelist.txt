@@ -1,3 +1,4 @@
 @@|dsadata.intel.com^$important
+@@|game.intel.com^$important
 @@|pki.intel.com^$important
 @@|www.intel.com.au^$important

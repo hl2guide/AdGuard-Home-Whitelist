@@ -43,6 +43,7 @@
 @@|api.blizzard.com^$important
 @@|api.epicgames.dev^$important
 @@|api.gog.com^$important
+@@|api.gogalaxy.com^$important
 @@|api.locize.app^$important
 @@|api.nexusmods.com^$important
 @@|api.ocbase.com^$important
@@ -113,6 +114,7 @@
 @@|cconfig.azureedge.net^$important
 @@|cconfig.svc.gearsofwar.net^$important
 @@|cdn*.epicgames.com^$important
+@@|cdn-cp77.gog.com^$important
 @@|cdn-hw.gog.com^$important
 @@|cdn-s-thewitcher.cdprojektred.com^$important
 @@|cdn-s.cdprojektred.com^$important
@@ -304,6 +306,7 @@
 @@|gfn.pentanet.gg^$important
 @@|gfwsl.geforce.com^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-cp77.akamaized.net^$important
 @@|gog-cdn-fastly-cp77.gog.com^$important
 @@|gog-cdn-fastly.gog.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
@@ -638,6 +641,7 @@
 @@|store-launcher.epicgames.com^$important
 @@|store-site-backend-static-ipv4.ak.epicgames.com^$important
 @@|store-site-backend-static.ak.epicgames.com^$important
+@@|store-static-modular.gog-statics.com^$important
 @@|store-static.gog-statics.com^$important
 @@|store.akamai.steamstatic.com^$important
 @@|store.bethesda.net^$important

@@ -1,4 +1,5 @@
 @@|dsadata.intel.com^$important
 @@|game.intel.com^$important
+@@|intelcorporationproductione78n25s6.org.coveo.com^$important
 @@|pki.intel.com^$important
 @@|www.intel.com.au^$important

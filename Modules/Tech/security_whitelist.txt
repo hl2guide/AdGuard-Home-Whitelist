@@ -79,6 +79,8 @@
 @@|crash.vivaldi.com^$important
 @@|crl.*.amazontrust.com^$important
 @@|crl.rootg2.amazontrust.com^$important
+@@|crystalmark.info^$important
+@@|cs1150.wpc.betacdn.net^$important
 @@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|dearrow-thumb.ajay.app^$important
 @@|deluge-torrent.org^$important
@@ -144,6 +146,7 @@
 @@|help.adblockplus.org^$important
 @@|help.duckduckgo.com^$important
 @@|help.eyeo.com^$important
+@@|help.mega.io^$important
 @@|hndl.urbackup.org^$important
 @@|icon-finder.fly.dev^$important
 @@|ideas.mozilla.org^$important
@@ -161,6 +164,7 @@
 @@|link.adtidy.org^$important
 @@|links.account.evernote.com^$important
 @@|linksnappy.com^$important
+@@|m.sni.global.fastly.net^$important
 @@|mail-api.proton.me^$important
 @@|mail.proton.me^$important
 @@|manage.macrium.com^$important
@@ -180,6 +184,7 @@
 @@|ph.sonicb.it^$important
 @@|photos.internxt.com^$important
 @@|platform.cloud.coveo.com^$important
+@@|portableappscdn2.nyc3.cdn.digitaloceanspaces.com^$important
 @@|preview.systems^$important
 @@|privacytests.org^$important
 @@|privacytools.io^$important
@@ -271,6 +276,7 @@
 @@|www.browserbench.org^$important
 @@|www.candisoft.com^$important
 @@|www.cookiepro.com^$important
+@@|www.crystalmark.info^$important
 @@|www.dell.com^$important
 @@|www.dellcdn.com^$important
 @@|www.deluge-torrent.org^$important

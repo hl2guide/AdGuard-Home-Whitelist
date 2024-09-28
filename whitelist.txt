@@ -411,6 +411,7 @@
 @@|api.github.com^$important
 @@|api.glb.samsung-gamelauncher.com^$important
 @@|api.gog.com^$important
+@@|api.gogalaxy.com^$important
 @@|api.hcaptcha.com^$important
 @@|api.imgur.com^$important
 @@|api.ingka.ikea.com^$important
@@ -611,6 +612,7 @@
 @@|au-syd-anx-r*.teamviewer.com^$important
 @@|au.archive.ubuntu.com^$important
 @@|au.download.windowsupdate.com^$important
+@@|au.mirrors.cicku.me^$important
 @@|au.pcpartpicker.com^$important
 @@|au.playstation.com^$important
 @@|au.pool.ntp.org^$important
@@ -910,6 +912,7 @@
 @@|cdn*.portableapps.com^$important
 @@|cdn-*.nflximg.com^$important
 @@|cdn-*.pornone.com^$important
+@@|cdn-cp77.gog.com^$important
 @@|cdn-dynmedia-1.microsoft.com^$important
 @@|cdn-edge.azureedge.net^$important
 @@|cdn-eu.icons8.com^$important
@@ -1322,12 +1325,14 @@
 @@|crlsets.brave.com^$important
 @@|crm.lightningbroadband.com.au^$important
 @@|cryptauthvault.googleapis.com^$important
+@@|crystalmark.info^$important
 @@|cs-rgl-prod.ros.rockstargames.com^$important
 @@|cs.dds.microsoft.com^$important
 @@|cs.phncdn.com^$important
 @@|cs.twitch.tv^$important
 @@|cs.wikipedia.com^$important
 @@|cs10.wpc.v0cdn.net^$important
+@@|cs1150.wpc.betacdn.net^$important
 @@|cs22.wpc.v0cdn.net^$important
 @@|cs9.wac.phicdn.net^$important
 @@|csd-apt-sea-d-1.southeastasia.cloudapp.azure.com^$important
@@ -2256,6 +2261,7 @@
 @@|go.trouter.teams.microsoft.com^$important
 @@|go.twitch.tv^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-cp77.akamaized.net^$important
 @@|gog-cdn-fastly-cp77.gog.com^$important
 @@|gog-cdn-fastly.gog.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
@@ -2300,6 +2306,7 @@
 @@|groups.gameservices.ea.com^$important
 @@|groups.google.com^$important
 @@|gs.apple.com^$important
+@@|gsl-syd.mm.fcix.net^$important
 @@|gsprodblapp-*.ea.com^$important
 @@|gstatic.com^$important
 @@|gu.glarysoft.com^$important
@@ -2352,6 +2359,7 @@
 @@|help.kaspersky.com^$important
 @@|help.kogan.com^$important
 @@|help.macrium.com^$important
+@@|help.mega.io^$important
 @@|help.netflix.com^$important
 @@|help.soundcloud.com^$important
 @@|help.steampowered.com^$important
@@ -2566,6 +2574,7 @@
 @@|int.form.eset.com^$important
 @@|intel.com.au^$important
 @@|intel.com^$important
+@@|intelcorporationproductione78n25s6.org.coveo.com^$important
 @@|interactive-examples.mdn.mozilla.net^$important
 @@|international-gfe.download.nvidia.com^$important
 @@|internxt.com^$important
@@ -2844,6 +2853,7 @@
 @@|m.media-amazon.com^$important
 @@|m.playstation.com^$important
 @@|m.plus.google.com^$important
+@@|m.sni.global.fastly.net^$important
 @@|m.soundcloud.com^$important
 @@|m.store.apple.com^$important
 @@|m.store.sony.com^$important
@@ -3633,6 +3643,7 @@
 @@|pornwild.to^$important
 @@|poro.ato.gov.au^$important
 @@|portableapps.com^$important
+@@|portableappscdn2.nyc3.cdn.digitaloceanspaces.com^$important
 @@|portablepython.com^$important
 @@|posarprodcssservice.accesscontrol.windows.net^$important
 @@|posse-rdr2-prod.ros.rockstargames.com^$important
@@ -4316,6 +4327,7 @@
 @@|static0.audioboom.com^$important
 @@|static1.makeuseofimages.com^$important
 @@|static1.squarespace.com^$important
+@@|static1.xdaimages.com^$important
 @@|static2.sharepointonline.com^$important
 @@|staticcdn.duckduckgo.com^$important
 @@|staticctf.akamaized.net^$important
@@ -4379,6 +4391,7 @@
 @@|store-launcher.epicgames.com^$important
 @@|store-site-backend-static-ipv4.ak.epicgames.com^$important
 @@|store-site-backend-static.ak.epicgames.com^$important
+@@|store-static-modular.gog-statics.com^$important
 @@|store-static.gog-statics.com^$important
 @@|store.acer.com^$important
 @@|store.akamai.steamstatic.com^$important
@@ -5111,6 +5124,7 @@
 @@|www.alphacoders.com^$important
 @@|www.amazon.com.au^$important
 @@|www.amd.com^$important
+@@|www.android.com^$important
 @@|www.androidauthority.com^$important
 @@|www.androidcentral.com^$important
 @@|www.anyburn.com^$important
@@ -5157,6 +5171,7 @@
 @@|www.cookiepro.com^$important
 @@|www.corsair.com^$important
 @@|www.couriersplease.com.au^$important
+@@|www.crystalmark.info^$important
 @@|www.cyberlink.com^$important
 @@|www.cyberpunk.net^$important
 @@|www.cydex.com.au^$important
@@ -5493,6 +5508,7 @@
 @@|www.workshop.bunnings.com.au^$important
 @@|www.xbox.com^$important
 @@|www.xboxab.com^$important
+@@|www.xda-developers.com^$important
 @@|www.xradio.nl^$important
 @@|www.xvideos.com^$important
 @@|www.xvideos.red^$important
@@ -5526,6 +5542,7 @@
 @@|xboxlive.com^$important
 @@|xccs.xboxlive.com^$important
 @@|xda-developers.com^$important
+@@|xdaimages.b-cdn.net^$important
 @@|xfce.org^$important
 @@|xflight.xboxlive.com^$important
 @@|xgpupcapp.gssv-play-prod.xboxlive.com^$important

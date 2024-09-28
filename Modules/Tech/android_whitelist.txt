@@ -13,4 +13,8 @@
 @@|grayjay.app^$important
 @@|lrclib.net^$important
 @@|song.link^$important
+@@|static1.xdaimages.com^$important
 @@|tilecache.rainviewer.com^$important
+@@|www.android.com^$important
+@@|www.xda-developers.com^$important
+@@|xdaimages.b-cdn.net^$important

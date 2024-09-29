@@ -1,5 +1,6 @@
 
 @@|1337.abcvg.info^$important
+@@|1c.premierzal.ru^$important
 @@|9.rarbg.com^$important
 @@|abir0dev.github.io^$important
 @@|astrr.ru^$important
@@ -9,6 +10,7 @@
 @@|bt1.archive.org^$important
 @@|bt2.t-ru.org^$important
 @@|buny.uk^$important
+@@|bvarf.tracker.sh^$important
 @@|carbon-bonsai-621.appspot.com^$important
 @@|chihaya-heroku.120181311.xyz^$important
 @@|coppersurfer.tk^$important
@@ -25,9 +27,11 @@
 @@|ipv6.rer.lol^$important
 @@|isk.richardsw.club^$important
 @@|milanesitracker.tekcities.com^$important
+@@|mirror.aptus.co.tz^$important
 @@|moonburrow.club^$important
 @@|movies.zsw.ca^$important
 @@|nyaa.tracker.wf^$important
+@@|oh.fuuuuuck.com^$important
 @@|open-tracker.demonoid.ch^$important
 @@|open.acgnxtracker.com^$important
 @@|open.acgtracker.com^$important
@@ -50,6 +54,8 @@
 @@|public.publictracker.xyz^$important
 @@|retracker.home^$important
 @@|retracker.hotplug.ru^$important
+@@|retracker.x2k.ru^$important
+@@|retracker01-msk-virt.corbina.net^$important
 @@|retracker2.x2k.ru^$important
 @@|rt.optizone.ru^$important
 @@|run.publictracker.xyz^$important
@@ -64,6 +70,7 @@
 @@|thagoat.rocks^$important
 @@|thetracker.org^$important
 @@|thouvenin.cloud^$important
+@@|tk1.trackerservers.com^$important
 @@|tk2.trackerservers.com^$important
 @@|torbox.app^$important
 @@|torrent-tracker.hama3.net^$important
@@ -110,11 +117,13 @@
 @@|tracker.edkj.club^$important
 @@|tracker.electro-torrent.pl^$important
 @@|tracker.expli.top^$important
+@@|tracker.expli.top^$important
 @@|tracker.farted.net^$important
 @@|tracker.fatkhoala.org^$important
 @@|tracker.filemail.com^$important
 @@|tracker.files.fm^$important
 @@|tracker.fnix.net^$important
+@@|tracker.foreverpirates.co^$important
 @@|tracker.foreverpirates.co^$important
 @@|tracker.gbitt.info^$important
 @@|tracker.gcrreen.xyz^$important
@@ -125,6 +134,7 @@
 @@|tracker.iriseden.fr^$important
 @@|tracker.jamesthebard.net^$important
 @@|tracker.jdx3.org^$important
+@@|tracker.jiesen.life^$important
 @@|tracker.jonaslsa.com^$important
 @@|tracker.jordan.im^$important
 @@|tracker.k.vu^$important
@@ -141,10 +151,12 @@
 @@|tracker.mywaifu.best^$important
 @@|tracker.nanoha.org^$important
 @@|tracker.nitrix.me^$important
+@@|tracker.open-data.network^$important
 @@|tracker.opentrackr.org^$important
 @@|tracker.picotorrent.one^$important
 @@|tracker.pimpmyworld.to^$important
 @@|tracker.piratepublic.com^$important
+@@|tracker.pmman.tech^$important
 @@|tracker.pomf.se^$important
 @@|tracker.publicbt.com^$important
 @@|tracker.publictracker.xyz^$important
@@ -167,6 +179,7 @@
 @@|tracker.thinelephant.org^$important
 @@|tracker.torrust-demo.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.uraniumhexafluori.de^$important
 @@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
 @@|tracker.xor.st^$important
@@ -177,6 +190,7 @@
 @@|tracker.zerobytes.xyz^$important
 @@|tracker1.520.jp^$important
 @@|tracker1.bt.moack.co.kr^$important
+@@|tracker1.ctix.cn^$important
 @@|tracker1.itzmx.com^$important
 @@|tracker1.myporn.club^$important
 @@|tracker2.ctix.cn^$important
@@ -185,14 +199,19 @@
 @@|tracker3.ctix.cn^$important
 @@|tracker6.lelux.fi^$important
 @@|trackerb.jonaslsa.com^$important
+@@|trackers.mlsub.net^$important
+@@|trackers.run^$important
 @@|trackme.theom.nz^$important
+@@|u.peer-exchange.download^$important
 @@|uraniumhexafluori.de^$important
 @@|v2.iperson.xyz^$important
 @@|v6-tracker.0g.cx^$important
 @@|vibe.sleepyinternetfun.xyz^$important
 @@|vps02.net.orel.ru^$important
 @@|www.limetorrents.lol^$important
+@@|www.peckservers.com^$important
 @@|www.torbox.app^$important
+@@|www.torrent.eu.org^$important
 @@|www.torrent.eu.org^$important
 @@|www.wareztorrent.com^$important
 @@|xxxclub.to^$important

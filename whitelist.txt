@@ -135,6 +135,7 @@
 @@|19-14.b.cdn13.com^$important
 @@|192-168-1-103.mydns.jdownloader.org^$important
 @@|1a-1791.com^$important
+@@|1c.premierzal.ru^$important
 @@|1dot1dot1dot1.cloudflare-dns.com^$important
 @@|1drv.ms^$important
 @@|1fichier.com^$important
@@ -825,6 +826,7 @@
 @@|bunnings.com.au^$important
 @@|business.bing.com^$important
 @@|button.moddb.com^$important
+@@|bvarf.tracker.sh^$important
 @@|c*.myshopping.com.au^$important
 @@|c*.patreonusercontent.com^$important
 @@|c*.wp.com^$important
@@ -2990,6 +2992,7 @@
 @@|mirror.aarnet.edu.au^$important
 @@|mirror.alwyzon.net^$important
 @@|mirror.ancl.hawaii.edu^$important
+@@|mirror.aptus.co.tz^$important
 @@|mirror.arizona.edu^$important
 @@|mirror.asergo.com^$important
 @@|mirror.cedia.org.ec^$important
@@ -3161,6 +3164,7 @@
 @@|mozilla.net^$important
 @@|mozilla.org^$important
 @@|mozilla.wpengine.com^$important
+@@|mozorg.cdn.mozilla.net^$important
 @@|mpc-be.org^$important
 @@|mpc-hc.org^$important
 @@|mps.nab.com.au^$important
@@ -3365,6 +3369,7 @@
 @@|officehomeblobs.blob.core.windows.net^$important
 @@|ogs.google.com.au^$important
 @@|ogs.google.com^$important
+@@|oh.fuuuuuck.com^$important
 @@|ohioix.mm.fcix.net^$important
 @@|ohmyposh.dev^$important
 @@|ok14static.oktacdn.com^$important
@@ -3752,6 +3757,7 @@
 @@|public-ws-ubiservices.ubi.com^$important
 @@|public.games.geforce.com^$important
 @@|public.publictracker.xyz^$important
+@@|publicsuffix.org^$important
 @@|publish-p16597-e60686.adobeaemcloud.com^$important
 @@|pubmirror1.math.uh.edu^$important
 @@|pubmirror2.math.uh.edu^$important
@@ -3879,6 +3885,8 @@
 @@|retracker.ip.ncnet.ru^$important
 @@|retracker.lanta-net.ru^$important
 @@|retracker.local^$important
+@@|retracker.x2k.ru^$important
+@@|retracker01-msk-virt.corbina.net^$important
 @@|retracker2.x2k.ru^$important
 @@|returnandearn.org.au^$important
 @@|returnyoutubedislikeapi.com^$important
@@ -4596,6 +4604,7 @@
 @@|titlestorage.xboxlive.com^$important
 @@|titlestorageeus*.blob.core.windows.net^$important
 @@|titlestoragencus0102.blob.core.windows.net^$important
+@@|tk1.trackerservers.com^$important
 @@|tk2.trackerservers.com^$important
 @@|tm-rdr2-prod.ros.rockstargames.com^$important
 @@|tm-rgl-prod.ros.rockstargames.com^$important
@@ -4654,11 +4663,13 @@
 @@|tracker.dump.cl^$important
 @@|tracker.edkj.club^$important
 @@|tracker.electro-torrent.pl^$important
+@@|tracker.expli.top^$important
 @@|tracker.farted.net^$important
 @@|tracker.fatkhoala.org^$important
 @@|tracker.filemail.com^$important
 @@|tracker.files.fm^$important
 @@|tracker.fnix.net^$important
+@@|tracker.foreverpirates.co^$important
 @@|tracker.gbitt.info^$important
 @@|tracker.gcrreen.xyz^$important
 @@|tracker.grepler.com^$important
@@ -4668,6 +4679,7 @@
 @@|tracker.ipv6tracker.ru^$important
 @@|tracker.jamesthebard.net^$important
 @@|tracker.jdx3.org^$important
+@@|tracker.jiesen.life^$important
 @@|tracker.jonaslsa.com^$important
 @@|tracker.jordan.im^$important
 @@|tracker.k.vu^$important
@@ -4683,6 +4695,7 @@
 @@|tracker.moeking.me^$important
 @@|tracker.monitorit4.me^$important
 @@|tracker.mywaifu.best^$important
+@@|tracker.open-data.network^$important
 @@|tracker.open-internet.nl^$important
 @@|tracker.openbittorrent.com^$important
 @@|tracker.opentrackr.org^$important
@@ -4690,6 +4703,7 @@
 @@|tracker.pimpmyworld.to^$important
 @@|tracker.pirateparty.gr^$important
 @@|tracker.piratepublic.com^$important
+@@|tracker.pmman.tech^$important
 @@|tracker.pomf.se^$important
 @@|tracker.publicbt.com^$important
 @@|tracker.publictracker.xyz^$important
@@ -4715,6 +4729,7 @@
 @@|tracker.torrust-demo.com^$important
 @@|tracker.trackerfix.com^$important
 @@|tracker.tryhackx.org^$important
+@@|tracker.uraniumhexafluori.de^$important
 @@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
 @@|tracker.xor.st^$important
@@ -4723,6 +4738,7 @@
 @@|tracker.zer0day.to^$important
 @@|tracker1.520.jp^$important
 @@|tracker1.bt.moack.co.kr^$important
+@@|tracker1.ctix.cn^$important
 @@|tracker1.myporn.club^$important
 @@|tracker2.ctix.cn^$important
 @@|tracker2.dler.com^$important
@@ -4733,6 +4749,8 @@
 @@|tracker6.lelux.fi^$important
 @@|trackerb.jonaslsa.com^$important
 @@|trackerfix.com^$important
+@@|trackers.mlsub.net^$important
+@@|trackers.run^$important
 @@|trackersimulator.org^$important
 @@|tracking-protection.cdn.mozilla.net^$important
 @@|tracking-protection.prod.mozaws.net^$important
@@ -4762,6 +4780,7 @@
 @@|twitch.amazon.com^$important
 @@|twitch.map.fastly.net^$important
 @@|twitch.tv^$important
+@@|u.peer-exchange.download^$important
 @@|u6571834.ct.sendgrid.net^$important
 @@|uapi.production-public.tubi.io^$important
 @@|uat-ubiservices.cdn.ubi.com^$important
@@ -5381,6 +5400,7 @@
 @@|www.paypalobjects.com^$important
 @@|www.paypalobjects.comimages^$important
 @@|www.pcgamingwiki.com^$important
+@@|www.peckservers.com^$important
 @@|www.pharmacy4less.com.au^$important
 @@|www.php.net^$important
 @@|www.pidgin.im^$important
@@ -5470,6 +5490,7 @@
 @@|www.tm.a.prd.aadg.akadns.net^$important
 @@|www.tomsguide.com^$important
 @@|www.torbox.app^$important
+@@|www.torrent.eu.org^$important
 @@|www.toshiba-storage.com^$important
 @@|www.toshiba.com^$important
 @@|www.tp-link.com^$important

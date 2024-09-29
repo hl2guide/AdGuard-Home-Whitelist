@@ -21,7 +21,9 @@
 @@|mozilla.net^$important
 @@|mozilla.org^$important
 @@|mozilla.wpengine.com^$important
+@@|mozorg.cdn.mozilla.net^$important
 @@|normandy.cdn.mozilla.net^$important
+@@|publicsuffix.org^$important
 @@|push.services.mozilla.com^$important
 @@|savanna.mozillazine.org^$important
 @@|services.addons.mozilla.org^$important

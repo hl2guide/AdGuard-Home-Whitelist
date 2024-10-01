@@ -30,6 +30,7 @@
 @@|mirror.aptus.co.tz^$important
 @@|moonburrow.club^$important
 @@|movies.zsw.ca^$important
+@@|new-line.net^$important
 @@|nyaa.tracker.wf^$important
 @@|oh.fuuuuuck.com^$important
 @@|open-tracker.demonoid.ch^$important
@@ -51,6 +52,7 @@
 @@|p4p.arenabg.ch^$important
 @@|plab.site^$important
 @@|pornrips.to^$important
+@@|private.anonseed.com^$important
 @@|public.publictracker.xyz^$important
 @@|retracker.home^$important
 @@|retracker.hotplug.ru^$important
@@ -58,6 +60,7 @@
 @@|retracker01-msk-virt.corbina.net^$important
 @@|retracker2.x2k.ru^$important
 @@|rt.optizone.ru^$important
+@@|run-2.publictracker.xyz^$important
 @@|run.publictracker.xyz^$important
 @@|seedpeer.net^$important
 @@|share.camoe.cn^$important
@@ -70,12 +73,14 @@
 @@|thagoat.rocks^$important
 @@|thetracker.org^$important
 @@|thouvenin.cloud^$important
+@@|tinfoil.space^$important
 @@|tk1.trackerservers.com^$important
 @@|tk2.trackerservers.com^$important
 @@|torbox.app^$important
 @@|torrent-tracker.hama3.net^$important
 @@|torrentclub.space^$important
 @@|torrents.artixlinux.org^$important
+@@|torrentsmd.com^$important
 @@|tp.m-team.cc.php^$important
 @@|tp.m-team.cc^$important
 @@|tr.abiir.top^$important
@@ -98,6 +103,7 @@
 @@|tracker.6.babico.name.tr^$important
 @@|tracker.altrosky.nl^$important
 @@|tracker.anima.nz^$important
+@@|tracker.arcbox.cc^$important
 @@|tracker.artixlinux.org^$important
 @@|tracker.auctor.tv^$important
 @@|tracker.babico.name.tr^$important
@@ -106,6 +112,7 @@
 @@|tracker.bittor.pw^$important
 @@|tracker.bt4g.com^$important
 @@|tracker.ccp.ovh^$important
+@@|tracker.cloudit.top^$important
 @@|tracker.coppersurfer.site^$important
 @@|tracker.cubonegro.lol^$important
 @@|tracker.darkness.services^$important
@@ -117,15 +124,14 @@
 @@|tracker.edkj.club^$important
 @@|tracker.electro-torrent.pl^$important
 @@|tracker.expli.top^$important
-@@|tracker.expli.top^$important
 @@|tracker.farted.net^$important
 @@|tracker.fatkhoala.org^$important
 @@|tracker.filemail.com^$important
 @@|tracker.files.fm^$important
 @@|tracker.fnix.net^$important
 @@|tracker.foreverpirates.co^$important
-@@|tracker.foreverpirates.co^$important
 @@|tracker.gbitt.info^$important
+@@|tracker.gcrenwp.top^$important
 @@|tracker.gcrreen.xyz^$important
 @@|tracker.imgoingto.icu^$important
 @@|tracker.internetwarriors.net^$important
@@ -211,7 +217,6 @@
 @@|www.limetorrents.lol^$important
 @@|www.peckservers.com^$important
 @@|www.torbox.app^$important
-@@|www.torrent.eu.org^$important
 @@|www.torrent.eu.org^$important
 @@|www.wareztorrent.com^$important
 @@|xxxclub.to^$important

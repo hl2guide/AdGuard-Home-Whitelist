@@ -228,6 +228,7 @@
 @@|accounts.aliexpress.com^$important
 @@|accounts.api.playstation.com^$important
 @@|accounts.ea.com^$important
+@@|accounts.ebay.com.au^$important
 @@|accounts.epicgames.com^$important
 @@|accounts.fedoraproject.org^$important
 @@|accounts.firefox.com^$important
@@ -1556,6 +1557,7 @@
 @@|docs.clearurls.xyz^$important
 @@|docs.dbhub.io^$important
 @@|docs.docker.com^$important
+@@|docs.dopus.com^$important
 @@|docs.fedoraproject.org^$important
 @@|docs.freebsd.org^$important
 @@|docs.freetubeapp.io^$important
@@ -1619,6 +1621,7 @@
 @@|download.fosshub.com^$important
 @@|download.freebsd.org^$important
 @@|download.gfe.nvidia.com^$important
+@@|download.gigabyte.com^$important
 @@|download.glarysoft.com^$important
 @@|download.kde.org^$important
 @@|download.macrium.com^$important
@@ -1675,6 +1678,7 @@
 @@|drive.protonmail.com^$important
 @@|drivefrontend-pa.clients6.google.com^$important
 @@|driveroff.net^$important
+@@|driverupdate.gigabytenb.com^$important
 @@|dropbox-api.arkoselabs.com^$important
 @@|dropbox.com^$important
 @@|dropboxcaptcha.com^$important
@@ -1702,6 +1706,7 @@
 @@|e8690.e12.akamaiedge.net^$important
 @@|e87795.a.akamaiedge.net^$important
 @@|e9428.a.akamaiedge.net^$important
+@@|e9430.a.akamaiedge.net^$important
 @@|ea.com^$important
 @@|eaassets-a.akamaihd.net^$important
 @@|eaavatarservice.akamaized.net^$important
@@ -1856,6 +1861,7 @@
 @@|exchange.opera.com^$important
 @@|exodus.desync.com^$important
 @@|exp.wg.spotify.com^$important
+@@|experience-apigw.superloop.com^$important
 @@|explodie.org^$important
 @@|extension-files.twitch.tv^$important
 @@|extension-updates.opera.com^$important
@@ -2189,6 +2195,7 @@
 @@|gear.xbox.com^$important
 @@|gearsofwar.xbox.com^$important
 @@|gen4.reports.tools.gos.ea.com^$important
+@@|general-runtime.superloop.voiceflow.com^$important
 @@|geo*.ggpht.com^$important
 @@|geo-location-api.gx.nvidia.com^$important
 @@|geo-mirror.chaotic.cx^$important
@@ -2202,6 +2209,7 @@
 @@|get.videolan.org^$important
 @@|get.xda-developers.com^$important
 @@|getfedora.org^$important
+@@|geti2p.net^$important
 @@|getmusicbee.com^$important
 @@|getprof.sg.np.community.playstation.net^$important
 @@|getsession.org^$important
@@ -2920,6 +2928,7 @@
 @@|matomo.freeones.com^$important
 @@|maxcdn.bootstrapcdn.com^$important
 @@|maxst.icons8.com^$important
+@@|mb.download.gigabyte.com^$important
 @@|mc.yandex.ru^$important
 @@|mcc-production.azurefd.net^$important
 @@|mcmilk.de^$important
@@ -3238,6 +3247,7 @@
 @@|net.geo.opera.com^$important
 @@|netdna.bootstrapcdn.com^$important
 @@|netflix.com^$important
+@@|new-line.net^$important
 @@|newassets.hcaptcha.com^$important
 @@|newegg.com^$important
 @@|news-page-themes-api.a.upc.ubisoft.com^$important
@@ -3407,6 +3417,7 @@
 @@|open.stealth.si^$important
 @@|open.tracker.cl^$important
 @@|open.tracker.ink^$important
+@@|open.xxtor.com^$important
 @@|openai.com^$important
 @@|opencritic.com^$important
 @@|opengraph.githubassets.com^$important
@@ -3539,6 +3550,7 @@
 @@|pcdn.brave.com^$important
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@|pcmanager.microsoft.com^$important
+@@|pcmanagerconfig.azurewebsites.net^$important
 @@|pcs.geforcenow.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
@@ -3685,6 +3697,7 @@
 @@|privacytests.org^$important
 @@|privacytools.io^$important
 @@|private-user-images.githubusercontent.com^$important
+@@|private.anonseed.com^$important
 @@|proactive-chat-server-ap.prod.aws.lcloud.com^$important
 @@|proactivebackend-pa.googleapis.com^$important
 @@|prod-api-v2.production.rokfin.com^$important
@@ -3928,6 +3941,7 @@
 @@|rufus.ie^$important
 @@|rules2.clearurls.xyz^$important
 @@|rumble.com^$important
+@@|run-2.publictracker.xyz^$important
 @@|run.publictracker.xyz^$important
 @@|rzr.to^$important
 @@|s*.filefactory.com^$important
@@ -4085,6 +4099,7 @@
 @@|signal.org^$important
 @@|signaler-pa.clients*.google.com^$important
 @@|signin.ea.com^$important
+@@|signin.ebay.com.au^$important
 @@|signin.g.ebay.com^$important
 @@|signin.intel.com^$important
 @@|signin.rockstargames.com^$important
@@ -4596,6 +4611,7 @@
 @@|time.samsungcloudsolution.com^$important
 @@|time.windows.com^$important
 @@|timeline.google.com^$important
+@@|tinfoil.space^$important
 @@|title.auth.xboxlive.com^$important
 @@|title.mgt.xboxlive.com^$important
 @@|titlehub.xboxlive.com^$important
@@ -4625,6 +4641,7 @@
 @@|torrent-tracker.hama3.net^$important
 @@|torrentclub.space^$important
 @@|torrents.artixlinux.org^$important
+@@|torrentsmd.com^$important
 @@|tos.ea.com^$important
 @@|toshiba.semicon-storage.com^$important
 @@|tpucdn.com^$important
@@ -4643,6 +4660,7 @@
 @@|tracker.6.babico.name.tr^$important
 @@|tracker.altrosky.nl^$important
 @@|tracker.anima.nz^$important
+@@|tracker.arcbox.cc^$important
 @@|tracker.artixlinux.org^$important
 @@|tracker.auctor.tv^$important
 @@|tracker.beeimg.com^$important
@@ -4651,6 +4669,7 @@
 @@|tracker.bittor.pw^$important
 @@|tracker.bt4g.com^$important
 @@|tracker.ccp.ovh^$important
+@@|tracker.cloudit.top^$important
 @@|tracker.coppersurfer.tk^$important
 @@|tracker.cubonegro.lol^$important
 @@|tracker.cyberia.is^$important
@@ -4671,6 +4690,7 @@
 @@|tracker.fnix.net^$important
 @@|tracker.foreverpirates.co^$important
 @@|tracker.gbitt.info^$important
+@@|tracker.gcrenwp.top^$important
 @@|tracker.gcrreen.xyz^$important
 @@|tracker.grepler.com^$important
 @@|tracker.imgoingto.icu^$important
@@ -4739,6 +4759,7 @@
 @@|tracker1.520.jp^$important
 @@|tracker1.bt.moack.co.kr^$important
 @@|tracker1.ctix.cn^$important
+@@|tracker1.itzmx.com^$important
 @@|tracker1.myporn.club^$important
 @@|tracker2.ctix.cn^$important
 @@|tracker2.dler.com^$important
@@ -5257,6 +5278,7 @@
 @@|www.gammaentertainment.com^$important
 @@|www.geforce.com^$important
 @@|www.gentoo.org^$important
+@@|www.geti2p.net^$important
 @@|www.getmusicbee.com^$important
 @@|www.getpaint.net^$important
 @@|www.getsession.org^$important
@@ -5383,6 +5405,7 @@
 @@|www.onenote.com^$important
 @@|www.onlyoffice.com^$important
 @@|www.oo-software.com^$important
+@@|www.ookla.com^$important
 @@|www.opal.com.au^$important
 @@|www.openssl.org^$important
 @@|www.opensubtitles.com^$important

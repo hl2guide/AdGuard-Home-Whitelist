@@ -1,4 +1,5 @@
 @@|accounts.aliexpress.com^$important
+@@|accounts.ebay.com.au^$important
 @@|alibaba.com^$important
 @@|alicdn.com^$important
 @@|aliexpress.com^$important
@@ -53,6 +54,7 @@
 @@|scorptec.resultspage.com^$important
 @@|seal-sanjose.bbb.org^$important
 @@|shops1.stackassets.com^$important
+@@|signin.ebay.com.au^$important
 @@|signin.g.ebay.com^$important
 @@|sofe.ebay.com.au^$important
 @@|st.dynamicyield.com^$important

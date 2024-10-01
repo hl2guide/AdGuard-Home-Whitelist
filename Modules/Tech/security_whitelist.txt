@@ -98,6 +98,7 @@
 @@|dns.sb^$important
 @@|do-not-tracker.org^$important
 @@|docs.clearurls.xyz^$important
+@@|docs.dopus.com^$important
 @@|docs.ipfs.tech^$important
 @@|docs.nvidia.com^$important
 @@|docs.oracle.com^$important
@@ -106,6 +107,7 @@
 @@|download.cpuid.com^$important
 @@|download.filepuma.com^$important
 @@|download.fosshub.com^$important
+@@|download.gigabyte.com^$important
 @@|download.glarysoft.com^$important
 @@|download.mipony.net^$important
 @@|download.onlyoffice.com^$important
@@ -114,12 +116,16 @@
 @@|drive.internxt.com^$important
 @@|drive.proton.me^$important
 @@|drive.protonmail.com^$important
+@@|driverupdate.gigabytenb.com^$important
+@@|driverupdate.gigabytenb.com^$important
 @@|dualstack.zd.map.fastly.net^$important
 @@|e1.o.lencr.org^$important
 @@|e6908.x.akamaiedge.net^$important
+@@|e9430.a.akamaiedge.net^$important
 @@|eset.com^$important
 @@|evernotesupport.zendesk.com^$important
 @@|eviltracker.net^$important
+@@|experience-apigw.superloop.com^$important
 @@|extensionworkshop.com^$important
 @@|fdroid.getsession.org^$important
 @@|feedback.eset.com^$important
@@ -135,7 +141,9 @@
 @@|forums.urbackup.org^$important
 @@|ftp.fau.de^$important
 @@|gateway.userstyles.org^$important
+@@|general-runtime.superloop.voiceflow.com^$important
 @@|get.activated.win^$important
+@@|geti2p.net^$important
 @@|getsession.org^$important
 @@|global.discourse-cdn.com^$important
 @@|go.acronis.com^$important
@@ -170,6 +178,7 @@
 @@|manage.macrium.com^$important
 @@|manage.ntppool.org^$important
 @@|mastiff.ext.hp.com^$important
+@@|mb.download.gigabyte.com^$important
 @@|mozilla.cloudflare-dns.com^$important
 @@|myip.wtf^$important
 @@|n.sni.global.fastly.net^$important
@@ -285,6 +294,7 @@
 @@|www.eset.com^$important
 @@|www.filepuma.com^$important
 @@|www.filescan.io^$important
+@@|www.geti2p.net^$important
 @@|www.getsession.org^$important
 @@|www.glarysoft.com^$important
 @@|www.glenn.delahoy.com^$important
@@ -303,6 +313,7 @@
 @@|www.ntppool.org^$important
 @@|www.nvidia.eu^$important
 @@|www.onlyoffice.com^$important
+@@|www.ookla.com^$important
 @@|www.openssl.org^$important
 @@|www.palemoon.org^$important
 @@|www.pool.ntp.org^$important

@@ -649,6 +649,7 @@
 @@|autohotkey.com^$important
 @@|autopatch.juno.ea.com^$important
 @@|autoupdate.geo.opera.com^$important
+@@|autoupdate.opera.com^$important
 @@|av-build-tel-api-v1.avaloniaui.net^$important
 @@|av-updateservice.adaware.com^$important
 @@|avaloniaui.net^$important
@@ -1371,6 +1372,7 @@
 @@|da2.gos.ea.com^$important
 @@|daftsex.com^$important
 @@|daisy.ubuntu.com^$important
+@@|dart.dev^$important
 @@|dash.cloudflare.com^$important
 @@|dash.sonicbit.net^$important
 @@|dashboard.blomp.com^$important
@@ -1559,6 +1561,7 @@
 @@|docs.docker.com^$important
 @@|docs.dopus.com^$important
 @@|docs.fedoraproject.org^$important
+@@|docs.flutter.dev^$important
 @@|docs.freebsd.org^$important
 @@|docs.freetubeapp.io^$important
 @@|docs.github.com^$important
@@ -3465,6 +3468,7 @@
 @@|osiprodwusodcspstoa01.blob.core.windows.net^$important
 @@|ossmirror.mycloud.services^$important
 @@|ostree.fedoraproject.org^$important
+@@|ota-downloads.nvidia.com^$important
 @@|ota.nvidia.com^$important
 @@|otn*.samsungcloudcdn.com^$important
 @@|otnprd*.samsungcloudsolution.net^$important
@@ -5097,6 +5101,7 @@
 @@|wiki.manjaro.org^$important
 @@|wiki.mozilla.org^$important
 @@|wiki.nexusmods.com^$important
+@@|wiki.qbittorrent.org^$important
 @@|wiki.ubuntu.com^$important
 @@|wiki.videolan.org^$important
 @@|wikihow.com^$important
@@ -5215,6 +5220,7 @@
 @@|www.cyberlink.com^$important
 @@|www.cyberpunk.net^$important
 @@|www.cydex.com.au^$important
+@@|www.dart.dev^$important
 @@|www.dashlane.com^$important
 @@|www.debian.org^$important
 @@|www.deepin.org^$important
@@ -5326,6 +5332,7 @@
 @@|www.intel.com^$important
 @@|www.iperiusbackup.com^$important
 @@|www.iperiusbackup.net^$important
+@@|www.iventoy.com^$important
 @@|www.izarc.org^$important
 @@|www.java.com^$important
 @@|www.jaycar.com.au^$important

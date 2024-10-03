@@ -61,6 +61,7 @@
 @@|cs22.wpc.v0cdn.net^$important
 @@|css-tricks.com^$important
 @@|curben.gitlab.io^$important
+@@|dart.dev^$important
 @@|dbeaver.io^$important
 @@|dbhub.eu.auth0.com^$important
 @@|dbhub.io^$important
@@ -78,6 +79,7 @@
 @@|docs.avaloniaui.net^$important
 @@|docs.dbhub.io^$important
 @@|docs.docker.com^$important
+@@|docs.flutter.dev^$important
 @@|docs.github.com^$important
 @@|docs.icons8.com^$important
 @@|docs.npmjs.com^$important
@@ -275,6 +277,7 @@
 @@|www.30secondsofcode.org^$important
 @@|www.clearlinux.org^$important
 @@|www.codecademy.com^$important
+@@|www.dart.dev^$important
 @@|www.docker.com^$important
 @@|www.dockerstatus.com^$important
 @@|www.dot.net^$important

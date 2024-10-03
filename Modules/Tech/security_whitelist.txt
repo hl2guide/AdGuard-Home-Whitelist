@@ -117,7 +117,6 @@
 @@|drive.proton.me^$important
 @@|drive.protonmail.com^$important
 @@|driverupdate.gigabytenb.com^$important
-@@|driverupdate.gigabytenb.com^$important
 @@|dualstack.zd.map.fastly.net^$important
 @@|e1.o.lencr.org^$important
 @@|e6908.x.akamaiedge.net^$important
@@ -273,6 +272,7 @@
 @@|webapp-cp-back.azurewebsites.net^$important
 @@|websiteapi.acronis.com^$important
 @@|webtags.logitech.com^$important
+@@|wiki.qbittorrent.org^$important
 @@|windowsreport.com^$important
 @@|winget.run^$important
 @@|wp-cdn.pi-hole.net^$important
@@ -303,6 +303,7 @@
 @@|www.industry.gov.au^$important
 @@|www.innoreader.com^$important
 @@|www.intel.com^$important
+@@|www.iventoy.com^$important
 @@|www.izarc.org^$important
 @@|www.kensington.com^$important
 @@|www.keyxl.com^$important

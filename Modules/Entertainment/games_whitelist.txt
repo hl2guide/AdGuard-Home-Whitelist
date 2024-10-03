@@ -455,6 +455,7 @@
 @@|origin-a.akamaihd.net^$important
 @@|origin.warframe.com^$important
 @@|originassets.akamaized.net^$important
+@@|ota-downloads.nvidia.com^$important
 @@|ota.nvidia.com^$important
 @@|overlay.cdn.ubisoft.com^$important
 @@|overlay.ubisoft.com^$important

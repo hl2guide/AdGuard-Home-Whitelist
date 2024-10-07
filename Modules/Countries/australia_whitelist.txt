@@ -78,6 +78,7 @@
 @@|errors.client.optimizely.com^$important
 @@|f1techcomputers.com.au^$important
 @@|fhp.nab.com.au^$important
+@@|files.ozbargain.com.au^$important
 @@|fonts.service.nsw.gov.au^$important
 @@|foodhub.scene7.com^$important
 @@|foodhub.woolworths.com.au^$important

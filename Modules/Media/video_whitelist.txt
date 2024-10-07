@@ -4,6 +4,8 @@
 @@|*.tapecontent.net^$important
 @@|*.vimeocdn.com^$important
 @@|1a-1791.com^$important
+@@|7tv.app^$important
+@@|7tv.io^$important
 @@|account.production-public.tubi.io^$important
 @@|affiliate.twitch.tv^$important
 @@|announcements.grayjay.app^$important
@@ -25,6 +27,7 @@
 @@|authy.vimeo.com^$important
 @@|awards.netflix.com^$important
 @@|badges.twitch.tv^$important
+@@|betterttv.com^$important
 @@|blog.hulu.com^$important
 @@|blog.netflix.com^$important
 @@|blog.twitch.tv^$important
@@ -65,6 +68,7 @@
 @@|es.blog.twitch.tv^$important
 @@|es.twitch.tv^$important
 @@|extension-files.twitch.tv^$important
+@@|extension.7tv.gg^$important
 @@|extension.streamelements.com^$important
 @@|extensions-discovery-images.twitch.tv^$important
 @@|f.vimeocdn.com^$important
@@ -189,6 +193,8 @@
 @@|vod-secure.twitch.tv^$important
 @@|web*.rumble.com^$important
 @@|wn*.rumble.com^$important
+@@|www.7tv.app^$important
+@@|www.betterttv.com^$important
 @@|www.piped.video^$important
 @@|www.twitch.tv^$important
 @@|xapi.ing.com.au^$important

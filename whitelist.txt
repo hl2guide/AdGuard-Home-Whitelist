@@ -150,7 +150,9 @@
 @@|4shared.com^$important
 @@|5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
 @@|7r2ycrb.impervadns.net^$important
+@@|7tv.app^$important
 @@|7tv.foo^$important
+@@|7tv.io^$important
 @@|9.rarbg.com^$important
 @@|9.rarbg.me^$important
 @@|9.rarbg.to^$important
@@ -717,6 +719,7 @@
 @@|beige.xboxservices.com^$important
 @@|bella.porntrex.com^$important
 @@|bethesda.net^$important
+@@|betterttv.com^$important
 @@|bibo.api.swiftkey.com^$important
 @@|bigw.com.au^$important
 @@|binaries.templates.cdn.office.net^$important
@@ -1868,6 +1871,7 @@
 @@|explodie.org^$important
 @@|extension-files.twitch.tv^$important
 @@|extension-updates.opera.com^$important
+@@|extension.7tv.gg^$important
 @@|extension.streamelements.com^$important
 @@|extensions-discovery-images.twitch.tv^$important
 @@|extensions-loader.azurewebsites.net^$important
@@ -1967,6 +1971,7 @@
 @@|files.cdn.ubisoft.com^$important
 @@|files.community^$important
 @@|files.nzbcloud.com^$important
+@@|files.ozbargain.com.au^$important
 @@|files.pythonhosted.org^$important
 @@|files.readme.io^$important
 @@|files.surfright.nl^$important
@@ -5157,6 +5162,7 @@
 @@|www-static-blogs.operacdn.com^$important
 @@|www.30secondsofcode.org^$important
 @@|www.7-zip.org^$important
+@@|www.7tv.app^$important
 @@|www.acq-inc.com^$important
 @@|www.acronis.com^$important
 @@|www.adaware.com^$important
@@ -5185,6 +5191,7 @@
 @@|www.base64decode.org^$important
 @@|www.bcuninstaller.com^$important
 @@|www.bethesda.net^$important
+@@|www.betterttv.com^$important
 @@|www.bigw.com.au^$important
 @@|www.binbucks.com^$important
 @@|www.bing.com^$important

@@ -65,6 +65,7 @@
 @@|builds.garudalinux.org^$important
 @@|ca-mirror.chaotic.cx^$important
 @@|canonical-bos01.cdn.snapcraftcontent.com^$important
+@@|canonical-lgw01.cdn.snapcraftcontent.com^$important
 @@|cdimage.debian.org^$important
 @@|cdimage.deepin.com^$important
 @@|cdimage.ubuntu.com^$important
@@ -186,6 +187,7 @@
 @@|lists.ubuntu.com^$important
 @@|live.linuxmint.com^$important
 @@|livepatch.canonical.com^$important
+@@|login.ubuntu.com^$important
 @@|lutris.net^$important
 @@|man.archlinux.org^$important
 @@|manjaro.mirrors.theom.nz^$important

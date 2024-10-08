@@ -37,6 +37,7 @@
 @@|login.corsair.com^$important
 @@|m.alibaba.com^$important
 @@|m.aliexpress.com^$important
+@@|media.bunnings.com.au^$important
 @@|mesg.ebay.com.au^$important
 @@|mobi.aliexpress.com^$important
 @@|monitor.ebay.com^$important
@@ -63,6 +64,7 @@
 @@|vi.vipr.ebaydesc.com^$important
 @@|vod.ebay.com.au^$important
 @@|www.amazon.com.au^$important
+@@|www.bunnings.com.au.cdn.cloudflare.net^$important
 @@|www.corsair.com^$important
 @@|www.ebay.com^$important
 @@|www.lightboxcdn.com^$important

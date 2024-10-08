@@ -283,6 +283,7 @@
 @@|insideruser.microsoft.com^$important
 @@|ipv6.login.live.com^$important
 @@|ipv6.msftconnecttest.com^$important
+@@|ipv6.msftncsi.com^$important
 @@|jcmsfd.account.microsoft.com^$important
 @@|jp.pipe.aria.microsoft.com^$important
 @@|js.live.net^$important
@@ -541,6 +542,7 @@
 @@|www.clarity.ms^$important
 @@|www.microsoft.com^$important
 @@|www.msftconnecttest.com*^$important
+@@|www.msftncsi.com^$important
 @@|www.msn.com^$important
 @@|www.office.com^$important
 @@|www.onenote.com^$important

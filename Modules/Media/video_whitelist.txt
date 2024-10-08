@@ -41,6 +41,7 @@
 @@|changelog.m7g.twitch.tv^$important
 @@|chatdepot.twitch.tv^$important
 @@|checkout.vimeo.com^$important
+@@|citrine.chanteney.cloudfront.hls.ttvnw.net^$important
 @@|client-event-reporter.twitch.tv^$important
 @@|clips-media-assets2.twitch.tv^$important
 @@|clips.twitch.tv^$important
@@ -74,6 +75,7 @@
 @@|f.vimeocdn.com^$important
 @@|fan.twitch.tv^$important
 @@|fr.blog.twitch.tv^$important
+@@|functions.soundalerts.com^$important
 @@|glass.twitch.tv^$important
 @@|global.poe.live-video.net^$important
 @@|go.twitch.tv^$important
@@ -154,6 +156,7 @@
 @@|releases.grayjay.app^$important
 @@|returnyoutubedislikeapi.com^$important
 @@|rpg.twitch.tv^$important
+@@|s3-us-west-2-w.amazonaws.com^$important
 @@|science-output.s3.amazonaws.com^$important
 @@|search.vimeo.com^$important
 @@|secure.hulu.com^$important

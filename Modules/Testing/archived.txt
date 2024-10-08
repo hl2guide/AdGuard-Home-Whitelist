@@ -5,3 +5,7 @@
 ! @@|alldebrid.com^$important
 ! @@|shop.app^$important
 
+# PornHub
+||pornhub.com^$important
+||www.pornhub.com^$important
+

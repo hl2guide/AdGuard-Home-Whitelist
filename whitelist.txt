@@ -714,6 +714,7 @@
 @@|bdwm.be^$important
 @@|beacons.gcp.gvt2.com^$important
 @@|beacons.gvt2.com^$important
+@@|beakpee.com^$important
 @@|beeftext.org^$important
 @@|behindthevoiceactors.com^$important
 @@|beige.xboxservices.com^$important
@@ -881,6 +882,7 @@
 @@|camo.githubusercontent.com^$important
 @@|caniuse.com^$important
 @@|canonical-bos01.cdn.snapcraftcontent.com^$important
+@@|canonical-lgw01.cdn.snapcraftcontent.com^$important
 @@|canvas-cdn-prod.azureedge.net^$important
 @@|capi.samsungcloud.com^$important
 @@|captcha.website^$important
@@ -1133,6 +1135,7 @@
 @@|ci6.googleusercontent.com^$important
 @@|cinnamon-spices.linuxmint.com^$important
 @@|ciscobinary.openh264.org^$important
+@@|citrine.chanteney.cloudfront.hls.ttvnw.net^$important
 @@|clan.akamai.steamstatic.com^$important
 @@|clan.steamstatic.com^$important
 @@|clearlinux.org^$important
@@ -1391,6 +1394,7 @@
 @@|data.nsw.gov.au^$important
 @@|data.product.lastpass.com^$important
 @@|databridge.tdbtrk.com^$important
+@@|datanodes.to^$important
 @@|datarouter-prod.ak.epicgames.com^$important
 @@|datarouter.ol.epicgames.com^$important
 @@|datasert.gallery.vsassets.io^$important
@@ -1962,6 +1966,7 @@
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
 @@|file.portableupdate.com^$important
+@@|filecrypt.cc^$important
 @@|filefactory.com^$important
 @@|filefactory.us6.list-manage.com^$important
 @@|filejoker.net^$important
@@ -2160,6 +2165,7 @@
 @@|ftp.usf.edu^$important
 @@|ftp.yz.yamagata-u.ac.jp^$important
 @@|ftprivacy.cloud^$important
+@@|functions.soundalerts.com^$important
 @@|fvonline-db.bplaced.net^$important
 @@|g.api.mega.co.nz^$important
 @@|g.live.com^$important
@@ -2628,6 +2634,7 @@
 @@|ipv4only.arpa^$important
 @@|ipv6.login.live.com^$important
 @@|ipv6.msftconnecttest.com^$important
+@@|ipv6.msftncsi.com^$important
 @@|ipv6.rer.lol^$important
 @@|ipv6check-http.steamcontent.com^$important
 @@|ipv6check-udp.steamcontent.com^$important
@@ -2837,6 +2844,7 @@
 @@|login.okta.com^$important
 @@|login.steampowered.com^$important
 @@|login.sydneywater.com.au^$important
+@@|login.ubuntu.com^$important
 @@|login.wikimedia.org^$important
 @@|login.windows.net^$important
 @@|login5.spotify.com^$important
@@ -2953,6 +2961,7 @@
 @@|media.amazon.map.fastly.net^$important
 @@|media.babesource.com^$important
 @@|media.binglee.com.au^$important
+@@|media.bunnings.com.au^$important
 @@|media.contentapi.ea.com^$important
 @@|media.discordapp.net^$important
 @@|media.githubusercontent.com^$important
@@ -3286,6 +3295,7 @@
 @@|nn.speedtest.vodafone.com.au^$important
 @@|nnenix.mm.fcix.net^$important
 @@|no.mirrors.blix.com^$important
+@@|node*.datanodes.to^$important
 @@|nodejs.dev^$important
 @@|nodejs.org^$important
 @@|normandy.cdn.mozilla.net^$important
@@ -3969,6 +3979,7 @@
 @@|s295.pornone.com^$important
 @@|s3-ap-southeast-2.amazonaws.com^$important
 @@|s3-eu-west-1.amazonaws.com^$important
+@@|s3-us-west-2-w.amazonaws.com^$important
 @@|s3.nzbcloud.com^$important
 @@|s3.us-west-002.backblazeb2.com^$important
 @@|s3.wasabisys.com^$important
@@ -4527,6 +4538,7 @@
 @@|t.acg.rip^$important
 @@|t.castle.io^$important
 @@|t.paypal.com^$important
+@@|t.scdn.co^$important
 @@|t.ssl.ak.dynamic.tiles.virtualearth.net^$important
 @@|t1.aag.moe^$important
 @@|ta.wikipedia.com^$important
@@ -4964,6 +4976,7 @@
 @@|v.firebog.net^$important
 @@|v.tampermonkey.net^$important
 @@|v0.wordpress.com^$important
+@@|v2.cutcaptcha.net^$important
 @@|v20.events.data.microsoft.com^$important
 @@|v4.ai.ingka.ikea.net^$important
 @@|v6-tracker.0g.cx^$important
@@ -5200,6 +5213,7 @@
 @@|www.blomp.com^$important
 @@|www.bromite.org^$important
 @@|www.browserbench.org^$important
+@@|www.bunnings.com.au.cdn.cloudflare.net^$important
 @@|www.bunnings.com.au^$important
 @@|www.burnaware.com^$important
 @@|www.camwhoresbay.com^$important
@@ -5229,6 +5243,7 @@
 @@|www.cydex.com.au^$important
 @@|www.dart.dev^$important
 @@|www.dashlane.com^$important
+@@|www.datanodes.to^$important
 @@|www.debian.org^$important
 @@|www.deepin.org^$important
 @@|www.dell.com^$important
@@ -5274,6 +5289,7 @@
 @@|www.fallout4london.com^$important
 @@|www.fbigaming.com.au^$important
 @@|www.feyrer.de^$important
+@@|www.filecrypt.cc^$important
 @@|www.filefactory.com^$important
 @@|www.filepuma.com^$important
 @@|www.filescan.io^$important
@@ -5345,6 +5361,7 @@
 @@|www.jaycar.com.au^$important
 @@|www.jbhifi.com.au^$important
 @@|www.jetbrains.com^$important
+@@|www.jiosaavn.com^$important
 @@|www.justpushstart.com^$important
 @@|www.kde.org^$important
 @@|www.kensington.com^$important
@@ -5384,6 +5401,7 @@
 @@|www.mozilla.org.cdn.cloudflare.net^$important
 @@|www.mozilla.org^$important
 @@|www.msftconnecttest.com*^$important
+@@|www.msftncsi.com^$important
 @@|www.msi.com^$important
 @@|www.msn.com^$important
 @@|www.msy.com.au^$important

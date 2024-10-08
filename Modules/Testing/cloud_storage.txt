@@ -1,0 +1,7 @@
+@@|beakpee.com^$important
+@@|datanodes.to^$important
+@@|filecrypt.cc^$important
+@@|node*.datanodes.to^$important
+@@|v2.cutcaptcha.net^$important
+@@|www.datanodes.to^$important
+@@|www.filecrypt.cc^$important

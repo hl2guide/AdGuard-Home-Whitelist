@@ -1,4 +1,6 @@
 @@|daylist.spotifycdn.com^$important
 @@|pickasso.spotifycdn.com^$important
 @@|seed-mix-image.spotifycdn.com^$important
+@@|t.scdn.co^$important
 @@|thisis-images.spotifycdn.com^$important
+@@|www.jiosaavn.com^$important

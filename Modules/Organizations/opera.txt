@@ -1,4 +1,0 @@
-@@|autoupdate.opera.com^$important
-@@|desktop-dna.osp.opera.software^$important
-@@|exchange.opera.com^$important
-@@|sitecheck.opera.com^$important

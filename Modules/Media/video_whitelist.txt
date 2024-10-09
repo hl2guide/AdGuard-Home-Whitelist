@@ -186,6 +186,7 @@
 @@|upload.vimeo.com^$important
 @@|uploads.twitchalerts.com^$important
 @@|usw22.playlist.ttvnw.net^$important
+@@|usw23.playlist.ttvnw.net^$important
 @@|video-edge-855073.pdx01.abs.hls.ttvnw.net^$important
 @@|video-edge-ea0fad.pdx01.abs.hls.ttvnw.net^$important
 @@|video-fa.scdn.co^$important

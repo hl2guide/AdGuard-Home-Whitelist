@@ -3,6 +3,7 @@
 @@|addons-amo.cdn.mozilla.net^$important
 @@|addons.cdn.mozilla.net^$important
 @@|addons.mozilla.org^$important
+@@|assets.mozilla.net^$important
 @@|aus5.mozilla.org^$important
 @@|blog.mozilla.org^$important
 @@|bugzilla.mozilla.org^$important

@@ -133,6 +133,7 @@
 @@|149366088.v2.pressablecdn.com^$important
 @@|15.2.0.10.in-addr.arpa^$important
 @@|19-14.b.cdn13.com^$important
+@@|192-168-0-2.948059ad0f19412fbf96d93bce623fc1.plex.direct^$important
 @@|192-168-1-103.mydns.jdownloader.org^$important
 @@|1a-1791.com^$important
 @@|1c.premierzal.ru^$important
@@ -196,6 +197,7 @@
 @@|a1874.d.akamai.net^$important
 @@|a1be18f0874fd98eb.awsglobalaccelerator.com^$important
 @@|a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
+@@|a8064043ce323404585112ebf508e998-297616628.us-east-1.elb.amazonaws.com^$important
 @@|aadcdn.msauth.net^$important
 @@|aadcdn.msftauth.net^$important
 @@|aarnet.edu.au^$important
@@ -317,6 +319,7 @@
 @@|almalinux.mirror.digitalpacific.com.au^$important
 @@|almalinux.org^$important
 @@|alomar.emsisoft.com^$important
+@@|alphacoders.com^$important
 @@|alt-images.codestream.com^$important
 @@|altap.cz^$important
 @@|alternativeto.net^$important
@@ -584,11 +587,13 @@
 @@|assets.help.twitch.tv^$important
 @@|assets.hulu.com^$important
 @@|assets.kogan.com^$important
+@@|assets.mozilla.net^$important
 @@|assets.msn.com^$important
 @@|assets.msy.com.au^$important
 @@|assets.onestore.ms^$important
 @@|assets.oneweb.mercedes-benz.com^$important
 @@|assets.pippa.io^$important
+@@|assets.plex.tv^$important
 @@|assets.razerzone.com^$important
 @@|assets.resultspage.com^$important
 @@|assets.sb-cd.com^$important
@@ -1023,6 +1028,7 @@
 @@|cdn.streamelements.com^$important
 @@|cdn.streamlabs.com^$important
 @@|cdn.superantispyware.com^$important
+@@|cdn.transifex.com^$important
 @@|cdn.twitchalerts.com^$important
 @@|cdn.us.playstation.com^$important
 @@|cdn.vsassets.io^$important
@@ -1155,6 +1161,7 @@
 @@|clientconfig.akamai.steamstatic.com^$important
 @@|clientconfig.passport.net^$important
 @@|clients.l.google.com^$important
+@@|clients.plex.tv^$important
 @@|clients1.google.com^$important
 @@|clients2.google.com^$important
 @@|clients2.googleusercontent.com^$important
@@ -1222,6 +1229,7 @@
 @@|community.kde.org^$important
 @@|community.logmein.com^$important
 @@|community.playstation.com^$important
+@@|community.plex.tv^$important
 @@|community.soundcloud.com^$important
 @@|community.steam-api.com^$important
 @@|community.us.playstation.com^$important
@@ -1499,6 +1507,7 @@
 @@|discourse.ubuntu.com^$important
 @@|discover.amd.com^$important
 @@|discover.hulu.com^$important
+@@|discover.provider.plex.tv^$important
 @@|discovery-infiniteugc.svc.halowaypoint.com^$important
 @@|discovery.razerapi.com^$important
 @@|discovery.services.gearboxsoftware.com^$important
@@ -1672,6 +1681,7 @@
 @@|downloads.intercomcdn.com^$important
 @@|downloads.malwarebytes.com^$important
 @@|downloads.mariadb.org^$important
+@@|downloads.plex.tv^$important
 @@|downloads.sourceforge.net^$important
 @@|downloads.vivaldi.com^$important
 @@|downloads.wisecleaner.com^$important
@@ -1811,6 +1821,7 @@
 @@|eo.wikipedia.com^$important
 @@|eos-cloudsaves-live.s3.amazonaws.com^$important
 @@|epdg.epc.mnc001.mcc505.pub.3gppnetwork.org^$important
+@@|epg.provider.plex.tv^$important
 @@|epic-social-game-overlay-prod.ol.epicgames.com^$important
 @@|epic-social-social-modules-prod.ol.epicgames.com^$important
 @@|epicgames-download1.akamaized.net^$important
@@ -1921,6 +1932,7 @@
 @@|fe3cr.delivery.mp.microsoft.com^$important
 @@|feathericons.com^$important
 @@|features.opera-api*.com^$important
+@@|features.plex.tv^$important
 @@|fedora-secondary.mirror.liquidtelecom.com^$important
 @@|fedora.c3sl.ufpr.br^$important
 @@|fedora.cu.be^$important
@@ -2265,6 +2277,7 @@
 @@|glass.twitch.tv^$important
 @@|glb.paypal.com^$important
 @@|gld.push.samsungosp.com^$important
+@@|global-inbound-latency.plex.bz^$important
 @@|global.discourse-cdn.com^$important
 @@|global.poe.live-video.net^$important
 @@|globalcdn.nuget.org^$important
@@ -2526,6 +2539,7 @@
 @@|images.officeworks.com.au^$important
 @@|images.pcgamingwiki.com^$important
 @@|images.platforum.cloud^$important
+@@|images.plex.tv^$important
 @@|images.pling.com^$important
 @@|images.prismic.io^$important
 @@|images.samsung.com^$important
@@ -2631,6 +2645,7 @@
 @@|iplists.firehol.org^$important
 @@|ipv4.imgur.map.fastly.net^$important
 @@|ipv4.tracker.harry.lu^$important
+@@|ipv4announce.sktorrent.eu^$important
 @@|ipv4only.arpa^$important
 @@|ipv6.login.live.com^$important
 @@|ipv6.msftconnecttest.com^$important
@@ -2997,7 +3012,9 @@
 @@|mesg.ebay.com.au^$important
 @@|messages.google.com^$important
 @@|messdistr1-rdr2-prod.ros.rockstargames.com^$important
+@@|meta.plex.tv^$important
 @@|metadata.ftp-master.debian.org^$important
+@@|metadata.provider.plex.tv^$important
 @@|metal.prod.atl-paas.net^$important
 @@|metrics.ol.epicgames.com^$important
 @@|metrics.ubuntu.com.localdomain^$important
@@ -3211,6 +3228,7 @@
 @@|multimedia.email2.gog.com^$important
 @@|multiplayeractivity.xboxlive.com^$important
 @@|music.plus.google.com^$important
+@@|music.provider.plex.tv^$important
 @@|music.samsung.com^$important
 @@|music.twitch.tv^$important
 @@|music.xbox.com^$important
@@ -3424,6 +3442,7 @@
 @@|opalconnect.transportnsw.info^$important
 @@|open-tracker.demonoid.ch^$important
 @@|open-vsx.org^$important
+@@|open.acgnxtracker.com^$important
 @@|open.acgtracker.com^$important
 @@|open.demonii.com^$important
 @@|open.dstud.io^$important
@@ -3796,6 +3815,8 @@
 @@|pubmirror3.math.uh.edu^$important
 @@|pubsub-api.razerapi.com^$important
 @@|pubsub-edge.twitch.tv^$important
+@@|pubsub.plex.bz^$important
+@@|pubsub.plex.tv^$important
 @@|pubsub.razersynapse.com^$important
 @@|pulsar.ebay.com.au^$important
 @@|purchase.mp.microsoft.com^$important
@@ -3907,6 +3928,7 @@
 @@|rescuezilla.com^$important
 @@|reshade.me^$important
 @@|resource.dopus.com^$important
+@@|resources-cdn.plexapp.com^$important
 @@|resources.jetbrains.com^$important
 @@|rest-api.degoo.com^$important
 @@|rest.iad-03.braze.com^$important
@@ -3916,6 +3938,7 @@
 @@|retracker.hotplug.ru^$important
 @@|retracker.ip.ncnet.ru^$important
 @@|retracker.lanta-net.ru^$important
+@@|retracker.lanta.me^$important
 @@|retracker.local^$important
 @@|retracker.x2k.ru^$important
 @@|retracker01-msk-virt.corbina.net^$important
@@ -4537,6 +4560,7 @@
 @@|t-ring-fdv2.msedge.net^$important
 @@|t.acg.rip^$important
 @@|t.castle.io^$important
+@@|t.nyaatracker.com^$important
 @@|t.paypal.com^$important
 @@|t.scdn.co^$important
 @@|t.ssl.ak.dynamic.tiles.virtualearth.net^$important
@@ -4651,6 +4675,7 @@
 @@|to-do.live.com^$important
 @@|to-do.microsoft.com^$important
 @@|todosupport.microsoft.com^$important
+@@|together.plex.tv^$important
 @@|token.cp.microsoft.com/^$important
 @@|tokenized.play.google.com^$important
 @@|tokens-auth.touchtype-fluency.com^$important
@@ -4660,6 +4685,7 @@
 @@|torlock.com^$important
 @@|torren.eu^$important
 @@|torrent-tracker.hama3.net^$important
+@@|torrent.tracker.durukanbal.com^$important
 @@|torrentclub.space^$important
 @@|torrents.artixlinux.org^$important
 @@|torrentsmd.com^$important
@@ -4688,8 +4714,10 @@
 @@|tracker.birkenwald.de^$important
 @@|tracker.bitsearch.to^$important
 @@|tracker.bittor.pw^$important
+@@|tracker.breizh.pm^$important
 @@|tracker.bt4g.com^$important
 @@|tracker.ccp.ovh^$important
+@@|tracker.cloaka.xyz^$important
 @@|tracker.cloudit.top^$important
 @@|tracker.coppersurfer.tk^$important
 @@|tracker.cubonegro.lol^$important
@@ -4713,6 +4741,7 @@
 @@|tracker.gbitt.info^$important
 @@|tracker.gcrenwp.top^$important
 @@|tracker.gcrreen.xyz^$important
+@@|tracker.gmi.gd^$important
 @@|tracker.grepler.com^$important
 @@|tracker.imgoingto.icu^$important
 @@|tracker.internetwarriors.net^$important
@@ -4727,6 +4756,7 @@
 @@|tracker.kuroy.me^$important
 @@|tracker.leech.ie^$important
 @@|tracker.leechers-paradise.org^$important
+@@|tracker.lelux.fi^$important
 @@|tracker.lilithraws.cf^$important
 @@|tracker.lilithraws.org^$important
 @@|tracker.loligirl.cn^$important
@@ -4773,6 +4803,7 @@
 @@|tracker.uraniumhexafluori.de^$important
 @@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
+@@|tracker.waaa.moe^$important
 @@|tracker.xor.st^$important
 @@|tracker.yangxiaoguozi.cn^$important
 @@|tracker.yemekyedim.com^$important
@@ -4972,6 +5003,7 @@
 @@|ussus2eastprod.blob.core.windows.net^$important
 @@|ussus3eastprod.blob.core.windows.net^$important
 @@|usw22.playlist.ttvnw.net^$important
+@@|usw23.playlist.ttvnw.net^$important
 @@|v-tiles.downdetector.com^$important
 @@|v.firebog.net^$important
 @@|v.tampermonkey.net^$important
@@ -4979,6 +5011,7 @@
 @@|v2.cutcaptcha.net^$important
 @@|v20.events.data.microsoft.com^$important
 @@|v4.ai.ingka.ikea.net^$important
+@@|v4.plex.tv^$important
 @@|v6-tracker.0g.cx^$important
 @@|vanilla.futurecdn.net^$important
 @@|vas.samsungapps.com^$important
@@ -5039,6 +5072,7 @@
 @@|vo2.qrlsx.com^$important
 @@|vod-secure.twitch.tv^$important
 @@|vod.ebay.com.au^$important
+@@|vod.provider.plex.tv^$important
 @@|voidtools.com^$important
 @@|vortex.data.microsoft.com^$important
 @@|vporn.com^$important
@@ -5462,6 +5496,7 @@
 @@|www.piped.video^$important
 @@|www.planetsuzy.org^$important
 @@|www.playstation.com^$important
+@@|www.plex.tv^$important
 @@|www.pling.com^$important
 @@|www.podnapisi.net^$important
 @@|www.police.nsw.gov.au^$important

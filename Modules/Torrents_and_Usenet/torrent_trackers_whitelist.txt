@@ -24,6 +24,7 @@
 @@|forum.qbittorrent.org^$important
 @@|free.publictracker.xyz^$important
 @@|git.qbittorrent.org^$important
+@@|ipv4announce.sktorrent.eu^$important
 @@|ipv6.rer.lol^$important
 @@|isk.richardsw.club^$important
 @@|milanesitracker.tekcities.com^$important
@@ -34,6 +35,7 @@
 @@|nyaa.tracker.wf^$important
 @@|oh.fuuuuuck.com^$important
 @@|open-tracker.demonoid.ch^$important
+@@|open.acgnxtracker.com^$important
 @@|open.acgnxtracker.com^$important
 @@|open.acgtracker.com^$important
 @@|open.demonii.com^$important
@@ -56,6 +58,7 @@
 @@|public.publictracker.xyz^$important
 @@|retracker.home^$important
 @@|retracker.hotplug.ru^$important
+@@|retracker.lanta.me^$important
 @@|retracker.x2k.ru^$important
 @@|retracker01-msk-virt.corbina.net^$important
 @@|retracker2.x2k.ru^$important
@@ -66,6 +69,7 @@
 @@|share.camoe.cn^$important
 @@|shubt.net^$important
 @@|t.acg.rip^$important
+@@|t.nyaatracker.com^$important
 @@|t.nyaatracker.com^$important
 @@|t.overflow.biz^$important
 @@|t.publictracker.xyz^$important
@@ -78,6 +82,7 @@
 @@|tk2.trackerservers.com^$important
 @@|torbox.app^$important
 @@|torrent-tracker.hama3.net^$important
+@@|torrent.tracker.durukanbal.com^$important
 @@|torrentclub.space^$important
 @@|torrents.artixlinux.org^$important
 @@|torrentsmd.com^$important
@@ -110,8 +115,10 @@
 @@|tracker.beeimg.com^$important
 @@|tracker.birkenwald.de^$important
 @@|tracker.bittor.pw^$important
+@@|tracker.breizh.pm^$important
 @@|tracker.bt4g.com^$important
 @@|tracker.ccp.ovh^$important
+@@|tracker.cloaka.xyz^$important
 @@|tracker.cloudit.top^$important
 @@|tracker.coppersurfer.site^$important
 @@|tracker.cubonegro.lol^$important
@@ -133,6 +140,7 @@
 @@|tracker.gbitt.info^$important
 @@|tracker.gcrenwp.top^$important
 @@|tracker.gcrreen.xyz^$important
+@@|tracker.gmi.gd^$important
 @@|tracker.imgoingto.icu^$important
 @@|tracker.internetwarriors.net^$important
 @@|tracker.ipv6tracker.org^$important
@@ -146,6 +154,7 @@
 @@|tracker.k.vu^$important
 @@|tracker.kuroy.me^$important
 @@|tracker.leech.ie^$important
+@@|tracker.lelux.fi^$important
 @@|tracker.lelux.fi^$important
 @@|tracker.lilithraws.cf^$important
 @@|tracker.lilithraws.org^$important
@@ -188,6 +197,7 @@
 @@|tracker.uraniumhexafluori.de^$important
 @@|tracker.uw0.xyz^$important
 @@|tracker.vds.nz^$important
+@@|tracker.waaa.moe^$important
 @@|tracker.xor.st^$important
 @@|tracker.yangxiaoguozi.cn^$important
 @@|tracker.yarr.pt^$important

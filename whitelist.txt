@@ -5042,6 +5042,7 @@
 @@|video-fa.scdn.co^$important
 @@|video-gcr.xhcdn.com^$important
 @@|video-nss.xhcdn.com^$important
+@@|video-weaver.*.hls.ttvnw.net^$important
 @@|video-weaver.lax03.hls.ttvnw.net^$important
 @@|video-weaver.syd*.hls.ttvnw.net^$important
 @@|video.akamai.steamstatic.com^$important

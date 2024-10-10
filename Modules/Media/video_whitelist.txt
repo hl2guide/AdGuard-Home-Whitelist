@@ -190,6 +190,7 @@
 @@|video-edge-855073.pdx01.abs.hls.ttvnw.net^$important
 @@|video-edge-ea0fad.pdx01.abs.hls.ttvnw.net^$important
 @@|video-fa.scdn.co^$important
+@@|video-weaver.*.hls.ttvnw.net^$important
 @@|video-weaver.lax03.hls.ttvnw.net^$important
 @@|video-weaver.syd*.hls.ttvnw.net^$important
 @@|videoapi-sprites.vimeocdn.com^$important

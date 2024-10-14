@@ -972,6 +972,7 @@
 @@|cdn.dragonagekeep.com^$important
 @@|cdn.dynamicyield.com^$important
 @@|cdn.eu.auth0.com^$important
+@@|cdn.filen.io^$important
 @@|cdn.flowplayer.com^$important
 @@|cdn.forms.office.net^$important
 @@|cdn.frankerfacez.com^$important
@@ -1186,6 +1187,7 @@
 @@|cloud.icons8.com^$important
 @@|cloudflare-dns.com^$important
 @@|cloudflare.com^$important
+@@|cloudflare.epicgamescdn.com^$important
 @@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
 @@|cloudsync-prod.s3.us-east-1.amazonaws.com^$important
@@ -1695,6 +1697,7 @@
 @@|dragonagekeep.com^$important
 @@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.fife.usercontent.google.com^$important
+@@|drive.filen.io^$important
 @@|drive.google.com^$important
 @@|drive.internxt.com^$important
 @@|drive.proton.me^$important
@@ -2216,6 +2219,8 @@
 @@|garudalinux.org^$important
 @@|gateway.discord.gg^$important
 @@|gateway.ea.com^$important
+@@|gateway.filen-*.net^$important
+@@|gateway.filen.net^$important
 @@|gateway.reddit.com^$important
 @@|gateway.userstyles.org^$important
 @@|gcore-pic.xvideos-cdn.com^$important
@@ -2606,6 +2611,9 @@
 @@|ingame-news.ubi.com^$important
 @@|ingame-store.cdn.ubisoft.com^$important
 @@|ingdirect.d1.sc.omtrdc.net^$important
+@@|ingest.filen-*.net^$important
+@@|ingest.filen.io^$important
+@@|ingest.filen.net^$important
 @@|ingest.twitch.tv^$important
 @@|inoreader.com^$important
 @@|input.mozilla.org^$important
@@ -3895,6 +3903,7 @@
 @@|redditstatic.com^$important
 @@|redeem.gog.com^$important
 @@|redemptionservices.accesscontrol.windows.net^$important
+@@|redir.emsisoft.com^$important
 @@|redirect.kaspersky.com^$important
 @@|redirector.brave.com^$important
 @@|redirector.googlevideo.com^$important
@@ -4185,6 +4194,7 @@
 @@|social.technet.microsoft.com^$important
 @@|social.xboxlive.com^$important
 @@|socialclub.rockstargames.com^$important
+@@|socket.filen.io^$important
 @@|sockets.betterttv.net^$important
 @@|sockets.standardnotes.com^$important
 @@|sofe.ebay.com.au^$important
@@ -4834,6 +4844,7 @@
 @@|tracking-protection.cdn.mozilla.net^$important
 @@|tracking-protection.prod.mozaws.net^$important
 @@|tracking.epicgames.com^$important
+@@|translate.brave.com^$important
 @@|translate.google.com.au^$important
 @@|transportnsw.info^$important
 @@|tras.os.eidos.com^$important

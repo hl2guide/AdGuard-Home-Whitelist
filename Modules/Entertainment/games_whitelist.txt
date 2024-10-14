@@ -150,6 +150,7 @@
 @@|client-update.akamai.steamstatic.com^$important
 @@|clientconfig.akamai.steamstatic.com^$important
 @@|cloud.gg^$important
+@@|cloudflare.epicgamescdn.com^$important
 @@|cloudstorage.gog.com^$important
 @@|cloudsync-prod.s3.amazonaws.com^$important
 @@|cloudsync-prod.s3.us-east-1.amazonaws.com^$important

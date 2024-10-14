@@ -11,5 +11,6 @@
 @@|search.brave.com^$important
 @@|static*.brave.com^$important
 @@|status.brave.com^$important
+@@|translate.brave.com^$important
 @@|updates-cdn.bravesoftware.com^$important
 @@|updates.bravesoftware.com^$important

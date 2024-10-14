@@ -205,6 +205,7 @@
 @@|r3.i.lencr.org^$important
 @@|raindrop-preview-prod.exentrich.workers.dev^$important
 @@|readthedocs.org^$important
+@@|redir.emsisoft.com^$important
 @@|relay.firefox.com^$important
 @@|remote-auth-gateway.discord.gg^$important
 @@|repo.vivaldi.com^$important

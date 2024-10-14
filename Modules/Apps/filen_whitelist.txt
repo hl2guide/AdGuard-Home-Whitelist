@@ -1,0 +1,8 @@
+@@|cdn.filen.io^$important
+@@|drive.filen.io^$important
+@@|gateway.filen-*.net^$important
+@@|gateway.filen.net^$important
+@@|ingest.filen-*.net^$important
+@@|ingest.filen.io^$important
+@@|ingest.filen.net^$important
+@@|socket.filen.io^$important

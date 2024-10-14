@@ -174,6 +174,7 @@
 @@|s2.youtube.com^$important
 @@|safebrowsing.googleapis.com^$important
 @@|script.google.com^$important
+@@|securetoken.googleapis.com^$important
 @@|securitydomain-pa.googleapis.com^$important
 @@|signaler-pa.clients*.google.com^$important
 @@|spreadsheets.google.com^$important

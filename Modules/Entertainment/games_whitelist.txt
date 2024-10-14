@@ -69,6 +69,7 @@
 @@|autopatch.juno.ea.com^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.cloudflare.steamstatic.com^$important
+@@|avatars.fastly.steamstatic.com^$important
 @@|avatars.nexusmods.com^$important
 @@|avatars.steamstatic.com^$important
 @@|b-agora-hydra-file-storage-kraken.s3.amazonaws.com^$important

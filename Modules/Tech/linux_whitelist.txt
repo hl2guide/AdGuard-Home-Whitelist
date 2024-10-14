@@ -27,6 +27,7 @@
 @@|_https._tcp.metadata.ftp-master.debian.org^$important
 @@|_https._tcp.mirror.aarnet.edu.au^$important
 @@|_https._tcp.mirror.internet.asn.au^$important
+@@|_https._tcp.motd.ubuntu.com^$important
 @@|_https._tcp.packages.zorinos.com^$important
 @@|aarnet.edu.au^$important
 @@|accounts.fedoraproject.org^$important
@@ -259,6 +260,7 @@
 @@|mirrors.wikimedia.org^$important
 @@|mirrors.xtom.de^$important
 @@|mirrors.xtom.nl^$important
+@@|motd.ubuntu.com^$important
 @@|multipass.run^$important
 @@|mxlinux.org^$important
 @@|mxrepo.com^$important

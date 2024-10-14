@@ -179,6 +179,7 @@
 @@|_https._tcp.metadata.ftp-master.debian.org^$important
 @@|_https._tcp.mirror.aarnet.edu.au^$important
 @@|_https._tcp.mirror.internet.asn.au^$important
+@@|_https._tcp.motd.ubuntu.com^$important
 @@|_https._tcp.packages.zorinos.com^$important
 @@|a-*.1fichier.com^$important
 @@|a-*.a-msedge.net^$important
@@ -669,6 +670,7 @@
 @@|avatars.alphacoders.com^$important
 @@|avatars.cloudflare.steamstatic.com^$important
 @@|avatars.discourse-cdn.com^$important
+@@|avatars.fastly.steamstatic.com^$important
 @@|avatars.githubusercontent.com^$important
 @@|avatars.nexusmods.com^$important
 @@|avatars.slant.co^$important
@@ -1021,6 +1023,7 @@
 @@|cdn.sonicb.it^$important
 @@|cdn.sonicbit.net^$important
 @@|cdn.sstatic.net^$important
+@@|cdn.statically.io^$important
 @@|cdn.staticaly.com^$important
 @@|cdn.statuspage.io^$important
 @@|cdn.steamstatic.com^$important
@@ -2194,6 +2197,7 @@
 @@|galleryn*.awemdia.com^$important
 @@|game-page.cdn.ubisoft.com^$important
 @@|game-saves.live.cdpred.services^$important
+@@|game.intel.com^$important
 @@|gameclipscontent-*.xboxlive.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
@@ -3200,6 +3204,7 @@
 @@|modernb.verizon.odsp.cdn.office.net^$important
 @@|modules-cdn.eac-prod.on.epicgames.com^$important
 @@|monitor.ebay.com^$important
+@@|motd.ubuntu.com^$important
 @@|movies.netflix.com^$important
 @@|movies.zsw.ca^$important
 @@|mozilla.cloudflare-dns.com^$important
@@ -4074,6 +4079,7 @@
 @@|secured.netflix.com^$important
 @@|securedownloads.superantispyware.com^$important
 @@|secureir.ebaystatic.com^$important
+@@|securetoken.googleapis.com^$important
 @@|security.cloudflare-dns.com^$important
 @@|security.debian.org^$important
 @@|security.ubuntu.com^$important

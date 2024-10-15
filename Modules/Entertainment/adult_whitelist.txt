@@ -45,6 +45,7 @@
 @@|eve.cdntrex.com^$important
 @@|faphouse.com^$important
 @@|fiona.cdntrex.com^$important
+@@|fp2e7a.wpc.phicdn.net^$important
 @@|freeones.com^$important
 @@|freeones.xxx^$important
 @@|fsm1-cdn.attraqt.com^$important

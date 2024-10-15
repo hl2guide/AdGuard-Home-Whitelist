@@ -54,6 +54,7 @@
 @@|clients4.google.com^$important
 @@|clients5.google.com^$important
 @@|clients6.google.com^$important
+@@|clientservices.googleapis.com^$important
 @@|code.google.com^$important
 @@|commondatastorage.googleapis.com^$important
 @@|connectivitycheck.gstatic.com^$important
@@ -137,6 +138,7 @@
 @@|mw1.google.com^$important
 @@|myaccount.google.com^$important
 @@|myactivity.google.com^$important
+@@|nearbysharing-pa.googleapis.com^$important
 @@|news.google.com^$important
 @@|notes-pa.clients6.google.com^$important
 @@|notifications-pa.googleapis.com^$important
@@ -169,6 +171,7 @@
 @@|redirector.googlevideo.com^$important
 @@|reminders-pa.clients*.google.com^$important
 @@|reminders-pa.googleapis.com^$important
+@@|restrictedapps-pa.googleapis.com^$important
 @@|s.youtube.com^$important
 @@|s.ytimg.com^$important
 @@|s2.youtube.com^$important
@@ -200,6 +203,7 @@
 @@|update.googleapis.com^$important
 @@|versionhistory.googleapis.com^$important
 @@|video.google.com^$important
+@@|voilatile-pa.googleapis.com^$important
 @@|vr.google.com^$important
 @@|waa-pa.clients6.google.com^$important
 @@|workspace.google.com^$important

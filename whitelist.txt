@@ -28,6 +28,7 @@
 @@|*.ahcdn.com^$important
 @@|*.aria.microsoft.com^$important
 @@|*.australiasoutheast.cloudapp.azure.com^$important
+@@|*.awsglobalaccelerator.com^$important
 @@|*.b.akamaiedge.net^$important
 @@|*.battle.net^$important
 @@|*.bootstrap.libp2p.io^$important
@@ -1173,6 +1174,7 @@
 @@|clients4.google.com^$important
 @@|clients5.google.com^$important
 @@|clients6.google.com^$important
+@@|clientservices.googleapis.com^$important
 @@|clientstream-ga.launchdarkly.com^$important
 @@|clientstream.launchdarkly.com^$important
 @@|clips-media-assets2.twitch.tv^$important
@@ -2093,6 +2095,7 @@
 @@|fp-vs.azureedge.net^$important
 @@|fp.msedge.net^$important
 @@|fp.profiles.us.playstation.com^$important
+@@|fp2e7a.wpc.phicdn.net^$important
 @@|fping.org^$important
 @@|fpt.microsoft.com^$important
 @@|fpt.xbox.com^$important
@@ -3286,6 +3289,7 @@
 @@|nbncoadmin.carto.com^$important
 @@|nchc.dl.sourceforge.net^$important
 @@|ncsa-storm.ubi.com^$important
+@@|nearbysharing-pa.googleapis.com^$important
 @@|nelly-service-prod-akamai.ecosec.on.epicgames.com^$important
 @@|nelly-service-prod-cloudflare.ecosec.on.epicgames.com^$important
 @@|nelly-service-prod-cloudfront.ecosec.on.epicgames.com^$important
@@ -3781,6 +3785,7 @@
 @@|productcard.gog-statics.com^$important
 @@|productimages.coles.com.au^$important
 @@|production-appsync.degoo.com^$important
+@@|production-lb-superloop-cms-web-390250080.ap-southeast-2.elb.amazonaws.com^$important
 @@|production.assets.clips.twitchcdn.net^$important
 @@|production.cloudflare.docker.com^$important
 @@|products.office.com^$important
@@ -3946,6 +3951,7 @@
 @@|resources.jetbrains.com^$important
 @@|rest-api.degoo.com^$important
 @@|rest.iad-03.braze.com^$important
+@@|restrictedapps-pa.googleapis.com^$important
 @@|results.speedtest.net^$important
 @@|retrace.fedoraproject.org^$important
 @@|retracker.home^$important
@@ -4411,6 +4417,7 @@
 @@|static1.squarespace.com^$important
 @@|static1.xdaimages.com^$important
 @@|static2.sharepointonline.com^$important
+@@|statically.map.fastly.net^$important
 @@|staticcdn.duckduckgo.com^$important
 @@|staticctf.akamaized.net^$important
 @@|staticdelivery.nexusmods.com^$important
@@ -5092,6 +5099,7 @@
 @@|vod.ebay.com.au^$important
 @@|vod.provider.plex.tv^$important
 @@|voidtools.com^$important
+@@|voilatile-pa.googleapis.com^$important
 @@|vortex.data.microsoft.com^$important
 @@|vporn.com^$important
 @@|vr.google.com^$important
@@ -5263,6 +5271,7 @@
 @@|www.binglee.com.au^$important
 @@|www.blizzard.com^$important
 @@|www.blomp.com^$important
+@@|www.brave.com^$important
 @@|www.bromite.org^$important
 @@|www.browserbench.org^$important
 @@|www.bunnings.com.au.cdn.cloudflare.net^$important
@@ -5608,6 +5617,7 @@
 @@|www.ubisoft.com^$important
 @@|www.ubuntu.com^$important
 @@|www.ubuntupit.com^$important
+@@|www.ui.stgeorge.com.au^$important
 @@|www.umart.com.au^$important
 @@|www.unifiedremote.com^$important
 @@|www.unrealengine.com^$important

@@ -1,4 +1,5 @@
 @@|*-ibm-r*.teamviewer.com^$important
+@@|ad-wa.anydesk.com^$important
 @@|anydesk.com^$important
 @@|au-syd-anx-r*.teamviewer.com^$important
 @@|boot-*.net.anydesk.com^$important

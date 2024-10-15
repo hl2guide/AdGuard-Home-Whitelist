@@ -14,3 +14,4 @@
 @@|translate.brave.com^$important
 @@|updates-cdn.bravesoftware.com^$important
 @@|updates.bravesoftware.com^$important
+@@|www.brave.com^$important

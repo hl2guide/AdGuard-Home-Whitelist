@@ -44,5 +44,6 @@
 @@|www.anz.com.au^$important
 @@|www.anz.com^$important
 @@|www.stgeorge.com.au^$important
+@@|www.ui.stgeorge.com.au^$important
 @@|x.nab.com.au^$important
 @@|xapi.ing.com.au^$important

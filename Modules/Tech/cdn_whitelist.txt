@@ -1,1 +1,3 @@
+@@|*.awsglobalaccelerator.com^$important
 @@|cdn.statically.io^$important
+@@|statically.map.fastly.net^$important

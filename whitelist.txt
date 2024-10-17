@@ -151,6 +151,7 @@
 @@|3.pool.ntp.org^$important
 @@|4shared.com^$important
 @@|5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
+@@|7a33fb9be34a.cdn4.forter.com^$important
 @@|7r2ycrb.impervadns.net^$important
 @@|7tv.app^$important
 @@|7tv.foo^$important
@@ -883,6 +884,7 @@
 @@|caldav.icloud.com^$important
 @@|calendar-pa.clients*.google.com^$important
 @@|calendar.google.com^$important
+@@|calendar.proton.me^$important
 @@|calendar.protonmail.com^$important
 @@|calendarpushsubscription-pa.googleapis.com^$important
 @@|calendars.fe.apple-dns.net^$important
@@ -925,6 +927,7 @@
 @@|cdn*.centrecom.com.au^$important
 @@|cdn*.epicgames.com^$important
 @@|cdn*.evernote.com^$important
+@@|cdn*.forter.com^$important
 @@|cdn*.iconfinder.com^$important
 @@|cdn*.portableapps.com^$important
 @@|cdn-*.nflximg.com^$important
@@ -944,6 +947,7 @@
 @@|cdn-static-cf.pornhd.com^$important
 @@|cdn-ue1-prod.tsv2.amagi.tv^$important
 @@|cdn-uw2-prod.tsv2.amagi.tv^$important
+@@|cdn.7tv.app^$important
 @@|cdn.adguard.com^$important
 @@|cdn.adrise.tv^$important
 @@|cdn.adtidy.org^$important
@@ -1226,6 +1230,7 @@
 @@|commons.wikipedia.com^$important
 @@|communities.vmware.com^$important
 @@|community.akamai.steamstatic.com^$important
+@@|community.ato.gov.au^$important
 @@|community.brave.com^$important
 @@|community.chocolatey.org^$important
 @@|community.cloudflare.steamstatic.com^$important
@@ -1532,6 +1537,7 @@
 @@|distrowatch.com^$important
 @@|dl*.cdn.filezilla-project.org^$important
 @@|dl*.oo-software.com^$important
+@@|dl*.sonicb.it^$important
 @@|dl-asset.cyberlink.com^$important
 @@|dl-cdn.alpinelinux.org^$important
 @@|dl-file.cyberlink.com^$important
@@ -1731,6 +1737,7 @@
 @@|e207850.a.akamaiedge.net^$important
 @@|e6908.x.akamaiedge.net^$important
 @@|e7641.b.akamaiedge.net^$important
+@@|e78746a5020e4e56a1f11f37e80b7a84-7a33fb9be34a.cdn.forter.com^$important
 @@|e8690.e12.akamaiedge.net^$important
 @@|e87795.a.akamaiedge.net^$important
 @@|e9428.a.akamaiedge.net^$important
@@ -1878,6 +1885,7 @@
 @@|event.msi.com^$important
 @@|events-feed.github.com^$important
 @@|events.7tv.foo^$important
+@@|events.7tv.io^$important
 @@|events.gfe.nvidia.com^$important
 @@|events.mapbox.com^$important
 @@|events.split.io^$important
@@ -1959,6 +1967,7 @@
 @@|fedora.mirror.wearetriple.com^$important
 @@|fedora.mirrorservice.org^$important
 @@|fedora.tu-chemnitz.de^$important
+@@|fedoramagazine.org^$important
 @@|fedoraproject-updates-archive.fedoraproject.org^$important
 @@|fedoraproject.org^$important
 @@|feed-rdr2-prod.ros.rockstargames.com^$important
@@ -2960,6 +2969,7 @@
 @@|maps.windows.com^$important
 @@|maren.cdntrex.com^$important
 @@|mariadb.org^$important
+@@|mark.scorptec.com.au^$important
 @@|marketing-sections.gog.com^$important
 @@|marketplace-origin.xbox.com^$important
 @@|marketplace-screenshots.githubusercontent.com^$important
@@ -2985,6 +2995,7 @@
 @@|me4prodfeapp0002.ea.com^$important
 @@|mea-public.biowareonline.net^$important
 @@|media*.giphy.com^$important
+@@|media-akam.licdn.com^$important
 @@|media-cdn.epicgames.com^$important
 @@|media-cdn.twitch.tv^$important
 @@|media-rockstargames-com.akamaized.net^$important
@@ -3437,6 +3448,7 @@
 @@|ohmyposh.dev^$important
 @@|ok14static.oktacdn.com^$important
 @@|old-releases.ubuntu.com^$important
+@@|omnichannel.ato.gov.au^$important
 @@|omniverse-content-production.s3-us-west-2.amazonaws.com^$important
 @@|onboardcloud.dl.sourceforge.net^$important
 @@|one.google.com^$important
@@ -4562,6 +4574,7 @@
 @@|sv.symcd.com^$important
 @@|sv.twitch.tv^$important
 @@|sv.wikipedia.com^$important
+@@|svip-au1-f8c11584e8a39c85.elb.us-east-1.amazonaws.com^$important
 @@|svn.jdownloader.org^$important
 @@|swiftkey-sync-production.touchtype-fluency.com^$important
 @@|sxyprn.com^$important
@@ -5131,6 +5144,7 @@
 @@|waa-pa.clients6.google.com^$important
 @@|waldorf5.distrochooser.de^$important
 @@|wallet.ecom.ubi.com^$important
+@@|wallet.proton.me^$important
 @@|wallhaven.cc^$important
 @@|wallpaperaccess.com^$important
 @@|watchdog.gallery.vsassets.io^$important
@@ -5349,6 +5363,8 @@
 @@|www.f1techcomputers.com.au^$important
 @@|www.fallout4london.com^$important
 @@|www.fbigaming.com.au^$important
+@@|www.fedoramagazine.org^$important
+@@|www.fedoraproject.org^$important
 @@|www.feyrer.de^$important
 @@|www.filecrypt.cc^$important
 @@|www.filefactory.com^$important

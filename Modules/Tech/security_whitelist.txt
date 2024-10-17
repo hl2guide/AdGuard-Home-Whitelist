@@ -45,6 +45,7 @@
 @@|blog.ipfs.tech^$important
 @@|brave-browser-rpm-release.s3.brave.com^$important
 @@|browserbench.org^$important
+@@|calendar.proton.me^$important
 @@|calendar.protonmail.com^$important
 @@|cdn.adtidy.org^$important
 @@|cdn.arstechnica.net^$important
@@ -269,6 +270,7 @@
 @@|uso.kkx.one^$important
 @@|vanilla.futurecdn.net^$important
 @@|ventoy.net^$important
+@@|wallet.proton.me^$important
 @@|web-assets-prod.s3.amazonaws.com^$important
 @@|webapp-cp-back.azurewebsites.net^$important
 @@|websiteapi.acronis.com^$important

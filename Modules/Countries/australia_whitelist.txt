@@ -56,6 +56,7 @@
 @@|chemistdirect.com.au^$important
 @@|cnstrc.com^$important
 @@|coles.com.au^$important
+@@|community.ato.gov.au^$important
 @@|computerparts.centrecom.com.au^$important
 @@|computers.mwave.com.au^$important
 @@|content.mwave.com.au^$important
@@ -114,6 +115,7 @@
 @@|lowes.com.au^$important
 @@|map.bunnings.com.au^$important
 @@|map.elections.nsw.gov.au^$important
+@@|mark.scorptec.com.au^$important
 @@|mcusercontent.com^$important
 @@|media.binglee.com.au^$important
 @@|media.prod.bunnings.com.au^$important
@@ -138,6 +140,7 @@
 @@|nswdac-covid-19-postcode-heatmap.azurewebsites.net^$important
 @@|oapi.opalsystems.com.au^$important
 @@|ok14static.oktacdn.com^$important
+@@|omnichannel.ato.gov.au^$important
 @@|onegov.nsw.gov.au^$important
 @@|onlineservices.ato.gov.au^$important
 @@|opal.com.au^$important

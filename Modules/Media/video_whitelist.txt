@@ -33,6 +33,7 @@
 @@|blog.twitch.tv^$important
 @@|brand.twitch.tv^$important
 @@|cast.netflix.com^$important
+@@|cdn.7tv.app^$important
 @@|cdn.adrise.tv^$important
 @@|cdn.dbdtwitch.com^$important
 @@|cdn.frankerfacez.com^$important
@@ -68,6 +69,7 @@
 @@|es-mx.twitch.tv^$important
 @@|es.blog.twitch.tv^$important
 @@|es.twitch.tv^$important
+@@|events.7tv.io^$important
 @@|extension-files.twitch.tv^$important
 @@|extension.7tv.gg^$important
 @@|extension.streamelements.com^$important

@@ -136,6 +136,7 @@
 @@|fedora.mirror.digitalpacific.com.au^$important
 @@|fedora.mirror.liteserver.nl^$important
 @@|fedora.mirrorservice.org^$important
+@@|fedoramagazine.org^$important
 @@|fedoraproject-updates-archive.fedoraproject.org^$important
 @@|fedoraproject.org^$important
 @@|flathub.org^$important
@@ -343,6 +344,8 @@
 @@|www.debian.org^$important
 @@|www.deepin.org^$important
 @@|www.devuan.org^$important
+@@|www.fedoramagazine.org^$important
+@@|www.fedoraproject.org^$important
 @@|www.feyrer.de^$important
 @@|www.fosslinux.com^$important
 @@|www.freebsd.org^$important

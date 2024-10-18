@@ -124,6 +124,7 @@
 @@|cdn.bethesda.net^$important
 @@|cdn.cloudflare.steamstatic.com^$important
 @@|cdn.dragonagekeep.com^$important
+@@|cdn.fastly.steamstatic.com^$important
 @@|cdn.gog.com^$important
 @@|cdn.humblebundle.com^$important
 @@|cdn.iubenda.com^$important
@@ -144,10 +145,12 @@
 @@|checkout.ea.com^$important
 @@|checkoutshopper-live.adyen.com^$important
 @@|clan.akamai.steamstatic.com^$important
+@@|clan.fastly.steamstatic.com^$important
 @@|clan.steamstatic.com^$important
 @@|client-download.steampowered.com^$important
 @@|client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|client-update.akamai.steamstatic.com^$important
+@@|client-update.fastly.steamstatic.com^$important
 @@|clientconfig.akamai.steamstatic.com^$important
 @@|cloud.gg^$important
 @@|cloudflare.epicgamescdn.com^$important
@@ -165,6 +168,7 @@
 @@|community.jp.playstation.com^$important
 @@|community.playstation.com^$important
 @@|community.steam-api.com^$important
+@@|community.steamstatic.com^$important
 @@|community.us.playstation.com^$important
 @@|communityteam.software.eu.playstation.com^$important
 @@|compass-ssl.xboxlive.com^$important
@@ -583,6 +587,7 @@
 @@|share-play.cdn.ubisoft.com^$important
 @@|shared-static-prod.epicgames.com^$important
 @@|shared.akamai.steamstatic.com^$important
+@@|shared.fastly.steamstatic.com^$important
 @@|shared.steamstatic.com^$important
 @@|sigma.ubi.com^$important
 @@|signin.ea.com^$important
@@ -653,6 +658,7 @@
 @@|store.playstation.com^$important
 @@|store.rockstargames.com^$important
 @@|store.steampowered.com^$important
+@@|store.steamstatic.com^$important
 @@|store.ubi.com^$important
 @@|subca.ocsp-certum.com^$important
 @@|suporte.br.playstation.com^$important

@@ -1,9 +1,12 @@
 @@|*.awsglobalaccelerator.com^$important
 @@|7a33fb9be34a.cdn4.forter.com^$important
+@@|api.totallyacdn.com^$important
 @@|cdn*.forter.com^$important
 @@|cdn.statically.io^$important
 @@|dl*.sonicb.it^$important
 @@|e78746a5020e4e56a1f11f37e80b7a84-7a33fb9be34a.cdn.forter.com^$important
+@@|firefox.api.cdn-perfprod.com^$important
 @@|media-akam.licdn.com^$important
 @@|statically.map.fastly.net^$important
+@@|status.perfprod.com^$important
 @@|svip-au1-f8c11584e8a39c85.elb.us-east-1.amazonaws.com^$important

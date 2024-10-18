@@ -477,6 +477,7 @@
 @@|api.target.com.au^$important
 @@|api.teams.skype.com^$important
 @@|api.tiles.mapbox.com^$important
+@@|api.totallyacdn.com^$important
 @@|api.tugc.ingka.com^$important
 @@|api.twitch.tv^$important
 @@|api.typeform.com^$important
@@ -977,6 +978,7 @@
 @@|cdn.dragonagekeep.com^$important
 @@|cdn.dynamicyield.com^$important
 @@|cdn.eu.auth0.com^$important
+@@|cdn.fastly.steamstatic.com^$important
 @@|cdn.filen.io^$important
 @@|cdn.flowplayer.com^$important
 @@|cdn.forms.office.net^$important
@@ -1152,6 +1154,7 @@
 @@|ciscobinary.openh264.org^$important
 @@|citrine.chanteney.cloudfront.hls.ttvnw.net^$important
 @@|clan.akamai.steamstatic.com^$important
+@@|clan.fastly.steamstatic.com^$important
 @@|clan.steamstatic.com^$important
 @@|clearlinux.org^$important
 @@|clearurls.xyz^$important
@@ -1163,6 +1166,7 @@
 @@|client-s.gateway.messenger.live.com^$important
 @@|client-strings.xboxlive.com^$important
 @@|client-update.akamai.steamstatic.com^$important
+@@|client-update.fastly.steamstatic.com^$important
 @@|client.dropbox.com^$important
 @@|client.stackcommerce.io^$important
 @@|client.teamviewer.com^$important
@@ -1244,6 +1248,7 @@
 @@|community.plex.tv^$important
 @@|community.soundcloud.com^$important
 @@|community.steam-api.com^$important
+@@|community.steamstatic.com^$important
 @@|community.us.playstation.com^$important
 @@|community.xbox.com^$important
 @@|communityteam.software.eu.playstation.com^$important
@@ -2020,6 +2025,7 @@
 @@|firebaselogging-pa.googleapis.com^$important
 @@|firebaseremoteconfig.googleapis.com^$important
 @@|firefox-settings-attachments.cdn.mozilla.net^$important
+@@|firefox.api.cdn-perfprod.com^$important
 @@|firefox.com^$important
 @@|firstpartysimulator.net^$important
 @@|firstpartysimulator.org^$important
@@ -4155,6 +4161,7 @@
 @@|share.dmca.gripe^$important
 @@|shared-static-prod.epicgames.com^$important
 @@|shared.akamai.steamstatic.com^$important
+@@|shared.fastly.steamstatic.com^$important
 @@|shared.steamstatic.com^$important
 @@|shasta-rrs.norton.com^$important
 @@|shavar.prod.mozaws.net^$important
@@ -4453,6 +4460,7 @@
 @@|status.geotrust.com^$important
 @@|status.github.com^$important
 @@|status.inoreader.com^$important
+@@|status.perfprod.com^$important
 @@|status.playstation.com^$important
 @@|status.plex.tv^$important
 @@|status.rapidssl.com^$important
@@ -4511,6 +4519,7 @@
 @@|store.samsungcloudcdn.com^$important
 @@|store.sony.com^$important
 @@|store.steampowered.com^$important
+@@|store.steamstatic.com^$important
 @@|store.ubi.com^$important
 @@|store.xbox.com^$important
 @@|storecatalogrevocation.storequality.microsoft.com^$important

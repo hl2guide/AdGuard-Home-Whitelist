@@ -2754,6 +2754,7 @@
 @@|kickasstorrents.to^$important
 @@|kit.fontawesome.com^$important
 @@|kitboga.com^$important
+@@|klik.vip^$important
 @@|kmart.com.au^$important
 @@|kmart.com^$important
 @@|kmartau.mo.cloudinary.net^$important

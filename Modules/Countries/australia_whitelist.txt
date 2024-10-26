@@ -17,6 +17,7 @@
 @@|api.nab.com.au^$important
 @@|api.nextthere.com^$important
 @@|api.onegov.nsw.gov.au^$important
+@@|api.onegov.nsw.gov.au^$important
 @@|api.prod.bunnings.com.au^$important
 @@|api.target.com.au^$important
 @@|api2.ingdirect.com.au^$important
@@ -24,6 +25,7 @@
 @@|app.nexuspublications.com.au^$important
 @@|apply.service.nsw.gov.au^$important
 @@|arc.com.au^$important
+@@|assets.commbank.com.au^$important
 @@|assets.msy.com.au^$important
 @@|assets.umart.com.au^$important
 @@|assets.woolworths.com.au^$important
@@ -47,6 +49,7 @@
 @@|cdn.canstarblue.com.au^$important
 @@|cdn.gpsoft.com.au^$important
 @@|cdn.mwave.com.au^$important
+@@|cdn.onegov.nsw.gov.au^$important
 @@|cdn.onegov.nsw.gov.au^$important
 @@|cdn.optimizely.com^$important
 @@|cdn0.woolworths.media^$important
@@ -217,6 +220,7 @@
 @@|www.centrecom.com.au^$important
 @@|www.chemistwarehouse.com.au^$important
 @@|www.coles.com.au^$important
+@@|www.commbank.com.au^$important
 @@|www.comparebroadband.com.au^$important
 @@|www.couriersplease.com.au^$important
 @@|www.cydex.com.au^$important
@@ -232,6 +236,7 @@
 @@|www.exetel.com.au^$important
 @@|www.f1techcomputers.com.au^$important
 @@|www.fbigaming.com.au^$important
+@@|www.fuelcheck.nsw.gov.au^$important
 @@|www.google.com.au^$important
 @@|www.gpsoft.com.au^$important
 @@|www.gumtree.com.au^$important

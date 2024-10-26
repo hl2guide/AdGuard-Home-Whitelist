@@ -240,6 +240,7 @@
 @@|fe2cr.update.microsoft.com^$important
 @@|fe3cr.delivery.mp.microsoft.com^$important
 @@|feedback.xbox.com^$important
+@@|fg.microsoft.map.fastly.net^$important
 @@|flow.microsoft.com^$important
 @@|fluent2.microsoft.design^$important
 @@|forms.office.com^$important

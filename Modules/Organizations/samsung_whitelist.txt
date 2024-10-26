@@ -14,6 +14,7 @@
 @@|bpu.samsungelectronics.com^$important
 @@|browser.samsungcloudcdn.com^$important
 @@|capi.samsungcloud.com^$important
+@@|ccr.sec-smartswitch.com^$important
 @@|cdn-*.nflximg.com^$important
 @@|cdn.samsung.com^$important
 @@|cdn.samsungcloudsolution.com^$important

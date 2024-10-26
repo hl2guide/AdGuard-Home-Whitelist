@@ -231,6 +231,7 @@
 @@|account.services.gearboxsoftware.com^$important
 @@|account.wire.com^$important
 @@|account.xbox.com^$important
+@@|accounts-cctld.l.google.com^$important
 @@|accounts-static.cdn.mozilla.net^$important
 @@|accounts.aliexpress.com^$important
 @@|accounts.api.playstation.com^$important
@@ -450,6 +451,7 @@
 @@|api.odysee.com^$important
 @@|api.odysee.live^$important
 @@|api.onedrive.com^$important
+@@|api.onegov.nsw.gov.au^$important
 @@|api.open-meteo.com^$important
 @@|api.opencritic.com^$important
 @@|api.opensubtitles.org^$important
@@ -583,6 +585,7 @@
 @@|assets.anz.com^$important
 @@|assets.braintreegateway.com^$important
 @@|assets.codepen.io^$important
+@@|assets.commbank.com.au^$important
 @@|assets.ctfassets.net^$important
 @@|assets.esetstatic.com^$important
 @@|assets.freeones.com^$important
@@ -915,6 +918,7 @@
 @@|cbks0.googleapis.com^$important
 @@|cconfig.azureedge.net^$important
 @@|cconfig.svc.gearsofwar.net^$important
+@@|ccr.sec-smartswitch.com^$important
 @@|cdburnerxp.se^$important
 @@|cdimage.debian.org^$important
 @@|cdimage.deepin.com^$important
@@ -1008,6 +1012,7 @@
 @@|cdn.mountainduck.io^$important
 @@|cdn.mwave.com.au^$important
 @@|cdn.mwbsys.com^$important
+@@|cdn.onegov.nsw.gov.au^$important
 @@|cdn.onenote.net^$important
 @@|cdn.optimizely.com^$important
 @@|cdn.organicmaps.app^$important
@@ -1207,6 +1212,7 @@
 @@|cluster.awdeliverynet.com^$important
 @@|cluster.awmdelivery.com^$important
 @@|cm*.cm.steampowered.com^$important
+@@|cms-assets.unrealengine.com^$important
 @@|cms-cache.ubisoft.com^$important
 @@|cnstrc.com^$important
 @@|code.cdn.mozilla.net^$important
@@ -1257,6 +1263,7 @@
 @@|compass-ssl.xbox.com^$important
 @@|compass-ssl.xboxlive.com^$important
 @@|compass.xbox.com^$important
+@@|components.unrealengine.com^$important
 @@|componentupdater.brave.com^$important
 @@|computerparts.centrecom.com.au^$important
 @@|computers.mwave.com.au^$important
@@ -1930,6 +1937,7 @@
 @@|f.vimeocdn.com^$important
 @@|f1techcomputers.com.au^$important
 @@|f4se.silverlock.org^$important
+@@|fab.com^$important
 @@|fabricweb.azureedge.net^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
@@ -1994,6 +2002,7 @@
 @@|ffmpeg.org^$important
 @@|ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com^$important
 @@|ffprofile.com^$important
+@@|fg.microsoft.map.fastly.net^$important
 @@|fhp.nab.com.au^$important
 @@|fi.google.com^$important
 @@|fi.m.wikipedia.com^$important
@@ -2247,6 +2256,7 @@
 @@|gear.sca.samsung.com^$important
 @@|gear.xbox.com^$important
 @@|gearsofwar.xbox.com^$important
+@@|geller-pa.googleapis.com^$important
 @@|gen4.reports.tools.gos.ea.com^$important
 @@|general-runtime.superloop.voiceflow.com^$important
 @@|geo*.ggpht.com^$important
@@ -4016,6 +4026,7 @@
 @@|rtm.tnt-ea.com^$important
 @@|rtss.guru3d.com^$important
 @@|ru-*.1fichier.com^$important
+@@|ruby.chanteney.cloudfront.hls.ttvnw.net^$important
 @@|rubyinstaller.org^$important
 @@|rufus.akeo.ie^$important
 @@|rufus.ie^$important
@@ -4181,6 +4192,7 @@
 @@|sign-in.soundcloud.com^$important
 @@|signal.org^$important
 @@|signaler-pa.clients*.google.com^$important
+@@|signaler-pa.googleapis.com^$important
 @@|signin.ea.com^$important
 @@|signin.ebay.com.au^$important
 @@|signin.g.ebay.com^$important
@@ -4962,6 +4974,7 @@
 @@|unicons.iconscout.com^$important
 @@|universalstore.streaming.mediaservices.windows.net^$important
 @@|unix.stackexchange.com^$important
+@@|unleash-edge.nexusmods.com^$important
 @@|unrealengine.com^$important
 @@|unsplash.com^$important
 @@|up*.1fichier.com^$important
@@ -5317,6 +5330,7 @@
 @@|www.codesector.com^$important
 @@|www.coles.com.au^$important
 @@|www.collinsdictionary.com^$important
+@@|www.commbank.com.au^$important
 @@|www.comparebroadband.com.au^$important
 @@|www.cookiepro.com^$important
 @@|www.corsair.com^$important
@@ -5370,6 +5384,7 @@
 @@|www.eway.com.au^$important
 @@|www.exetel.com.au^$important
 @@|www.f1techcomputers.com.au^$important
+@@|www.fab.com^$important
 @@|www.fallout4london.com^$important
 @@|www.fbigaming.com.au^$important
 @@|www.fedoramagazine.org^$important
@@ -5388,6 +5403,7 @@
 @@|www.freeones.com^$important
 @@|www.freeones.xxx^$important
 @@|www.fsarchiver.org^$important
+@@|www.fuelcheck.nsw.gov.au^$important
 @@|www.fxsound.com^$important
 @@|www.gamersnexus.net^$important
 @@|www.gammaentertainment.com^$important

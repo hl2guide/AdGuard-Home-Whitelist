@@ -3,6 +3,7 @@
 @@|*.ytimg.com^$important
 @@|.l.google.com^$important
 @@|0.client-channel.google.com^$important
+@@|accounts-cctld.l.google.com^$important
 @@|accounts.google.com.*^$important
 @@|accounts.google.com^$important
 @@|accounts.youtube.com^$important
@@ -88,6 +89,7 @@
 @@|fonts.googleapis.com^$important
 @@|fonts.gstatic.com^$important
 @@|gds.google.com^$important
+@@|geller-pa.googleapis.com^$important
 @@|geo*.ggpht.com^$important
 @@|gmail.google.com^$important
 @@|google.com^$important
@@ -180,6 +182,7 @@
 @@|securetoken.googleapis.com^$important
 @@|securitydomain-pa.googleapis.com^$important
 @@|signaler-pa.clients*.google.com^$important
+@@|signaler-pa.googleapis.com^$important
 @@|spreadsheets.google.com^$important
 @@|ssl.gstatic.com^$important
 @@|storage-upload.googleapis.com^$important

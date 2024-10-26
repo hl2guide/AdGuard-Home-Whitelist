@@ -158,6 +158,7 @@
 @@|releases.grayjay.app^$important
 @@|returnyoutubedislikeapi.com^$important
 @@|rpg.twitch.tv^$important
+@@|ruby.chanteney.cloudfront.hls.ttvnw.net^$important
 @@|s3-us-west-2-w.amazonaws.com^$important
 @@|science-output.s3.amazonaws.com^$important
 @@|search.vimeo.com^$important

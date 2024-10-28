@@ -407,6 +407,7 @@
 @@|media-cdn.epicgames.com^$important
 @@|media-rockstargames-com.akamaized.net^$important
 @@|media.contentapi.ea.com^$important
+@@|media.fab.com^$important
 @@|media.moddb.com^$important
 @@|media.nexusmods.com^$important
 @@|media.playstation.com^$important

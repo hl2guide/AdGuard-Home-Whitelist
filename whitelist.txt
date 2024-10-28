@@ -41,6 +41,7 @@
 @@|*.cdnrobot.xyz^$important
 @@|*.cdntrex.com^$important
 @@|*.cloudapp.azure.com^$important
+@@|*.cloudfront.hls.ttvnw.net^$important
 @@|*.cloudfront.net^$important
 @@|*.delivery.mp.microsoft.com^$important
 @@|*.deviantart.com^$important
@@ -953,6 +954,7 @@
 @@|cdn-ue1-prod.tsv2.amagi.tv^$important
 @@|cdn-uw2-prod.tsv2.amagi.tv^$important
 @@|cdn.7tv.app^$important
+@@|cdn.accounts.firefox.com^$important
 @@|cdn.adguard.com^$important
 @@|cdn.adrise.tv^$important
 @@|cdn.adtidy.org^$important
@@ -2241,6 +2243,7 @@
 @@|games.dolby.com^$important
 @@|gamesdb.gog.com^$important
 @@|gameserverds.xboxlive.com^$important
+@@|gameswhitelisted.googleapis.com^$important
 @@|gaminglppc.azurefd.net^$important
 @@|garry.windscribe.com^$important
 @@|garudalinux.org^$important
@@ -2625,6 +2628,7 @@
 @@|imgs1cdn.adultempire.com^$important
 @@|imgur.com^$important
 @@|impactserving.com^$important
+@@|improvedtube.com^$important
 @@|improving.duckduckgo.com^$important
 @@|imx.to^$important
 @@|in.appcenter.ms^$important
@@ -3021,6 +3025,7 @@
 @@|media.bunnings.com.au^$important
 @@|media.contentapi.ea.com^$important
 @@|media.discordapp.net^$important
+@@|media.fab.com^$important
 @@|media.githubusercontent.com^$important
 @@|media.kaspersky.com^$important
 @@|media.kingston.com^$important
@@ -3297,6 +3302,7 @@
 @@|myaccount.ea.com^$important
 @@|myaccount.google.com^$important
 @@|myactivity.google.com^$important
+@@|myadcenter.google.com^$important
 @@|myer.com.au^$important
 @@|myid.telstra.com^$important
 @@|myip.wtf^$important
@@ -3722,6 +3728,7 @@
 @@|plugins.grayjay.app^$important
 @@|plus.google.com^$important
 @@|plus.l.google.com^$important
+@@|pmecdn.protonweb.com^$important
 @@|pmservices.cp.microsoft.com^$important
 @@|podcasts.google.com^$important
 @@|pogo.hulu.com^$important
@@ -3806,6 +3813,7 @@
 @@|prod.disqus.map.fastlylb.net^$important
 @@|prod.intellicode.vsengsaas.visualstudio.com^$important
 @@|prod.otel.kaizen.nvidia.com^$important
+@@|prod.outgoing.prod.webservices.mozgcp.net^$important
 @@|prod.rewardsplatform.microsoft.com^$important
 @@|prod.ros.rockstargames.com^$important
 @@|prod.scorptec.com.au^$important
@@ -4260,6 +4268,7 @@
 @@|sos.adaware.com^$important
 @@|soundcheck.soundcloud.com^$important
 @@|soundcloud.com^$important
+@@|source.freetubeapp.io^$important
 @@|sourceforge.net^$important
 @@|sp.rmbl.ws^$important
 @@|sp.streamlabs.com^$important
@@ -4547,9 +4556,11 @@
 @@|streamtape.com^$important
 @@|streetviewpixels-pa.googleapis.com^$important
 @@|stripecdn.map.fastly.net^$important
+@@|studio.youtube.com^$important
 @@|style.sndcdn.com^$important
 @@|styles.redditmedia.com^$important
 @@|subca.ocsp-certum.com^$important
+@@|subscribe.adblockplus.org^$important
 @@|substrate.office.com^$important
 @@|sudf-resources.hpcloud.hp.com^$important
 @@|superhub.superloop.com^$important
@@ -5449,6 +5460,7 @@
 @@|www.if-not-true-then-false.com^$important
 @@|www.ikea.com^$important
 @@|www.images-home.com^$important
+@@|www.improvedtube.com^$important
 @@|www.industry.gov.au^$important
 @@|www.ing.com.au^$important
 @@|www.innoreader.com^$important

@@ -1,5 +1,6 @@
 @@|*.abs.hls.ttvnw.net^$important
 @@|*.cdn.rumble.cloud^$important
+@@|*.cloudfront.hls.ttvnw.net^$important
 @@|*.ext-twitch.tv^$important
 @@|*.tapecontent.net^$important
 @@|*.vimeocdn.com^$important
@@ -95,6 +96,7 @@
 @@|im.twitch.tv^$important
 @@|img.hulu.com^$important
 @@|img3.hulu.com^$important
+@@|improvedtube.com^$important
 @@|ingdirect.d1.sc.omtrdc.net^$important
 @@|ingest.twitch.tv^$important
 @@|inspector.twitch.tv^$important
@@ -169,6 +171,7 @@
 @@|secured.netflix.com^$important
 @@|signup.hulu.com^$important
 @@|signup.netflix.com^$important
+@@|source.freetubeapp.io^$important
 @@|spade.twitch.tv^$important
 @@|srv1-prod.polycentric.io^$important
 @@|static.twitchcdn.net^$important
@@ -176,6 +179,7 @@
 @@|status.vimeo.com^$important
 @@|stockservice.vimeo.com^$important
 @@|streamtape.com^$important
+@@|studio.youtube.com^$important
 @@|supervisor.ext-twitch.tv^$important
 @@|sv.twitch.tv^$important
 @@|thumbnails.lbry.com^$important
@@ -203,6 +207,7 @@
 @@|wn*.rumble.com^$important
 @@|www.7tv.app^$important
 @@|www.betterttv.com^$important
+@@|www.improvedtube.com^$important
 @@|www.piped.video^$important
 @@|www.twitch.tv^$important
 @@|xapi.ing.com.au^$important

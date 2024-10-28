@@ -193,6 +193,7 @@
 @@|ph.sonicb.it^$important
 @@|photos.internxt.com^$important
 @@|platform.cloud.coveo.com^$important
+@@|pmecdn.protonweb.com^$important
 @@|portableappscdn2.nyc3.cdn.digitaloceanspaces.com^$important
 @@|preview.systems^$important
 @@|privacytests.org^$important
@@ -243,6 +244,7 @@
 @@|static1.squarespace.com^$important
 @@|staticfiles.acronis.com^$important
 @@|status.geotrust.com^$important
+@@|subscribe.adblockplus.org^$important
 @@|sudf-resources.hpcloud.hp.com^$important
 @@|superloop.com^$important
 @@|support-en.wd.com^$important

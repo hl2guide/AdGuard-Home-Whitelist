@@ -7,6 +7,7 @@
 @@|aus5.mozilla.org^$important
 @@|blog.mozilla.org^$important
 @@|bugzilla.mozilla.org^$important
+@@|cdn.accounts.firefox.com^$important
 @@|code.cdn.mozilla.net^$important
 @@|contile.services.mozilla.com^$important
 @@|developer.mozilla.org^$important
@@ -24,6 +25,7 @@
 @@|mozilla.wpengine.com^$important
 @@|mozorg.cdn.mozilla.net^$important
 @@|normandy.cdn.mozilla.net^$important
+@@|prod.outgoing.prod.webservices.mozgcp.net^$important
 @@|publicsuffix.org^$important
 @@|push.services.mozilla.com^$important
 @@|savanna.mozillazine.org^$important

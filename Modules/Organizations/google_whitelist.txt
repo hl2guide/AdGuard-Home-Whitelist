@@ -88,6 +88,7 @@
 @@|firebaseremoteconfig.googleapis.com^$important
 @@|fonts.googleapis.com^$important
 @@|fonts.gstatic.com^$important
+@@|gameswhitelisted.googleapis.com^$important
 @@|gds.google.com^$important
 @@|geller-pa.googleapis.com^$important
 @@|geo*.ggpht.com^$important
@@ -140,6 +141,7 @@
 @@|mw1.google.com^$important
 @@|myaccount.google.com^$important
 @@|myactivity.google.com^$important
+@@|myadcenter.google.com^$important
 @@|nearbysharing-pa.googleapis.com^$important
 @@|news.google.com^$important
 @@|notes-pa.clients6.google.com^$important

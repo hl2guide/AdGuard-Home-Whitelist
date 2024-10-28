@@ -46,6 +46,7 @@ cdn-settings.segment.com
 cdn.ampproject.org
 cdnjs.buymeacoffee.com
 chaturbate.com
+classify-client.services.mozilla.com
 cloud-bibo-verizon-clsprd-eun.azureedge.net
 cmp.osano.com
 code.highcharts.com
@@ -62,6 +63,7 @@ cxcs.microsoft.net
 deff.nelreports.net
 detectportal.firefox.com
 digg.com
+digitalassetlinks.googleapis.com
 disqus-timeline.disqus.com
 dl.acronis.com
 doh20prdapp01-canary-opaph.netmon.azure.com
@@ -148,6 +150,7 @@ people-pa.googleapis.com
 pinpoint.us-east-1.amazonaws.com
 pki-goog.l.google.com
 player.hotpornfile.org
+posthog.sonicbit.cloud
 prod.balrog.prod.cloudops.mozgcp.net
 prod.detectportal.prod.cloudops.mozgcp.net
 pscoretestdata.blob.core.windows.net
@@ -192,6 +195,7 @@ twitter.com
 uompro.easeus.com
 ups.analytics.yahoo.com
 usenetjunction.com
+userlocation.googleapis.com
 v10.events.data.microsoft.com
 variations.brave.com
 version.bind
@@ -207,4 +211,5 @@ www.googletagmanager.com
 www.googletagservices.com
 www.jabcreations.com
 www.vfreecams.com
+www3.l.google.com
 xxxjmp.com

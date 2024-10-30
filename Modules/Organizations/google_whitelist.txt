@@ -10,6 +10,7 @@
 @@|addons-pa.clients*.google.com^$important
 @@|adssettings.google.com^$important
 @@|ajax.googleapis.com^$important
+@@|android-safebrowsing.google.com^$important
 @@|android.apis.google.com^$important
 @@|android.clients.google.com^$important
 @@|android.googleapis.com^$important
@@ -61,6 +62,7 @@
 @@|connectivitycheck.gstatic.com^$important
 @@|contacts.google.com^$important
 @@|content.googleapis.com^$important
+@@|cryptauthdevicesync.googleapis.com^$important
 @@|cryptauthvault.googleapis.com^$important
 @@|csd-apt-sea-d-3.southeastasia.cloudapp.azure.com^$important
 @@|developers.google.com^$important
@@ -157,6 +159,7 @@
 @@|people-pa.clients*.google.com^$important
 @@|peoplestack-pa.clients6.google.com^$important
 @@|peoplestack-pa.googleapis.com^$important
+@@|phonedeviceverification-pa.googleapis.com^$important
 @@|photo.plus.google.com^$important
 @@|photos-ugc.l.googleusercontent.com^$important
 @@|photos.google.com^$important

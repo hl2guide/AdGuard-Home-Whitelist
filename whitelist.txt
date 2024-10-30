@@ -340,6 +340,7 @@
 @@|amp.azure.net^$important
 @@|analytics.tripwireinteractive.com^$important
 @@|andauth.co^$important
+@@|android-safebrowsing.google.com^$important
 @@|android.apis.google.com^$important
 @@|android.clients.google.com^$important
 @@|android.googleapis.com^$important
@@ -435,6 +436,7 @@
 @@|api.kde-look.org^$important
 @@|api.kmart.com.au^$important
 @@|api.live.net^$important
+@@|api.live.prod.thehelldiversgame.com^$important
 @@|api.locize.app^$important
 @@|api.mapbox.com^$important
 @@|api.metadataapi.net^$important
@@ -1368,6 +1370,7 @@
 @@|crl4.digicert.com^$important
 @@|crlsets.brave.com^$important
 @@|crm.lightningbroadband.com.au^$important
+@@|cryptauthdevicesync.googleapis.com^$important
 @@|cryptauthvault.googleapis.com^$important
 @@|crystalmark.info^$important
 @@|cs-rgl-prod.ros.rockstargames.com^$important
@@ -2235,6 +2238,8 @@
 @@|gameconfig-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|gamedownloads-rockstargames-com.akamaized.net^$important
 @@|gamedownloads.rockstargames.com^$important
+@@|gameguard-v2.thehelldiversgame.com^$important
+@@|gameguard.thehelldiversgame.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gameplay.gog.com^$important
 @@|gamer-profile.cdn.ubisoft.com^$important
@@ -2399,6 +2404,7 @@
 @@|guts2.sp.f-secure.com^$important
 @@|gw-public.api.stgeorge.com.au^$important
 @@|gwent-bi-collector.gog.com^$important
+@@|gx-surveys.nvidia.com^$important
 @@|gx-target-experiments-frontend-api.gx.nvidia.com^$important
 @@|gx-target-survey-frontend-api.gx.nvidia.com^$important
 @@|gyan.dev^$important
@@ -2449,6 +2455,7 @@
 @@|helpme.macrium.com^$important
 @@|hemera.pwdn.net^$important
 @@|hermes-b.services.gearboxsoftware.com^$important
+@@|hermes.twitch.tv^$important
 @@|herochat-plugin.chatbotize.com^$important
 @@|heroicons.com^$important
 @@|hidefile.ml^$important
@@ -2969,6 +2976,7 @@
 @@|mail.xda-developers.com^$important
 @@|main.vscode-cdn.net^$important
 @@|majorgeeks.com^$important
+@@|malware-filter.gitlab.io^$important
 @@|man.archlinux.org^$important
 @@|manage.devcenter.microsoft.com^$important
 @@|manage.macrium.com^$important
@@ -3066,6 +3074,7 @@
 @@|metrics.ol.epicgames.com^$important
 @@|metrics.ubuntu.com.localdomain^$important
 @@|mfa.linkgroup.com^$important
+@@|mgr.gameguard.co.kr^$important
 @@|microapps.bigcommerce.com^$important
 @@|microsoft.com^$important
 @@|microsoftedge.microsoft.com^$important
@@ -3671,6 +3680,7 @@
 @@|ph.sonicb.it^$important
 @@|phishing.army^$important
 @@|phoenixnap.dl.sourceforge.net^$important
+@@|phonedeviceverification-pa.googleapis.com^$important
 @@|photo.plus.google.com^$important
 @@|photos-ugc.l.googleusercontent.com^$important
 @@|photos.google.com^$important
@@ -3854,6 +3864,7 @@
 @@|ps1prdapp01-canary.netmon.azure.com^$important
 @@|psg-prod-eastus.azureedge.net^$important
 @@|pshelpprod.blob.core.windows.net^$important
+@@|pss-cloud.net^$important
 @@|pt.potwm.com^$important
 @@|ptc-directory-sited-static.us-east-1.prod.public.atl-paas.net^$important
 @@|ptc-directory-static.us-east-1.prod.public.atl-paas.net^$important
@@ -5118,6 +5129,7 @@
 @@|video.akamai.steamstatic.com^$important
 @@|video.api.playstation.com^$important
 @@|video.dl.playstation.net^$important
+@@|video.fastly.steamstatic.com^$important
 @@|video.google.com^$important
 @@|video.playstation.com^$important
 @@|video.xhcdn.com^$important
@@ -5416,6 +5428,7 @@
 @@|www.fsarchiver.org^$important
 @@|www.fuelcheck.nsw.gov.au^$important
 @@|www.fxsound.com^$important
+@@|www.gameguard.co.kr^$important
 @@|www.gamersnexus.net^$important
 @@|www.gammaentertainment.com^$important
 @@|www.geforce.com^$important

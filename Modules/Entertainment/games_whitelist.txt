@@ -334,6 +334,7 @@
 @@|groups.gameservices.ea.com^$important
 @@|gsprodblapp-*.ea.com^$important
 @@|gwent-bi-collector.gog.com^$important
+@@|gx-surveys.nvidia.com^$important
 @@|halostats.svc.halowaypoint.com^$important
 @@|hardware.support.eu.playstation.com^$important
 @@|hb.imgix.net^$important
@@ -730,6 +731,7 @@
 @@|video.akamai.steamstatic.com^$important
 @@|video.api.playstation.com^$important
 @@|video.dl.playstation.net^$important
+@@|video.fastly.steamstatic.com^$important
 @@|video.playstation.com^$important
 @@|videos-rockstargames-com.akamaized.net^$important
 @@|vsa-prod.services.microsoft.com^$important

@@ -1,0 +1,6 @@
+@@|api.live.prod.thehelldiversgame.com^$important
+@@|gameguard-v2.thehelldiversgame.com^$important
+@@|gameguard.thehelldiversgame.com^$important
+@@|mgr.gameguard.co.kr^$important
+@@|pss-cloud.net^$important
+@@|www.gameguard.co.kr^$important

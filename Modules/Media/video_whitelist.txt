@@ -88,6 +88,7 @@
 @@|help.netflix.com^$important
 @@|help.twitch.tv^$important
 @@|help.vimeo.com^$important
+@@|hermes.twitch.tv^$important
 @@|home.hulu.com^$important
 @@|hu.twitch.tv^$important
 @@|i.vimeocdn.com^$important

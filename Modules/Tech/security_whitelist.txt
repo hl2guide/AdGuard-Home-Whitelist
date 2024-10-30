@@ -175,6 +175,7 @@
 @@|m.sni.global.fastly.net^$important
 @@|mail-api.proton.me^$important
 @@|mail.proton.me^$important
+@@|malware-filter.gitlab.io^$important
 @@|manage.macrium.com^$important
 @@|manage.ntppool.org^$important
 @@|mastiff.ext.hp.com^$important

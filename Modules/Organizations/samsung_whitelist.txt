@@ -1,6 +1,7 @@
 @@|account.samsung.com.gslb.cdnetworks.net^$important
 @@|account.samsung.com^$important
 @@|api-us1.mpay.samsung.com^$important
+@@|api.account.samsung.com^$important
 @@|api.accuweather.com^$important
 @@|api.glb.samsung-gamelauncher.com^$important
 @@|api.samsungcloud.com^$important

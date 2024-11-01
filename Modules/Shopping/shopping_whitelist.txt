@@ -70,3 +70,4 @@
 @@|www.lightboxcdn.com^$important
 @@|www.scorptec.com.au^$important
 @@|www.smeg.com^$important
+@@|www.zotac.com^$important

@@ -79,6 +79,7 @@
 @@|maren.cdntrex.com^$important
 @@|matomo.freeones.com^$important
 @@|media.babesource.com^$important
+@@|media.freeones.com^$important
 @@|microapps.bigcommerce.com^$important
 @@|milana.cdntrex.com^$important
 @@|nairobi.cdntrex.com^$important

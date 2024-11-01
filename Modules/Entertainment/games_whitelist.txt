@@ -161,6 +161,7 @@
 @@|club.ubisoft.com^$important
 @@|cm*.cm.steampowered.com^$important
 @@|cms-assets.unrealengine.com^$important
+@@|cms-assets.xboxservices.com^$important
 @@|cms-cache.ubisoft.com^$important
 @@|codemasters.com^$important
 @@|community.akamai.steamstatic.com^$important

@@ -176,10 +176,12 @@
 @@|mail-api.proton.me^$important
 @@|mail.proton.me^$important
 @@|malware-filter.gitlab.io^$important
+@@|malware-filter.pages.dev^$important
 @@|manage.macrium.com^$important
 @@|manage.ntppool.org^$important
 @@|mastiff.ext.hp.com^$important
 @@|mb.download.gigabyte.com^$important
+@@|mimir2.vivaldi.com^$important
 @@|mozilla.cloudflare-dns.com^$important
 @@|myip.wtf^$important
 @@|n.sni.global.fastly.net^$important

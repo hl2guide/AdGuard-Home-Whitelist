@@ -3,4 +3,5 @@
 @@|gameguard.thehelldiversgame.com^$important
 @@|mgr.gameguard.co.kr^$important
 @@|pss-cloud.net^$important
+@@|pubsub-signalr-prod-westus3-002.service.signalr.net^$important
 @@|www.gameguard.co.kr^$important

@@ -26,7 +26,9 @@
 @@|git.qbittorrent.org^$important
 @@|ipv4announce.sktorrent.eu^$important
 @@|ipv6.rer.lol^$important
+@@|ipv6.tracker.monitorit4.me^$important
 @@|isk.richardsw.club^$important
+@@|leet-tracker.moe^$important
 @@|milanesitracker.tekcities.com^$important
 @@|mirror.aptus.co.tz^$important
 @@|moonburrow.club^$important
@@ -56,6 +58,7 @@
 @@|pornrips.to^$important
 @@|private.anonseed.com^$important
 @@|public.publictracker.xyz^$important
+@@|public.tracker.vraphim.com^$important
 @@|retracker.home^$important
 @@|retracker.hotplug.ru^$important
 @@|retracker.lanta.me^$important
@@ -151,6 +154,7 @@
 @@|tracker.jiesen.life^$important
 @@|tracker.jonaslsa.com^$important
 @@|tracker.jordan.im^$important
+@@|tracker.joybomb.tw^$important
 @@|tracker.k.vu^$important
 @@|tracker.kuroy.me^$important
 @@|tracker.leech.ie^$important

@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
 - Current Version: 1.2.8.1
-- Last Updated (AEST): 2024-11-04 08:10:05 +1100
+- Last Updated (AEST): 2024-11-04 08:15:07 +1100
 
 ## Intro ✍
 

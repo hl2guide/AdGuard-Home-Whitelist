@@ -4,6 +4,7 @@
 @@|*.cloudapp.azure.com^$important
 @@|*.ds*.akamaiedge.net^$important
 @@|*.fandom.com^$important
+@@|*.fastly.steamstatic.com^$important
 @@|*.g2.akamai.net^$important
 @@|*.services.gearboxsoftware.com^$important
 @@|*.speedtest.pathofexile.com^$important

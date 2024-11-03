@@ -52,6 +52,7 @@
 @@|*.ds*.akamaiedge.net^$important
 @@|*.ext-twitch.tv^$important
 @@|*.fandom.com^$important
+@@|*.fastly.steamstatic.com^$important
 @@|*.files.1drv.com^$important
 @@|*.flkitover.com^$important
 @@|*.g.akamaiedge.net^$important

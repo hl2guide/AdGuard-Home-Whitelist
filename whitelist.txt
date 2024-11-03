@@ -1251,6 +1251,7 @@
 @@|community.chocolatey.org^$important
 @@|community.cloudflare.steamstatic.com^$important
 @@|community.eu.playstation.com^$important
+@@|community.fastly.steamstatic.com^$important
 @@|community.hulu.com^$important
 @@|community.intel.com^$important
 @@|community.jp.playstation.com^$important
@@ -2668,6 +2669,7 @@
 @@|intelcorporationproductione78n25s6.org.coveo.com^$important
 @@|interactive-examples.mdn.mozilla.net^$important
 @@|international-gfe.download.nvidia.com^$important
+@@|international.download.nvidia.com^$important
 @@|internxt.com^$important
 @@|internxt.sjv.io^$important
 @@|invent.kde.org^$important
@@ -3331,6 +3333,7 @@
 @@|nab.demdex.net^$important
 @@|nairobi.cdntrex.com^$important
 @@|naomy.cdntrex.com^$important
+@@|napi.speedtest.net^$important
 @@|nationalaustraliaban.tt.omtrdc.net^$important
 @@|nav.smartscreen.microsoft.com^$important
 @@|navbar.blizzard.com^$important
@@ -4274,6 +4277,7 @@
 @@|songbird.cardinalcommerce.com^$important
 @@|sonicbit.net^$important
 @@|sonicseedbox.com^$important
+@@|sonos.plex.tv^$important
 @@|sonos.soundcloud.com^$important
 @@|sony.co.nz^$important
 @@|sony.co.uk^$important
@@ -4308,6 +4312,7 @@
 @@|speech.platform.bing.com^$important
 @@|speed.cloudflare.com^$important
 @@|speed.me1.gigacomm.net.au.prod.hosts.ooklaserver.net^$important
+@@|speed.syd.aussiebroadband.com.au^$important
 @@|speed4.snap.net.nz.prod.hosts.ooklaserver.net^$important
 @@|speed4.snap.net.nz^$important
 @@|speeddials.opera.com^$important
@@ -4550,6 +4555,7 @@
 @@|store.bethesda.net^$important
 @@|store.cloudflare.steamstatic.com^$important
 @@|store.epicgames.com^$important
+@@|store.fastly.steamstatic.com^$important
 @@|store.google.com^$important
 @@|store.kaspersky.com^$important
 @@|store.kde.org^$important

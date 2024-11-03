@@ -114,6 +114,7 @@
 @@|secure.rokfin.com^$important
 @@|sentry.odysee.tv^$important
 @@|software.manjaro.org^$important
+@@|sonos.plex.tv^$important
 @@|spclient.wg.spotify.com^$important
 @@|spotify.com^$important
 @@|ssl.p.jwpcdn.com^$important

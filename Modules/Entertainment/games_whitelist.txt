@@ -167,6 +167,7 @@
 @@|community.akamai.steamstatic.com^$important
 @@|community.cloudflare.steamstatic.com^$important
 @@|community.eu.playstation.com^$important
+@@|community.fastly.steamstatic.com^$important
 @@|community.jp.playstation.com^$important
 @@|community.playstation.com^$important
 @@|community.steam-api.com^$important
@@ -365,6 +366,7 @@
 @@|info.social.ea.com^$important
 @@|ingame-store.cdn.ubisoft.com^$important
 @@|international-gfe.download.nvidia.com^$important
+@@|international.download.nvidia.com^$important
 @@|io.playstation.com^$important
 @@|ipv6check-http.steamcontent.com^$important
 @@|ipv6check-udp.steamcontent.com^$important
@@ -661,6 +663,7 @@
 @@|store.bethesda.net^$important
 @@|store.cloudflare.steamstatic.com^$important
 @@|store.epicgames.com^$important
+@@|store.fastly.steamstatic.com^$important
 @@|store.playstation.com^$important
 @@|store.rockstargames.com^$important
 @@|store.steampowered.com^$important

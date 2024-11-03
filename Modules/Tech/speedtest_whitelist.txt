@@ -17,12 +17,14 @@
 @@|mirror.digitalpacific.com.au^$important
 @@|my1.speedtest.vodafone.com.au.prod.hosts.ooklaserver.net^$important
 @@|my1.speedtest.vodafone.com.au^$important
+@@|napi.speedtest.net^$important
 @@|nsw-brwy-speedtest.aarnet.net.au^$important
 @@|nsw-brwy-st1.speedtest.aarnet.net.au^$important
 @@|ocsp.comodoca.com.cdn.cloudflare.net^$important
 @@|spd03-syd.au.superloop.com.prod.hosts.ooklaserver.net^$important
 @@|spd03-syd.au.superloop.com^$important
 @@|speed.me1.gigacomm.net.au.prod.hosts.ooklaserver.net^$important
+@@|speed.syd.aussiebroadband.com.au^$important
 @@|speed4.snap.net.nz^$important
 @@|speedtest-ebw.optusnet.com.au^$important
 @@|speedtest-mel.cdn.on.net.prod.hosts.ooklaserver.net^$important

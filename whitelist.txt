@@ -2736,6 +2736,7 @@
 @@|jbhifi.com.au^$important
 @@|jcmsfd.account.microsoft.com^$important
 @@|jdownloader.org^$important
+@@|jetbrains.com^$important
 @@|jira-frontend-static.prod.public.atl-paas.net^$important
 @@|joewein.net^$important
 @@|join.slack.com^$important
@@ -4279,6 +4280,7 @@
 @@|sonicbit.net^$important
 @@|sonicseedbox.com^$important
 @@|sonos.plex.tv^$important
+@@|sonos.plex.tv^$important
 @@|sonos.soundcloud.com^$important
 @@|sony.co.nz^$important
 @@|sony.co.uk^$important
@@ -5290,6 +5292,7 @@
 @@|wowprodmediaaae.blob.core.windows.net^$important
 @@|wp-cdn.pi-hole.net^$important
 @@|wp-pihole.b-cdn.net^$important
+@@|wpfui.lepo.co^$important
 @@|ws.audioscrobbler.com^$important
 @@|ws1-n1mel.isp.foxtel.net.au^$important
 @@|ws1-n1syd.isp.foxtel.net.au^$important

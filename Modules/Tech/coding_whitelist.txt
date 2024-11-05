@@ -155,6 +155,7 @@
 @@|java.com^$important
 @@|javadl-esd-secure.oracle.com^$important
 @@|javadl.oracle.com^$important
+@@|jetbrains.com^$important
 @@|jira-frontend-static.prod.public.atl-paas.net^$important
 @@|jsfiddle.net^$important
 @@|julialang.org^$important
@@ -274,6 +275,7 @@
 @@|whotracks.me^$important
 @@|wiki.alpinelinux.org^$important
 @@|windows.php.net^$important
+@@|wpfui.lepo.co^$important
 @@|www.30secondsofcode.org^$important
 @@|www.clearlinux.org^$important
 @@|www.codecademy.com^$important

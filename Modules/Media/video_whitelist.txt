@@ -172,6 +172,7 @@
 @@|secured.netflix.com^$important
 @@|signup.hulu.com^$important
 @@|signup.netflix.com^$important
+@@|sonos.plex.tv^$important
 @@|source.freetubeapp.io^$important
 @@|spade.twitch.tv^$important
 @@|srv1-prod.polycentric.io^$important

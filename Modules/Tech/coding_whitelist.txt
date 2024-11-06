@@ -244,6 +244,7 @@
 @@|static.rust-lang.org^$important
 @@|static.status.io^$important
 @@|status.github.com^$important
+@@|studiostaticassetsprod.azureedge.net^$important
 @@|t.castle.io^$important
 @@|tabler-icons.io^$important
 @@|techcommunity.microsoft.com^$important

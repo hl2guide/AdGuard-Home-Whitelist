@@ -412,6 +412,7 @@
 @@|media-cdn.epicgames.com^$important
 @@|media-rockstargames-com.akamaized.net^$important
 @@|media.contentapi.ea.com^$important
+@@|media.fab.com.cdn.cloudflare.net^$important
 @@|media.fab.com^$important
 @@|media.moddb.com^$important
 @@|media.nexusmods.com^$important
@@ -631,6 +632,7 @@
 @@|static.ageofempires.com^$important
 @@|static.blog.playstation.com^$important
 @@|static.cdprojektred.com^$important
+@@|static.fab.com^$important
 @@|static.nvidiagrid.net^$important
 @@|static.pcgamingwiki.com^$important
 @@|staticdelivery.nexusmods.com^$important

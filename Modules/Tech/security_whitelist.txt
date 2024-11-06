@@ -275,6 +275,8 @@
 @@|uso.kkx.one^$important
 @@|vanilla.futurecdn.net^$important
 @@|ventoy.net^$important
+@@|verify-api.proton.me^$important
+@@|verify.proton.me^$important
 @@|wallet.proton.me^$important
 @@|web-assets-prod.s3.amazonaws.com^$important
 @@|webapp-cp-back.azurewebsites.net^$important

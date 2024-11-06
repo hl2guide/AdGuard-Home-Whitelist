@@ -1529,6 +1529,7 @@
 @@|dictionaries.standardnotes.org^$important
 @@|digital-api.stgeorge.com.au^$important
 @@|digital-api.westpac.com.au^$important
+@@|digitalapi.auspost.com.au^$important
 @@|directline.botframework.com^$important
 @@|directory.soundcloud.com^$important
 @@|directory.vimeo.com^$important
@@ -1917,6 +1918,7 @@
 @@|example-publisher.gallery.vsassets.io^$important
 @@|example-publisher.gallerycdn.vsassets.io^$important
 @@|exchange.opera.com^$important
+@@|exetel.com.au^$important
 @@|exodus.desync.com^$important
 @@|exp.wg.spotify.com^$important
 @@|experience-apigw.superloop.com^$important
@@ -3042,6 +3044,7 @@
 @@|media.bunnings.com.au^$important
 @@|media.contentapi.ea.com^$important
 @@|media.discordapp.net^$important
+@@|media.fab.com.cdn.cloudflare.net^$important
 @@|media.fab.com^$important
 @@|media.freeones.com^$important
 @@|media.githubusercontent.com^$important
@@ -4177,6 +4180,7 @@
 @@|sentry.lbry.tech^$important
 @@|sentry.odysee.tv^$important
 @@|sentry.unknownworlds.com^$important
+@@|sentry2.intdev.exetel.com.au^$important
 @@|server.events.data.microsoft.com^$important
 @@|service-aggregation-layer-subs.juno.ea.com^$important
 @@|service-aggregation-layer.juno.ea.com^$important
@@ -4279,7 +4283,6 @@
 @@|songbird.cardinalcommerce.com^$important
 @@|sonicbit.net^$important
 @@|sonicseedbox.com^$important
-@@|sonos.plex.tv^$important
 @@|sonos.plex.tv^$important
 @@|sonos.soundcloud.com^$important
 @@|sony.co.nz^$important
@@ -4444,6 +4447,7 @@
 @@|static.cyberdrop.me^$important
 @@|static.depositfiles.com^$important
 @@|static.edge.microsoftapp.net^$important
+@@|static.fab.com^$important
 @@|static.freedownloadmanager.org^$important
 @@|static.gigabyte.com^$important
 @@|static.gumtree.com.au.peakhour.zone^$important
@@ -4586,6 +4590,7 @@
 @@|streetviewpixels-pa.googleapis.com^$important
 @@|stripecdn.map.fastly.net^$important
 @@|studio.youtube.com^$important
+@@|studiostaticassetsprod.azureedge.net^$important
 @@|style.sndcdn.com^$important
 @@|styles.redditmedia.com^$important
 @@|subca.ocsp-certum.com^$important
@@ -5119,6 +5124,8 @@
 @@|venice.cdntrex.com^$important
 @@|ventoy.net^$important
 @@|venus.cdntrex.com^$important
+@@|verify-api.proton.me^$important
+@@|verify.proton.me^$important
 @@|version.cyberduck.io^$important
 @@|version.unchecky.com^$important
 @@|versioncheck-bg.addons.mozilla.org^$important
@@ -5245,6 +5252,7 @@
 @@|websiteapi.acronis.com^$important
 @@|webtags.logitech.com^$important
 @@|welcome.adguard.com^$important
+@@|welcome.auspost.com.au^$important
 @@|westpac.com.au^$important
 @@|westpacbankinggroup.sc.omtrdc.net^$important
 @@|westus.tts.speech.microsoft.com^$important

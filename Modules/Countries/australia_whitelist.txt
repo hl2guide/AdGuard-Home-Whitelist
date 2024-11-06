@@ -71,6 +71,7 @@
 @@|data.nsw.gov.au^$important
 @@|devicebind.ebay.com.au^$important
 @@|dfat.gov.au^$important
+@@|digitalapi.auspost.com.au^$important
 @@|dodo.com.au^$important
 @@|ebay.com.au^$important
 @@|ebgames.com.au^$important
@@ -80,6 +81,7 @@
 @@|energyaustralia.com.au^$important
 @@|enquiries.passports.gov.au^$important
 @@|errors.client.optimizely.com^$important
+@@|exetel.com.au^$important
 @@|f1techcomputers.com.au^$important
 @@|fhp.nab.com.au^$important
 @@|files.ozbargain.com.au^$important
@@ -161,6 +163,7 @@
 @@|roll.elections.nsw.gov.au^$important
 @@|s7ap1.scene7.com^$important
 @@|secure2.alphassl.com^$important
+@@|sentry2.intdev.exetel.com.au^$important
 @@|shop.aldi.com.au^$important
 @@|shop.coles.com.au^$important
 @@|smart-status.superloop.com^$important
@@ -201,6 +204,7 @@
 @@|webservices-api.superloop.com^$important
 @@|webservices.api.exetel.com.au^$important
 @@|webservices.myexetel.exetel.com.au^$important
+@@|welcome.auspost.com.au^$important
 @@|woolworths.com.au^$important
 @@|woolworths.scene7.com^$important
 @@|woolworthsgiftcardstore.com.au^$important

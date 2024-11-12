@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
 - Current Version: 1.2.8.1
-- Last Updated (AEST): 2024-11-06 22:19:50 +1100
+- Last Updated (AEST): 2024-11-13 07:15:43 +1100
 
 ## Intro ✍
 
@@ -19,6 +19,14 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
 _AdGuard-Home-Whitelist © hl2guide 2024_
+
+## 📰 Important
+
+As of 13 Nov 2024 I've paused updating this repo and am not using AdGuard Home.
+
+This is due to bad release of AdGuard Home (related to permissions) that broke AdGuard Home's install on Windows 11.
+
+After 3 months I'll review this. I suggest you consider your options in the meantime.
 
 ## Aspects ⏺
 

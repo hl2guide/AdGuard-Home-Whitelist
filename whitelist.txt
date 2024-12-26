@@ -1,5 +1,5 @@
-# @@|cdn.polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
-#@@|polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
+! @@|cdn.polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
+! @@|polyfill.io^$important - potential malware vector : https://github.com/hl2guide/AdGuard-Home-Whitelist/issues/11
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-*.totallyacdn.com^$important
